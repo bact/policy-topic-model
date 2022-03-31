@@ -1,0 +1,3090 @@
+Hungary’s Artificial 
+Intelligence Strategy 
+2020-2030
+May 2020
+Table of Contents
+Minister’s Greeting 5
+Executive Summary 6
+1 Why is an AI strategy necessary? 9
+ 1.1 Personal, deep, disrupting 9
+ 1.2 Transformation of the labour market 10
+ 1.3 Opportunity to boost economic growth and competitiveness 11
+ 1.4 Solid European cooperation and global competition 12
+ 1.5 An issue of national sovereignty 13
+2 Where do we stand now and what can we build on? 14
+ 2.1 Already proven fields of use 14
+ 2.2 What we can build on 15
+ 2.3 Things to watch out for 16
+3 What are the objectives? 17
+ 3.1 Target system 17
+ 3.2 Defined target indicators 19
+ 3.3 The relationship between the AI Strategy 
+   and other government strategies 21
+4 What are we doing? 22
+ 4.1 Foundation pillars 23
+   4.1.1 Promoting data economy 24
+   4.1.2 Research, development and innovation  26 
+     – “Joint forces for development”   
+   4.1.3 Incentivising uptake  29
+     – “Widespread use” 
+   4.1.4 Education, competence development and societal preparedness  30 
+     – “Focusing on human competencies” 
+   4.1.5 Infrastructure development  33 
+     – “Stable and Accessible Infrastructure” 
+   4.1.6 Regulatory and Ethical Framework  34
+     – “Reliable, regulated use” 
+5
+ 4.2 Sector-specific focus areas 35
+   4.2.1 Manufacturing and autonomous systems  35 
+     – “Smart, personalised, environmentally conscious manufacturing” 
+   4.2.2 Data-driven healthcare  36 
+     – “More accurate diagnostics, more effective treatment” 
+   4.2.3 Integrated, digital agriculture  37 
+     – “Innovative, data-driven, AI-supported agricultural management” 
+   4.2.4 Public Administration  38
+     – “Data-driven public administration”
+   4.2.5 Energy  39
+     – “Data-based, personalised energy supply”
+   4.2.6 Logistics  39
+     – “Supply Chain integrated through AI applications”
+   4.2.7 Transport  40 
+     – “Development of real-time management with AI support” 
+ 4.3 Transformative programs 41
+   4.3.1 Self-driving vehicles – autonomous systems 41
+   4.3.2 Health consciousness in a digital world 41
+   4.3.3 Climate-driven agriculture 42
+   4.3.4 Data wallet and personalized services 43
+   4.3.5 AI-supported development of personal competences 44
+   4.3.6 Automated customer service in Hungarian 44
+   4.3.7 Energy networks focused on renewable sources of energy 45
+5 Annexes  46
+ 5.1 Action plan 46
+Minister’s Greeting
+Beyond doubt, in 2020 the technology of artificial intel-
+ligence (AI) has become part of our everyday lives. The 
+integration of AI-based technologies in the economy 
+and society is accelerating. The unavoidable changes 
+accompanying  the spread of the technology offer major 
+opportunities for sustaining and increasing the level of 
+Hungarian economic growth, improving the com pe ti tive-
+ness of the Hungarian corporate sector, developing busi-
+ness and public administration processes aimed at users, 
+and for achieving environmental and climate protection 
+targets supported with state-of-the-art technologies.
+The Hungarian Artificial Intelligence Coalition was es tab-
+lished in October 2018 to offer a community and forum for 
+all stakeholders in the Hungarian AI ecosystem who wish 
+to make an active contribution to the development of the 
+Hungarian AI environment and skills. This Strategy is the 
+joint, action-oriented product of the Coalition’s professional 
+community, consisting of over 240 organizations and 1,000 
+delegated experts. The creation of the Strategy initiated 
+an exemplary bottom-up cooperation and market creation 
+among the stakeholders, as part of which an action plan was 
+developed as early as in the autumn of 2019 to perform tasks 
+not requiring government decisions. The implementation of 
+the Strategy is also based on this cooperation.
+This document represents a living strategy that reflects 
+the agreement and will of state, academic, market and 
+social stakeholders to take action. The Strategy requires 
+continuous oversight and fine-tuning in consideration of 
+the joint lessons learned in the course of implementation 
+and the forecast revolutionary innovations of AI technology. 
+By way of this document, the Government affirms its 
+commitment to developing Hungarian artificial  intelligence
+– as a special branch of its digitalization efforts – to be 
+high- tech and green, in line with our general development 
+objectives. In other words, we aim to make the most of the 
+opportunities offered by modern technologies for improving 
+the quality of life of citizens and protecting the environment.
+I sincerely believe that this Strategy and the successful 
+implementation of the social, technological, economic and 
+personal changes it envisages will play a crucial role in 
+Hungary’s future.
+Prof. Dr. László Palkovics
+Minister for Innovation and Technology  
+6 7
+Artificial intelligence (AI) – as the sum of algorithmic systems capable of teaching and 
+improving themselves based on input data – carries long-awaited potential for change in 
+relation to economic and social processes. The mapping of certain segments of human skills 
+by learning machines also offers a practically unprecedented improvement to the efficiency 
+of the economy and administration, and to our private lives. The changes are inevitable and 
+can be experienced directly by anyone in the 21st century.
+The extent to which states and communities within these can effectively exploit these 
+benefits depends on forward-looking and comprehensive planning, ambitious goals and 
+their methodical implementation. Both the economy and society must be prepared for the 
+approaching changes. 
+Executive Summary
+Economy
+Effective implementation of artificial intelligence through 
+processes based on the skills of a knowledge-based society 
+significantly contributes to economic growth. According 
+to forecasts, by 2030 an AI adoption rate of 11.5% in the 
+Southern European region, including Hungary, could 
+generate a GDP added value of HUF 6,400 billion to the 
+national economy.
+Competitiveness
+The combination of human labour skills with artificial 
+intelligence can benefit the Hungarian corporate sector in 
+several ways. In the case of repetitive, highly standardised 
+work processes, it can lead to a faster and more accurate 
+performance. In relation to tasks typically requiring human 
+skills, it can support jobs that are data-driven and allow 
+greater human creativity.
+The AI Strategy aims to make a significant contribution to 
+objectives also defined in the Strategy for Strengthening 
+Hungarian Micro, Small and Medium-sized Enterprises by 
+enhancing the productivity, further added value and export 
+capacity of Hungarian enterprises.
+Societal challenges
+According to the results of the Hungarian labour market 
+survey conducted within the framework of the AI Coalition, 
+the spread of AI-based technologies may affect up to 
+900,000 jobs in Hungary by the 2030s. This equals roughly 
+one quarter of all current jobs. According to certain 
+expert estimates, more than 40% of jobs can already be 
+automated at the moment, thus the transition may lead to 
+the replacement of human labour (as a result, some jobs 
+may vanish or change in nature and new jobs may emerge 
+requiring new competences).
+Systems applying AI ideally only complement and strength-
+en the skills of human workers, leading to the desired 
+improvement in efficiency. Harmonious coop eration 
+between man and AI, however, is conditional on the appro-
+priate preparation of Hungarian workers and Hungarian 
+citizens in general, the forecasting of labour market trends, 
+and support for adoption and transition.
+International environment
+International trends in AI regulation reveal growing activity. 
+Most countries with developed economies have already 
+adopted AI-related strategy papers or are in the process of 
+adopting such a document.  Between 2018 and 2019, the 
+European Union drew up the document entitled Coordinated 
+Plan on Artificial Intelligence, which recommends that each 
+Member State adopt a separate AI strategy or supplement 
+other relevant strategies with a dedicated AI section as early 
+as 2019. Between 2018 and 2019, the OECD, the European 
+Council and UNESCO expressed the need to draft a separate 
+AI regulatory instrument. The European Commission issued 
+the “White Paper On Artificial Intelligence: a European 
+approach to excellence and trust” in February 2020, which 
+assesses the possible regulatory framework of artificial 
+intelligence in Europe.
+Existing Hungarian capabilities
+There are already a number of initiatives applying AI in 
+Hungary or laying the foundations for its future use (e.g. 
+chatbot customer service, precision agriculture appli cations, 
+predictive maintenance systems, fleet route opti mization, 
+inventory forecasting, medical diagnostics) and a number 
+of frameworks are available that significantly contribute to 
+supporting the future introduction of AI (auto nomous vehicle 
+testing environment, integrated health data sets, central 
+identification service). By building on these initiatives, we 
+have good prospects of achieving substantial progress in the 
+application and further development of artificial intelligence. 
+Retraining and upskilling will be a key in the Hungarian labour 
+market until the 2030s in the 21st century renewal of our 
+skills system. Regarding the current activity of the National 
+Employment Service (hereinafter “NES”), there must be a 
+shift towards competence based recruitment both in the 
+assessment of supply and demand, for example through 
+the adoption of ESCO classification and AI technologies of 
+employment services.
+The Artificial Intelligence Strategy
+Recognising the potential benefits of the technology and simultaneously taking into account the possible related 
+challenges, the Government of Hungary has resolved to have a comprehensive Artificial Intelligence Strategy (hereinafter 
+“Strategy”) drawn up. The document sets goals up to 2030 and outlines a related action plan extending up to 2025. It 
+is important to emphasise, however, that the Strategy needs to be regarded as a living document and reviewed at least 
+every two years due to rapid technological development and growing experience related to the spread of applications.
+The Strategy proposes the following main groups of measures.
+Foundation pillars
+The so-called foundation pillars of the Strategy prepare 
+society to manage inevitable changes resulting from AI 
+effectively and to fully exploit the advantages of the tech-
+nology.
+The foundation pillars aim to establish the internal and 
+external conditions of AI development in Hungary. The AI 
+value chain covers the internal conditions. Elements of the 
+AI value chain are: 
+• support for the data economy ensuring access to public 
+and private data;
+• building a community of basic and demand-driven 
+researchers and developers;
+• building an ecosystem supporting the individual and 
+corporate use of technology.
+The AI frameworks provide the “external” conditions nec-
+essary for the above processes. These are:
+• human skills necessary for the confident use of AI;
+• availability of software and hardware resources;
+• a clear regulatory environment that supports further 
+development and innovation.
+8 9
+Focus areas
+The measures defined within the framework of the sectoral 
+and technological focus areas aim to strengthen the growth 
+potential of the Hungarian economy and to improve its 
+efficiency in a targeted and conscious manner
+• through the use of available AI technologies, on the  
+one hand;
+• and the development of future technologies, on the other.
+Within the framework of a sector and technology-driven 
+approach, the Strategy assigns priority to sectors that can 
+be most effectively improved by AI-based applications: 
+manufacturing, agriculture, healthcare, public admi nist-
+ration, logistics, transport and energy.
+In relation to the above, based on current Hungarian 
+capabilities, the Strategy defines the R&D areas that can 
+contribute the most to the technological support of the 
+above-mentioned sectors and where Hungary can also gain 
+advantage at an international level.
+Transformative programmes
+The long-term plans – defined as transformative pro-
+grammes and setting very ambitious objectives – make it 
+possible that the additional benefits of the implementation 
+produce extra value for citizens even before these 
+programmes are “closed”. This category of measures 
+does not include programmes in a traditional sense, but 
+rather complex means-end schemes provided in a form 
+that is readily comprehensible for society as a whole. The 
+directions outlined here show the ambitious path Hungary 
+is to take for the stakeholders of both the Hungarian and 
+international AI ecosystems.
+The transformative programmes provide a long-term point 
+of orientation in relation to matters of national strategic 
+relevance such as
+• energy and agricultural challenges induced by climate 
+change;
+• the spread of autonomous systems and the labour 
+market;
+• the relationship between citizens and the data-based 
+economy; or
+• the need for developing the modern digital service 
+provider state.
+Considering the very diverse possibilities for applying 
+AI, this Strategy approaches the sum of its goals as a 
+horizontal initiative that spans different fields. Accordingly, 
+the detailed elaboration of the objectives defined for certain 
+areas by the Strategy, the working out of related measures 
+and the determination of necessary instruments remain 
+the option and responsibility of competent stakeholders 
+within the respective sectors. Therefore, the primary task 
+of the organisations to be set up within the framework of 
+this Strategy is to provide the AI support to the independent 
+initiatives of these sector stakeholders, in line with the 
+goals they define.
+Artificial intelligence is a piece of software capable of mapping parts of human intelligence, 
+and supporting or autonomously performing processes of sensing, interpreting, decision-
+making and action. The technology offers special capabilities and is closely followed at both 
+the economic and social level. 
+The progress achieved by AI, as technology1, in the past 10 years is often observed as the start of a new industrial revolution. 
+In this case, however, progress is not dependent on natural resources; instead, the competence of the available human 
+resources determines its limits. This technology affects everybody; it radically transforms expectations of the labour 
+market, opens up new dimensions for improving efficiency and offers the potential for substantial economic growth. 
+Development, however, is achieved in a global, competitive environment and raises a number of sovereignty issues. 
+Hungary is thus offered a historical opportunity and challenge. 
+1
+Why is an AI strategy necessary?
+Artificial intelligence is an abstract technology but everyone 
+is affected. We are personally affected because many fears, 
+expectations and concerns are already associated with AI; 
+it is impossible to ignore the topic. Although the technology 
+is already applied in our day-to-day lives, in our work and 
+enhancing our entertainment, in its most tangible form AI 
+enables certain segments of man’s most important ability, 
+intelligence, to be learnt by machines. Therefore, the 
+development of AI raises fundamental but also practical 
+philosophical questions and encourages coordinated action 
+at a completely new level, the reconsideration of business 
+process flows and jobs, and the introduction of norms and 
+regulation at a social level.
+Artificial intelligence will be integrated in all layers of our 
+life, economy and society, with a potential for profound and 
+fundamental changes. It is possible to obtain basic infor-
+mation on AI anywhere and to use devices with integrated 
+AI. The business process flows and jobs deve loped with 
+AI modules, however, will fundamentally call coordination 
+processes, regulatory frameworks and forms of social 
+cooperation into question.
+AI is a global technology, without borders or a need for 
+physical resources. Due to global competition for and 
+conti nuous interest in talented people, a large part of 
+basic development is open source. For this reason, an 
+innovation introduced in technology or a business model is 
+able to spread around the world in a matter of weeks or 
+months questioning and disrupting processes and habits 
+we believe to be natural. AI will certainly play an important 
+role in tackling one of the biggest challenges of our day: 
+global climate change. The opportunities offered by AI may 
+be effective in reducing greenhouse gas emissions and 
+in implementing measures helping our adaptation to the 
+effects of climate change.
+These processes will create a world that demands con-
+tinuous adaptation, awareness of innovation and learning 
+during our entire lives. The progress achieved by AI, as 
+technology, in the past 10 years is often observed as the 
+start of a new industrial revolution. In this case, however, 
+progress is not dependent on natural resources; instead, the 
+competence of the available human resources determines 
+its limits. This technology affects everybody; it radically 
+transforms expectations of the labour market, opens up 
+new dimensions for improving efficiency and offers the 
+potential for substantial economic growth. Development, 
+however, is achieved in a global, competitive environment 
+and raises a number of sovereignty issues. Hungary is thus 
+offered a historical opportunity and challenge.
+1.1    Personal, deep, disrupting
+1 In this document, artificial intelligence is understood to mean “narrow” AI, i.e. systems only capable of mapping specific areas of human intelligence. Research into 
+“general” AI – capable of mapping the entire human intelligence – remains underdeveloped and uncertain, and is therefore not applicable within this context
+10 11
+In close combination with the topic of automation, in the 
+near future AI will substantially transform the labour market 
+and expectations related to the competencies necessary 
+for work.2 By the end of the 2030s, automation and AI are 
+expected to affect 900,000 workers in Hungary.3 According 
+to certain expert estimates, more than 40% of jobs can 
+already be automated in Hungary4, thus the implementation 
+of the transition may result in the replacement of labour. 
+The spread of AI, however, not only results in the elimination 
+of jobs but also changes the competencies necessary for 
+existing jobs, creating opportunities for filling new jobs. 
+In the coming decades three successive waves of AI and 
+automation are expected:
+The so-called algorithm wave – lasting until the mid-
+2020s – will affect sectors based on data processing, such 
+as the financial sector, IT related sectors and administrative 
+jobs. The workers typically affected are young people and 
+women. This wave is expected to affect 5-10% of jobs on 
+average. 
+The augmentation wave – between 2025 and 2030 – will 
+affect service sectors relying on office work, such as the 
+financial sector, education, public administration and IT 
+based services. This wave is expected to affect 15-20% of 
+jobs in the given sectors. As a difference compared to the 
+first wave, the proportion of affected women and men is 
+expected to be identical, with a higher proportion of more 
+experienced, middle-aged workers. 
+The third wave is expected to arrive in the 2030s. 
+The so-called autonomy wave, is expected to impact 
+manufacturing, on the one hand, and highly complex 
+jobs involving responsibility on the other. This wave is 
+expected to produce the biggest impact, affecting 25-30% 
+of jobs, mainly men and more experienced workers. The 
+most significant changes are expected in manufacturing, 
+where 384,500 jobs could be exposed to these changes, 
+and the spread of AI technology will affect 107,900 jobs in 
+goods transportation and additionally 106,600 jobs in the 
+construction sector. Automation and AI will mostly affect 
+skilled workers and labourers; these jobs are expected 
+to be completely transformed during the third, autonomy 
+wave. This means that the nature of the work of every third 
+skilled worker and labourer will change. The changes will 
+also impact the group of machine operators, and more than 
+149,000 such employees will face challenges until the end 
+of the next decade. 
+A change of such magnitude requires coordinated prepa-
+ration at a societal level, with everybody’s involvement. In 
+the planning, preparation and implementation of develop-
+ment projects, the relevant organisational units of the NES 
+need to play an important role in the appropriate forecasting 
+of and support for labour market trends resulting from the 
+technological transition.
+1.2    Transformation of the labour market
+Algorithm wave Augmentation wave Autonomy wave
+2 PwC UK - Will robots really steal our jobs? (Arntz, M. T. Gregory and U. Zierahn (2016), ‘The risk of automation for jobs in OECD countries: a comparative analysis’, OECD 
+Social, Employment and Migration Working Papers)
+3 PwC Magyarország Kft. (2019): How will AI impact the Hungarian labour market. https://www.pwc.com/hu/en/publications/assets/How-will-AI-impact-the-Hungarian-
+labour-market.pdf
+4 Grace Lordan: Robots at work – A report on automatable and non-automatable employment shares in Europe, London School of Economics and Political Science, 2018
+AI is able to raise the productivity of employees and processes 
+to a new level, offering major potential for economic growth. 
+Since the improvement of labour productivity may reach 
+40% by 2030 in certain countries, major investments are 
+under way to increase export capacities and added value 
+available in this form.
+Additionally, Hungary is a popular target in the Central 
+Eastern European region for the outsourcing of workflows 
+with high added value. The failure to adopt AI  may pose a 
+risk to that status if economies currently providing lower 
+added value are more successful in adopting AI-based 
+applications and will therefore be able to produce higher 
+added value with lower operating costs.
+A good indicator of the global economic activity is that the 
+annual amount of venture capital investments related to 
+AI has increased six-fold during the past 20 years (since 
+2000).6 Revenues from the global AI software market are 
+expected to increase from 10.1 billion USD in 2018 to 126 
+billion USD by 2025.7 The application of AI is expected to 
+increase mainly in consumer internet-based services, the 
+automotive industry, financial and telecommunications 
+sectors and trade.
+Global GDP is expected to be 14-16% higher by 2030 – 
+amounting to 13,000–15,000 billion USD – owing to the 
+steadily accelerating spread of AI-based technologies.8,9,10  
+The estimated effects, however, vary significantly between 
+geographical regions. AI is expected to increase the GDP 
+by 26.1% in China, by 14.5% in North America, by 9.9% in 
+Northern Europe and by 11.5% in Southern Europe.11
+At the time of preparing the above study, based on the ratio 
+of Hungarian GDP to global GDP in 2017, an additional 
+GDP increase of HUF 6,400 billion is estimated in 2030 
+in Hungary, in consideration of the average expected 
+increase in the Southern European region. In the table 
+below, we present Hungary’s expected increase in GDP 
+by following the AI application models indicated for other 
+regions involved in research.
+These figures clearly show how investment in increasing the 
+Hungarian adoption rate can contribute to a GDP increase 
+in an order of magnitude of one thousand billion forints 
+by 2030. Based on the technology’s economic and social 
+relevance and the dynamics of its spread, it is essential for 
+Hungary to exploit the opportunities offered by AI proactively 
+as well.
+1.3    Opportunity to boost economic growth and competitiveness
+Analysed region
+Expected GDP 
+increase induced 
+by AI application 
+(as a proportion of 
+GDP in 2030)
+Expected Hungarian GDP 
+increase (HUF bn) by 
+reaching the given region’s 
+adoption rate (2030)
+Latin America 5.4% 3,005
+Northern Europe 9.9% 5,508
+Southern Europe 11.5% 6,399
+North America 14.5% 8,068
+China 26.1% 14,523
+Global average 14% 7,623
+5 https://www.accenture.com/hu-en/insight-artificial-intelligence-future-growth
+6 https://techjury.net/stats-about/ai/
+7 https://www.tractica.com/newsroom/press-releases/artificial-intelligence-software-market-to-reach-126-0-billion-in-annual-worldwide-revenue-by-2025/
+8 https://www.forbes.com/sites/andrewcave/2019/06/24/can-the-ai-economy-really-be-worth-150-trillion-by-2025/#49ec4adf3bf4
+9 https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-modeling-the-impact-of-ai-on-the-world-economy
+10 https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-ISSUEPAPER-2018-1-PDF-E.pdf
+11 https://www.pwc.com/gx/en/news-room/docs/report-pwc-ai-analysis-sizing-the-prize.pdf
+12 13
+A growing number of countries are recognising the depth 
+of changes attributable to accelerating competition and 
+technology, and are defining their own concepts concerning 
+the development of AI. The European Union drew up a 
+coordinated plan on artificial intelligence in 2018 and 2019, 
+which outlines how the EU plans to contribute to the AI 
+development of Member States in relation to individual 
+components of the AI value chain.12 In the 2021-2027 
+budgetary period of the Union, an adopted national AI 
+Strategy of a Member State can substantially support 
+successful tendering for centrally distributed, AI-related 
+support. The coordinated plan recommends that each 
+Member State adopt a separate AI strategy or supplement 
+other relevant strategies with a dedicated AI section as 
+early as 2019.
+In May 2019, Member states of the OECD adopted the 
+recommendations of the Council on artificial intelligence13 
+that define principles relating to reliable and human-
+centric AI, and encourage member states to support AI 
+development and the wide-ranging use of the technology 
+with long-term investments. In early 2020, the organisation 
+also launched a separate network consisting of AI experts 
+(ONE AI), which held its first meeting at the end of February 
+2020.
+In June 2019, Ministers of the G20 group adopted “human-
+centred AI principles” based on the work performed by the 
+OECD.14 
+By focusing on the question of human rights, in September 
+2019 the European Council convened the first meeting of the 
+AI Ad Hoc Committee (CAHAI)15, which is mainly responsible 
+for examining options for the broad framework regulation 
+of AI development, planning and application, together with 
+multiple stakeholders.
+Within the framework of the UN, at the 40th Session of the 
+UNESCO General Conference – dealing with educational 
+and cultural matters – held on 21 November 2019, the 
+Social Science Committee accepted without any changes 
+the recommendations of the study on the ethics of artificial 
+intelligence, relating to the drafting of an international 
+normative instrument. Accordingly, in January 2020, the 
+organisation set up a task force to draft a global, AI focused 
+legal instrument.
+Without exception, developed states have recognised 
+the significance of AI and have accordingly started the 
+development of the necessary regulatory environment, in 
+which a separate AI strategy is often a central element.
+On 25 April 2018, Hungary signed the Declaration of 
+cooperation on Artificial Intelligence, together with 24 
+other European states, which sets out the intention of 
+the signatories to cooperate in the field of European AI 
+development and AI-supported innovation.16 The Coor-
+dinated Plan on Artificial Intelligence of the European 
+Union was prepared in December 201817; it made strong 
+recommendations for all Member States to adopt separate 
+AI Strategies in 2019 or supplement their other relevant 
+strategies with an AI footing.
+Recognising the potential of AI and mindful of its impact 
+on economic development, AI is a key area of the European 
+Commission’s digital policy. The 2021-2027 multi-year 
+budget assigns a priority to supporting AI: it is one of the key 
+areas of funding in the draft regulation on the establishment 
+of the Digital Europe Programme in the 2021-2027 period. 
+In the 2021-2027 budgetary period of the EU, programmes 
+with centrally distributed funds are expected to have greater 
+emphasis, therefore it is a major advantage if, in the course 
+of awarding funds, tenderers from the given Member State 
+are able to demonstrate their state’s commitment to the 
+given field. In relation to artificial intelligence: this means 
+that the availability of a comprehensive AI Strategy is in 
+practice a prerequisite for funding successful tenders. 
+1.4    Solid European cooperation and global competition
+12 https://ec.europa.eu/knowledge4policy/publication/coordinated-plan-artificial-intelligence-com2018-795-final_en
+13 https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449
+14 https://www.mofa.go.jp/files/000486596.pdf
+15 https://www.coe.int/en/web/artificial-intelligence/cahai
+16 https://ec.europa.eu/digital-single-market/en/news/eu-member-states-sign-cooperate-artificial-intelligence
+17 https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:52018DC0795&from=EN
+New methods of attack and influence appear in a digital 
+world, which create new forms of vulnerability and endanger 
+the self-determination and autonomy of the individual, 
+the community and the state. With the spread of artificial 
+intelligence and the potential abuse of AI, these threats are 
+increasing in strength and appearing in new forms.
+AI creates new targets and methods of attack in the field of 
+cyber defence, where the race to obtain data is expressed 
+through intensifying economic and political attacks. At the 
+same time, artificial intelligence enables more sophis ti ca-
+ted, complex operations based on influencing, which direct-
+ly target citizens and raise new issues in both regulation 
+and oversight. 
+When integrating technologies with everyday processes, it 
+is necessary to examine the critical processes and regu-
+latory framework that can ensure the integrity of the 
+interests of citizens and communities. As the quality of data 
+is a key factor in teaching artificial intelligence, special 
+attention needs to be paid to the protection of socially and 
+economically critical data, and the guarantee of the right 
+to self-determination and freedom in line with European 
+values.  
+Actors in public administration need to make coordinated 
+efforts to address the above threats and risks, and to 
+prepare society for the conscious and responsible use of 
+the technology. 
+It is clear that, in order to achieve the dynamic pace of 
+development of artificial intelligence as a technology, its 
+potential for economic growth and effective involvement 
+in international processes, it is essential for Hungary 
+to clearly express its position on the subject and set its 
+priorities regarding technology-related details.
+1.5    An issue of national sovereignty
+14 15
+Telecommunications
+• automated customer service with 
+phonebots and chatbots
+• forecasting failures in the network 
+infrastructure
+• tailored sales offers for customers
+• AI-supported tailoring of marketing 
+messages
+• automated CV screening and video 
+interview analysis
+• calibration of network coverage by 
+deploying self-learning antennas
+Banking and insurance
+• automatic answering of incoming 
+e-mails using language processing
+• support of credit analysts with 
+analysis of financial risks
+• AI-supported photo-ID 
+authentication process
+• modelling the occurrence of 
+possible damage events
+• preliminary processing of incoming 
+claims
+• identification of fraud and abuse by 
+analysing transaction patterns
+Retail
+• forecasting inventory levels
+• forecasting the formation and 
+reduction of checkout queues, 
+• personalised advertisements 
+advertising in stores based on age 
+and sex identification
+• dynamic pricing system
+To define the target system of the AI Strategy, it is necessary to identify those capabilities with the greatest potential for 
+supporting the research, development, application and use of AI in Hungary. This chapter of the Strategy not only presents 
+the areas in which AI-based technologies are already used and which can thus be used to develop additional capabilities 
+but also provides an overview analysis of Hungary’s strengths, weaknesses and opportunities, and the risks of application 
+in this area.
+2
+Where do we stand now  
+and what can we build on?
+AI technology can be broadly used; its application in Hungary is already underway. The integration of available technologies 
+and drawing on the related experience at an organisational and sectoral level is ongoing. The non-exhaustive list below 
+includes AI projects already implemented or in progress in Hungary:
+2.1    Already proven fields of use
+Transport / logistics
+• automated warehousing system 
+with autonomous vehicles
+• continuous route optimisation to 
+increase fleet utilisation
+• reporting of railway obstacles + 
+trash along the railway track
+• development of data processing in 
+self-driving vehicles
+• automatic rail transport
+Manufacturing
+• forecasting manufacturing unit 
+faults using sensor data
+• defect detection using visual 
+recognition
+• production capacity optimisation
+• reduction of inventories using 
+demand forecasting
+• image-based, high-precision 
+automatic robot positioning 
+Agriculture
+• autonomous control of agricultural 
+machinery
+• precision landspreading of 
+pesticides and plant nutrients
+• identification of crop problems by 
+analysing drone images
+• identification of sick animals using 
+camera movement analysis
+• weight estimation with camera 
+imagery
+• automatic dosage of nutrients based 
+on individual needs of animals
+In addition to the introduction of the technologies already in use, it is important to examine 
+the capabilities available in Hungary that will support the future ecosystem; data assets, 
+regulation, infrastructure and government. 
+2.2    What we can build on
+Energy
+• forecasting energy consumption
+• supporting network maintenance 
+using drone image analysis
+• forecasting retail network 
+consumption and personal 
+recommendations
+• processing invoice images using 
+software robots
+Healthcare
+• analysis of mammography images, 
+recognition of diseases
+• identification of possible medication 
+needs based on open data
+• recommendation of new active 
+substance structures using learning 
+systems
+• analysis of national healthcare 
+patterns 
+Public administration
+• AI-supported identification with help 
+of the Central Client Authentication 
+Agent
+• drawing up of minutes using 
+dictation
+• self-service Government Window 
+administration
+• online self-service administration 
+with the support of an expertise 
+system
+• crime prevention with the support of 
+big data based behavioural analysis
+• testing autonomous vehicles in a 
+military environment
+• cybersecurity protection using AI 
+algorithms
+At the present time the above examples are isolated; often only a few organizations apply these methods within a sector. 
+Nevertheless, they clearly show that Hungary already has solid foundations for introducing the technology. Hence, the 
+Strategy must primarily focus on the spread and application of continuously expanding opportunities. 
+The vibrant, diverse and active domestic AI ecosystem 
+is an advantage, especially in the field of autonomous 
+vehicle development. Active cooperation has evolved in 
+several sec tors (manufacturing, agriculture, healthcare, 
+transport, logistics, autonomous systems) between 
+university re search networks and centres of excellence, 
+and market players.
+In the field of data collection there has been a number of 
+supportive developments in the public sector that allow 
+the use of AI. There is a unique wealth and integration of 
+data in both education and healthcare, but the exploitation 
+of AI applications based on these is still at an early stage. 
+The agricultural machinery fleet is commonly fitted with 
+young and modern technologies that enable the integrated 
+management and use of data derived from the precision 
+economy. 
+Regulation of the testing of autonomous vehicles on public 
+roads is a specialty, which, subject to an authorisation 
+process, enables testing in road traffic without a territorial 
+or time limit. This also contributes to the organisation of 
+the ongoing developments in the ecosystem and to the 
+connection of autonomous transport and vehicle control 
+with the international development market.
+In terms of infrastructure, we can rely on broadband 
+internet coverage in Hungary, which is good by European 
+comparison. As a result of the international connections 
+of the Hungarian research network (e.g. CERN), Hungary 
+already offers available computing capacities that are 
+currently complemented with high performance computing 
+(HPC) capabilities. The autonomous vehicle and smart city 
+test track in Zalaegerszeg represents a key infrastructure 
+element, capable of integrating the digital and physical 
+world in order to create flexible testing opportunities.18 
+18 https://zalazone.hu
+16 17
+The broad portfolio of the regulated electronic admin-
+istrative services (REAS-s) is similarly an advantage 
+that facilitates the transition to digital administration for 
+public administration actors, standardises legally adopted 
+technologies and creates economies of scale. The Central 
+Client Authentication Agent (KAÜ), as a service providing 
+electronic authentication for citizens, is the starting point 
+for all web-based management of public administration 
+and the opening up of the service to market players is a 
+further opportunity of use. 
+In the field of AI development, the comparative international 
+wage advantage of the labour force available in high-level 
+research and other knowledge-intensive fields, the ease 
+of entering the AI technology market, macroeconomic 
+stability, proximity to European R&D networks and the 
+ability to channel domestic AI innovative solutions into EU 
+regulation and development, as well as actively shaping 
+them, is clearly an opportunity for Hungary. 
+The AI Strategy contains a proposal for mitigating the effects 
+of identified weaknesses. In these cases, special attention 
+must be paid to opening up the operation of data assets, 
+strengthening the start-up ecosystem, strengthening 
+the culture of experimentation (especially in the field of 
+digital competencies) and reducing global vulnerability in 
+Hungarian language processing, data management and the 
+use of platform technologies.
+As a weakness, we have to face the fact that, in Hungary, 
+development projects related to AI are isolated, uncoor-
+dinated and there are no actors with comprehensive 
+knowledge of them. Additional integration is therefore 
+needed in this area. Data assets in public administration 
+are still only accessible with limitations, isolated and only 
+partially capable of cooperation; data sets with a multiplying 
+effect are still unable to boost the economy.
+Organization of the start-up ecosystem has only been un-
+der going strong development in recent years; Hungarian 
+AI start-ups do not play a major role in the global market. 
+The practice and implementation framework of marketing 
+knowledge capital created at higher education institutions 
+is still lacking; as such we have yet to witness the launch of 
+dynamic and economically viable start-ups.
+There is also room for development in the entrepreneurial 
+culture; both individuals and enterprises lack confidence 
+in innovation and experimentation19, which are also 
+critical for the adoption of new technologies. In terms of 
+digital competencies, paper-based operations can still be 
+observed in many places alongside some digitally advanced 
+enterprises. The digital competence of Hungarian society 
+fares poorly by European comparison.20 Additional efforts 
+are needed in these areas for the introduction of AI.
+Hungary’s vulnerability to global service providers is a risk; 
+it does not have its own platform technology with which it 
+could already operate confidently in the areas of competition 
+determining the future. It should be taken into consideration 
+that relatively few people speak Hungarian and therefore 
+the global market is not interested in the market-based 
+production of high-quality Hungarian language processing. 
+This may weaken use of the Hungarian language in the 
+digital age. There is also a danger of lagging behind in 
+global competition, especially in the development of more 
+intensive or effective AI in the field of both civil and defence 
+technologies of offshore and nearshore countries compared 
+to domestic ones.
+2.3    Things to watch out for
+19 https://ec.europa.eu/docsroom/documents/35894
+20 https://ec.europa.eu/digital-single-market/en/scoreboard/hungary
+Let’s use and develop artificial intelligence 
+together, in a responsible manner, as global 
+partners, to serve our daily routine. 
+Artificial intelligence is already a technology of the 
+present.  
+It builds into our everyday devices, it transforms our 
+business procedures and has a huge impact on society, 
+even though the intense development of the technology has 
+just begun. The spread of the prepared technologies is still 
+in its infancy; the technologies that are under development 
+hold out or threaten further breakthroughs, and its effect 
+has only just started to unfold at an ever-accelerating pace. 
+Learning together
+Artificial intelligence transforms people’s lives. 
+Hungary aims at putting the opportunities of the appli-
+cations of artificial intelligence into the Hungarian 
+people’s service uniformly, and along with concentrated 
+efforts, and at the same time, it wants to defend people 
+against the technological and social risks. We have to 
+prepare together for an era full of new challenges and 
+opportunities, and we have to find balance together in such 
+areas that are brought up and created by the continuously 
+developing technology. 
+In order to participate in this transformation together and 
+in a competent manner, everybody shall find his or her 
+role, and we must bring the technology closer through 
+education, trainings and the promotion of experimentation 
+with AI. Besides, we start AI programmes bringing changes 
+in people’s life and having effects at a social level, which are 
+inspiring, spectacular, effective, and have a leading spirit 
+even at a European level. 
+Developing and using it effectively
+AI will be decisive for economic competitiveness. 
+The Government of Hungary intends to support Hungarian 
+enterprises and those enterprises that are operating here 
+and create future workplaces in a focused and dynamic 
+manner, by building on the existing competitive advantages 
+and by gaining a position in the currently developing 
+industries. For this reason, we have started a widespread 
+programme for the development of the data economy, and 
+the introduction of the application and construction of the 
+technology, and in its framework researchers, developers 
+and adopters can find, in close cooperation, how they 
+can best react to the continuously changing domestic 
+and international market environment by using the new 
+opportunities provided by AI. Hungary sees great potential 
+in the use of AI technologies in the less digitalised sectors 
+and layers, so it considers AI as a potential breakout point 
+in the course of accelerating digitalisation efforts. 
+The Strategy assessed and presented the above Hungarian and international situation relating to artificial intelligence, 
+with a separate discussion of existing strengths and opportunities for development. Based on the identified situational 
+picture, in this chapter the Strategy defines the objectives to be fulfilled by adoption of the Strategy, including their defining 
+principles and the target indicators set for the period covered by the Strategy.
+3
+What are the objectives?
+3.1    Targets  
+18 19
+In a responsible manner,  
+in a formalised structure
+AI fundamentally effects the whole of society and 
+determines its management and service. 
+The Government of Hungary is introducing the use of the 
+technology into the services provided by the state and 
+establishing the frameworks of responsible development 
+and use deliberately, consistently, and in a formalised 
+structure. For this reason, it is establishing and motivating 
+the responsible management of data assets and carrying 
+out the modernisation of its procedures, as well as preparing 
+for management by data and AI, especially regarding the 
+development and safe maintenance of healthcare. Besides, 
+it creates regulation frameworks that which ensure the 
+affected people’s or the final users’ rights in the course 
+of both the use of the data and the development of the 
+technology, whilst they create transparency and security for 
+the enforcement bodies. 
+As global partners
+AI is a global technology that rewrites methods of 
+cooperation and international relations. 
+Hungary cooperates and takes a role in the joint efforts 
+as an active participant and positions itself in the duality 
+of global competition and cooperation, and by building its 
+digital sovereignty. To this end, it takes a role in the joint 
+digital market development efforts of the European Union; 
+it actively works on the establishment and introduction 
+of a regulatory environment created in harmony with 
+European, including Hungarian, values and interests, 
+and it has bilateral relations with other countries in the 
+course of economic and social collaboration. Moreover, 
+it participates actively in the state and civil (not only 
+consumer) interest representation organisation appearing 
+in the global arena of economic force.
+Assisting our daily lives
+AI is a pragmatic technology with real effects. 
+Hungary intends to introduce the application rapidly, 
+deliberately, and by putting the theoretical concepts into 
+practical purposes. To this end, it is defining and launching 
+transformative programmes that have highlighted and 
+ambitious aims, which define focused actions in the fields 
+of self-driving vehicles, healthcare, agriculture, safe use 
+of data, the use of renewable energy sources, customer 
+service and education. All the programmes have major 
+social effects, and they are initiatives affecting people’s 
+everyday life, in which the impact of artificial intelligence 
+serving people and enhancing the quality of their life can 
+be experienced. 
+Let’s use and develop artificial intelligence together,  
+in a responsible manner, as a global partners  
+to serve our daily routine. 
+The starting point of the AI Strategy is the mindful and broad-based preparation for the changes caused by AI. The intended 
+level of preparedness will improve the openness of the Hungarian labour market to innovation; the labour force, having 
+the appropriate skills, will increase the added value produced by the Hungarian corporate sector, and the developing 
+Hungarian corporate sector can thus increasingly contribute to the development of the whole national economy. In line 
+with the structure of the interdependent system of national economic development, the Hungarian corporate sector will 
+be able to produce more added value, as well as having a well-trained and agile labour force; the AI Strategy determines 
+the following, high-level targets for 2030: 
+3.2    Defined target indicators
+I.
+15% GDP increase induced by AI; 
+and AI adoption exceeding the 
+regional average
+In comparison with GDP forecasts 
+for 2030, the economic development 
+caused by the increasing uptake of 
+AI is 11.5% in our region, and 14% 
+at a global level. However, Hungary 
+set the target at 15%, thus aiming 
+to exceed both the regional and the 
+global level.
+II.
+26% average productivity growth 
+in the Hungarian corporate sector 
+compared to 2020 (the increase 
+of gross added value per person 
+employed)
+According to forecasts, the produc -
+tivity growth enabled by AI is between 
+11 and 37% at a global level.21 
+Hungary intends to achieve 26% 
+pro ductivity growth with respect to 
+Hungarian-owned domestic enter-
+prises by 2030, thus supporting the 
+objectives of the Hungarian SME 
+Strategy in this field.
+III.
+1 million citizens perform new or 
+higher value-added AI-supported 
+work due to a change in position 
+or workplace
+An estimated 900,000 employees 
+will be affected by AI and automation 
+by the middle of the 2030s. The 
+government of Hungary aims for 
+even more employees to be able to 
+perform work that has high added 
+value and provides a better quality 
+of life by 2030.
+21 https://www.accenture.com/us-en/insight-artificial-intelligence-future-growth
+1 million 
+citizens perform 
+higher value added 
+work
+15%
+GDP increase
+26%
+average productivity 
+growth32%
+decrease
+2,5 million
+citizens
+2 million
+citizens
+3 million
+citizens
+60% 
+e-services
+Hungary is 
+first  
+in testing
+70%
+smart technology
+2120
+Objectives by 2030 directly affecting citizens
+Hungary is the main European centre for the 
+development and testing of self-driving vehicles
+2 million citizens take an active part in the 
+management and use of their own data with the 
+help of a data wallet
+70% of the scheduling of renewable energy 
+production is carried out by smart technologies
+Due to the use of data-based systems, the emission 
+of ammonia in agriculture decreases by 32% 
+2.5 million citizens benefit from AI-supported 
+education 
+60% of administration is carried out electronically, in 
+the form of self-service
+AI integrates into the healthcare system, and 3 million citizens 
+can benefit from AI-based modern services through the digital 
+healthcare system 
+The spread of applications based on artificial intelligence 
+may be expected with regard to every branch, so artificial 
+intelligence may impact all sectors in the future. Hence, 
+government measures related to artificial intelligence 
+may only be implemented effectively in the context of 
+collaboration between sectors. 
+The mid- and long-term objectives of each branch are 
+defined by independent government strategies for the 
+sectors. The measures and objectives of this strategy have 
+been established by considering the sectoral strategies 
+adopted (and those planned while this strategy was being 
+drawn up) by the Government. In light of this, the main aim 
+of the present strategy is to harmonise and at the same 
+time increase the effectiveness of artificial intelligence-
+related governmental measures affecting the sectors, thus 
+contributing to the achievement of the objectives specified 
+in separate sectoral strategies. The present strategy thus 
+primarily supports the effective implementation of the 
+sectoral strategies according to their designated targets.
+3.3    The relationship between the AI Strategy and other government strategies
+22 23
+Se
+ct
+or
+ s
+pe
+ci
+fic
+ fo
+cu
+s 
+ar
+ea
+s
+Fo
+un
+da
+tio
+n 
+pi
+lla
+rs AI value Rules
+Self-driving 
+vehicles – 
+autonomous 
+systems
+Health 
+consciousness in a 
+digital world
+Climate-driven 
+agriculture
+Data wallet and 
+personalized 
+services
+AI-supported 
+development 
+of personal 
+competences
+Automated 
+administrative 
+procedures in 
+Hungarian 
+Energy networks 
+focused on 
+renewable sources 
+of energyTr
+an
+sf
+or
+m
+at
+iv
+e 
+pr
+og
+ra
+m
+m
+es
+Setting the data 
+economy in 
+motion
+Education, 
+competence 
+development 
+and societal 
+preparedness
+Research, 
+development and 
+innovation
+Infrastructure 
+development
+Incentivising 
+uptake
+Regulatory 
+and Ethical 
+Framework
+Based on the assessment of the domestic technological features, the Strategy makes proposals for numerous partly 
+interdependent measures and intervention areas. The Strategy classifies these as follows:
+The following figure outlines certain groups of measures of the Strategy and their relationship with each other.
+4
+What are we doing?
+Foundation pillars required to 
+prepare for the economic and 
+social changes implied by AI
+Ssectoral and technological focus 
+areas, which are highly important 
+considering the application and 
+introduction of AI
+Comprehensive transformative 
+programmes affecting several 
+sectors and having direct impacts 
+on the citizens as well
+The foundation pillars, which are grouped as the elements 
+of the AI value chain and the frameworks of use of the 
+technology, are shown in the bottom line of the above figure. 
+The AI development objectives of the highlighted sec tors 
+and technologies can be based on these foundation pil lars 
+and are thus shown in the middle layer of the figure. The 
+transformative programmes directly affecting society are 
+in the upper segment of the figure, with arrows pointing up 
+due to their expected effect. In the course of implementing 
+the transformative programmes, we pay special attention 
+to the resulting direct labour market processes and 
+the management of transitions in cooperation with  the 
+organisational units of the NES (National Employment 
+Service).
+Manufacturing
+Healthcare
+Agriculture
+Public Administration
+• Machine detection, machine recognition
+• Intelligent manufacturing, logistics
+• Language technology
+• Reliable AI
+• Anonymization
+• Mathematical foundations of AI
+• Logistics
+• Transport
+• Energy
+Development of AI
+Sectoral efficiency 
+development
+The so-called foundation pillars of the Strategy prepare society manage inevitable changes resulting from AI to effectively 
+and to fully exploit the advantages of the technology.
+Three of the foundation pillars are elements of the AI value chain, while three provide the framework for the operation of 
+the value chain. The following figure shows the relation between the foundation pillars of the Strategy.
+4.1    Foundation pillars
+Re
+se
+ar
+ch
+ a
+nd
+ developmentRe
+gu
+la
+to
+ry
+ and ethical framework
+In
+fr
+ast
+ru
+cture development
+Ed
+uc
+at
+io
+n,
+ c
+om
+pe
+te
+nc
+e 
+development and societal preparedness
+Incentivizing applications
+Data economy
+Focus areas
+24 25
+The measures related to the foundation pillars:
+4.1.1    Mathematical foundations of AI
+Making the collection of data and its secondary use and the management of data assets in 
+both the private and the public sector conscious and regulated.
+The basic elements of solutions using artificial intelligence are data processing and data analysis. That is why one of 
+the main objectives of the Strategy is to provide the data, including private and state data, supporting the operation 
+of such applications. It is significant that the measures defined here mainly serve to facilitate and encourage 
+data processing while fully respecting the custodians’ rights laid down by the law, and the limits specified by 
+the domestic and international legislation for the use and processing of the data, with special attention to the 
+protection of personal data, including healthcare-related and other sensitive data. 
+The aim is to make available the data underlying AI developments and the system of platforms and organisations 
+providing the opportunity for secure and regulated sharing and secondary use of these data. 
+Draft KPI: minimum 1,000 agreements concluded for the secondary use of data made available
+The establishment of the opportunity for the 
+use of private data based on market conditions 
+(Data market)
+The aim is to establish and raise awareness of the economic 
+value of commercially viable data, and to encourage their 
+secondary use to take advantage of their potential as a 
+resource of the future
+The instrument of this action is the introduction of a Data 
+market platform (Adatpiac Platform) in three stages:
+• In the first stage, a marketplace exercising brokerage 
+function shall be established, which provides a space for 
+the transmission of non-personal data and the related 
+technologies. After that, the aim is to further develop a 
+marketplace that is capable of more than the brokerage 
+functions and can provide data storage as well as data 
+quality based on standards and certificates. 
+• In the second stage, we intend to create the commercial 
+opportunities for the data assets including personal 
+data, and to prepare the introduction of individuals as 
+actors into the data market (linked to the development of 
+a related mobile app).
+• The third stage includes the creation of the “One 
+Stop Shop” platform, which operates as a platform 
+serving data custodians, as well as the researchers 
+and developers of the application, with broad-based 
+functionality, by integrating the data assets of the data 
+markets and data spaces of the EU and by the active use 
+of data spaces of the EU in the course of using Hungarian 
+data.   
+Making the public data available in line 
+with EU legislation (Portal for public data 
+»Közadatportál«)
+The aim is to establish a complete and responsible national 
+data management scheme, which includes sharing non-
+personal data assets created in the public sector and 
+having a significant multiplier effect in order to exploit 
+the potential economic stimulation effect associated with 
+their wide availability. An additional goal is the creation of 
+an integrated public approach, which can help exploit the 
+benefits of such economic growth in light of the investment 
+needed to guarantee such open access to data. Based on 
+this principle, different types of data shall be identified 
+and either made freely available or funnelled into the Data 
+market (see next section). 
+The aim is standardised data generation and data format 
+determination, which enable easy access to the data for 
+research and development purposes to be possible and 
+monitoring the use of public data at an organisational level.
+• In order to connect public data into the data cycle, a 
+new body, the National Data Asset Agency (Nemzeti 
+Adatvagyon Ügynökség, hereinafter “NAVÜ”) shall be 
+established, to coordinate and stimulate the strategic 
+management of the data assets as the engine of utilising 
+national data assets. It should be emphasised that NAVÜ 
+will not perform independent data processing – this 
+remains the task of the custodian organisation –, its aim 
+is only to encourage and support data utilisation.
+• For the sake of transparency, the establishment of a 
+public data portal is required, which gives access to the 
+data and provides a one-stop connection opportunity 
+to access the national data assets freely – based on 
+EU legislation – and, on the other hand, it makes the 
+relationship between the state and businesses (G2B), the 
+state and clients (G2C) and the states (G2G) possible.
+Trading public data based on market conditions 
+(relationship between the Data market and the 
+Portal for public data) 
+It is a key objective to ensure market-based trading in data 
+having a significant multiplier effect and created in the 
+public sector but not subject to Directive (EU) 2019/1024 on 
+open data and the re-use of public sector information (PSI 
+Directive) by connecting the Data market and the Public 
+Data Portal. 
+We aim at fully integrating the secondary use of the data 
+created in the public administration into the data cycle and 
+at establishing an effective model for the management of 
+public data.
+• We must identify those groups of data, the commercial 
+use of which has already started or which may be 
+involved in commerce, and NAVÜ and the Data Market 
+can promote the effectiveness of their commerce.
+26 27
+4.1.2    Research, development and innovation  
+– “Joint forces for development”
+Building research synergies, placing the developers of the technology in an advantageous 
+situation, celebrating technology-based innovators in order to cooperate in the technological 
+research and development as an ecosystem based on domestic and European synergies.
+The establishment of targeted, broad-based and dynamic AI research excellence embedded in an ecosystem.
+Draft KPI: 15 instances of cooperation in international projects in the topic of technological research and 
+development, of which at least two target a topic related to defence technologies, and five international AI patents
+Development of machine detection
+The development and customisation of machine detec-
+tion in relevant fields is the cornerstone of major applied 
+research, and embraces features such as merging 
+sensor data from various imaging systems (camera, 
+LIDAR, radar, etc.) and other sensors, de picting an 
+unknown environment, pre-processing measured 
+values, and improving their accuracy, as well as 
+detecting and compensating for erroneous measure-
+ments and distorted data. There are two critical areas 
+to be observed: on the one hand, we wish to have a 
+significant impact on the preservation of human health 
+through medical imaging, and on the other, when 
+applied in the manufacturing and agricultural sectors, 
+we endeavour to achieve significant cost reductions. 
+Development of intelligent manufacturing, logistics 
+and IoT solutions based on machine learning
+Due to the expansion of connected devices and the 
+Internet of Things (IoT), an exponentially increasing 
+amount of data is available with specific noise types and 
+device-specific data formats. The methods of machine 
+learning make it possible to learn the rules, functions, 
+and decisions automatically and without human 
+intervention or assistance. More accurate, reliable 
+decisions require resource-intensive analysis of large 
+amounts of data, and the design and implementation 
+of complex optimisation and numeric procedures. The 
+task is to examine the stability of a system containing 
+a machine learning procedure, i.e. to probe whether 
+the consideration of a new training point degrades 
+the properties of the system. Their goals include the 
+control of complex systems with a machine predictive 
+control (MPC) algorithm, control signal, and providing 
+guarantees for the stability of the controlled system.
+Development of language technology
+The interpretation of spoken and written texts is one of 
+the fastest growing areas in the world. The application 
+and further development of existing technologies 
+to the Hungarian language is of significant national 
+interest. One of the most important instruments for 
+this is the development of Hungarian training corpuses 
+both for written and spoken language, through which 
+the understanding of Hungarian language, processed 
+by open source software solutions, can be upgraded 
+to the level of major languages. To this end, the aim 
+is to support a community of researchers that can 
+contribute to the survival of our language in a digital 
+era by joining the corporate and academic efforts.
+Developing a reliable AI
+One of the barriers to the broad use of AI originates 
+from the limitations of the current state of technology. 
+In line with efforts made by the EU, we will focus 
+on eliminating possible forms of error in AI, or 
+making it transparent and predictable (developing 
+test environments), making model decision-making 
+mechanisms explicit, or developing hybrid models 
+(interpretable decisions) and developing debugging 
+Key directions for AI research and development
+algorithms specialised in AI software that can help 
+detect errors typically made by AI. Such development 
+and integration of reliability into everyday technologies 
+enables the technology to be used in critical decision-
+making situations, as well as in situations where 
+reliable human-machine collaboration is required. 
+Development of data anonymization technologies
+One of the most important resources of AI developments 
+is the data. Only anonymous personal data shall be 
+included in the teaching models, and shall be an object 
+of trade and transferred to third parties. However, 
+anonymous data can be decrypted using technological 
+and inferential equipment, depending on the context 
+of use. In order to ensure the secured data trade that 
+takes user rights into full consideration and thus 
+to ensure AI development, it is critical to define new 
+technological and process developments that can 
+guarantee the unambiguity of personal data.
+Development of the mathematical foundations of AI
+Machine learning and deep learning, the branches of 
+artificial intelligence currently gaining the greatest 
+attention, are based on high-level mathematics, in 
+which, combined with data and computational capacity, 
+we saw a major breakthrough in the early 2010s. 
+However, at the same time, we have incomplete know-
+ledge of the mathematical foundations and limitations of 
+the method. Certain mathematical theories re searched 
+by domestic researchers with world-class excellence 
+and based on linear dimensionality reduc tion, the 
+regularity lemma and graph limit theory promise a 
+breakthrough. The question is, how these theories can 
+be used for, inter alia, artificial neurons, the key mani-
+festations regarding AI research. Another impor tant 
+topic is the theory of deep learning and machine learning 
+optimisation methods based on topological multiplicity.
+Encouragement of basic and applied research in 
+key tech nological areas, such as machine vision, 
+language inter pretation and data anonymization, 
+as well as in fields related to branches of industry, 
+or defence technologies, and the presentation of 
+key international research results in targeted 
+technological and sectoral areas
+The resources and opportunities of Hungary are limited, 
+compared to the continuously expanding opportunities 
+of research and development, so only the harmonised 
+expenditure and use of the existing R&D resources may 
+result in significant domestic AI development.
+The aim is to present research results of international 
+importance in key technological (see box above) and 
+industrial fields (healthcare, manufacturing, agriculture, 
+public administration) and also related to defence tech-
+nologies, by creating a research ecosystem organised 
+through industry-led networking that can focus on research 
+areas in order to respond to industrial needs. 
+To this end, a National Artificial Intelligence Laboratory 
+(Mesterséges Intelligencia Nemzeti Laboratórium) shall 
+be established, which will act as a coordinating body 
+between each of the basic and applied research institutes, 
+the market, the AI research scene and the international 
+research community.
+• International research centres could be solicited to move 
+to Hungary as an auxiliary measure and the coordinated 
+worldwide communication of the established Hungarian 
+research initiatives and results, as well as building up 
+a sound academic partnership framework could also be 
+good leverage.
+• In addition to technologies of civil and dual-use, the focus 
+area of the National Artificial Intelligence Laboratory 
+will also be open to basic and applied research related 
+to defence technologies – according to the needs of the 
+Ministry of Defence – by joining the relevant international 
+research networks and the available European (EDF 
+Programme) tenders for defence technologies.
+Encouragement of industry-led networking in AI 
+research
+The aim is to establish collaboration between the re-
+searchers of artificial intelligence and the users of the 
+technology (industry, public administration, healthcare, 
+etc.). When applying the industry-led networking coor-
+dinated by the emerging National Artificial Intelligence 
+Laboratory, the goal of the academic sector will be fulfilled, 
+in other words there will be a unified coordination of basic 
+and applied domestic research, as well as the goal of the 
+user community, according to which development is also 
+of significant importance. It is of key importance for the 
+latter that the effects of AI are perceived not only in the 
+technological developments but in the innovations of the 
+models of products and business as well.
+28 29
+• The academic AI competence map will be created
+• Implementation of collaborative projects
+• Resources shall be assigned to the jointly financed 
+research
+Incubation of start-up companies
+The goal is to support the establishment of companies 
+that are able to develop and bring to market more new, 
+even globally scalable, products. The application of proven 
+technologies to specific cases and their sector-specific 
+intro duction are particularly important.
+• Provision of the open data assets supporting the 
+development
+• Creating a network of “Early adopter” partners
+• Development of AI-specific accelerators
+• Development of AI-specific investment funds
+• Sector-specific grants
+Provide a window of opportunity for companies 
+developing custom applications
+The goal is to ensure that companies developing the appli-
+cations receive an increasing amount of orders reflecting 
+the pace of general adoption in the economy, which is one 
+of the most important objectives of the strategy.
+• Supporting a spirit of experimentation
+• Establishment of AI marketplaces
+• Announcement of AI innovation awards
+• Cooperation in academic research projects
+Attracting research centres of international 
+organisations to move to Hungary
+The goal is to relocate as many research centres using AI 
+technology as possible to Hungary, based on our strengths 
+such as the regulatory environment, good quality research, 
+and the ecosystem, or to ensure that newly established 
+research centres shall be based in Hungary.
+• Clear positioning of Hungary in AI
+• Establishment of tax incentives
+• Foundations for the clear frameworks of the academic 
+partnerships
+4.1.3    Incentivising uptake  
+ – “Widespread use”
+Encouraging and supporting purposeful and tailor-made experimentation to gradually 
+integrate already available and proven technologies.
+Establishment of an integrated innovation value chain with strong market collaboration.
+Draft KPI: 200 projects reaching the Proof of Concept, and introduction of 1,000 registered and commercialised 
+AI applications
+Extensive support for experimentation
+The goal is to increase AI-related experimentation to imple-
+ment an increasing amount of “risky” AI development, as 
+well as to cooperate with the professional organisations 
+of industry in favour of the industry-specific transfer of 
+knowledge to the participants in the AI ecosystem.
+• Strengthening the organisational culture of experi men-
+ta tion, provision of a market and brokerage function for 
+the participants in the ecosystem in order to find the 
+right partners early by creating marketplaces. 
+• Provision of consultants and AI trainers for companies 
+to support the organisational learning process related to 
+the introduction of the application.
+• Foundation of an AI Experience Centre (MI Élmény köz-
+pont) and working with existing experience centres to 
+provide a physical and virtual space for experimentation. 
+• Establishment of special funding opportunities until the 
+“proof of concept” development phase to reduce the cost 
+of experimentation and the risk involved.  
+Development of corporate advisory services 
+based on artificial intelligence (chatbots)
+Using the opportunities provided by AI in our existing digital 
+economic development measures, supporting access to 
+them, especially in the EDIOP 3.2.1-15 Modern Businesses 
+Programme (MBP) led by the Hungarian Chamber of Com-
+mer ce and Industry (MKIK). Within the framework of MBP, 
+by completing its content and frameworks by the end of 
+2021. Developing such corporate advisory services based 
+on artificial intelligence (chatbots) that are capable of 
+increasing the scope of the digitally advanced enterprise 
+or enterprises intending to become digitally advanced, 
+along with supporting enterprises already involved. The 
+development can be integrated with the government’s 
+planned voice-based artificial intelligence platform.
+Promotion of the application of AI by SMEs
+Based on the existing networks for SME development, the 
+goal is to encourage SMEs playing a central role in the 
+Hungarian economy to apply AI. 
+• Development of the content in the interests of making 
+indispensable information and training available to this 
+special target group.
+• Provision of AI trainers with the aim of consultation on 
+the methods of AI application.
+• Composition of a prepared package of applications 
+(toolkit) to support the application of AI technology.
+• Establishment of opportunities for SMEs to learn from 
+each other, and provision of resources to support SME-
+specific introduction.
+30 31
+4.1.4   Education, competence development and societal preparedness  
+– “Focusing on human competencies”
+We enable our present and future societies to seize opportunities and, if necessary, put their 
+development on a new path. 
+Preparation of the actors in society and the economy to leverage the opportunities offered by AI and manage the 
+associated risks, utilising the instruments of education and training. 
+In the course of developing these capabilities, the currently available and potentially expected competences of 
+the market shall be taken into account; therefore, the availability of situational assessments and forecasts of 
+the labour market are required. For this reason, a continuous collaboration is needed between the professional 
+workshops, economic sectors and NES involved in the development.
+Draft KPI: 300 people with PhD degree involved in an AI research topic or methodology; 8,000 people received 
+adult education (mainly for target groups in manufacturing, healthcare, agriculture, transport and logistics, as 
+well as civil servants and SME leaders)
+Making knowledge of AI technologies available 
+to the broader society
+The goal is to raise the broader society’s awareness of AI, 
+to introduce and realise the advantages, disadvantages 
+and risks of AI technologies, which are prerequisites for 
+adopting the technology. In order to support AI uptake, it is 
+necessary to raise awareness of the existence of the new 
+technology and the main features of its operation, as well 
+as to strengthen the “early adopter” attitude.
+The use of AI technology without critical thinking may hold 
+potential dangers; the proposals of an opaque algorithm 
+that works as a “black box” must always be considered by 
+the individual users. In order to enable responsible and safe 
+use, it is extremely important to prepare young people for 
+the specific dangers of AI technology, as well as to develop 
+critical thinking. Another key goal is to prepare parents and 
+teachers for the appropriate protection of children.
+This shall be done in cooperation with the formal and non-
+formal education system and professional organisations. 
+Related action plans:
+• Establishment of an AI Innovation Hub (MI Innová ciós 
+Központ) for dissemination, information, event orga-
+nisation and social dialogue, the collection of profession- 
+specific new training needs and their communication to 
+the education system
+• Completion of the AI Challenge in Hungary by the end of 
+2021: – Awareness raising for 1 million people, training 
+100,000 people by completing a basic AI course, definition 
+of the goals of the awareness period starting from 2022 
+based on the experience of the AI Challenge
+• Programmes available within the framework of public 
+education and vocational training to support students in 
+becoming users of AI technologies (horizontal and mo-
+du lar AI contents in training, collaboration with ro bots, 
+“kisokos” guides, student competitions, career orien ta-
+tion tenders)
+• Preparation of teachers in public education and in-
+struc tors in vocational training, organisation of further 
+education programmes, awards for teachers taking the 
+lead in the use of AI, experimentation and preparation
+• Development of AI-related general knowledge, skills and 
+competencies in higher education among the students, 
+higher education staff and local economic/social actors.
+• Intensive use of AI technologies in the developments 
+associated with data management in higher education. 
+• Preparation for AI related tasks in public education and 
+vocational training in the context of teacher training and 
+higher education in general
+Competence development and expansion of the 
+expert base required for the uptake of AI 
+The goal is to reduce the shortage of specialists on the basis 
+of potential customers of AI developments, i.e. to expand 
+the circle of managers who are aware of the technology, 
+and are able to assess the needs of the enterprise, identify 
+potential uses for AI technologies and manage and support 
+implementation processes. Related action plans:
+• Start of ECDL type training introducing AI technologies
+• Establishment of preparation programmes for the AI 
+application:
+• for the managers of SMEs,
+• for experts in manufacturing, agriculture, healthcare, 
+transport, logistics, energetics and public 
+administration,
+• Creation of demand through the recommendation of 
+content, provision of grants for targeted corporate re-
+training, recommendation of training courses
+• Development of data asset management training for 
+those working in public administration
+Enhancing data specialist, developer and 
+research expert capacity
+Another goal is to enhance the data specialist, developer, 
+and research expert capacity necessary for the domestic 
+expansion of AI, and to reduce the current shortage of 
+labour in these fields. Introduction of a professional visa for 
+experts in the field of AI for the purpose of preventing or 
+reducing such a labour shortage in Hungary.
+Supervision and development of the content of under-
+graduate and master’s degree programmes in the field 
+of information technology to ensure the expert capacity 
+required for AI developments. 
+• Introduction and dissemination of the application of AI 
+technologies in research methodology. Promoting and 
+supporting the use of AI technologies in the preparation 
+of research methodologies for doctoral courses.
+• Increasing the number of AI-related topics of fundamental 
+research and doctoral dissertations in several branches 
+of science, collecting the AI-related doctoral courses 
+and making them available to PhD students, organising 
+cross-teaching programmes independent from the 
+programme, as well as establishing PhD programmes 
+based on collaboration in the topic of AI.
+• Establishing an AI scholarship for doctoral instructors 
+and researchers or expanding the existing higher 
+education / research scholarships with the topic 
+of AI, and providing networking support for fellow 
+researchers
+• Promoting cooperation between instructors, researchers 
+and institutions (higher education institutions, research 
+institutes, etc.) in fields related to AI, networking, creating 
+a motivation system for supervisors / mentors, funnelling 
+foreign lecturers and researchers into domestic scientific 
+life
+• Attracting doctoral students, instructors, researchers, 
+developers and entrepreneurs working in the field of AI 
+to Hungary; formulating the necessary means for this, 
+thereby growing the available highly qualified workforce.
+Inclusion and talent coaching for groups at risk 
+of falling behind in the labour market 
+The aim is to collect, promote and make available Hun-
+garian language versions of personalised learning support 
+products available internationally for people at risk of 
+falling behind (disabled, elderly, digital illiterates, those 
+with a low level of education), using AI technologies, as well 
+as to identify and provide priority development and support 
+for talented people from an early age.
+• International collection and Hungarian translation of 
+guidance material prepared for the groups at risk of 
+falling behind in the labour market.
+• Continuous dialogue on the development results and 
+the special demands that may be formulated as the 
+development goals.
+• Introducing games for improving high-level mathematical 
+and logical skills from an early age and identifying 
+talented children and teenagers.
+• Provision of mentors and tutors; online and in-person 
+training for recognised talents and providing support for 
+them beyond the school system.
+32 33
+Tasks for the education system, with an 
+emphasis on higher education
+The above goals must be achieved in the formal education 
+system (public education, vocational training, higher edu-
+cation, adult education) and in non-formal and informal 
+learning, drawing on the considerable synergies existing 
+between them. 
+Personal competence development with AI support is one of 
+the elements of the transformative programmes included 
+in this strategy, in which the education system, particularly 
+higher education, is expected to play a considerable role. 
+The tasks of education, specifically, higher education, in the 
+foundation pillar “Education, competence development and 
+societal preparedness” and the transformative programme 
+“Personal competence development with AI support” are 
+presented together in the table below.
+Goal \ Relevant subsystem Education system (formal education) Other sector  
+(non-formal and informal training)
+Making knowledge of AI 
+technologies available to the 
+wider society
+• Awareness-raising in public education 
+• Awareness-raising in vocational education
+• Awareness-raising in higher education (a mandatory 
+introductory course for all)
+• preparation by higher education of teachers in public education 
+and instructors in VET for the new AI awareness tasks
+• rewards for teachers and vocational instructors
+• awareness-raising, dissemination, social 
+communication, organised events
+• online AI training
+• Reaching out to 1 million people through 
+the AI Challenge,
+• rewards for teachers and vocational 
+instructors
+Competence development 
+and expansion of the expert 
+base required for the uptake 
+of AI 
+• preparation of public administration staff for application by 
+higher education (National University of Public Service, NKE)
+• ECDL type AI training
+• preparation of SME managers and experts 
+of high priority sectors for application
+• operation of a training marketplace
+Enhancing data specialist, 
+developer and research 
+expert capacity
+• development of basic training programmes in higher education, 
+master’s degree programmes and doctoral programmes, 
+including PhD AI training programmes based on collaborative 
+learning, also making use of online training possibilities,
+• introducing and promoting the use of AI in higher education in 
+the field of research methodology (training the trainers)
+• rendering AI-related doctoral courses interoperable in higher 
+education
+• creating doctoral scholarships in higher education for 
+students of research and development, or enhancing existing 
+scholarships in this regard
+• developing an incentive system in higher education for PhD 
+supervisors, networking across doctoral schools
+• making efforts in higher education to involve international 
+instructors and researchers more closely in scientific life in 
+Hungary
+• introduction of a professional visa system 
+(MoI) for, and to enable researchers, 
+developers and entrepreneurs with AI 
+expertise to settle in Hungary
+Inclusion and talent coaching 
+for groups at risk of falling 
+behind in the labour market
+• translation of AI tools into Hungarian for 
+vulnerable social groups
+• coordination with the group concerned 
+regarding their needs, with the 
+involvement of the Innovation Centre
+• development of games to attract talented 
+individuals
+• mentoring, talent promotion for individuals 
+identified as having special talents
+Transformative Programmes 
+for personal competence 
+development with AI support
+• development of the VET and adult education registry with the 
+aim of developing a training recommendation service aligned to 
+individuals’ goals in life
+• development of AI-based services to provide assistance in 
+individuals’ progress in their studies in higher education, to 
+facilitate enrolment in courses and provide support for online 
+forms of adaptive learning 
+• development of apps to provide 
+personalised training recommendations 
+and to motivate users to take up/continue 
+with studies, based on the results of the 
+combination of administrative data from 
+public education, higher education and 
+adult education
+• development of personal learning 
+assistant, primarily in acquiring basic 
+competences, primarily for social groups 
+facing risks of falling behind in the labour 
+market
+4.1.5    Infrastructure development  
+– “Stable and Accessible Infrastructure”
+Creating the digital infrastructure of the future as a suitable basis for efforts in research and 
+development.
+AI research and development requires the development and maintenance of a single harmonised national 
+infrastructure that enables cooperation between participants, structured in such a way that it promotes and 
+facilitates its operation in the regulatory and ethical framework put in place through AI developments.
+Identification of resources needed for AI 
+development; exploration of existing resources; 
+assessment and development of necessary 
+capacities
+The aims include providing a central infrastructure for the 
+resources required for carrying out research and general 
+development tasks, along with continuous development, as 
+required, and maintenance in the long term, of the resulting 
+infrastructure. 
+• Providing businesses and institutions with whatever 
+hardware resources they require for their research and 
+development activities, such as specific purpose-built 
+hardware, supercomputers, cloud-based software and/
+or service systems.
+• Centralised collection of national digital data files, data 
+collections, data repositories and data silos etc., making 
+data assets of relevance to AI research and development 
+available and suitable for research and utilisation.
+• Providing access to software designed for developing and 
+testing open-access and paid-for AI-related applications. 
+These include, for instance, plugins and software libra-
+ries containing ready-made solution components and 
+programmed algorithms for certain facets of AI deve-
+lopment.
+• Sandbox services; development of highly protected 
+virtual environments for AI-related projects, along with 
+AI testing centres; test environments (testbeds) for 
+standardised tests.
+Creation of coordinating measures to enable 
+the efficient use of resources for the various 
+user groups of the AI ecosystem
+The aim is to meet research institutes’ and users’ AI-related 
+temporary storage and computing capacity requirements 
+in a coordinated way without state-owned participants 
+developing redundant capacity. Setting up and applying 
+quality standards to both users and resources so that the 
+parties involved in cooperation can be assured that the 
+resources they use are in place to promote the achievement 
+of the goals being pursued and that those sharing 
+resources can be assured of the use of their resources in 
+accordance with qualified standards and ethical norms. 
+Suitable standards need to be developed and applied to 
+make sure that the coordinative tools to be developed will 
+enable the relevant domestic systems to join with those in 
+place in the EU and make it possible to open the domestic 
+infrastructure and make use of European resources, 
+thereby facilitating Hungary’s effective participation in AI 
+research and development projects in the EU (Digital Single 
+Market).  
+• Development of marketplaces to manage  resources at 
+meta-level, promote brokerage activities, offer available 
+resources and indicate resource requirements.
+• Development of hybrid cloud services for research and 
+development, providing access to a variety of computing 
+capacities and developer applications through a single 
+integrated interface.
+• Building an automated access control function to 
+ope rate the marketplaces, allocate access rights to 
+resources appearing in the marketplaces, connecting 
+infra structure-type resources through APIs and enabling 
+automated accounting of the resources used. 
+34 35
+4.1.6    Regulatory and Ethical Framework  
+– “Reliable, regulated use”
+Creation of an effective, efficient, human centered and supportive domestic regu la tory 
+environment for the operation of AI, together with the necessary ethical framework; taking 
+the relevant EU legislation into account.
+Establishing a regulatory and oversight framework to ensure responsible, reliable and 
+human-centred utilisation of the technology’s potentials.
+Creation of an effective, efficient and supportive domestic regulatory environment for the operation of AI, together 
+with the necessary ethical framework; taking the relevant EU legislation into account.
+Creating a regulatory framework for data 
+assets
+A general regulatory environment needs to be put in place 
+for data assets with functions such as supporting the AI-
+related use of public data assets and facilitating the process 
+of turning data into assets (assetization), together with the 
+development of the relevant financial and legal regulations 
+– taking into account the various sectors’ specificities 
+and responsibilities in terms of data processing, as well 
+as the relevant fundamental rights and the international 
+framework of data regulations.
+• Creation of a framework law on data assets.
+• Introduction of a sector-specific regulatory environment 
+to enable data to be turned into assets and their use for 
+purposes of AI.
+• Developing rules to govern the use of public data, along 
+with a concept for and rules on their assetization.
+Developing an AI regulatory environment 
+(comprising rules on registration, technological 
+entities, responsibility/liability and industry 
+regulations)
+The aim is to explore legal constraints on and the regulatory 
+needs of AI development and to make proposals regarding 
+changes to be made to the general regulatory environment, 
+along with improvements to the sector-specific regulatory 
+environment in order to facilitate AI development.  
+• Continuous monitoring and mediation of the relevant 
+EU rules and other regulations (including developments 
+in legal practice and jurisprudence), participation in the 
+preparation of legal regulations and quick and effective 
+communication of new rules and interpretations to the 
+Hungarian legal system. 
+• Development of AI registers and laying down 
+requirements to be applied in the most important areas.
+• Separation of responsibilities and provision of 
+continuous support for rules and developments.
+• Support for the implementation of the AI strategy in 
+terms of statutory rules and ethics.
+Creating an ethics framework for the AI 
+industry
+The aim is to create a Code of Ethics, taking international 
+standards and domestic specificities into account, based on 
+broad consensus and factoring in the work and output of the 
+European Commission, as well as the Ad hoc Committee on 
+Artificial Intelligence of the Council of Europe (CAHAI).  
+• The development of the required ethics framework 
+will involve specifying what is meant by the term 
+human-centred, identifying ethical AI objectives and 
+development directions and integrating these in a 
+reliable and robust AI framework, as well as developing 
+techniques for asserting and enforcing the rules of 
+ethics. 
+• Developing an AI Code of Ethics.
+Creating an Artificial Intelligence Regulation 
+and Ethics Knowledge Centre (hereinafter 
+“MISZET”)
+The aim is to create and coordinate an extensive pool of 
+experts to help resolve legal issues and matters of ethics 
+relating to the regulation of artificial intelligence and the 
+implementation of the strategy.
+ 
+Identification of sector specific development goals in order for Hungary to occupy an increasingly 
+knowledge-intensive position in the global value chain.
+Based on Hungary’s economic structure and its strengths and opportunities in digital and industry-specific competitiveness, 
+a number of high priority sectors have been identified, in which concerted efforts shall be made, focusing on the development 
+of AI and on disseminating applications. The focus areas identified, the objectives to be pursued and the tools to be used 
+have been determined with the active participation of experts from the sectors concerned.
+4.2    Sector-specific focus areas
+4.2.1    Manufacturing and autonomous systems  
+– “Smart, personalised, environmentally conscious manufacturing”
+AI process-driven smart manufacturing by small, medium-sized and large enterprises, based on new business 
+models, catering to individual requirements, with environmentally conscious manufacturing technologies.
+Optimising existing processes
+Processes need to be optimised and their operational 
+efficiency needs to be improved with the help of AI; moreover, 
+manufacturing model projects need to be implemented, 
+with a focus on quality, inventory management, workforce, 
+energy and resources used, as well as the availability of 
+tools and equipment. 
+Prioritised functions in the short term: regulating the 
+parameters of production processes, support for on-site 
+decisions; quality control with AI tools, online product 
+testing; layout and process simulation, factory optimisation; 
+predictive maintenance; high-precision indoor and outdoor 
+positioning systems using 5G and AI technology; robotic 
+control support using AI solutions; different applications 
+of artificial vision in manufacturing; creating an open IT 
+architecture for production; manufacturing in the city.
+Prioritised functions in the medium term: Use of AI in 
+6G networks and in manufacturing; after-sales product 
+tracking, AI-based data processing, estimating and 
+indication of servicing requirements; drone management in 
+industrial applications (model factory, model area); critical 
+machine to machine (M2M) communication, automated 
+management of the operation of multiple IoT devices 
+and private communication devices in industry (model 
+area); supplier chains, product tracking; optimisation of 
+manufacturing logistics; optimisation of energy manage-
+ment; cybersecurity in manufacturing.
+Organizing an innovation ecosystem; 
+introducing new business models
+Basic and applied research projects need to be organised 
+and aligned to industry requirements centrally, and an 
+innovation ecosystem also needs to be organised (by the 
+National AI Laboratory, currently being established) in 
+order to improve efficiencies and launch new processes 
+in manufacturing. Introduction of an AI maturity model 
+and its measurement across the entire range of 
+production. Growth exceeding that enabled by the organic 
+development of operational efficiency can only be achieved 
+by comprehensively redesigning manufacturing or by 
+constructing a new business model at the manufacturing 
+company concerned. 
+SME transformation projects
+Projects facilitating transition in parallel with earlier 
+goals need to be implemented for the SME sector – a key 
+component of the Hungarian economy – if manufacturing 
+SMEs are also to remain competitive.
+36 37
+Structuring of, providing access to, and 
+developing the existing data assets, improving 
+the supply of data
+The Agricultural Data Framework can be implemented 
+by creating a cloud-based data information platform, 
+making it possible to cover all agricultural producers, one 
+that is capable of recording data from multiple sources, 
+storing them in a farm-based and structured way, making 
+them accessible based on authorisations received from 
+producers (data wallet service). It should also be capable 
+of recording (farm or plant based) producer data as well as 
+government data (for example, from the National Tax and 
+Customs Administration, the National Meteorology Service, 
+the National Food Chain Safety Office, the Hungarian State 
+Treasury, the Land Parcel Identification System) in a frame-
+work, as well as processing and storing them in a coor-
+dinated and structured way (e.g. AI).
+Enhancing the agricultural research and 
+development base and the innovation 
+ecosystem
+Launching the Digital Agricultural Innovation Centre 
+(Hungarian acronym: DAIK) to promote the development 
+of the digital innovation ecosystem and incubate start-ups 
+using AI technologies, along with the Digital Food Chain 
+Research, Development and Innovation Centre in coope-
+ration with agricultural higher education. 
+Provision of testing environments
+This involves the development of a testing environment 
+for the innovation and testing of robots with the help of AI 
+technologies (e.g. the Mezőhegyesi Ménesbirtok stud farm).
+Automation and the introduction and spread of 
+AI applications
+Existing regulations need to be amended and new 
+regulations need to be introduced regarding the use of 
+drones and autonomous machines, and a Digital Agri-
+cultural Academy needs to be established to promote the 
+pro per use of and encourage the proper application of pre-
+cision and autonomous machines.
+Development of AI-based services
+Crop yield estimation functions and a crop protection fore-
+cast service need to be developed, and a National Food 
+Chain Data Supply Centre has to be established.
+4.2.2    Data-driven healthcare  
+– “More accurate diagnostics, more effective treatment”
+The aims are to achieve, in agreement and cooperation with all stakeholders, the responsible use of the con-
+tinuously expanding health data assets available in Hungary, to strengthen the diagnostic and curative use of 
+artificial intelligence, to develop and introduce AI-supported medical decision-making and medical devices, and 
+to contribute thereby to an effectively and efficiently operating healthcare sector in accordance with the e-Health 
+strategy.
+Making available the existing health data assets 
+and supporting AI research and innovation 
+using such data assets
+The extensive and continuously generated health data 
+assets need to be made available through an up-to-date 
+infrastructure and then utilised with the help of AI, always 
+in observance of the requirements laid down in the GDPR. 
+Another objective is to introduce targeted preventive, 
+scree ning and decision-making applications drawing on 
+the accumulated data assets. This in turn requires the 
+development of an infrastructure and organisation to sup-
+port the use of the available health data assets.
+Medical AI application development, testing and 
+piloting; spreading of successful applications 
+supported with data
+Spreading of AI-based solutions in medicine and in day-to-
+day healthcare processes. This may be achieved inter alia by 
+spreading existing successful AI applications, as confirmed 
+by data, for use on a pilot basis. 
+Improving the efficiency of health 
+administration and management using AI tools
+Support for research with a focus on AI in the context of 
+the National Health Laboratory, incubation of health start-
+ups and promotion of AI use in capacity planning and 
+administration (e.g. HR, ambulance service, asset utilisation
+4.2.3    Integrated, digital agriculture  
+– “Innovative, data-driven, AI-supported agricultural management”  
+Implementing and spreading AI developments in support of and coordinated with the digital renewal of the 
+agricultural sector.
+38 39
+4.2.4    Public Administration  
+– “Data-driven, service provider state”
+The aim is to facilitate electronic access to, and the digitalisation of, public services, with AI being one of the 
+enabling technologies. These developments fit in with the electronic public administration concept and system, 
+a function already working on integration and developing processes, the efficiency of which can be improved and 
+where new channels can be provided with services more effectively. The basic principles applying to electronic 
+administration must be followed in such developments as well, i.e. the aims are to develop and test platform-type 
+solutions that can be recommended to all public bodies, and to promote the use of such solutions.  
+Creating a research cluster focusing on the use 
+of AI applications by public bodies and the central 
+supply
+Automating public administration processes by 
+means of AI 
+• Development of chat-based digital one-stop-shop admi-
+nistrative processes.
+• Automation of correspondence, chat and telephone 
+commu nication between administration and customers.
+• Increasing the number of self-service transactions 
+through process administration.
+• Continued development of the Central Identification 
+Agent (KAÜ).
+• Development of administrative formalities through 
+KIOSK terminals and physical robots at specific customer 
+service units.
+• Development of automated functions for the adoption of 
+decisions.
+• Facilitating online labour market and competency-based 
+workforce agency processes.
+Introduction of control systems for use by law 
+enforcement
+• Continued development of the Robocop programme.
+• Development of border protection control systems, along 
+with a comprehensive identification system.
+• Criminal prosecution and crime prevention relying on 
+integrated data-based analyses.
+• Introduction of existing AI technologies in criminal inves-
+tigation processes.
+Development of complex modelling systems to 
+simulate decision-making situations
+• Development of simulations required for modelling 
+comp lex decision-making situations and introduction of 
+instruments enabling rapid response capabilities for the 
+Disaster Management Authority, the Hungarian Defence 
+Forces and law enforcement bodies.
+Applications and developments for the Defence 
+Forces
+• Automation of the processing, and synthesising into in-
+for mation, of big data and information operations, as 
+well as decision preparing and supporting systems. 
+• Implementation and development of predictive supply 
+sys tems. 
+• Development of autonomous systems in all relevant theat-
+res of operations (air, land, space, cyberspace). Develop-
+ment of each side of human-machine cooperation. 
+• Protection against AI-supported systems in all relevant 
+theatres of operation. Modelling and simulation. 
+• Developments aimed at protecting and analysing the 
+defence-related elements of National Data Assets.
+Development of AI capabilities for military and 
+national security purposes
+• Development of basic infrastructure for developing and 
+running programmes, 
+• Development and introduction of AI-based data collecting 
+and processing systems to accelerate the processes 
+whereby decisions are prepared, and 
+• AI-based support for the cyberspace used for military 
+purposes.
+Development of systems supporting the over-
+sight of financial and taxation processes
+• Improving the efficiency of the processes employed by the 
+State Audit Office, the National Tax and Customs Admi-
+nistration and the banking supervisory authorities by pre-
+screening items to be investigated and by intro ducing 
+process automation (software robots, language processing).
+Development of predictive maintenance processes
+• Introduction of predictive maintenance processes, de velop-
+ment of the maintenance of real property and movable property 
+elements in public ownership through the development of 
+data-based failure projections and introducing maintenance 
+processes based on such projections.
+4.2.5    Energy – “Data-based, personalised energy supply”
+4.2.6 Logistics – “Supply Chain integrated through AI applications”
+Making use of data assets in the energy sector, development of services that can be personalised as a result. 
+Introduction of AI dissemination and education with a comprehensive logistics focus, building up logistics data 
+assets and integrated development of logistics AI applications overarching the entire supply chain.
+• Integration of smart meters, development of conditions 
+and requisites for data-driven processes.
+• Introduction of smart heating cost sharing for 
+apartments using central or district heating services.
+• Smart grid development (development of data-driven 
+energy market models).
+• Predictive maintenance, autonomous operation.
+• Development of smart energy supply and optimisation 
+systems, specifically designed for the various industries.
+• Extending various training systems and topics with the 
+involvement of professional organisations, cooperation 
+with VET and higher education institutions, enhancing 
+the acceptance of AI.
+• Exploring data assets of relevance to logistics that can 
+be extracted from data supplied by central and local 
+government bodies.
+• Development, with the involvement of professional 
+organisations, of a register of AI applications used in 
+supply chains and promoting the spread of AI solutions 
+on a large scale across the entire supply chain.
+• Starting a process to harmonise the identification of 
+products and goods, launching a standardisation process.
+• Integrated development of the interfacing areas through 
+the supply chain/logistics (e.g. supply of consumers, 
+manufacturing systems, predictive maintenance).
+• Developing AI-based services to optimise logistics.
+40 41
+4.2.7    Transport – “Development of real-time management with AI support”
+Hungary should become a motor of and international proving ground for the use of AI in the transportation industry. 
+Taking Smart City concepts further – traffic 
+management
+Introduction of image-based traffic control technologies 
+and related camera systems in large cities across Hungary. 
+Introduction of real-time traffic management based on the 
+processed information. What with the continuous growth of 
+the global population, the number of cities and the ratio of 
+the urban population, AI-supported urban development can 
+facilitate a shift to a (more) sustainable social and economic 
+system.
+Development of digital infrastructure based on 
+on-board data transmitters
+Installation of sensors on the relevant elements of the 
+transport network along motorways as required for DSRC 
+(WiFi) based data transmission between vehicles and the 
+infrastructure communicating through the 5G mobile 
+network.
+Public transport developments
+Introduction of optimised fleet management solutions to 
+enable the services to be run according to the schedules 
+in place, based on real-time traffic data. Introducing a 
+real-time vehicle tracking solution for users through an 
+application interface dynamically predicting the expected 
+arrival time based on traffic monitoring.
+Mobilising goals of outstanding social utility, with direct benefits for all citizens. 
+Hungary is committed to introducing AI in as a wide a field of applications as possible; therefore, in addition to identifying the 
+frameworks, foundations and sectoral focus areas required for introduction, it also specifies challenging comprehensive 
+development programmes that will generate value for individual citizens through the use of AI technologies. The 
+implementation of these – known as transformative – programmes are aimed at profoundly transforming the sectors 
+concerned, as well as promoting the use of AI by society in general. In the course of implementing the transformative 
+programmes, special attention shall be paid to the related direct processes of the labour market and the management of 
+transitions with the cooperation of the organisational units of the NES (National Employment Service).
+4.3    Transformative programmes
+4.3.1    Self-driving vehicles – autonomous systems
+4.3.2    Health consciousness in a digital world  
+Developing, regulating and widely spreading autonomous systems, with a special focus on the 
+introduction of autonomous vehicles for society.
+Preparing citizens to accept the benefits of digital health preservation schemes and the use of 
+AI-supported proposals, and help them steer around possible dangers. 
+The aim is to develop a supportive environment through 
+developing regulations, R&D&I and infrastructures to-
+gether, to enable combined development of the various 
+disciplines of a self-driving ecosystem. Further goals 
+include the development and operation of the most efficient 
+transport system possible – by means of automation, 
+machine learning and artificial intelligence, along with 
+the development of an operating environment for the self-
+driving ecosystem in response to global technological and 
+user trends. Developed autonomous vehicle solutions 
+can also serve as a basis for the development of defence 
+solutions.
+Digitalisation and artificial intelligence present many new 
+opportunities and possibilities in digital health awareness 
+and medicine. Hungary has outstanding achievements in 
+the integration and analysis of patient records, which we 
+continue to improve by developments in the process of 
+elaborating industry focuses. This creates an increasingly 
+wide range of opportunities for supporting doctors and the 
+healthcare sector as a whole and for the development and 
+take-up of artificial intelligence applications. 
+It is also paramount that citizens become aware of the 
+potential of such possible application methods and make 
+active efforts to preserve or restore their own health. 
+Digitalisation and artificial intelligence offer an ever-in-
+creasing range of tools and opportunities for people in this 
+regard; recommending and using these under adequate 
+supervision is in the interest of Hungary and its citizens alike. 
+The aim is to improve digital health consciousness in 
+Hungary – in line with the e-Health strategy and under the 
+leadership of the health sector’s participants – whereby 
+citizens make use of the services that are already available 
+(e-Health Care Cloud Hosting /hereinafter “EESZT”/, patient 
+information) and make active contributions by integrating 
+the data collected regarding themselves, by taking care of 
+data quality (using smart devices, logging their own data) 
+and by using the services available through the analysis of 
+data. 
+42 43
+4.3.3    Climate-driven agriculture 
+The goal is to mitigate the effects of climate change, reduce harmful emissions and at the 
+same time increase farmers’ income with the help of data-based AI solutions.
+Agriculture is more dramatically affected by climate change 
+than other domestic sectors and regions (in terms of both 
+exposure and contribution). The most important direct 
+consequences include extreme weather conditions, quality 
+issues and new types of health risks for plant life, while the 
+most relevant indirect ones include the volatility of global 
+market prices and thus fluctuation in farmers’ incomes. 
+Keeping the environment in a sustainable condition is 
+crucial for agriculture, as this is the most important factor 
+of production in the future. AI can facilitate preparations for 
+and help mitigate the adverse impacts of climate change 
+– perhaps even make it possible to reverse some of the 
+processes concerned.
+In terms of mitigating/reversing some of the adverse 
+effects of climate change, the agricultural sector is 
+especially profoundly affected by harmful emissions in 
+livestock production (e.g. the ecological footprint of farm 
+animals), plant production (e.g. use of fertilisers) and 
+forestry (e.g. choice of timber species) alike. Hungary 
+must adapt to international regulations; its agricultural 
+ammonia emissions must be reduced by a total of 32% 
+by 2030 in accordance with the relevant EU directives. AI-
+based optimising solutions relating to plant and livestock 
+production can help to reduce the relevant ecological 
+footprint together with agriculture’s harmful emissions. 
+Moreover, the programme is also aimed at contributing to 
+the achievement of the target figures of additional climate 
+and energy policy documents (National Energy Strategy, 
+National Energy and Climate Plan, 1st Climate Action Plan).
+In preparation for the negative impacts of climate change, 
+various predictive AI-based analytical methods need to be 
+applied as part of the measures to be taken for protection 
+against the key types of damage – drought, hail, spring frost 
+– and the deterioration of water and air quality. The risks 
+faced by livestock production include an up to 10% decrease 
+in milk production and a 15-50% drop in fertilisation 
+rates during hot periods. The timing of both seeding and 
+harvesting of feed crops can be optimised; any decrease in 
+average yields can be forecast and protection against pest 
+mutation can also be improved with the help of artificial 
+intelligence. 
+Data-based, AI-supported optimisation of livestock and 
+plant production, as well as forest management, can not 
+only increase farmers’ incomes but also reduce harmful 
+atmospheric emissions, as well as the damage caused by 
+diseases and pests. 
+In this context, an extensive awareness-raising campaign 
+shall be launched regarding the importance of health data. 
+In the context of the transformative programme, we shall 
+integrate people’s instructions regarding their participation 
+in experimental analyses with the help of their data wallets, 
+together with checking the services available through 
+analysis; and we shall develop a marketplace in which 
+service providers qualified in accordance with the system to 
+be developed as part of the implementation of the measure 
+are pooled and supervised to enable easier orientation for 
+citizens.
+4.3.4    Data wallet and personalized services
+Making it as easy as possible for citizens to control the secondary use of data that have been 
+generated in relation to them and to benefit from such transactions.
+The goal is to enable citizens to participate, as active 
+and responsible actors, in the data economy where the 
+secondary use of data takes place and to exercise their 
+fundamental rights relating to the protection of personal 
+data. To this end, they need to be enabled to dispose over 
+data pertaining to them and to participate actively and 
+securely in the secondary use of such data. 
+In this context, we must make it possible for citizens – 
+by applying the provisions laid down in the GDPR, with a 
+particular focus on data portability (Article 20) – to easily 
+and securely decide what analyses they wish to permit to 
+be carried on data recorded about them under business 
+contracts or data they have collected about themselves, 
+and who and for what purposes they wish to make such 
+data available depending on what considerations service 
+providers offer them in exchange, in terms of financial 
+re wards or services. To this end, it is paramount that 
+citizens: 
+• can keep records of the organisations, the data and the 
+purposes regarding which they have granted their autho-
+risations;
+• can actually make data recorded in relation to them 
+availab le to third persons;
+• can easily specify the purposes for which their data can 
+be used;
+• can check that their data are actually used for the pur-
+poses they have specified;
+• are provided with services or financial rewards in ex-
+change for the use of their data for the purposes they 
+have specified;
+• participate in the entire transaction at the level of ano-
+nymity of their choice.
+The purpose of the data wallet initiative is that both com-
+panies and private entities are interested in partici pating – 
+in a transparent way – in the data economy, providing all 
+stakeholders with a regulated framework for maximising 
+the benefits from the accumulation of the data assets, 
+based on the progressive opportunities provided by the 
+GDPR and the PSI II. 
+44 45
+4.3.5    AI-supported development of personal competences  
+4.3.6    Automated administrative procedures in Hungarian
+Developing personalised, data-driven, and digitally-assisted ways of learning to fully support 
+individual learning paths.
+Creation of language processing technology for the Hungarian language and incorporating its 
+potential resources into the support service of public and private customer services, with the 
+intention of safeguarding the Hungarian language and culture in the digital age.
+This transformative programme is actually a triple frame-
+work for developments in education using AI to facilitate 
+personalised learning and to make sure that the entire 
+education system is focused on the student as its most 
+important participant. 
+• One of the goals that need to be accomplished is 
+creating a training recommendation service aligned to 
+the individual’s objectives in life, based on the offering 
+of public education, VET in higher education and in adult 
+education, as well as the benefits in the labour market 
+stemming from successful completion of such training 
+(e. g. in terms of new positions and/or higher pay). The 
+personalised training recommendation service is based 
+on the extension – through the integration of admin-
+istrative data – of the career tracking function currently 
+in place in higher education and public edu cation, to VET 
+and adult education.
+• Another objective is to introduce an AI-based service 
+providing support in the individual’s learning path in 
+higher education. One form of this is providing recom-
+mendations tailored to individual students on what 
+courses they should take during the next semester 
+of their studies in order to maximise the proportion of 
+successfully completed studies. Another form is AI-
+supported recommendation, in the adaptive online 
+learning systems to be spread in higher education 
+training programmes, concerning the next curriculum 
+element based on previously completed studies, to 
+promote their successful completion of studies. 
+• A third form is the development of what is called a 
+personal learning assistant, primarily in acquiring basic 
+competences, for members of social groups facing 
+disadvantages in the labour market. 
+The aim is to create a language technology solution 
+supporting the Hungarian language as well, one that can be 
+integrated in all customer service processes in the way of 
+“zero level support”, to facilitate administrative processes. 
+The resulting technology will be key to preserving the 
+Hungarian language culture as well. It may be set as an 
+objective through the cooperation of all elements of the 
+AI ecosystem that all customer service calls (state, public 
+utility, telecommunication, bank, insurance etc.) are res-
+ponded to by machines and that the major electronic 
+per sonal assistant service providers (Siri, Alexa, Google 
+Assistant, Cortana) are available in Hungarian, English 
+language content would automatically be translated at the 
+level of the major foreign languages and a widely usable 
+Hungarian language technology module created. The 
+resulting solutions may also become suitable for security 
+and defence applications.
+4.3.7    Energy networks focused on renewable sources of energy
+Based on smart meters, the introduction of smart grid technologies and extensive forecasts and 
+projections, more accurate scheduling for generating weather-dependent (and so hard to predict) 
+renewables shall be possible, together with the operation of a power grid relying on them.
+One of the key issues in the use of renewable energy 
+sources is how fluctuating energy generation, determined 
+by weather conditions, can be coordinated with growing 
+and increasingly unpredictable consumption. Artificial 
+intelligence can be used in the introduction of forecasting/
+projection procedures and distribution mechanisms, which 
+can increase the flexibility of energy distribution. A dynamic 
+use of smart meters and remote-controlled energy storage 
+units makes it possible to balance the energy storage 
+capabilities of the entire system. The aim of the programme 
+is to enable, with the help of AI, a shift to a future- and 
+climate-proof form of energy use, making it possible to 
+continuously increase the proportion of energy generated 
+from renewable sources in the total amount of energy 
+generated and consumed.
+47
+46
+5
+Annexes
+Setting the data economy in motion
+Measure Goal Responsible* Time frame
+Development and operation of the 
+data market
+Connecting demand with supply in the market for legally marketable data. The 
+marketplace is to function as a platform for controlled transactions ITM, AI Innovation Hub
+Information level: 31.01.2021
+Transaction level: 31.01.2023
+Creation of a National Data Asset 
+Agency (hereinafter “NAVÜ”)
+Adequate utilisation of the public data assets.
+To this end, supporting public bodies in possession of data assets, in keeping records 
+of data inventories, in making them available for secondary use and in developing their 
+business models. The organisation and the associated public data inventory will be put in 
+place on the basis of the results of projects already completed, projects under way and 
+projects planned to be launched in this particular field.
+ITM, IM, NAIH, KSH
+The organisations’ activities are to be commenced as 
+commissioned, on: 01.10.2020
+Launch of public data portal (with usable data content): 
+31.03.2021
+Open access to at least 100 data sets: 31.01.2022
+Development of a public data inventory: 31.03.2021
+Provision of public funding for 
+free access to high value data 
+asset inventories
+Investments and revenue compensations required for open access to public data 
+inventories ITM, NKFIH, KSH
+Proposal for the decision to be made, based on impact 
+assessment: 31.03.2021
+making data set with great multiplier effect available: 
+30.09.2021
+5.1  Action plan 
+I. Foundation pillars
+AI value Frameworks
+Setting the data 
+economy in 
+motion
+Education, 
+competence 
+development 
+and societal 
+preparedness
+Research, 
+development 
+ and innovation
+Infrastructure 
+development
+Incentivising 
+uptake
+Regulatory 
+and Ethical 
+Framework
+II. Sector specific focus areas
+III. Transformative programmes
+Research, development and innovation
+Measure Goal Responsible Time frame
+Establishing the National 
+Laboratory for Artificial 
+Intelligence (AI LAB) 
+Establishing a consortium responsible for the cooperation in the academic sphere and 
+for the conduct of harmonised AI research to meet the requirements of the market; 
+establishment and operation of an organisation system and a partnership framework 
+ensuring that innovation sources are utilised and leveraged
+ITM - NKFIH Founding date of the consortium: 31.12.2020
+Establishing the National 
+Laboratory for Autonomous 
+Vehicles
+Harmonisation of research and development activities associated with autonomous vehicles 
+and channelling these activities towards actual market demands ITM - NKFIH Founding date of the consortium: 31.12.2020
+Support for the AI Innovation Hub   Building and development of an accelerator centre for start-ups engaging in the 
+development of or using the achievements of AI ITM - NKFIH
+Date of tender invitation: 31.12.2020
+Date of publication of the funds: 31.07.2021
+Attracting international AI 
+research centres to Hungary Moving the AI development departments of companies relocating to Hungary in the country KKM, ITM Development of the programme and compilation of the 
+brochure introducing Hungary: 30.04.2021
+Incentivising uptake
+Measure Goal Responsible Time frame
+Establishing the Innovation Centre 
+for Artificial Intelligence
+Building technology training research and infrastructure marketplaces
+Creation of a team responsible for the support of AI implementation measures specifically 
+aimed at SMEs,
+Promotion of AI in for SMEs
+ITM Launching the Innovation Centre on the base of the AI 
+Coalition: 01.04.2021 
+Development of corporate 
+advisory services based on 
+artificial intelligence (chatbots)
+Within the framework of the EDIOP 3.2.1-15 Modern Businesses Programme (MBP) already 
+underway, the development of corporate advisory services based on artificial intelligence 
+(chatbots) that are able to increase the scope of the digitally advanced enterprises or 
+enterprises intending to become digitally advanced along with the support companies 
+already involved. The development can be integrated with the planned voice-based artificial 
+intelligence platform of the government.
+ITM, MKIK
+Supplementing* the priority project EDIOP 3.2.1-15 MBP 
+until 31.12.2020, 
+Realization of AI partial project until 30.03.2022
+* Subject to consultation with the EDIOP - Managing Authority (IH) and the 
+government decision regarding the amendment of the Annual Development 
+Funds
+Creation of a corporate AI 
+experimental and support fund Provision of sources to test efficiency-enhancing potential based on AI-based technologies ITM - NKFIH Date of fund establishment: 31.07.2021 
+Establishment of the Innovation 
+Award for the Application of AI
+Invitation for tender for awarding the best AI application projects for each category  
+(size + industry) in an annual gala show. ITM - NKFIH Date of publication of the award: 31.07.2021 
+Education, competence development and societal preparedness
+Measure Goal Responsible Time frame
+Making knowledge of AI 
+technologies available to the 
+wider society
+General preparation in higher education
+Preparation of the players of society and economy for leveraging the opportunities offered 
+by AI and for the associated risk management, performed within the framework of higher 
+education.
+ITM 31.03.2022
+General preparation in public education and vocational training EMMI, ITM 31.08.2021
+A parent and child protection programme to raise awareness regarding the dangers of 
+everyday use of AI and regarding the right use of the technology EMMI 31.08.2021
+49
+48
+Education, competence development and societal preparedness
+Measure Goal Responsible Time frame
+AI Challenge
+Training 100,000 people using internationally accredited online course material,
+Raising awareness of 1 million people via interactive exhibitions, a website and online 
+professional contents
+ITM, AI Innovation Hub Start of challenge: 01.11.2020
+Provision of expert capacity 
+regarding the pertinent fields of 
+specialisation
+To make potential AI customers understand the technology and to enhance capacity 
+regarding the management of the realisation process ITM, AI Innovation Hub 31.03.2021
+Training experts in the priority sectors and public administration ITM, AI Innovation Hub, 
+EMMI, BM 31.12.2021
+Preparation to provide suitable specialised training for professions expected to emerge in 
+the future ITM, AI Innovation Hub 31.12.2021
+Development of teacher training in line with the pertinent provisions of the National Basic 
+Curriculum and the framework curricula. ITM, EMMI 31.12.2022
+Provision of a highly qualified expert capacity in higher education to facilitate AI 
+developments
+ITM, higher education 
+insitutions 31.12.2022
+Intensive use of AI technologies in the developments associated with data management in 
+higher education
+ITM, Education 
+Authority, higher 
+education insitutions
+31.12.2022
+Collection and cleansing of data, data disclosure management for the availability of the 
+necessary data, capacity development of data engineer competencies ITM, AI Innovation Hub 31.12.2022
+Preparation for future professions in higher education, promotion of career opportunities in 
+public administration
+ITM, BM – NISZ, 
+Idomsoft Zrt., higher 
+education insitutions
+31.12.2021
+Enhancing developer capacity, provision of continuous professional growth ITM, AI Innovation Hub 31.12.2021
+Enhancing data specialist, developer and research expert capacity in higher education ITM, higher education 
+insitutions 31.12.2022
+Development of mathematical and 
+IT competences
+Enhancing high-level mathematical and IT researchers’ competencies for basic and applied 
+research ITM, AI Innovation Hub 31.03.2021
+Personalised learning methods Personalised learning methods (using AI technology) for supporting people exposed to the 
+risks of falling behind in the labour market and for supporting the talented (HUF 0.5 billion)
+ITM, EMMI, BM, AI 
+Innovation Hub Development of the detailed project proposal: 31.12.2020
+Infrastructure development
+Measure Goal Responsible Time frame
+Enhancing supercomputer 
+capacities As of 2022, the availability of 5 petaflops HPC capacity in Hungary ITM, KIFÜ 31.03.2022
+Development of Hungarian testing 
+environments
+Further development of testing environments, in particular connection to the European 
+testing environment systems in the fields of self-driving vehicles, smart cities, agriculture 
+and manufacturing
+Encouraging international cooperation opportunities and provision of the necessary 
+conditions
+Network testing for PPRD and 5G purposes, testing the government-owned smart 
+settlement platform and infrastructure
+ITM, BM, ZalaZone
+Accreditation of ZalaZone as a European testing 
+environment: 31.03.2021
+Accreditation of the agrarian model farms as a European 
+testing environment: 31.03.2021
+Development of infrastructure 
+marketplace
+Inventory of infrastructures
+Development of an infrastructure request protocol 
+Integration into AI marketplaces
+ITM, KIFÜ, KSH
+Inventory of infrastructures: 31.12.2021
+Development request protocol: 31.12.2021
+Integration into AI marketplaces: 28.02.2021
+Hybrid cloud development for 
+research purposes
+Ensuring the availability of research hardware and software modules with cloud service 
+providers,
+Development of a masking system that is capable of the integrated provision of a 
+development environment for researchers working with various types of clouds
+ITM, KIFÜ, KSH Launch of hybrid cloud: 30.09.2021
+Realisation of large computing 
+capacity data centre 
+developments, application of AI
+Further development and creation of new operational, information security, optimisation 
+and load distribution capabilities to support and supplement new capacities resulting from 
+already existing capacities and further development
+BM - NISZ 31.12.2025
+Building an automated access 
+control system to operate 
+marketplaces
+Implementation of a workload distributor and resource monitoring device to ensure optimal 
+capacity use ITM, KIFÜ Start: 30.09.2022
+51
+50
+Regulatory and Ethical Framework
+Measure Goal Responsible Time frame
+Building a comprehensive data 
+management environment
+Data asset regulation
+- building the regulatory environment regarding general data assets
+- regulatory framework system regarding public data
+- building the financial and legal system of rules regarding data monetisation 
+IM, ITM, NAIH, KSH 31.12.2020
+General regulatory framework 
+system regarding AI
+- amending the general regulatory framework system to suit AI
+- building the Hungarian regulatory environment
+- connecting to the EU regulatory system and implementation
+-  involvement in the legislative activities of the European Council and international 
+organisations, implementation
+IM, ITM, NAIH, KSH 30.06.2021
+Development of the regulatory 
+framework system regarding the 
+AI sector
+Building a comprehensive industry regulatory environment:
+- Healthcare 
+- Education
+- Financial (bank) sector 
+- Regulation of autonomous vehicle systems and their traffic rules
+- Fields of sustainable development 
+- Agriculture, food industry 
+- Leveraging research data assets 
+IM, EMMI, PM, ITM, 
+AM, BM, HM, NAIH, 
+KSH
+30.06.2021
+Drafting an AI code of conduct Creation of an ethical framework system ITM, AI Innovation Hub, 
+IM, KSH 30.04.2021
+Creation of the Artificial 
+Intelligence Regulation and Ethics 
+Knowledge Centre
+Provision and coordination of a wide-ranging base of experts to support regulatory and 
+ethics-related tasks. ITM, IM 30.10.2020
+Manufacturing technologies
+Measure Goal Responsible Time frame
+Support for AI model projects Invitation for a tender to support the financing of especially useful model projects 
+(optimisation of manufacture, identification of scrap, maintenance forecast, etc.) ITM - NKFIH Invitation for the project grant tender: 30.04.2021
+Building of a manufacturing 
+testing environment and 
+integration into the EU
+Building a testing environment capable of presenting manufacturing data analysis
+Exhibition of model applications
+Grant for circular/green manufacturing
+ITM Setup of a test  and model environment: 30.06.2021
+Data processing and data 
+protection associated with 
+manufacturing
+Development of cyber and data protection in manufacturing
+Implementation of data standardisation protocols to enable data analysis 
+Introduction of manufacturing data in the data market
+ITM, AI Innovation Hub
+Cyber protection recommendations and standards: 
+21.03.2021
+Data market integration: on an ongoing basis
+Maintenance of a manufacturing - 
+AI research ecosystem
+Cooperation with the AI LAB in key research topics
+Introduction of players available in the ecosystem in the AI marketplace
+Organisation of applied research and active organisation of an innovative value chain
+ITM, AI LAB Specification of the AI LAB manufacture-research 
+programme: 31.07.2021
+Development of competences 
+regarding the application of AI in 
+manufacture 
+As part of the nationwide campaign, organisation of manufacturing-specific training and 
+case study compilations
+Drafting a production readiness model
+ITM, AI Innovation Hub
+Completion of manufacturing-specific AI training material: 
+30.04.2021
+Drafting an AI readiness model in the field of 
+manufacturing: 28.02.2021
+I. Foundation pillars
+II. Sector specific focus areas
+III. Transformative programmes
+Manufacturing
+Healthcare
+Agriculture
+Public Administration
+• Machine detection, machine recognition
+• Intelligent Manufacturing, Logistics
+• Language technology
+• Reliable AI
+• Anonymization
+• Mathematical foundations of AI
+• Logistics
+• Transport
+• Energy
+Development of AI
+Sectoral efficiency  
+development
+53
+52
+Healthcare
+Measure Goal Responsible Time frame
+Making available the existing 
+health data assets and supporting 
+AI research and innovation using 
+such data assets
+Creation of an infrastructure and organisation that supports leveraging healthcare data 
+assets; creation of the pertinent legislation environment EMMI, BM, KSH Drafting a detailed action plan: 31.03.2021
+Development of AI applications in 
+the fields of prevention, screening 
+and diagnostics 
+I. imaging diagnostics, 
+II. focused, preventive screenings based on the analysis of central files,
+III. therapy and diagnostic decision support, 
+IV. improving the efficiency of pharmaceutical research and support for in silico experiments
+V. development of medical technology equipment
+EMMI Drafting a detailed action plan: 31.03.2021
+Introduction to medicine Introduction of existing applications to medicine (distribution of some own developments 
+within the framework of pilot projects) EMMI Drafting a detailed action plan: 31.03.2021
+Introduction to the supply process Distribution of AI applications suitable for implementation in daily supply processes EMMI Drafting a detailed action plan: 31.03.2021
+AI support for capacity planning AI-supported capacity planning and administration support (e.g. HR, backup files, equipment 
+capacity management) EMMI Drafting a detailed action plan: 31.03.2021
+Agriculture
+Measure Goal Responsible Time frame
+Establishing an agricultural data 
+framework system
+Creation of a conscious data processing option for the entire farming community to support 
+efficient technological and business decisions and to reduce red tape. 
+Structured collection and analysis of plant-level and environmental data to allow the 
+efficiency of government operations to be enhanced and to develop innovative enterprises 
+providing services to data users or farmers. 
+AM, KSH 2020-2023
+Expediting land reparcelling 
+processes by creating exchange 
+chains
+Creation of an AI-supported exchange chain allowing scattered land parcels to be reallocated 
+next to each other based on agreed exchanges AM
+System establishment: 30.06.2021
+Exchange processes: 30.06.2022
+Creation of a plot-based and 
+data-driven farming consultancy 
+service
+Based on the data originating from meteorological and spatial images or local farming, 
+establishing a central recommendation system and simple-to-implement, data-based 
+advisory services
+AM Launch of the advisory services: 30.06.2022
+Public Administration
+Measure Goal Responsible Time frame
+Establishing an AI research 
+cluster in public administration
+Creating a research cluster focusing on the use of AI applications by public bodies and 
+central supply BM 31.03.2022
+Using AI for the automaton of 
+public administration processes
+Delivery of and support for chat-based digital one-stop-shop solutions
+Automation of correspondence, chat and telephone communications with clients
+Expansion of the scope of cases covered by process-automation enabling self-service
+Establishment of client communication options through KIOSK terminals.
+Development of automatic resolution adoption functions.
+Development of data analysis and data processing solutions and extraction of information 
+necessary for running errands or making decisions in a readable and understandable format.
+Development of competences, training courses, continuation training
+Provision of the necessary infrastructural environment.
+BM - NISZ
+Drawing up the detailed project proposal: 31.03.2021
+Based on the project plan, the final deadline for 
+completing individual activities and developments is 
+01.10.2023
+Introduction of control systems for 
+use by law enforcement
+Continued development of the Robocop programme
+Development of border patrol systems, establishment and further development of a 
+comprehensive identification system
+Criminal prosecution and crime prevention relying on integrated data-based analyses
+Development of support functions and the associated administration and legislative tasks
+Using AI, mapping offender networks and further development of the graphical database
+Introduction of existing AI technologies to the investigation process
+Provision of speech-to-text, text-to-speech and language technology functions, system 
+integration, analysis of digital documents and speech recorded during client communications 
+using text mining tools, data processing
+Automaton of manual data management and processing processes
+Support for data management and -processing activities associated with documents
+Development of competences, training courses, continuation training
+Provision of the necessary infrastructural environment 
+BM
+Drawing up the detailed project proposal: 31.03.2021
+Completion of the project: 31.03.2024
+Standardisation activities in 
+public and local government 
+administration
+Start of standardisation in the operation of public- and local government administrations, 
+their implementation and support, identification of key areas, EU cooperation opportunities ITM, BM 31.03.2025
+Development of complex 
+modelling systems to simulate 
+decision-making situations
+Development of simulations required for modelling complex decision-making situations 
+and the introduction of instruments enabling rapid response capabilities for the Disaster 
+Management Authority, the Hungarian Defence Forces and law enforcement forces
+BM, HM, MH Drawing up the detailed project proposal: 31.03.2021
+Development of systems 
+supporting the oversight of 
+financial and tax processes
+Pre-screening of items to be audited and implementation of process automation (software 
+robots, language processing) to enhance the efficiency of SAO, NTCA and bank supervision 
+processes
+PM, BM, MNB, KSH Drawing up the detailed project proposal: 30.06.2021
+Implementation of forecast-based 
+maintenance processes
+Introducing data-based malfunction forecasts and implementation of the indicated 
+maintenance processes in order to develop the maintenance of movable and immovable 
+public assets
+ITM Drawing up the detailed project proposal: 30.09.2021
+55
+54
+Public Administration
+Measure Goal Responsible Time frame
+Developing AI capabilities for 
+military and national security 
+purposes
+Development of basic infrastructure for developing and running programmes,
+Development and implementation of AI-based data collection- and processing systems,
+AI-based support for the cyberspace used for military purposes.
+KNBSZ Drawing up the detailed project proposal: 31.03.2021
+Defence applications and 
+developments
+Automation of big data processing, synthetizing into information, information operations and 
+decision preparation and support systems, 
+Implementation and development of predictive supply systems, 
+Autonomous systems in all relevant operational theatres (air, land, space), 
+Development of human-machine cooperation from both sides
+Protection against systems supported by AI
+Modelling and simulation
+Developments aimed at protecting and analysing the defence-related elements of the 
+National Data Assets.
+HM, MH Drawing up the detailed project proposal: 31.03.2021
+Energy
+Measure Goal Responsible Time frame
+Integrating smart meters, 
+developing the conditions and 
+requisites for data-driven 
+processes
+Increasing the number of multi-time zone, flexible pricing services offered and used by 1 
+million electricity users equipped with smart meters ITM 2030
+Implementation of predictive 
+maintenance and autonomous 
+operation
+Analysis of network data sets to predict the maintenance activities to be completed in energy 
+public utility networks ITM Development of competences necessary to analyse big 
+network data concerning maintenance by 2025
+Logistics
+Measure Goal Responsible Time frame
+AI-based unification and 
+standardisation
+Initiating the standardisation of the solutions used for the identification of products and 
+goods. ITM Drawing up the detailed project proposal: 31.05.2021
+Integrated AI development of the 
+fields associated with logistics
+Integrated development of the interfacing areas through the supply chain/logistics (e.g. 
+supplying  consumers, manufacturing systems, predictive maintenance) ITM Drawing up the detailed project proposal: 31.03.2021
+Transport
+Measure Goal Responsible Time frame
+Extension of smart city concepts - 
+traffic control, traffic management
+AI-based, automatic traffic management to reduce traffic jams
+Development of smart parking systems
+Support for achieving the strategic traffic management and traffic policing policy objectives
+ITM, BM Drawing up the detailed project proposal: 31.03.2021
+Building a digital infrastructure 
+facilitating the use of on-board 
+data transmission devices
+Integrated analysis of signal data originating from data transmission devices, recognition of 
+data patterns, support for self-driving vehicles by improving V2V communication, enhancing 
+traffic safety
+ITM, ZalaZone Building a digital infrastructure 31.03.2022
+Public transport developments Optimisation of urban public transport networks, passenger counts, journey optimisation ITM, BKK, MÁV, Volán Building a digital analytics platform: 30.09.2021
+Self-driving vehicles – autonomous systems
+Measure Goal Responsible Time frame
+Building the infrastructure- and 
+regulatory framework necessary 
+for the operation of autonomous 
+transportation systems
+Harmonising domestic and EU legislative environments and traffic police regulations. 
+Nationwide road development to contribute to the self-driving infrastructure ITM, BM Equipping single-digit road networks with self-driving 
+infrastructure by 2025
+Health consciousness in a digital world
+Measure Goal Responsible Time frame
+A campaign promoting the use of 
+healthcare data
+A campaign promoting awareness, own collection and responsible use of possible healthcare 
+data using applications linked to the data wallet app EMMI, ÁEEK, ITM Start of the campaign: 31.03.2021
+Opinions regarding the use of 
+healthcare data
+Adopting a legal opinion with regard to the options of secondary use of own or self-collected 
+healthcare data EMMI, BM, ITM, KSH 31.12.2023
+Assessment of activities of businesses engaging in illegal data management, assessment 
+and deploying the tools of enforcement measures against these activities, reducing the 
+number of information security incidents, enhancing data protection and integrity of data.
+EMMI, ÁEEK, BM, ITM ongoing
+Drafting of rating systems 
+for healthcare data analytics 
+applications
+Mapping digital healthcare applications, developing rating criteria and monitoring processes, 
+communicating the rated service providers EMMI, ÁEEK, ITM 30.06.2021
+I. Foundation pillars
+Self-driving 
+vehicles – 
+autonomous 
+systems
+Health 
+consciousness in a 
+digital world
+Climate-driven 
+agriculture
+Data wallet and 
+personalized 
+services
+AI-supported 
+development 
+of personal 
+competences
+Automated 
+administrative 
+procedures in 
+Hungarian
+Energy networks 
+focused on 
+renewable sources 
+of energy
+II. Sector specific focus areas
+III. Transformative programmes
+57
+56
+Climate-driven agriculture
+Measure Goal Responsible Time frame
+Preparing for the impacts of 
+climate change and mitigating its 
+adverse effects
+Development and application of AI-based, optimisation solutions in terms of plant production 
+and stock farming AM Drawing up the detailed project proposal: 31.12.2020
+Implementation of predictive, AI-based analytics methods to improve water, soil and air 
+quality to enhance the efficiency of management AM Drawing up the detailed project proposal: 31.12.2020
+Data wallet and personalized services
+Measure Goal Responsible Time frame
+Development of the data wallet 
+technology model
+Development of software to support citizens in making statements regarding the use, sale or 
+disclosure of their data to third parties in a one-stop-shop system.
+Integration of Hungarian patents to allow fully anonymous accesses.
+ITM
+Preparation of the first demo model: 31.12.2020
+Building the model providing full anonymity: 28.02.2022
+Provision of legal oversight 
+Management of measures monitoring requests granted under Art. 20 of the GDPR and 
+managing the increasing legal redress requests
+Issue of positions taken regarding the possibilities and recommended guidelines on 
+compensations to be provided to service providers and citizens upon the disclosure of data 
+collected by service providers
+ITM, NHIT, NAIH
+Issue of an official opinion on the expectations regarding 
+data wallet compatibility: 31.12.2020
+Recommendation on the distribution of the proceeds of 
+data sales: 31.12.2020
+Support for businesses present 
+in the market for attaining 
+compatibility with the data wallet
+Establishment of a grant fund intended for market players (primarily for SMEs) ITM - NKFIH Completion of the tender concept: 30.06.2021
+AI-supported development of personal competences
+Measure Goal Responsible Time frame
+AI-supported career advisory 
+system
+Development of the necessary files, expert activities, ensuring interoperability of file systems ITM, Education 
+Authority Drawing up the detailed project proposal: 30.06.2021
+Development of a personalised training recommendation service that is tailored to individual 
+life objectives and based on public education, vocational training, tertiary vocational training 
+and adult education offers, along with the labour market results attained by their completion
+ITM, AI Innovation Hub Drawing up the detailed project proposal: 30.06.2021
+Identification of learning path 
+recommended in the training
+Within the training, establishing a service offering training content or courses allowing the 
+completion of a customised learning path ITM, AI Innovation Hub Drawing up the detailed project proposal: 30.06.2021
+Learning assistant Development of a personal learning assistant, primarily for those who are exposed to the 
+risks of falling behind in the labour market in terms of the acquisition of basic competences ITM, AI Innovation Hub Drawing up the detailed project proposal: 31.12.2020
+Automated administrative procedures in Hungarian
+Measure Goal Responsible Time frame
+Collection of training datasets Collection of corpuses necessary for developing the processing of the Hungarian language by 
+machines for both oral and written text materials ITM, BM Corpus compilation: 31.07.2021
+Automaton of the multi-channel 
+customer service processes 
+used by nationwide telephone-
+based customer services using AI 
+solutions
+AI support for human email, chat and voice communication BM - NISZ Launch of pilot: 31.03.2021
+Support for implementation in 
+customer services
+Expansion to government administrative matters
+Invitation for tenders for the development of AI-supported customer services and for building 
+the 1818 Government Client Hotline and for cooperation regarding infocommunications
+BM - NISZ, ITM - 
+NKFIH Launch of wide-scale promotion: 31.12.2022
+Energy networks focused on renewable sources of energy
+Measure Goal Responsible Time frame
+Implementation of Smartgrid 
+technologies
+Building upon smart meters, the implementation of smartgrid technologies and wide-scale 
+forecasts, we shall facilitate the creation of a more accurate production timeline for weather-
+dependent renewable energy sources and the operation of the energy network relying on it
+ITM
+Implementation of a new network development and 
+network connection regulation by 2025 to support 
+an efficient system integration of the production of 
+renewable energy
+*Note that in the above table the abbreviations and acronyms of responsible institutions are the Hungarian versions. 
+The following table contains english translations for these.
+Hungarian 
+acronym/
+abbreviation
+Hungarian name English name
+ÁEEK Állami Egészségügyi Ellátó Központ National Healthcare Service Center
+AI LAB MI Nemzeti Labor AI National Lab
+AM Agrárminisztérium Ministry of Agriculture
+BKK Budapesti Közlekedési Központ Centre for Budapest Transport
+BM Belügyminisztérium Ministry of Interior
+EMMI Emberi Erőforrások Minisztériuma Ministry of Human Capacities
+HM Honvédelmi Minisztérium Ministry of Defence
+Idomsoft Zrt. Idomsoft Zrt. Idomsoft Ltd.
+IM Igazságügyi Minisztérium Ministry of Justice
+ITM Innovációs és Technológiai Minisztérium Ministry for Innovation and Technology
+KIFÜ Kormányzati Informatikai Fejlesztési 
+Ügynökség Governmental Information Technology Development Agency
+KKM Külgazdasági és Külügyminisztérium Ministry of Foreign Affairs and Trade
+KNBSZ Katonai Nemzetbiztonsági Szolgálat Military National Security Service
+KSH Központi Statisztikai Hivatal Central Statistical Office
+Hungarian 
+acronym/
+abbreviation
+Hungarian name English name
+MÁV Magyar Államvasutak Zrt. Hungarian State Railways
+MH Magyar Honvédség Hungarian Defence Forces
+MKIK Magyar Kereskedelmi és Iparkamara Hungarian Chamber of Commerce and Industry
+MNB Magyar Nemzeti Bank Central Bank of Hungary
+NAIH Nemzeti Adatvédelmi és 
+Információszabadság Hatóság
+National Authority for Data Protection and Freedom of 
+Information
+NISZ Nemzeti Infokommunikációs Szolgáltató 
+Zrt.
+National Infocommunications Services Ltd.  
+(under Ministry of Interior)
+NKFIH Nemzeti Kutatási, Fejelesztési és 
+Innovációs Hivatal National Research, Development and Innovation Office
+OH Oktatási Hivatal Educational Authority
+PM Pénzügyminisztérium Ministy of Finance
+Volán Volánbusz Közlekedési Zrt. VOLÁNBUSZ Transport Company Ltd. (100% state owned 
+public transport provider)
+ZalaZone ZalaZone zalaegerszegi tesztpálya ZalaZone Zalaegerszeg test track (proving ground for 
+vehicular R&D)
+

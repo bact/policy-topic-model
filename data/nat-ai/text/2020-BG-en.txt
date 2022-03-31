@@ -1,0 +1,2316 @@
+1 
+REPUBLIC OF BULGARIA 
+MINISTRY OF TRANSPORT, 
+INFORMATION TECHNOLY AND COMMUNICATIONS 
+ 
+ 
+ 
+CONCEPT FOR THE DEVELOPMENT OF 
+ARTIFICIAL INTELLIGENCE 
+IN BULGARIA UNTIL 2030 
+ 
+Artificial intelligence for smart growth  
+and a prosperous democratic society 
+ 
+ 
+ 
+ 
+OCTOBER 2020 
+ 
+2 
+SUMMARY  
+The current draft Concept for the Development of Artificial Intelligence (AI) in Bulgaria 
+until 2030 is in line with the documents of the European Commission, which consider artificial 
+intelligence as one of the main drivers of digital transformation in Europe and a significant 
+factor in ensuring the competitiveness of the European economy and high quality of life. 
+The specific aspects of the European vision of "reliable AI", in which technological 
+progress is accompanied by a legal and ethical framework to ensure the security and rights of 
+citizens, as well as measures to collect accessible high-quality data, disseminate information 
+and equal access to the benefits of AI technologies. An overview of the three main types of 
+sectors is made in relation to the creation and use of AI - sectors developing AI, consuming AI 
+and enabling the development and implementation of AI. 
+Prerequisites and challenges for the development of AI in Bulgaria in the next decade are 
+presented. The state of the Bulgarian ecosystem in the field of AI is considered, followed by 
+SWOT analysis. The goal of the Concept for the development of AI in Bulgaria (AI-BG) and 
+the related sub-goals are defined. The main areas of impact and specific measures have been 
+identified: building a reliable infrastructure for AI development, including data infrastructure; 
+development of research capacity for scientific excellence; creation of knowledge and skills for 
+the development and use of AI; support for innovation to implement AI in practice; raising 
+awareness and building trust in society; creating a regulatory framework for the development 
+and use of reliable AI in accordance with international regulatory and ethical standards. 
+Possible priority sectors are listed with arguments about their importance. The main 
+statements related to the implementation, monitoring and financing of the activities are 
+outlined. It is proposed to establish an Interdepartmental Working Group, which will include 
+representatives of key state institutions, district administrations, academia, business and 
+professional associations, as well as related non-governmental organizations. Its task will be to 
+analyze the overall state of the sector and to prepare an operational National Plan / Roadmap 
+for the implementation of the Concept, which will determine the specific measures, deadlines, 
+responsible institutions and organizations, expected results and indicators, sources of necessary 
+financial resources and organization for performance reporting and periodic updating. 
+ 
+This concept is based on documents developed by a team of the Bulgarian Academy of Sciences 
+(BAS) and external experts: А National Strategy Framework for the Development of Artificial 
+Intelligence in Bulgaria (2019) and Strategy for the Development of Artificial Intelligence in 
+Bulgaria until 2030 (preliminary vision) (2020). 
+Cover illustration: Svetla Boycheva and Pavel Boychev © 2020 CC BY  
+  
+ 
+3 
+CONTENT  
+1. INTRODUCTION .............................................................................................................................5 
+2. AI AS A DRIVER OF DIGITAL TRANSFORMATION FOR ECONOMIC GROWTH AND 
+QUALITY OF LIFE .........................................................................................................................9 
+2.1. Artificial Intelligence developing sectors –research ............................................................... 10 
+2.2. Artifical Intelligence consuming sectors ............................................................................... 10 
+2.3. Sectors enabling the development and implementation of AI ................................................ 15 
+3. PREREQUISITES AND CHALLENGES FOR THE DEVELOPMENT OF AI IN BULGARIA FOR THE 
+PERIOD 2020-2030....................................................................................................................... 19 
+3.1. Political framework .............................................................................................................. 19 
+3.2. State of the Bulgarian ecosystem in the field of AI ................................................................ 21 
+3.3. SWOT analysis of the Bulgarian ecosystem in the field of AI ............................................... 27 
+4. VISION AND GOALS OF THE CONCEPT FOR THE DEVELOPMENT OF AI IN BULGARIA (AI-
+BG) 29 
+4.1. Providing modern communications and scientific infrastructure development and 
+introduction of AI and digital new generation ....................................................................... 29 
+4.2. Developing an advanced system for education and lifelong learning ..................................... 30 
+4.3. Strengthening and developing the capacity for research and technology transfer in the 
+field of AI and related technologies ...................................................................................... 30 
+4.4. Unlocking the potential of data as a raw material for AI development ................................... 31 
+4.5. Introducing AI-based innovation in key sectors ..................................................................... 31 
+4.6. Building trust in AI and a regulatory framework for the development and implementation 
+of reliable AI technologies, in line with established legal and ethical principles within the 
+EU........................................................................................................................................ 31 
+5. AREAS OF IMPACT AND SPECIFIC MEASURES OF THE AI-BG CONCEPT ..................................... 33 
+5.1. Building a reliable infrastructure for AI development ............................................................ 33 
+5.2. Development of research capacity for scientific excellence ................................................... 34 
+5.3. Establishing a knowledge base and skill set for the development and use of AI ..................... 36 
+5.4. Support for innovation to implement AI in practice ............................................................... 38 
+5.5. Raising awareness and building trust in society ..................................................................... 39 
+5.6. Establishing a regulatory framework for the development and implementation of reliable 
+AI in accordance with international regulatory and ethical standards ..................................... 40 
+6. PROPOSAL FOR DEVELOPMENT OF AN ACTION PLAN AND SELECTION OF PRIORITY 
+SECTORS ..................................................................................................................................... 43 
+7. IMPLEMENTATION, MONITORING AND FINANCIAL PROVISION .................................................. 49 
+7.1. Implementation .................................................................................................................... 49 
+7.2. Monitoring ........................................................................................................................... 49 
+7.3. Financing ............................................................................................................................. 51 
+8. DOCUMENTS REFERRED TO IN THE AI-BG CONCEPT ................................................................ 54 
+  
+ 
+4 
+LIST OF ABBREVIATIONS AND ABBREVIATIONS 
+ 
+AI Artificial Intelligence 
+COM Communication from the European Commission to the European Parliament, the Council, 
+the Economic and Social Committee and the Committee of the Regions  
+DESI Digital Economy and Society Index 
+GDPR General Data Protection Regulation 
+BAIA Bulgarian Artificial Intelligence Association  
+BAS Bulgarian Academy of Science  
+BASSCOM Bulgarian Association of Software Companies  
+SEGA State e-Government Agency 
+SARI State Agency for Research and Innovation  
+EC European Commission 
+EU European Union 
+BSMEPA Bulgarian Small and Medium Enterprises Promotion Agency 
+AI Artificial Intelligence  
+AI-BG Concept for the development of artificial intelligence in Bulgaria 2030 
+ICT Information and Communication Technologies 
+ISSS Innovative Strategy for Smart Specialization  
+MI Ministry of Interior   
+МЕ Ministry of Energy  
+MH Ministry of Health 
+MAFF Ministry of Agriculture, Food and Forestry  
+MoE Ministry of Economy  
+MoD Ministry of Defence 
+МoES Ministry of Education and Science  
+MOEW Ministry of Environment  and Water 
+MoJ Ministry of Justice 
+SME Small and Medium Enterprises  
+MTITC Ministry of Transport, Information Technology and Communications  
+MLSP Ministry of Labor and Social Policy  
+MoF Ministry of Finance  
+EQD Educational Qualification Degree  
+OP SESG Operational Program Science and Education for Smart Growth 2014-2020 
+ 
+5 
+1. INTRODUCTION 
+The definition of smart systems in the European Commission's (EC) report “Science, 
+Research and Innovation Performance of the EU 2020: A Fair, Green and Digital Europe” [3]1 
+states: "Artificial Intelligence (AI) systems are software (and possibly also hardware)  systems 
+designed by humans that, given a complex goal, act in the physical or digital dimension by 
+perceiving their environment through data acquisition, interpreting the collected structured or 
+unstructured data, reasoning on the knowledge, or processing the information derived from this 
+data and deciding the best action(s) to take to achieve the given goal. AI systems can either use 
+symbolic rules or learn a numeric model, and can also adapt their behaviour by analysing how 
+the environment is affected by their previous actions.” The term AI refers to both the thriving 
+scientific discipline of "artificial intelligence", which emerged in 1956, and the technological 
+phenomenon of modern intelligent systems, which analyze their environment and - with some 
+independence - take action to accomplish their tasks. For the practical purposes of this concept, 
+AI is a "set of technologies that combine data, algorithms and computing power" [4], which has 
+the potential to transform key sectors of industry, services and society as a whole. 
+The growing capacity of computing infrastructure and the emergence of very large 
+volumes of data are a major reason for recognizing that Europe's sustainable economic growth 
+and prosperity will increasingly rely on the deployment of smart systems and the economic 
+benefits of data processing. However, the use of AI technologies poses a number of potential 
+risks, such as non-transparency of the decision-making process, violation of privacy, criminal 
+use or simply rejection and rejection by citizens due to the requirements for higher 
+qualifications or fear of change in the labor market. In the context of global competition for a 
+leading role in the development and implementation of AI, the EC is committed [5] to helping 
+to achieve scientific breakthroughs, to maintaining the technological leadership of the European 
+Union (EU) and to ensuring that new technologies will be at the service of all Europeans in 
+order to improve their lives while respecting their rights. The Commission also calls on the 
+Member States to contribute to building a European "ecosystem" for the development and use 
+of AI in full respect of citizens' values and rights. 
+At European level, AI is a component of the Digital Europe Programme [6], which aims 
+to bring about a digital transformation in the EU in the period 2021-2027, with maximum 
+benefits for businesses, public administrations and society. The policies of the Digital Europe 
+Programme focus on five main areas: High-performance computing (HPC); Artificial 
+Intelligence (AI); Cybersecurity and Trust; Advanced Digital Skills; Interoperability and 
+Digital transformation. AI is a basic digital technology that must become widely available and 
+used by business, the public sector and all European citizens. 
+AI will also significantly support the development of automation and data exchange in 
+production technologies, which will achieve a digital transformation in industry (the so-called 
+                                               
+1 Note: The designations [1], [2], [3], ... in the text are references to the number of documents in Part 8, where a 
+bibliography of the sources used is given. 
+1. Introduction  
+ 
+6 
+Industry 4.0 [7]). Autonomous cyberphysical systems and the functioning of the Internet of 
+Things in real time will be the basis for the emergence of virtual productions and smart 
+factories. The EC is already addressing issues related to safety and responsibilities in the 
+implementation of robotics and autonomous systems with AI [8]. 
+The European approach to the development and use of AI is characterized by a unique 
+vision - technological progress to be accompanied by a legal and ethical framework to ensure 
+the security and rights of citizens, as well as measures to collect accessible data of high quality, 
+wide dissemination of information, and equal access to the benefits of AI technology. 
+Europe aims to become a world leader in "trustworthy AI", in which AI applications 
+follow certain ethical standards and do not cause intentional or accidental harm even when they 
+are handled by people with minimal technical knowledge. This would increase public 
+confidence in European AI, developed in a unique "trust ecosystem", and motivate industry 
+to offer products and services where reliability is a competitive advantage. Ethical norms will 
+be an incentive for new research, scientific breakthroughs and innovation in AI. In this way, 
+the EU will set global standards for AI. The High-Level Expert Group on Artificial Intelligence 
+(AI HLEG)2 in 2018 identified ethical principles and related values that should be respected in 
+the development, implementation and use of AI systems: the principle of respecting human 
+autonomy, the principle of prevention of harm, the principle of fairness and the principle of 
+explainability [9]. In 2019, the EC published seven key requirements [10] that AI applications 
+must meet to be considered reliable: 
+human agency and oversight – AI systems should not impair human autonomy and cause 
+other adverse effects; 
+technical robustness and safety – the physical and mental safety of AI systems to be 
+verified at all stages by all parties concerned; 
+privacy and data governance – the data is free from inaccuracies or errors and does not 
+reflect social prejudices; 
+explainability and transparency – to record and document both the decisions taken by the 
+AI systems and the whole process that led to these decisions; 
+diversity, non-discrimination and fairness – to ensure universal design for equal access 
+for people with disabilities; 
+societal and environmental well-being – to monitor the social impact of AI, as well as the 
+sustainability and environmental responsibility of AI systems; 
+accountability – to ensure responsibility and accountability for AI systems and their 
+outcomes, to minimize potential negative impacts. 
+Regarding the technical stability and security of AI systems, a number of 
+recommendations and specific requirements have been set for new types of risks and 
+vulnerabilities: possible covert attacks through data manipulation and decision-making 
+mechanisms, as well as abuses of the “black box” effect due to the use of machine learning and 
+big data. The essential difference between AI systems and "traditional" information and 
+                                               
+2 https://ec.europa.eu/digital-single-market/en/high-level-expert-group-artificial-intelligence 
+1. Introduction  
+ 
+7 
+management systems is that in AI it is not always possible to explain why a model has led to a 
+specific result or solution, and what combination of input factors has contributed to this. In 
+these cases, the algorithms are likened to a "black box" and the principle of "explainability" is 
+proposed, which is directly related to the "transparency" requirement and is essential for 
+building and maintaining citizens' trust in AI applications. Processes must be transparent, the 
+capabilities and purpose of AI systems must be openly communicated, and decisions must be 
+explained, to the extent possible, to those directly or indirectly affected by them. Other 
+explanatory measures are also proposed (traceability, auditability and transparent 
+communication about the capabilities of the system). The approach in the “self-assessment list” 
+of AI systems published by the EC according to the seven key requirements is also based on 
+risk assessment depending on the degree of criticality in using AI systems and the solutions 
+they offer, the dependence on their correctness and possible harmful consequences. The latest 
+version from July 2020 of the Assessment List for Trustworthy Artificial Intelligence (ALTAI) 
+[11], developed by the High-Level Expert Group on AI, also offers an online self-assessment 
+platform to raise awareness and knowledge of implementing organizations and companies 
+(especially small and medium-sized businesses) on the risks and methods of prevention. 
+Regarding the need to develop and implement AI-specific standards, the EC has 
+published a Rolling Plan for ICT Standardization [12], which includes an AI section with five 
+specific measures to coordinate actions between Member State and  EU institutions on policies, 
+requirements and investments, as well as coordination with international standardization 
+organizations and world practices. A special section is devoted to the specific aspects of AI 
+cybersecurity, identification of gaps and necessary standards regarding security, safety and 
+protection of personal information in AI systems, the possibilities of using AI for cyber 
+protection, as well as the specifics of protection against malicious use of AI. From the beginning 
+of 2020, special groups have been set up in European standardization organizations - for 
+example, the ETSI Securing Artificial Intelligence group (European Telecommunications 
+Standards Institute). An expert group on Artificial Intelligence Cybersecurity has been set up 
+at the European Union Agency for Cyber security (ENISA). 
+Data is an important raw material for AI and a key prerequisite (along with computing 
+infrastructure) for the development of new algorithms and applications. The EU has strict rules 
+on the use of personal data (GDPR) [13], which make it difficult to access information for 
+citizens, for example in healthcare. In order to facilitate the collection of large volumes of 
+anonymised personal, non-personal and public data and to make them accessible to all 
+interested parties [14] [15], the EC plans to create European Data Spaces [16] as an initiative 
+shared with Member States. This is an extremely challenging task due to the need to standardize 
+formats and ensure interoperability, especially given that some of the data is in free text in 
+different languages. 
+In order to facilitate the widespread dissemination of AI and equal access to new 
+technologies for citizens and small and medium enterprises, the EC will establish World-class 
+AI Reference Testing and Experimentation Facilities in several areas: hardware, software, 
+components, systems, data, computing infrastructures and cloud computing [17]. These 
+facilities will provide a highly specialized network of shared resources at European level and 
+1. Introduction  
+ 
+8 
+will support the implementation of AI in healthcare, smart agriculture, robotics, manufacturing, 
+smart cities and more. 
+Along with developing an ethical and legal standard for AI, the EU will build a "high-
+performance ecosystem" throughout the value chain, starting with scientific research and 
+innovation. The activities of related Scientific Research Centers of Excellence will be supported 
+and coordinated and it will be ensured that at least one Digital Innovation Hub specialized in 
+the field of AI is set up in each Member State. However, Europe's ambitious agenda must be 
+realized over the next decade in competition with superior US and Chinese investment plans 
+[18] and in an aggressive battle for markets with the products of technology giants such as 
+Google, Amazon, Microsoft and others which currently dominate the development of most 
+leading AI technologies [19]. Achieving a scale requires a pan-European approach to AI that 
+will prevent the fragmentation of the European Research Area and the single market. Member 
+States are invited to draw up national AI strategies or programs, or to integrate this dimension 
+into other related strategies and programs, outlining the envisaged investments and 
+implementation measures [20]. 
+The current draft Concept for the Development of AI in Bulgaria (AI-BG) for the period 
+2020-2030 follows the guidelines outlined by the High-Level Expert Group on AI in the 
+document "Policy and investment recommendations for trustworthy AI" [21]. The main areas 
+of impact are building AI infrastructure, developing scientific research capacity and adequate 
+digital skills, supporting innovation, developing a legal framework, increasing public 
+confidence, and focusing specifically on selected priority areas for individual countries. 
+Examples of priority areas are often cited as health, agriculture, public administration and 
+transport. The EC documents do not discuss the use of AI for military purposes - for example, 
+the development of autonomous weapons, which does not preclude the development of such 
+scientific research and applications at the national level. 
+The areas of impact, priorities and activities proposed in the Concept take into account 
+the Bulgarian strategic and normative documents created so far, which address the digital 
+transformation of the economic and public sectors, upgrading them with specific measures for 
+the development of AI in our country. 
+ 
+9 
+2. AI AS A DRIVER OF DIGITAL TRANSFORMATION FOR 
+ECONOMIC GROWTH AND QUALITY OF LIFE 
+The rapid entry of AI is radically changing a number of sectors of the economy and 
+society as a whole. Although the ideas and some fundamental techniques of AI originated long 
+ago, today, as a result of the accumulated computing capacity, communication potential and big 
+data, the world is facing transformations that are much more far-reaching than the technological 
+revolution of the last century. Changes do not happen at the same pace in different sectors due 
+to different degrees of readiness of AI technologies for implementation, insufficient readiness 
+of the sector to accept them, especially if solid financial investments are required, unclear 
+regulatory framework, lack of staff, lack of consensus in the professional community, 
+consumers or society as a whole and others. The countries with high-tech economies and a high 
+level of computer skills of citizens are most dynamically implementing intelligent systems. 
+However, daily news shows that AI as a key tool for development is also entering Bulgaria, 
+often as an imported product with limited use and, albeit more slowly, becoming a catalyst for 
+digital transformation.  
+ 
+ 
+ 
+2. AI as a driver of Digital Transformation for Economic Growth and Quality of Life 
+ 
+10 
+ 
+Sectors and their connection with the creation and use of AI 
+Regarding the creation and use of AI in different industries, three groups of sectors stand 
+out: 
+ Artificial Intelligence developing sectors; 
+ Artificial Intelligence consuming sectors; 
+ enabling the development and implementation of Artifiicla Intelligence; 
+2.1. Artificial Intelligence developing sectors –research 
+Excellence in fundamental and applied research in AI, ICT, robotics, autonomous systems 
+and other related fields, which create and test reliable AI technologies, is one of the main factors 
+for Europe's intellectual and commercial leadership. Currently, European scientists publish 
+most articles with scientific and applied results in the field of AI (over 27% of the global 
+scientific production in Scopus for 2018 [22]), but they work mainly in relatively small and 
+fragmented scientific units, which calls for the unification of the European research community 
+through enhanced international cooperation and targeted funding, talent retention mechanisms 
+in Europe and the implementation of sustainable technology transfer schemes to industry 
+through public-private partnerships. 
+Research fields in which the largest increase in the number of published articles is 
+observed are: machine learning, including deep learning; natural language and speech 
+processing; machine vision; AI in cyberphysical systems and robotics (US $ 7.7 billion was 
+invested in self-driving vehicle research in the world in 2019 [22]); cognitive systems. Other 
+research areas of strategic importance are: development of AI-algorithms for chips embedded 
+in Internet of Things devices; creating a hybrid AI with capacity for inference and learning as 
+the core of systems capable of explaining; development of algorithms for learning facts from 
+small data sets, etc. The capacity of AI systems to draw inferences over big data is expected to 
+increase significantly in the coming decades [23]. The improvement of AI presupposes the 
+development of the basics of ICT and will lead to the emergence of a new generation of 
+technologies. AI is already beginning to be used for software development, which allows 
+automatic synthesis of program code.  
+The European High-Level Expert Group recommends the establishment of a Strategic 
+Roadmap for AI research in the EU, outlining the specialized and interdisciplinary scientific 
+problems and major research challenges. The map should be regularly updated and guide 
+research in the EU to achieve reliable AI, helping to harmonize Member States' research 
+programs [21]. 
+2.2. Artifical Intelligence consuming sectors 
+Practically every sector using digitization is a potential consumer of a type of AI, because 
+the implemented computer systems can incorporate intelligent services or devices for 
+automation of routine repetitive activities. This also applies to large and medium-sized 
+industrial organizations, which typically generate big data. SMEs are also potential users of AI, 
+2. AI as a driver of Digital Transformation for Economic Growth and Quality of Life 
+ 
+11 
+which helps analyze customer data and offers ways to personalize services and products. A 
+survey on the perception of AI in companies [24], conducted in December 2019 with 
+representatives of 25 industries shows that 85% of respondents with the largest share of the 
+software industry, followed by finance and banking, are interested in AI. AI is mainly used for 
+analysis or is integrated into the production process. The biggest obstacle to the implementation 
+of AI is the lack of support from the organization.  
+Here are examples of the various ways in which AI is transforming industry, services and 
+society today and the expected changes in the near future. 
+E-Commerce: This seems to be the sector with the most widespread use of AI at the moment. 
+Global e-commerce platforms track customer choices, accumulate profile data for each 
+individual customer, and offer a personalized selection of preferred products. Geo-targeted 
+promotions with language localization and automatic price optimization allow worldwide sales. 
+Automatic dialog assistants with the ability to recognize natural language speech with good 
+accuracy, also called chatbots, provide interaction and communication with customers without 
+the participation of human staff, answer basic questions and help to make round-the-clock sales. 
+Large e-commerce platforms such as Amazon make extensive use of strategies to personalize 
+and model customer expectations, increasing their revenue at an impressive rate. 
+Modern platforms (on the Internet): Technology giants such as Google, Microsoft and 
+Lenovo use AI to facilitate communication with their many customers. Some of their products 
+are difficult for the average non-specialist user to understand, and therefore specialized virtual 
+assistants are created using speech recognition and natural language comprehension in certain 
+narrower areas. Smart voice assistants analyze user replicas in real time and generate 
+appropriate responses. Machine translation on the Internet is a revolution in the field of 
+communications and its quality is constantly improving. World leaders in social networks such 
+as Facebook use AI components to recognize images (faces, objects) and filter fake news. 
+Technology giants gain a competitive advantage by acquiring smaller companies, innovators in 
+certain niches of AI, and thus consolidate their dominant position.  
+Finance and Banking: Lending and investment management also use AI systems to assess 
+customer solvency. Virtual assistants specializing in banking and financial services can use AI 
+to mimic human logical reasoning skills and provide personalized advice. As online 
+transactions become more popular every year, the financial and banking industries are facing 
+more and more complex cases of identity theft and fraud losses. AI will help build next-
+generation financial cybersecurity through systems that use deep real-time self-learning and 
+analysis that detect patterns of behavior and detect suspicious deviations and potential fraud. 
+Energy: AI will provide new solutions to improve energy efficiency through the collection and 
+processing of large volumes of data and machine learning, as well as through robotic energy 
+grid inspection systems. The analysis of data on energy consumption by individual consumers 
+will allow optimization to be carried out in order to achieve more efficient consumption and 
+reduce energy consumption and price paid. Monitoring the operation of power grid facilities 
+through sensors and drones in real time will allow for assessment of their condition, reporting 
+of local meteorological changes and the impact of other environmental factors, as well as data 
+collection as a basis for optimization and planning. energy production, and others.  
+2. AI as a driver of Digital Transformation for Economic Growth and Quality of Life 
+ 
+12 
+Production: AI helps manufacturers reduce costs while maintaining high quality products and 
+services. This is achieved by optimizing operations: improving efficiency by planning 
+maintenance, reducing downtime or supply chain optimization. Today, AI is built into 
+automated machines that perform uniform repetitive activities. In the coming years, however, 
+a transition from "assistive intelligence" to "autonomous intelligent factories" based on 
+Internet-connected devices is expected. Data collected from connected devices in production 
+lines will be integrated with data from design, engineering and quality control teams, creating 
+an intelligent work environment for training "smart machines" that simulate intelligent behavior 
+with little or no human intervention. Manufacturing companies will maintain and increase their 
+competitiveness if their production is managed by AI systems. 
+Logistics: The exchange of goods and cargo is a global activity that can be optimized through 
+AI and machine learning. Coordinating the exchange of billions of individual products and 
+goods on the world transport network is a task that already goes beyond human management 
+capabilities. AI applications in logistics match supply and demand, and also help to coordinate 
+and plan production, warehousing, transport networks and vehicles and supplies. Thus, with the 
+use of AI, distribution can reach optimal levels of efficiency, while reducing the cost of logistics 
+activities in general. 
+Healthcare: AI can provide a radical improvement in the analysis of complex medical images 
+such as X-rays, computer tomography examinations, and various screenings and tests. Data 
+from clinical trials in patient records and external sources of knowledge, such as medical 
+ontologies, genetic databases, conceptual resources including open related data, etc., will allow 
+the detection of unknown patterns and correlations in the onset and course of disease, early 
+diagnosis , finding a better treatment for chronic diseases and building a personalized treatment 
+plan for each patient. Applications of AI in biotechnology help to shorten the process of creating 
+new drugs. Last but not least, the success of the automatic analysis of free text allows to quickly 
+find relevant facts in the scientific literature. Almost everywhere, software platforms are being 
+set up to automatically provide medical advice to patients in real time, including immediate 
+advice when symptoms occur (which is an example of an ethical and legal issue related to the 
+protection of personal data and liability). 
+Agriculture: In this area, AI provides approaches to managing expert information and 
+knowledge about nature, natural processes and modern agricultural technologies to find smart 
+solutions for efficient land use as a source of health, food and income. In animal husbandry, AI 
+provides tools to automate animal monitoring and robotize technological operations, including 
+intelligent waste management. AI will be key in addressing important issues related to crop 
+protection and forestry, veterinary pharmacy and medicine, agroecology and toxicology, plant 
+and animal genetics and selection. Elements of AI are used in data management for climatic, 
+meteorological and soil conditions, for in-depth analysis of statistical information on 
+agricultural production, for processing images from drones and real-time means of 
+communication, in the construction of digital duplicates, to support automation of processes 
+and reduction of human labor. AI will significantly contribute to the development of modern, 
+efficient, knowledge-based agriculture, which will increase the quality of food and protect 
+natural resources.  
+2. AI as a driver of Digital Transformation for Economic Growth and Quality of Life 
+ 
+13 
+Public administration: Most national AI strategies in the EU include modernizing public 
+administration as a priority [25]. In the context of emerging digitalization and the accumulation 
+of increasing data on citizens and public life, management practices are expected to be based 
+on modern approaches to data processing and thus increase the capacity to offer better 
+administrative services. Various AI technologies have already been implemented in European 
+public organizations: image recognition, which allows automatic identification of faces and 
+objects in photos or video; interactive communication and reference systems with voice 
+connection, which are able to perform automatic analysis and generation of text and speech; 
+profiling, which facilitates the grouping of citizens with similar needs and the creation of 
+personalized public services; automation of repetitive administrative tasks in order to alleviate 
+the workload of civil servants. The EC has published a report on the use of AI in public 
+organizations in the Member States [26] and plans to develop a methodological framework for 
+assessing the benefits of AI implementation, as well as a roadmap for the implementation of AI 
+technologies at different levels of government. 
+Transport: AI is also changing the transport sector [27]. In road transport, revolutionary 
+changes are associated with the emergence of autonomous vehicles. Fully automated vehicles 
+(including parcel delivery) are already being tested in a limited number of situations and driving 
+areas. AI technology monitors traffic at real-time traffic lights and sends traffic warnings and 
+information to drivers about the fastest alternative route. In air transport, AI will improve the 
+training of airplane autopilots, the management of increasingly active air traffic and airspace 
+planning, airport passenger flow management systems, and security clearance systems. Projects 
+are being funded for prototypes of smart trains, which, unlike the metro, run in an open 
+environment and can encounter unpredictable obstacles. In shipping and waterborne transport, 
+except for autonomous vessel prototypes, AI is used in accident management systems, ensuring 
+safety and minimizing environmental risks in shipping. The optimization of transport routes 
+and the efficiency of transport nodes is another area for application of AI. 
+Smart cities: AI is the foundation of smart city decision-making technologies. Objects in the 
+city are connected to sensors that communicate with each other on the Internet of Things, this 
+generates a considerable amount of data and through them AI understands and optimizes the 
+physical world to make the city a better place to live. One of the first features is the analysis of 
+traffic data monitored by connected internet cameras in order to help cities reduce congestion 
+and air pollution. Over time, AI learns and decisions become better. The emergence of 5G 
+networks will allow real-time monitoring and optimization of the efficiency of energy systems, 
+utilities, water supply networks, waste collection, real estate management and urban planning, 
+as well as coordination between libraries, schools, hospitals and other public services with 
+purpose of sharing resources. Some of the listed functionalities have already been implemented 
+in large cities around the world (a significant part of them are in the EU). 
+Ecology and the environment: Significant advances in image recognition will help to 
+automatically collect and analyze data related to observations of biodiversity, depletion of 
+natural resources, pollution and changes in the environment. Better, data-based models of the 
+observed processes will be created, which will allow studying the trends and predicting 
+important factors such as water availability, pollution, ecosystem conservation, etc. In the next 
+decade, more sophisticated AI systems will appear for integrated processing of unstructured 
+2. AI as a driver of Digital Transformation for Economic Growth and Quality of Life 
+ 
+14 
+data - text, images, video, audio, which will be able to inform about emerging environmental 
+crises and offer optimal solutions for environmental sustainability, protection of the most 
+ecologically efficient lands, etc. 
+Security and crisis response: AI systems are increasingly used in the field of national security 
+and defense, response to natural and man-made disasters, search and rescue operations and 
+more. Particularly rapid implementation of AI methods and tools is observed for the protection 
+of digital environments and systems, achieving cybersecurity, cyber resilience, and cyber 
+defense. AI systems are used for early signaling of deviations in the behavior of the observed 
+complex environments for management of critical activities (critical infrastructure) and critical 
+communication and information resources. AI (mainly based on machine learning / self-
+learning) is particularly effective in analyzing and eliminating "false positives" and optimizing 
+the operation of security management centers and rapid response teams. Modern cyber and 
+hybrid attacks and campaigns are also increasingly using AI methods, making them particularly 
+adaptable and dangerous with rapid escalation and mass effect. The only way to counter this is 
+to use 'smarter' AI systems to identify and neutralize them. AI is an effective assistant in 
+assessing the situation at regional and national level, reporting diverse and incomplete 
+information, predictive simulations, damage assessment, as well as early warning of cyber and 
+hybrid attacks, terrorist attacks and other malicious actions. Simulation models with AI help to 
+assess impacts and forecasts in natural disasters and accidents, and decision-making systems 
+offer sound options for decisions and reactions. The optimization of the means and resources 
+used in rescue, search and emergency operations is also based on AI systems. AI enters security 
+and defense systems widely with the ability to process and interpret multi-channel and large-
+scale information, interact and share knowledge with similar systems of partner and allied 
+countries (mainly through the EU, NATO, and cross-border ), and it is expected that more fully 
+and with a certain calculated degree of confidence the systems will offer in real time possible 
+scenarios, alternatives for reaction, as well as to continuously self-learn. 
+Technologies, systems and products that use AI will also enter social life, which will 
+include applications of AI in solving various problems: 
+ verification and validation of information - facilitating the provision, verification and 
+recommendation of useful, valuable and reliable information for all. The aim is to filter 
+or counteract content that could mislead and distort perceptions, including the 
+identification of false and polarizing information disseminated through relatively new 
+Internet and social media channels; 
+ management of the public and social sector - support of initiatives related to the effective 
+management of the subjects of the public and social sector; 
+ equality and inclusion - addressing challenges related to equality, inclusion and self-
+determination, such as reducing or eliminating bias based on race, sexual orientation, 
+religion, citizenship and disability; 
+ security and justice - prevention of harm (both from crime and other physical hazards), 
+security issues, police work and criminal justice as a unique category similar to public 
+sector governance [18]. 
+2. AI as a driver of Digital Transformation for Economic Growth and Quality of Life 
+ 
+15 
+The EC White Paper on Artificial Intelligence states that " it is essential for public 
+administration, hospitals, utility and transport services, financial supervisors and other areas 
+of public interest rapidly begin to deploy products and services that rely on AI in their 
+activities." [4 ]. In this way, the EC calls for rapid implementation in the public sphere of 
+projects for which the technology is already well developed and allows large-scale 
+implementation. 
+2.3. Sectors enabling the development and implementation of AI 
+There are two main sectors enablers, those that create conditions for the development of 
+AI - education and training at all levels of the education system, including vocational retraining 
+through lifelong learning, and the existence of an adequate legislative framework. Higher 
+education creates specialized specialists in the field, while in secondary education basic 
+computer literacy and basic knowledge of ICT are built, in particular the use of AI systems. 
+The role of research and education, as well as lifelong learning, is fundamental to the 
+development of AI and its implementation in practice in all other sectors. Legislative activity 
+is a mandatory step in the process of building a reliable and focused on human AI and its 
+acceptance by society. 
+Education and lifelong learning 
+A key role for the development and implementation of AI is the availability of human 
+potential: specialists who are familiar with the latest discoveries and trends in the field, to 
+master methods and tools for scientific research, implementation in practice and teaching, or to 
+be able explain the benefits of adopting intelligent systems for widespread use. 
+To create a critical mass of specialists with higher education, the most developed 
+European countries are planning solid investments in university structures and doctoral 
+programs in AI. A number of national AI strategies propose the creation of educational 
+platforms for free distance learning courses in this discipline. Finland has already created public 
+course slides on basic AI concepts3, which it will provide in all official languages in the EU, 
+and plans to upgrade and develop a series of courses. Last but not least, integration with research 
+and business plays a key role in achieving high quality AI education. To this end, almost all 
+national European strategies propose the creation of this type of cooperation. 
+The introduction of AI in school education programs will have a profound effect on the 
+skills required by 2030. The acquisition of these skills should lead to faster and easier adaptation 
+of students to the work environment after graduation, while on the other hand it prepares them 
+for the professions of the future. The programs for high-tech vocational high schools should be 
+prepared and constantly adapted with the help of the higher schools and the research 
+organizations, as well as in close connection with the leading Bulgarian companies in the field 
+of AI. The integration along the axis "school-university-business" is key both for the quality 
+and current curricula in the field of AI, and for filling the critical deficits of teachers and 
+                                               
+3 https://www.elementsofai.com/  
+2. AI as a driver of Digital Transformation for Economic Growth and Quality of Life 
+ 
+16 
+lecturers in the rare, most difficult and most sought-after specialties - mathematics, informatics, 
+electronics, programming, communications, robotics, embedded systems, etc. 
+The development of students' hardskills (mathematics, data analysis and processing, basic 
+skills programming and use of software environments, skills for working in a distributed 
+environment, working with data), STEM skills4, digital skills and transversal skills play a key 
+role in learning knowledge and skills for professional realization using artificial intelligence. 
+This will lead to overcoming the expected structural shortage of professionals with vocational 
+education in the medium and long term. 
+Lifelong learning is essential for people facing the societal challenges of the 21st century. 
+The use of AI in the creation of educational content for qualification and re-qualification of 
+working and unemployed can significantly accelerate the process of training qualified 
+specialists. At European level, the Electronic Platform for Adult Learning in Europe (EPALE)5 
+is a multilingual, interactive and innovative platform that is a key starting point for adult 
+education and training in Europe, to help all those professionally involved in this field. EPALE 
+is not intended for adult learners. It is aimed at professionals who organize, fund or provide 
+adult education and training. 
+Legislative activity 
+Reliable AI presupposes the development of a legal framework to ensure that the 
+fundamental rights of citizens are preserved, including ensuring product safety and determining 
+legal liability. 
+In EU countries, the development and implementation of AI should be carried out in 
+compliance with established rules and regulations arising from international law and European 
+Union human rights law. At the same time, the principles on which these rules are based (non-
+discrimination, accountability, respect for human dignity, privacy) should be integrated into AI 
+systems at the earliest possible stage of the development process. Among the key normative 
+acts at international/EU level in this regard are: 
+ Convention for the Protection of Human Rights and Fundamental Freedoms, 1950; 
+ International Covenant on Political and Civil Rights, 1966; 
+ International Covenant on Economic, Social and Cultural Rights, 1966; 
+ Convention №108 for the Protection of Individuals with regard to Automatic Processing 
+of Personal Data, 1981; 
+ Charter of Fundamental Rights of the European Union, 2009; 
+ Regulation (EU) 2016/679 of the European Parliament and of the Council on the 
+protection of natural persons with regard to the processing of personal data and on the 
+                                               
+4 Science, Technology, Engineering, (Arts,) Mathematics 
+5 https://epale.ec.europa.eu/bg/  
+ 
+2. AI as a driver of Digital Transformation for Economic Growth and Quality of Life 
+ 
+17 
+free movement of such data, and repealing Directive 95/46 / EC (General Data Protection 
+Regulation) ), 2016 [28]. 
+ 
+National rules in the field of fundamental rights and the protection of personal data relate to 
+the transposition of relevant European legal provisions. Key documents in this regard are 
+Directive 2000/43/EC  implementing the principle of equal treatment between persons 
+irrespective of racial or ethnic origin[29], Directive 2000/78/EC for equal treatment in 
+employment and occupation [30], Directive 2011/83/EC on consumer rights [31], and Directive 
+(EU) 2019/882 on the accessibility requirements for products and services [32]. 
+The issue of legal liability in the event of an incident involving AI should be considered 
+in comparison with the progress of the relevant technologies. In the future, the improvement 
+and dissemination of stand-alone AI applications is expected to make it difficult to distinguish 
+between producer responsibility and consumer responsibility [33]. Overcoming this challenge 
+requires the establishment of a due diligence system that clearly defines the role, powers and 
+responsibilities of the relevant stakeholders, to ensure continuous and effective monitoring.  
+Much of the existing EU legislation in the field of product safety and liability, including 
+industry-specific rules, supplemented by national laws, concerns a number of emerging AI 
+applications and may apply to them. Key documents include Directive 2001/95/EC on general 
+product safety [34], Regulation (EC) 765/2008 setting out the requirements for accreditation 
+and market surveillance relating to the marketing of products [35], Regulation (EC) EU) 
+2019/1020 on market surveillance and compliance of products [36] and Directive 85/374/EEC 
+[37]. Member States are committed to transposing European rules at the national level, as well 
+as to providing mechanisms for their effective compliance. 
+In the White Paper on Artificial Intelligence, the European Commission provides a 
+framework for reliable AI based on excellence and trust, following a risk-based approach. In 
+partnership with the private and public sectors, the aim is to mobilize resources throughout the 
+ecosystem and create the right incentives to accelerate the development of artificial intelligence. 
+The results of the public consultation on the White Paper show that Member States, including 
+Bulgaria, prefer to avoid over-regulation so as not to hamper innovation. The European legal 
+framework for AI is expected to be ready in the first quarter of 2021, and some legislative 
+requirements will be proposed for high-risk AI applications. 
+When transposing the European legal framework on AI in Bulgaria, the general principles 
+and rules for limiting the administrative regulation and administrative control over economic 
+activity, regulated in the Law for limiting the administrative regulation and administrative 
+control over economic activity, will be applied. Legislative activity should aim not to hinder, 
+but to facilitate and encourage the implementation of economic and scientific research activities 
+in the field of AI, stimulating the natural course of technology development in Bulgaria and 
+limiting to socially justified limits the administrative regulation and administrative control 
+carried out on it by the state bodies and the bodies of the local self-government. Insofar as one 
+of the purposes of the administrative regulation is to limit the potential harms to the society, 
+first of all real risks related to the use of AI should be identified and assessed empirically, as 
+2. AI as a driver of Digital Transformation for Economic Growth and Quality of Life 
+ 
+18 
+this should serve as a basis for the introduction of normative requirements, the observance of 
+which is provided by exercising administrative control. 
+19 
+3. PREREQUISITES AND CHALLENGES FOR THE DEVELOPMENT OF AI 
+IN BULGARIA FOR THE PERIOD 2020-2030 
+3.1. Political framework 
+The horizontal nature of AI policy implies the involvement of a number of institutions, 
+as well as the investment of public funds and the mobilization of private investment for its 
+development and widespread use. Various aspects of this policy are included in national and 
+sectoral strategic and programming documents. 
+The coordinator of the activities related to the implementation of digital technologies in 
+the economy and society is the Ministry of Transport, Information Technology and 
+Communications (MTITC). The Digital Bulgaria 2025 Programme with a Roadmap is in 
+operation, which paves the way for the modernization and widespread introduction of smart IT 
+solutions in all spheres of the economy and social life [38]. On July 21, 2020, the Council of 
+Ministers adopted the National Strategic Document "Digital Transformation of Bulgaria for the 
+period 2020-2030". The document sets out the principles of digital change in the main spheres 
+of economic and social life [39]. One of the main priorities is to improve the existing 
+infrastructure by ensuring the wide deployment and use of very large capacity networks. High-
+speed optical routes, as well as fifth-generation networks, will be among the most important 
+building blocks of the digital economy and society. Improving connectivity will allow the 
+development of innovative business models in many sectors such as scientific research, 
+industry, digital and distance health, security, logistics, autonomous and connected vehicles, 
+digital governance and digital education, and the development of "smart" cities. Support for 
+digitization will be accompanied by measures to increase digital skills and stimulate the demand 
+for Internet-based services by citizens and businesses.  
+In January 2020, the "Vision, Goals and Priorities for the National Development Program: 
+Bulgaria 2030" was approved [40]. The document defines three strategic goals - accelerated 
+economic development, demographic upswing and reduction of inequalities. To achieve the 
+strategic goals, 13 national priorities have been defined, for the implementation of which 
+targeted policies and interventions are envisaged, grouped in five interconnected and integrated 
+development axes - Innovative and Intelligent Bulgaria; Green and Sustainable Bulgaria; 
+Connected and Integrated Bulgaria; Responsive and Just Bulgaria; Spiritual and Vital Bulgaria. 
+The document emphasizes that digital connectivity is the core of the digital transformation and 
+an important factor not only for the competitiveness of enterprises, but also for supporting social 
+inclusion and the development and use of e-government services. The implementation of 
+Bulgaria 2030 envisages massive interventions at all levels of the education system, as well as 
+the system of qualification and retraining to overcome the low level of digital competencies and 
+human resources skills in the country, which hinders the widespread use of information and 
+communication technologies. services based on them for achieving digital growth. The 
+measures have a special focus on young people, the unemployed, the economically inactive and 
+the representatives of disadvantaged groups, and the main tool in building the necessary digital 
+3. Prerequisites and challenges for the development of AI in Bulgaria for the period 2020-2030 
+ 
+20 
+skills of the population will be the development of partnerships with the private sector. The 
+focus of Bulgaria 2030 is also the development of the smart economy and e-health through 
+targeted support for the development and introduction of innovative high-tech products, 
+processes and business models, providing affordable and quality services. 
+The field of education and science is related to reform at all levels. The Ministry of 
+Education and Science (MoES) is actively changing curricula and policies for funding ICT-
+related scientific research. Digital skills training is already starting in primary school, and 
+computer science is a stronger focus in secondary education. The opportunities for teaching 
+informatics in higher education, including through distance learning, are expanding. Bulgaria 
+has adopted a National Strategy for Lifelong Learning for the period 2014-2020 and a National 
+Information System for Adult Learning6 has been established. Although slowly, research 
+funding is improving. The Updated National Scientific Research Strategy 2017-2030 [41] 
+identifies as a key element the linking of funding of both researchorganizations and individual 
+scientists with the results of their activities. Good practice has been established to develop and 
+update the National Roadmap for Scientific Infrastructure [42] and to finance major projects on 
+important scientific and applied topics through National Scientific Research Programs7. 
+In 2014, the Ministry of Economy (MoE) developed an Innovative Strategy for Smart 
+Specialization of the Republic of Bulgaria (ISSS) [43], which defines priority areas for the 
+programming period 2014-2020. ISIS aims to ensure a qualitative leap in Bulgaria's innovative 
+performance at the EU level and to contribute to addressing societal challenges in the field of 
+demography (reducing brain drain, attracting successful Bulgarians, stimulating youth 
+entrepreneurship), sustainable development, intellectual capital and the health of the nation by 
+setting a strategic goal by 2020 for Bulgaria to move into the group of "moderate innovators" 
+(which according to a report from 2019 [44] is already a close but still unrealized goal). Two 
+of the four main thematic areas in the focus of ISSS are ICT and mechatronics and clean 
+technologies. Currently, MoE has prepared a "Concept for digital transformation of Bulgarian 
+industry (Industry 4.0)" [7], which should become the basis for developing a Strategy for 
+Bulgaria's participation in the Fourth Industrial Revolution (Industry 4.0) and a Roadmap for 
+the period 2020-2027.  
+With Decision № 54 /18.09.2019 of the Council of Ministers, an Updated Strategy for 
+Development of e-Government in the Republic of Bulgaria 2019-2023 was adopted, together 
+with an Updated Roadmap with measures for its implementation and a Concept for register 
+reform [45]. The update ensures the implementation of the European principles of e-
+government, introduced at the national level, and builds on what has been achieved by planning 
+specific goals and activities. The Agency maintains the Bulgarian Open Data Portal8 and has 
+developed a concept for high-value datasets, as well as current regulatory changes in the re-use 
+of public sector information. 
+                                               
+6 http://lll.mon.bg/  
+7 MoES: National Scientific Research Programs, https://www.mon.bg/bg/100525  
+8 https://data.egov.bg/ 
+3. Prerequisites and challenges for the development of AI in Bulgaria for the period 2020-2030 
+ 
+21 
+In 2019, the Ministry of Agriculture, Food and Forestry (MAFF) published a “Strategy 
+for Digitization of Agriculture and Rural Areas of the Republic of Bulgaria” [46], which 
+identifies areas of impact and measures for accelerated digitization. The "Analysis of the state 
+of agriculture and the food industry" published in January 2020 [47] states that a system for 
+sharing knowledge and innovations in the country's agriculture has been established, which 
+includes diverse and well-developed scientific, university, private and professional 
+organizations - as a potential infrastructure for data sharing.  
+The National Cyber security Strategy "Cyber-sustainable Bulgaria 2020" adopted by the 
+Council of Ministers in 2016 [48] outlines the goals and phases for the period 2016-2020 to 
+provide a modern framework and a stable environment for the development of the national 
+cyber system. security and achieving an open, safe and secure cyberspace for the development 
+of society and industry. It is emphasized that new technologies and growth trends provide new 
+opportunities for the development of industry and services, but also lead to new, still 
+insufficiently predictable threats and challenges. In addition to the development of high-speed 
+communications (5G), cloud services and high-volume data analysis, billions of "smart 
+devices" (the so-called "Internet of Things"), robotic AI systems, have been identified as key 
+areas of challenge. and advanced multimedia forms of communication on social networks. A 
+number of autonomous and intelligent systems (from the car and the plane to the smart 
+refrigerator and vacuum cleaner, smart clothes, cyber substitutes for human organs, etc.) are 
+practically constantly in the network and exposed to a new type of attacks and vulnerabilities, 
+as for most of them there are no established requirements for their security. Applied research 
+and implementation of these new technologies are also needed to monitor and increase the 
+security of the used ICT and management systems. For example, the National Security Strategy, 
+updated in 2018, aims to increase the security and safety of the transport sector through the 
+introduction of intelligent transport systems. 
+As the largest research and industrial center, Sofia is developing its own strategy for smart 
+specialization [49], creating a “Program for financing innovative and/or start-ups” to facilitate 
+the access of start-ups and/or innovative enterprises to financial resources in connection with 
+the realization and development of their business projects. The emphasis is on the main thematic 
+priorities of ISIS of Sofia: living in an intelligent urban environment and mobility; 
+cyberphysical systems; future cloud technologies; future network solutions; healthcare and 
+healthy lifestyle; protection of personal data, security and trust; intelligent energy systems and 
+intelligent spaces. 
+3.2. State of the Bulgarian ecosystem in the field of AI 
+Bulgaria's potential in the field of AI will benefit significantly from the accelerated 
+development of the Bulgarian ecosystem, which is formed around scientific communities, 
+innovative entrepreneurs, investors, large corporations and government organizations. This 
+type of ecosystem is based on collaboration between scientists who conduct both basic and 
+practical research, developers and users of intelligent systems. It encourages the development 
+of an intensive business environment that supports technology start-ups and attracts large 
+international corporations and companies that invest and work with scientists and start-ups. 
+3. Prerequisites and challenges for the development of AI in Bulgaria for the period 2020-2030 
+ 
+22 
+This in turn leads to the creation of a large number of new, high-tech jobs and creates a natural 
+link between science and business. 
+Bulgaria has relatively good connectivity in the context of Southeast Europe (according 
+to the DESI index for 2019 [50]), ranking first in the EU in the number of municipalities covered 
+by the WiFi4EU initiative to build free access to wireless internet in public places throughout 
+Europe. Bulgaria is entering the digital age as a modest but catching-up innovator with the 
+potential to become a moderate innovator in the coming years [44]. Although according to the 
+DESI index for 2019 Bulgaria ranks 28th in the EU, the increase in its overall results is visible, 
+and its ranking is lower on the one hand due to the limited results on some of the reported 
+indicators, and on the other hand - due to the better performance of other Member States in 
+some of the dimensions of DESI. Taking into account the complex picture of progress, in May 
+2020, the report "Science, Research and Innovation Performance of the EU 2020: A Fair, Green 
+and Digital Europe" [3] gives a relatively good assessment of the Bulgarian government's 
+readiness to develop AI, ranking Bulgaria ahead of five other EU Member States9. The same 
+place is assigned to the country by the report of the McKinsey Global Institute [18] from 201910. 
+The academic infrastructure that can be used to solve important tasks in the field of AI 
+will improve dramatically in the coming years due to the funding of nine major projects under 
+the Operational Program "Science and Education for Smart Growth" (OP SESG) 2014-2020, 
+ICT-related activities including AI, robotics and mechatronics11 - three Centers of Excellence, 
+five Centers of Excellence and one for complementary support of the GATE project, funded by 
+Horizon 2020, Widespread-Teaming, Phase 2. Almost all Bulgarian research organizations and 
+universities, in which research on AI is carried out and relevant curricula and doctoral programs 
+are maintained, participate in these projects. Launched in 2017-2018, the projects are at the 
+stage of building a scientific infrastructure, to be followed by planned research activities. In 
+2024, scientists from all over the country will have a new generation of scientific infrastructure. 
+A significant increase in the expert capacity and development of scientific and applied research 
+in contemporary topics of ICT and AI is also expected. 
+There is a shortage of staff in the field of ICT (and in particular AI) everywhere, but in 
+Bulgaria the capacity of scientific organizations to retain talented young scientists is very low. 
+Due to the attractiveness of the IT sector or work abroad, a significant part of young IT 
+professionals are turning to a career in industry, neglecting the scientific field. In recent years, 
+the number of published scientific articles by Bulgarian authors in the field of AI has decreased 
+significantly: 387 scientific publications for the period 2015-2018, Bulgaria being followed by 
+six countries with smaller populations12. A search in Scopus shows the most common topics of 
+Bulgarian scientific publications: machine self-learning including neural networks, computer 
+vision (image processing), data mining, natural language processing, robotics, knowledge 
+                                               
+9 Figure 7-35, page 492 of [3]: https://ec.europa.eu/info/sites/info/files/srip/2020/rec-19-003_srip_chap-7.pdf  
+10 Figure 20, page 40 of [18] 
+11 http://sf.mon.bg/?go=projects&name=&priority_axes=Приоритетна+ос+1 
+12 Figure 7-12, page 467 of [3]: https://ec.europa.eu/info/sites/info/files/srip/2020/rec-19-003_srip_chap-7.pdf 
+3. Prerequisites and challenges for the development of AI in Bulgaria for the period 2020-2030 
+ 
+23 
+presentation, etc. The articles referred to in Scopus come from a small number of scientific 
+organizations. 
+There are also a number of weaknesses of the Bulgarian scientific system as a whole. The 
+Updated National Scientific Research Strategy 2017-2030 [41] analyzes negative trends such 
+as the general aging of scientists, declining internationally visible scientific output, lack of staff, 
+fragmentation of scientific research, unbalanced regional distribution of scientific research 
+organizations and universities and others. It should be noted that the MoES is aware of the need 
+to modernize the scientific sector and in the last two years the country has been following the 
+Operational Plan for implementation of the first stage of the Updated National Scientific 
+Research Strategy, which includes a Roadmap for implementing European scientific research 
+priorities space in our country [41]. 
+Bulgaria has a traditionally strong sector in informatics and automation, the foundations 
+of which as a scientific field were laid in 1962, and after 1980 even serial production of 
+industrial robots was achieved. Despite the difficulties and losses during the transition years, 
+today's dynamic IT sector is built on these foundations with revenues that form about 3.4% of 
+the country's GDP [51]. A number of Bulgarian high-tech companies are very successful in the 
+field of AI and fulfill contracts for large clients from Western Europe and the USA [52]. Such 
+is the company Ontotext (Sirma), one of the world leaders in the field of semantic technologies, 
+whose product GraphDB for managing knowledge graphs ranks among the most popular in the 
+global market13. In the field of mechatronics in our country more and more production bases 
+and centers for scientific research and development of leading corporations in the automotive 
+industry, microelectronics and IT products are in a process of opening. 
+The growing popularity of AI technologies is creating a wave of start-ups in the country. 
+According to a report by SeeNews "AI ecosystem in Bulgaria" [52], developed in cooperation 
+with the international innovation company Vangavis in 2019, a total of 47 companies develop 
+or use AI in Bulgaria. Of these, 32 are start-ups and escalators, and 15 are developed Bulgarian 
+or international companies. The sector employs over 3,000 people; AI-related jobs account for 
+3% of the total labor market in Bulgaria. According to the report, the startup ecosystem of 
+companies developing or applying artificial intelligence in Bulgaria is still at an early stage of 
+its development, but has seen a significant boost in recent years. One third of all companies 
+surveyed for the report were established in the period 2016-2018. 
+Implementation of AI technologies in enterprises  
+According to the report “Science, Research and Innovation Performance of the EU 2020: 
+A Fair, Green and Digital Europe” [3], the level of perception of AI in Bulgarian industry is 
+relatively good for the region (medium-low)14, but also shows the limited number of offered 
+bachelor's and master's programs in the country14, so there is still much to be desired in 
+connection with staff training. 
+                                               
+13 https://db-engines.com/en/ranking/graph+dbms 
+14 Figure 7-33 page 489 of [3]: https://ec.europa.eu/info/sites/info/files/srip/2020/rec-19-003_srip_chap-7.pdf  
+3. Prerequisites and challenges for the development of AI in Bulgaria for the period 2020-2030 
+ 
+24 
+In 2020, the first study on the deployment of AI technologies across the EU was 
+published, carried out by Ipsos for the European Commission [53]. It has been found that 42% 
+of businesses in the EU currently use at least one AI technology, a quarter of them use at least 
+two types, and 18% have plans to implement AI technology in the next two years. Three key 
+internal barriers to the perception of AI are the difficulty of hiring new staff with the right skills 
+(57%), the cost of deployment (52%) and the cost of adapting operational processes to new 
+technologies (49%). The results of the survey, which covers a total of 9640 enterprises in the 
+30 countries surveyed, are structured on the basis of measured key performance indicators 
+(KPIs): awareness, implementation, supply, and external and internal barriers to AI acceptance. 
+A total of 380 Bulgarian companies of all sizes participated in the survey. The results for 
+Bulgaria are as follows: 
+ In general, the awareness of AI among companies is constantly high in different sectors 
+of enterprises. 
+ 54% of the survey participants use at least one AI technology, 31% use at least two 
+technologies, and 11% plan to use AI over the next two years. Only 36% do not use AI 
+and do not plan to implement it at all. According to this indicator, Bulgaria is among the 
+top three countries in the EU. 
+ The most common procurement strategy is by purchasing software or ready-to-use AI 
+application systems, or by hiring external vendors to develop AI technology. 
+ Among the internal barriers to the introduction of AI, Bulgarian companies point out as 
+the main one finding specialists with the necessary qualifications in AI (68%). The most 
+needed skills are in the field of big data management (41%), programming (41%), 
+machine learning and modeling (35%), robotics (32%) and cloud computing (27%). The 
+costs of adoption, adaptation of operational processes and insufficient or incompatible IT 
+infrastructure are also considered as a barrier to the adoption of AI by many enterprises. 
+ Among the external barriers to the perception of AI, the biggest are the lack of public and 
+external funding (43%) and the need for new laws and regulations (37%). 
+Digital skills  
+One of the main challenges for Bulgaria's progress in the development and 
+implementation of AI technologies is the low level of digital skills at the individual and 
+company level. 
+Despite the subjective view of Bulgarians that we are a well-developed ICT society, the 
+report of the European Commission on the DESI index for 2019 [50] shows that Bulgaria 
+reports significantly below the average result in the dimension of human capital. The share of 
+people with at least basic skills in the field of digital technologies amounts to about 29% of the 
+Bulgarian population (57% on average for the EU), and only 11% of people have skills above 
+basic (with an average for the EU of 31%). The lack of AI-related skills (including AI technical 
+skills, AI skills and management skills for using AI in business) has been identified as the 
+biggest barrier to AI adoption in Europe [18]. A change in the education system is needed 
+throughout the cycle of formal education, vocational training and higher education, while 
+3. Prerequisites and challenges for the development of AI in Bulgaria for the period 2020-2030 
+ 
+25 
+placing greater emphasis on lifelong learning to enable people to acquire and improve adequate 
+skills relative to the changing environment. Close cooperation between the public and private 
+sectors, especially educational institutions, employers and non-governmental organizations, as 
+well as international cooperation and the adoption of examples of good practice are essential.  
+The relatively low level of computer skills is also reflected in the industry. Bulgarian 
+small and medium-sized enterprises (SMEs) are the main driver of economic growth in the 
+country, but in the sector of high-tech and medium-tech industries they are only 0.8% (2% in 
+the EU) and in the sector of knowledge-intensive services - only 16% ( 28% in the EU). This is 
+a sign of the presence of a low-skilled workforce, which is not able to create added value in 
+high-tech industries and services. An additional challenge is the lack of training programs to 
+facilitate the transition of SMEs to more technological levels of work [54]. 
+Innovation policies at national and regional level 
+Bulgaria traditionally has a low place in the Innovation Scoreboard, which reflects the 
+state of the EU member states in terms of innovation development and research and 
+development. According to data for 2019, the country is ranked 27th out of 28 Member States 
+with an efficiency level below 50% of the EU average. In order to overcome the weaknesses 
+and the division of innovation activities in the public and private sector, in September 2020 the 
+State Agency for Research and Innovation was established as a specialized body to the Council 
+of Ministers to manage and implement the state policy in the field of research, innovation and 
+technology. This Agency will develop a new set of policies that will encourage the development 
+of applied research and innovation, as well as the strengthening of public-private partnerships.  
+Another known problem of the current state of the scientific research system and the 
+business environment in Bulgaria is the unbalanced regional distribution of scientific 
+organizations, universities and successful industrial centers. The vision of the Updated National 
+Scientific Research Strategy 2017-2030 [41] is “gradual development of scientific research in 
+the regions as well, as the first step will be to support applied scientific research through the 
+establishment of regional scientific research centers. In the future - during the third stage of 
+implementation of the strategy, planning and implementation of scientific research and 
+innovation complexes in less developed regions of the country is envisaged. At the same time, 
+a report by independent experts for the evaluation of the Bulgarian scientific research and 
+innovation system from 2015 [55] draws the following conclusion: “Although Bulgaria seeks 
+to invest in modern research infrastructure ... it is debatable whether there is a possibility for 
+better use of existing facilities and more strategic investments in future ones, in line with the 
+smart specialization strategy. In addition, the problem of the lack of a critical mass of skilled 
+human capital to support R&D and business innovation in regional and local ecosystems needs 
+to be addressed. This deficit is exacerbated by the fact that public universities tend to follow 
+traditional curricula that do not meet modern business needs and are also limited by the lack of 
+appropriate pathways for researchers wishing to work in the public and business sectors. So the 
+availability of staff stands out as a necessary condition for reaching a modern technological 
+level in the regions. 
+3. Prerequisites and challenges for the development of AI in Bulgaria for the period 2020-2030 
+ 
+26 
+A challenge for the development of the national innovation infrastructure is the 
+establishment of Sofia Tech Park as a strategic testing laboratory for innovation, which will 
+allow its effective use as a true innovation ecosystem. The successful development of Sofia 
+Tech Park could show good practices for creating specific regional and local innovation 
+ecosystems. 
+  
+3. Prerequisites and challenges for the development of AI in Bulgaria for the period 2020-2030 
+ 
+27 
+3.3. SWOT analysis of the Bulgarian ecosystem in the field of AI 
+ 
+Strengths Weaknesses 
+Existence of Centers of Excellence in ICT 
+and Centers of Competence in ICT and 
+Mechatronics with international prestige and 
+long traditions in AI and robotics research. 
+Existence of internationally recognized 
+scientific production in AI and robotics. 
+Good level of international cooperation on AI 
+and maintaining partnerships with leading 
+research centers in the EU and the world. 
+Existence of enterprising scientists, ready for 
+new scientific developments. 
+Accelerated improvement of research and 
+innovation infrastructure. 
+Significant growth of the high-tech IT sector 
+due to existing traditions and competitive 
+labor prices. 
+Existence of investments in the field of 
+mechatronics, robotics and microelectronics 
+from world automobile corporations and 
+other leading manufacturers. 
+Significant progress of the startup ecosystem 
+by companies developing or implementing 
+AI in Bulgaria. 
+Improve connectivity and support 
+digitalisation across the country. 
+Strengthening the education in informatics in 
+secondary education and increasing active 
+participation of the IT business in the 
+education in information technologies in 
+schools. 
+Good level of readiness for implementation 
+of AI in enterprises. 
+ 
+ 
+Critical reduction in the number of scientists, 
+insufficient funding of academic 
+organizations to preserve the potential and 
+conduct research on AI at the global level. 
+Maintaining a constant amount of 
+internationally recognized scientific output 
+and significantly lagging behind other 
+countries, where it is growing steadily. 
+Insufficient funding to use the full capacity of 
+international cooperation, weak 
+internationalization of scientific research 
+groups. 
+Low success of ICT projects of Bulgarian 
+teams in EU scientific research and 
+innovation programs, low return on funds 
+from these programs. 
+Uneven distribution of scientists, scientific 
+organizations and IT companies by region. 
+Weak links of scientific organizations with 
+business and insufficiently effective 
+mechanisms for knowledge transfer. 
+Ineffective policy for coordinating activities 
+affecting science and innovation. 
+Low number of world-significant 
+innovations and original products produced 
+in Bulgaria. 
+Relatively low level of computer skills of the 
+population as a whole. 
+Relatively low level of digitalization of small 
+and medium enterprises.  
+ 
+ 
+3. Prerequisites and challenges for the development of AI in Bulgaria for the period 2020-2030 
+ 
+28 
+Opportunities Threats 
+A chance for a complete change in the 
+revolutionary transition to intelligent digital 
+solutions, including in public administration, 
+industry, healthcare, etc. 
+Existence of solid European support for the 
+development of AI and robotics through the 
+provision of strategic and program 
+documents, targeted funding, pan-European 
+cooperation, basic legal framework and 
+ethical norms, transfer of good practices.  
+Existence of a consistent state policy oriented 
+towards overcoming the negative phenomena 
+through structural changes in the 
+management, increase of the national funding 
+for science and innovations, introduction of 
+new forms of project financing, attestations, 
+payment according to the results, etc. 
+Existence of a vision for conceptual change 
+of the educational system, lifelong learning 
+and retraining in the period 2021-2027. 
+Visible trend for the return of young 
+specialists with high-tech professions in 
+Bulgaria.  
+ 
+Lack of determination or inability to reach a 
+consensus on radical change in order to build 
+a high-tech society. 
+Planning reforms "by stages" and investing 
+available resources in fragmented and 
+incoherent goals with limited scalability of 
+results. 
+Slow and inefficient commercialization of 
+the scientific and applied results in AI, 
+capture on the market by foreign products.  
+Insufficient capacity to create in the period 
+2021-2027 a critical mass of trained staff for 
+scientific research organizations, business 
+and innovation activities in regional and local 
+ecosystems. 
+Insufficiently effective retraining 
+mechanisms to assist dropouts in the 
+introduction of AI. 
+Further lagging behind in the competition to 
+attract qualified staff from third countries. 
+Delay the accumulation of accessible big data 
+on which to build products and services for 
+the public sector.  
+ 
+29 
+4. VISION AND GOALS OF THE CONCEPT FOR THE DEVELOPMENT OF 
+AI IN BULGARIA (AI-BG) 
+The Concept for the Development of AI in Bulgaria 2020-2030 (AI-BG) is a framework 
+strategic document, determining the vision and general goals of the policy for the development 
+and introduction of AI in all economic and social sectors and public administration, including 
+their territorial dimensions. 
+Vision 
+In 2030, Bulgaria is a country with a high-tech, efficient and sustainable ecosystem for 
+scientific research, technology transfer, development of its own original products and services 
+and implementation of world-class solutions in the field of AI, big data, and robotics. The 
+excellent achievements in scientific research, intensive international cooperation, highly 
+educated human resources, a successful IT industry and the existence of a legal framework for 
+the development of human-oriented AI while respecting fundamental human rights form an 
+intensive business environment supporting the implementation of innovation in every economic 
+and social sector and improving the quality of life of all citizens. 
+Goals 
+The main goal of the Concept for the development of AI in Bulgaria 2020-2030 (AI-BG) 
+is to focus efforts on the development and implementation of AI systems by creating research, 
+expert, business and management capacity, supporting the coordination of measures and 
+activities set as a priority in relevant National Strategic Documents, including "Vision, goals 
+and priorities for the National Development Programme: Bulgaria 2030" [40]. AI-BG is 
+expected to play an important role in the implementation of the development policies set in 
+Bulgaria 2030 in the following areas: 
+ science and scientific infrastructure; 
+ education and skills; 
+ intelligent industry; 
+ electronic public administration; 
+ sustainable agriculture; 
+ e-health. 
+In order to ensure the maximum benefit from the invested public and private financing, 
+AI-BG includes the implementation of the following strategic goals: 
+4.1. Providing modern communications and scientific infrastructure development 
+and introduction of AI and digital new generation 
+By 2030, the government is geared up to provide gigabit connectivity for all major socio-
+economic drivers such as schools, transport hubs and major public service providers, as well as 
+digitally intensive enterprises. Efforts will be focused on building an efficient cloud 
+4. Vision and goals of the Concept for the development of AI in Bulgaria (AI-NG) 
+ 
+30 
+infrastructure and data storage, and exchange centers in the context of the European Cloud 
+Initiative. 
+The availability of a modern and sustainable research infrastructure at a global level, open 
+and accessible to all scientists and businesses in Bulgaria and abroad, as well as the facilitation 
+of access to scientific data and results through the European Open Science Cloud (EOSC) will 
+contribute to the retention of highly qualified staff in the country, attracting young scientists 
+and stimulating international research cooperation. Efforts will be focused on the development 
+and utilization of the capacity of the main research complexes in the country with potential for 
+connection in European networks such as the National Center for High-Performance and 
+Distributed Computing (NCHDC), the European Supercomputer Complex in Sofia Tech Park 
+and other sites within the roadmap of the research infrastructure. 
+4.2. Developing an advanced system for education and lifelong learning 
+Education and training at all levels have a leading role in overcoming the challenges 
+posed by the development and implementation of AI. Building and using safe and stable AI 
+requires a deep understanding of its nature and impact from school. Efforts will be focused on 
+both mass basic training in the field of AI and vocational secondary and higher education, 
+including the necessary technological disciplines and training content related to management 
+and business skills. It is also essential to increase the professional qualification of teachers. 
+Adapting human resources to the changing labor market will be achieved by providing 
+opportunities for lifelong learning. 
+AI will contribute to the modernization of education and training systems themselves. It 
+is planned to create and maintain a cloud environment for the provision of intelligent 
+educational services, as well as the implementation and development of modern flexible content 
+platforms in support of preschool, school and higher education, and lifelong learning that use 
+modern ICT equipment and software and provide distance learning, knowledge control and 
+learning content management. 
+4.3. Strengthening and developing the capacity for research and technology 
+transfer in the field of AI and related technologies 
+AI is an interdisciplinary, broad-spectrum and rapidly evolving scientific field, which is 
+developed through intensive research in integrated research teams with established international 
+collaborations with leading partners. This requires transforming the country's research system 
+towards increasing and expanding the capacity of researchers, attracting young talent, building 
+networks of national research units and sustainable integration into elite pan-European research 
+initiatives. The aim is to create new and more advanced algorithms and methods in AI, 
+development of new technologies and original prototypes of products and services. Other 
+expected results are the development of international and intersectoral cooperation and 
+increasing the capacity of the system for permanent retention of young scientists in the field of 
+AI. Academic entrepreneurship and the commercialization of innovation to the private sector 
+will also be encouraged by strengthening the links between science and business and creating 
+4. Vision and goals of the Concept for the development of AI in Bulgaria (AI-NG) 
+ 
+31 
+joint research and applied projects, establishing start-ups to academic organizations and various 
+forms of technology transfer to industry and especially SMEs. 
+4.4. Unlocking the potential of data as a raw material for AI development 
+Access to open public data and unrestricted cross-sectoral trafficking of non-personal data 
+will allow the creation of high value-added products and services for the benefit of citizens, 
+businesses, the public sector and academia. Information obtained from public and business non-
+personal data should enable better decisions to be made and competition to be promoted 
+accordingly. Investments should cover actions with a significant impact on data spaces, 
+covering data sharing architectures (including data exchange standards, best practices, tools) 
+and management mechanisms, as well as enriching and achieving interoperability of available 
+public data and information systems. The established national data spaces will be integrated 
+into the European data space to support the development of new AI technologies and their 
+testing and implementation. These activities will be harmonized with the European policy of 
+making the EU a world leader in data-driven economics [16]. 
+4.5. Introducing AI-based innovation in key sectors 
+The results of achieving this goal will include facilitated access to financial instruments 
+and plans, consulting services, infrastructure for testing innovative products and services in real 
+conditions, including at least one center for testing and experimenting with AI applications in 
+enterprises and government institutions, as well as effective participation in European research 
+and innovation programmes. Priority will be given to innovations based on AI for technological 
+renewal of Bulgarian industry, implementation of new business models and development of 
+Industry 4.0, the development of intelligent agriculture, building management, control and 
+safety systems for various modes of transport, sustainable management, "smart energy 
+networks", modernization of the healthcare system, environmental monitoring and protection, 
+smart cities, modernization of administrative services, etc. Through the widespread application 
+of AI, the economy will increase its competitiveness and sustainability, as well as generate new 
+revenues from a variety of business models and services that create jobs. Public sectors will be 
+able to provide new diverse and quality services to citizens. Investments in AI are also 
+investments in achieving the ambitious goals of the European Green Deal, such as building a 
+clean and circular economy, intelligent mobility, energy integration, precision agriculture and 
+others. 
+4.6. Building trust in AI and a regulatory framework for the development and 
+implementation of reliable AI technologies, in line with established legal and 
+ethical principles within the EU 
+Activities to achieve this goal include various forms of effective public dialogue as a key 
+factor that helps build trust and formulate sustainable policies for active interaction between AI 
+developers and users and prepare for the introduction of the future European regulatory 
+framework for AI. . It must create a unique "trust ecosystem" by ensuring compliance with EU 
+rules, including those for the protection of fundamental human rights and consumer rights, 
+especially in relation to high-risk AI systems. The framework should allay citizens' concerns 
+4. Vision and goals of the Concept for the development of AI in Bulgaria (AI-NG) 
+ 
+32 
+about using AI applications and provide businesses and NGOs with the necessary legal certainty 
+when implementing AI-based innovations. Future regulations will build on current European 
+legislation. The new legal framework is expected to remain proportionate and not lead to over-
+regulation. To this end, new rules will be introduced mainly for high-risk systems using AI, 
+such as biometric and facial recognition solutions, technologies for self-driving cars, 
+recruitment platforms (which, depending on the data used in their training may lead to 
+discrimination on the basis of gender, ethnicity or other principle), etc. 
+The AI-BG concept is based on the principles for the development and implementation 
+of AI technologies adopted at the EU level, taking into account the need for a broad-spectrum 
+approach that encourages the introduction of next generation digital technologies in Bulgaria 
+and allows a timely and reliable assessment of possible risks. AI-BG also includes measures to 
+improve international cooperation through the participation of Bulgarian organizations in 
+initiatives and programmes of the EU and other countries to facilitate the transfer of high 
+technologies and their entry into practice. As part of the planning of the “Digital Bulgaria” 
+programme, AI-BG develops and supplements with specific activities for AI the following 
+national strategic documents: 
+ National Programme Digital Bulgaria 2025 andRoadmap, December 5, 2019 [38], 
+ National strategic document "Digital Transformation of Bulgaria for the period 2020-
+2030" [39]. 
+33 
+5. AREAS OF IMPACT AND SPECIFIC MEASURES OF THE AI-BG 
+CONCEPT 
+5.1. Building a reliable infrastructure for AI development 
+Europe needs infrastructures capable of providing high-performance computing, secure 
+data collection, storage and processing, 5G connectivity and next-generation software to 
+support the development and deployment of AI technologies. This requires investment in 
+building and maintaining computing infrastructure, communications and service software, as 
+well as the accumulation of large data sets. Bulgaria is already creating a modern computing 
+infrastructure in ICT through projects funded by OP SESG and the decision to build a petascale 
+supercomputer in Sofia Tech Park. Further development of both the 5G network and the 
+provision of data under the Digital Europe 2021-2027 programme are planned. Digital 
+innovation hubs (digital innovation centers) are another important component of the overall 
+national research and innovation ecosystem, which will allow the development and widespread 
+dissemination of intelligent systems and digital business transformation through the 
+introduction of AI technologies. The innovation hubs will provide a wide range of services to 
+business, public administration and citizens, testing and experiment laboratories to implement 
+the idea of "pre-investment testing", as well as secure shared spaces for public and private data 
+and will be particularly useful for SMEs and start-ups that will have the opportunity to test 
+applications and services based on the latest technologies, including AI and robotics. 
+Specific measures that will contribute to the construction of appropriate infrastructure for 
+the development of AI are: 
+ Organizing and integrating the infrastructure, newly built through the Centers funded by 
+OP SESG until 2023, in safe and secure clusters for scalable high-performance computing 
+and mechatronic experiments, freely available to Bulgarian researchers working in the 
+field of AI and mechatronics. 
+ Organizing groups of experts in priority areas for the accumulation of large data sets (eg 
+health and agriculture) to help define formats, structures and annotation schemes, 
+standardization approaches and interoperability of significant subsets of data according 
+to the FAIR15 principles, to be added as a public resource to the national Open Data Portal 
+16. 
+ Providing access to methods and tools that make datasets comparable and useful at the 
+international level, using a common data format and combining different datasets in the 
+public space. 
+                                               
+15 FAIR — Findable, Accessible, Interoperable and Reusable, i.e. the data is easy to find, accessible, 
+interoperable and reusable, see  https://ec.europa.eu/info/sites/info/files/turning_fair_into_reality_1.pdf  
+16 https://data.egov.bg/  
+5. Areas of impact and specific measures of the AI-BG Concept 
+ 
+34 
+ Encouraging the sharing of non-personal data17 through the development of scenarios and 
+software environments for ethical, secure and lawful exchange. 
+ Creating rules for anonymization and pseudonymization of personal data for the purposes 
+of data exchange in healthcare, as well as developing a scheme for donation of data for 
+specific purposes with clear rules for transparency, management and protection of 
+personal space. 
+ Creating incentives for organizations to share data in the national Open Data Portal, as 
+well as in private data spaces and platforms, and in the Bulgarian Open Science Portal18 
+maintained by NACID. 
+ Providing freely accessible arrays of high-quality data for machine self-learning in the 
+construction of prototype AI applications, planning activities for clearing, calibration, 
+annotation and marking of data, construction of knowledge graphs, ensuring 
+compatibility with open related data repositories and others. 
+ Providing high-tech AI platforms that are integrated with European ones and ensure 
+interoperability (with each other and with European platforms), as well as providing open 
+access (open programming interfaces) enabling the creation of AI-based innovative 
+solutions and services. 
+ Constructing digital information hubs in the field of AI and robotics, co-financed by the 
+European programme "Digital Europe". 
+5.2. Development of research capacity for scientific excellence 
+The EC's White Paper on Artificial Intelligence states that it is imperative for Europe  "to 
+create more synergies and links between the various European AI research centers and to 
+synchronize their efforts to improve their performance, to retain and attract the best researchers 
+and to develop cutting-edge technologies”[4]. For Bulgaria it is necessary to overcome the 
+fragmentation between the few units doing research in AI and to create conditions for building 
+human potential in a connected national academic environment, as the latter will have a positive 
+impact on the number of trained young scientists and the quality of higher education. 
+The following activities will help to develop research capacity in the field of AI: 
+ Creating a Bulgarian Research Programme for comprehensible, people-oriented AI and 
+robotics, as a union of scientific organizations and universities that have original 
+developments in the field, including Centers among the nine established under OP 
+SESG19. The consortium will implement an ambitious research plan on scientific topics 
+with strong Bulgarian capacity (neural networks, machine learning, hybrid AI, natural 
+language processing, processing of knowledge and data appearing in the information 
+space as huge public arrays - knowledge graphs and linked open data, etc.), as well as the 
+                                               
+17 For example, anonymised datasets used to analyze large data sets, precision farming data that can help monitor 
+and optimize pesticide and water use, or data on the maintenance needs of industrial machinery, cf. [14]. 
+18 https://bpos.bg/  
+19 http://sf.mon.bg/?go=projects&amp;name=&amp;priority_axes=Приоритетна+ос+1 
+5. Areas of impact and specific measures of the AI-BG Concept 
+ 
+35 
+generation of explanations for decisions made by AI. Applied research in the field of 
+modern intelligent robotics should be aimed at creating research prototypes in specific 
+niches, using AI and Internet of Things technologies, given the expected widespread 
+introduction of 5G communication. Through the projects financed under OP SESG, an 
+infrastructural environment for communication and performance of complex calculations 
+in real time is created in the country, which allows to plan modern scientific and applied 
+researches in advanced technological directions. The programme will provide a research 
+environment for the training of doctoral students and career development of postdoctoral 
+students, as well as for the training of specialized personnel in intelligent components in 
+mechatronics and robotics. A single portal will be maintained in which the research 
+results can be freely disseminated, together with the accompanying data and programme 
+code, with comments in Bulgarian and orientation towards researchers from Bulgaria.  
+ Involving Bulgarian teams in pan-European networks in artificial intelligence, robotics 
+and digitalization, such as the initiatives of CLAIRE20, AI4EU21, euRobotics22 and 
+CLARIN23 & DARIAH24, as well as in European testing and experimentation centers 
+related to healthcare, robotics and agriculture. 
+ Establishing and developing an active cooperation in the field of AI of Bulgarian 
+scientists with researchers from the EU and other leading countries. 
+ Involving Bulgarian academic institutions in international organizations such as the 
+RDA25, which bring together researchers from around the world and work to build 
+policies and infrastructures to support the generation, collection, storage, transfer and 
+sharing of research data in all areas of the world knowledge. 
+ Promoting spaces for collaboration between researchers and AI professionals. 
+Encouraging the creation of a network of universities, vocational schools and companies 
+to build vital laboratory infrastructures in which universities, vocational schools and 
+companies develop joint AI training (regionally and nationally, as well as internationally). 
+ Creating prerequisites for strengthening the interest in training in the educational and 
+scientific degree "Doctor" and a significant increase in the number of full-time doctoral 
+students in the field of AI, including by introducing changes in the current legal 
+framework to encourage the announcement of full-time doctorates with guaranteed 
+targeted project funding under appropriate financial conditions. 
+ Providing more opportunities for growth and development of habilitated scientists in the 
+field of AI. Creating prerequisites and new forms for attracting talented young scientists 
+and postdoctoral students, as well as established scientists from abroad. 
+                                               
+20 Confederation of Laboratories for Artificial Intelligence Research in Europe, https://claire-ai.org/  
+21 https://www.ai4eu.eu/  
+22 https://www.eu-robotics.net/eurobotics/index.html  
+23 Common Language Resources and Technology Infrastructure, https://www.clarin.eu/  
+24 Digital Research Infrastructure for the Arts and Humanities, https://www.dariah.eu/  
+25 Research Data Alliance, https://www.rd-alliance.org/  
+5. Areas of impact and specific measures of the AI-BG Concept 
+ 
+36 
+ Introducing measures for additional stimulation of research in the priority areas for the 
+country, carried out by the scientific organizations and universities with the highest 
+assessment for research activity in these areas according to the ranking of the Ministry of 
+Education and Science. 
+ Creating conditions for a significant increase in the number of publications in leading 
+scientific journals, ranked in the top positions of world-famous databases. 
+ Expanding and enriching the activity of the Bulgarian Artificial Intelligence Association 
+(BAIA)26. 
+5.3. Establishing a knowledge base and skill set for the development and use of 
+AI 
+Europe needs to overcome the skilled staff shortages [56] by adapting education systems 
+and raising the skills of the workforce. This is even more important for Bulgaria with the 
+registered low level of digital skills of a large part of the Bulgarian population. The role of 
+STEM disciplines (natural sciences, technologies, engineering and especially mathematics), as 
+well as the building of the so-called "soft" skills, significantly increases the development of 
+quality human potential, capable of developing and applying AI, along with digital skills. 
+(organizational qualities, teamwork skills, etc.). To this end, the Ministry of Education and 
+Science develops policies and tools to promote innovative teaching practices and methods 
+(interdisciplinary teaching, project training, IT business partnerships with schools). 
+A major part of the measures to be taken in this direction is laid down in the document 
+"Artificial Intelligence in Education and Science" (2020) prepared by the Ministry of Education 
+and Science [57]. The following specific measures will contribute to the development of the 
+knowledge base and skill set needed to work in the field of AI, as well as to work in an 
+environment using AI applications. 
+Secondary education: 
+ Acquiring digital skills specific to the creation and application of AI - both analytical 
+(such as data structuring, algorithm design, deductive and inductive reasoning, solving 
+complex problems, etc.) and applied (such as knowledge and use of languages for 
+programming and modern environments for building applications with AI). 
+ Increasing students' competencies in the field of ethical issues related to the use of 
+information technology and their rights in the digital world in which they live [58]. 
+ Applying AI tools in education to increase the quality, attractiveness and efficiency of the 
+educational process, while strictly observing the protection of fundamental rights and 
+proper consideration of the vulnerable situation of children. 
+                                               
+26 http://www.aimsaconference.org/BAIA/ 
+ 
+5. Areas of impact and specific measures of the AI-BG Concept 
+ 
+37 
+Higher education: 
+ Training of a larger number of bachelors in computer science, information systems, 
+software engineering, computer engineering, etc., to have higher levels of mathematical 
+knowledge and technical skills, in particular a good understanding of areas such as 
+discrete structures, mathematical logic, theory of probabilities and mathematical 
+statistics, design and analysis of algorithms, computer architectures, approaches and tools 
+for data collection, storage, analysis and visualization, etc. 
+ Expanding and intensifying the training of specialists with higher education in the field 
+of AI. Establishing AI-oriented profiles in the curricula of appropriate bachelor's 
+specialties in the professional fields "Informatics and Computer Science", 
+"Communication and Computer Engineering", etc. Developing the existing and creating 
+new master's programmes in AI or other directions in AI. Creating conditions and 
+motivation for a sharp increase in the number of trained doctoral students in the field of 
+AI. A necessary step in this regard is the introduction of changes in the current legal 
+framework to enable the functioning of models of master's and doctoral programmes, as 
+close as possible to those established in Western Europe and the United States, including 
+by removing existing educational restrictions in priority professional areas such as 
+Informatics and Computer Science, Communication and Computer Engineering, etc. 
+ Creating and maintaining special talentprogrammes designed to encourage and support 
+the development of the most distinguished students. 
+ Supporting interdisciplinarity - rethinking regulatory constraints and creating 
+mechanisms to promote interdisciplinary (hybrid) academic training programmes for 
+bachelor's and master's degrees and interdisciplinary doctoral programmes. 
+ Building skill sets related to data analysis and AI in all academic disciplines and 
+professions to increase the potential of areas in which AI applications can be developed 
+and used. 
+ Updating the university educational programmes for training teachers and staff for 
+educational management by developing the competencies of teachers to work with 
+information, digital technologies and AI regarding the changing nature of teaching, as 
+well as the use of AI-supported systems for school system management. 
+ Special attention to the study of the impact of AI on society, as well as to the standards 
+for building reliable AI. This suggests, on the one hand, the inclusion in the university 
+educational programmes in informatics and technical specialties of academic disciplines 
+focused on the legal, ethical and social aspects of AI, and on the other hand, the inclusion 
+of disciplines for researching the impact of AI in the schools of social sciences, legal 
+sciences and humanities. 
+ Implementing AI in university management. Given the breakthrough in the use of data to 
+transform planning processes, to develop and integrate AI technologies and tools that are 
+important for improving education management information systems (EMIS) to optimize 
+data collection and processing to achieve a fairer, more inclusive, open and personalized 
+education [59]. 
+5. Areas of impact and specific measures of the AI-BG Concept 
+ 
+38 
+Vocational training and continuing education: 
+ Offering short-term training and internships aimed at acquiring and improving digital 
+skills, programming skills, data analysis, ability to understand and apply AI in practice to 
+increase the number of experts in digital fields. 
+ Designing and implementing of programmes for expansion or change of qualification of 
+existing IT specialists within the framework of lifelong learning programmes 
+implemented by the higher schools. 
+ Creating specialized schemes for (re)qualification in the conditions of cooperation 
+between business, trade unions, universities and public authorities - for professional 
+profiles that are threatened by automation. 
+ Creating more opportunities for the validation of informal and private learning in order 
+to ensure more flexible mobility [60]. 
+ Developing a platform "Education and AI" for open sources of AI courses, AI tools, 
+examples of AI in educational policies, regulatory frameworks and best practices for AI 
+in education27. 
+5.4. Support for innovation to implement AI in practice 
+It is important for businesses, including small and medium-sized enterprises, to have 
+information about the potential of AI and to use it. To this end, the European Commission is 
+committed not only to building Digital Innovation Hubs under the Digital Europe programme, 
+but also to setting up the AI on demand platform28, which is yet to be developed. In Bulgaria, 
+the Centers of Competence, funded by OP SESG, also aim to support applied research and the 
+integration of science with business. 
+The following activities will help to develop innovation capacity and implement AI in 
+real business: 
+ Involving Bulgaria in international initiatives for innovations related to the use of AI, 
+including in company-oriented competitions on Horizon Europe. Deepening cooperation 
+with the European Institute of Innovation and Technology. 
+ Facilitating and stimulating the participation of Bulgarian teams in European 
+competitions for innovative developments, where national co-financing is required (by 
+accelerating the process of considering proposals and signing project contracts, more 
+efficient procedures, increasing administrative capacity, determining adequate payment 
+rates for Bulgarian participants). 
+ Establishing Sofia Tech Park as a successful strategic testing laboratory for innovation at 
+the national level and transfer of good practices to regional innovation centers. 
+                                               
+27  Recommendations for such platforms are available, for example, in the German AI Strategy (teach-and-learn 
+AI), in Vilani's report on France "For a Meaningful AI", and in the Beijing Consensus on AI and Education of 
+UNESCO (AI for Education) 
+28  https://ec.europa.eu/digital-single-market/en/news/artificial-intelligence-79-partners-21-countries-develop-ai-
+demand-platform-eu20-million-eu  
+5. Areas of impact and specific measures of the AI-BG Concept 
+ 
+39 
+ Analysing the needs and developing financial mechanisms and other measures to support 
+automation and accelerated implementation of AI solutions in industry and services, 
+especially in SMEs. 
+ Organizing Living Labs and virtual information centers through which companies, 
+especially SMEs, can learn about examples of successful use of AI products and services 
+(eg for intelligent data processing, customer profiling analytics, AI for industrial 
+applications). 
+ Encouraging the transfer of knowledge from science to business by building incubators 
+and supporting the development of start-ups in universities, research organizations and 
+competence centers. 
+ Developing further the existing legal framework in relation to data protection, 
+cooperation between the public and private sector and creation of public-private data sets. 
+ Enabling the development of research capacity in the industry by funding innovative 
+laboratories at the company level, in order to test new AI technologies and business 
+models in practice. 
+ Stimulating the development of innovation capacity in public research organizations and 
+universities by introducing indicators such as "innovation index" in ICT and AI, through 
+which to calculate targeted increases in subsidies. 
+ Disseminating at national level the European best practices for the integration of AI in 
+Industry 4.0, as well as EU observations on the impact of AI on employment and specialist 
+demand. 
+5.5. Raising awareness and building trust in society 
+There is a need to raise both citizens' awareness of the benefits of AI and the practical 
+competence of the population on cyber risk prevention, the misuse of AI for mass impact, 
+manipulation and misinformation [61] [62]. Along with the many expected benefits, the 
+implementation of AI systems and products can both deepen existing ones and create new risks 
+and vulnerabilities. Their effective prevention requires the creation of a socially responsible 
+ecosystem that ensures that the development and use of AI is carried out in accordance with 
+established normative and ethical principles. Effective public dialogue is a key factor that helps 
+build trust and formulate sustainable policies for active interaction between AI developers and 
+users. Building trust should be part of the dialogue with citizens within the Digital Bulgaria 
+programme, as digitalisation will be one of the focuses of public attention in the next decade. 
+The following measures will help to intensify the dialogue with society and build trust: 
+ Planning initiatives and awareness-raising campaigns at local, regional and national level 
+to provide information in an appropriate way depending on the respective use of AI. 
+Campaigns should be tailored to the needs and interests of the specific target groups they 
+aim at, e.g. specific business sectors, schools, universities, public service institutions, 
+vulnerable social groups, etc. 
+ To reduce tensions due to changes in the labor market and prevent the exacerbation of 
+social and economic inequalities due to the introduction of AI technologies, organizing 
+5. Areas of impact and specific measures of the AI-BG Concept 
+ 
+40 
+campaigns to disseminate information on retraining opportunities and the acquisition of 
+higher digital skills in the affected groups of workers. 
+ Inviting business to support an effective, focused and consistent discussion with the 
+scientific community and public authorities as a prerequisite for the development of 
+public-private partnership on the development and implementation of AI in Bulgaria, by 
+creating a platform for public-private debate on AI and getting involved in organizing 
+discussions. 
+ Establishing the direction of activities and a respective structural unit of the future 
+national Center for Excellence in AI, aimed at ensuring publicity of the achievements of 
+the Center and the expected benefits for the society from their practical implementation. 
+ Creating a site with short videos in Bulgarian language about AI applications 
+implemented in Bulgaria. Inviting publicly funded research projects to upload materials . 
+Inviting Bulgarian scientists from abroad to record their lectures for display on the site. 
+Creating a series of videos with examples of the data function in AI applications, to raise 
+public awareness of the importance of data as a raw material for products and services 
+with high added value. 
+ Actively implementing various EC initiatives such as the European Night of Scientists, 
+etc. to raise the awareness of the general public and build a positive attitude and trust in 
+the results of theoretical and practical developments in the field of AI. 
+ Purposefully collecting and disclosing in the media examples of innovative practices 
+related to the successful application of intelligent robots and other types of AI systems in 
+emergency situations, epidemic conditions, hazardous working conditions, etc. 
+ Organizing specialized editions of the traditional information days of academic 
+organizations such as Open Days, Career Development Days, etc., and inviting 
+representatives of companies with achievements in the creation of AI software to 
+participate. 
+ Organizing competitions and hackathons on AI for students or pupils, using forms with 
+already established traditions - for example, Olympiads for students and pupils; 
+competitions organized by the Ministry of Education and Science and leading 
+universities; Student Institute of BAS; events of the Union of Bulgarian Mathematicians, 
+the Society of Automation and Informatics, the Union of Scientists in Bulgaria, etc. 
+5.6. Establishing a regulatory framework for the development and 
+implementation of reliable AI in accordance with international regulatory 
+and ethical standards 
+EU Member States are committed to implementing, directly or after transposition into 
+national law, the requirements of EU law, including in the field of product safety and legal 
+liability, and to providing mechanisms for its effective compliance. The principles of respect 
+for fundamental rights, non-discrimination and the protection of personal data should be seen 
+as an integral part of the requirements that ensure the safety of AI technologies. 
+5. Areas of impact and specific measures of the AI-BG Concept 
+ 
+41 
+It is important to pay attention to the possible social impact of the widespread 
+implementation of AI technologies, taking into account the various factors that influence the 
+risks of harm due to technical failure, negligence, unethical use of algorithms and data and 
+abuse. To provide the necessary conditions for ensuring the development of reliable AI 
+technologies in Bulgaria, an assessment of the applicability and effectiveness of the existing 
+regulations on guaranteeing the fundamental rights of citizens and the safety of new products, 
+including AI technologies, as well as the methodology for licensing these products and putting 
+them into operation. It is necessary to analyze the overall set of existing security and legal 
+liability measures, together with the mechanisms for their implementation. This includes: 
+ the challenges that AI creates for the effective implementation and enforcement of 
+relevant national legislation; 
+ restrictions on the scope of existing national legislation; 
+ changing the functionality of AI systems; 
+ the distribution of legal responsibilities between the various economic operators in the 
+supply chain; 
+ changes in the safety concept [4]. 
+As of October 2020, the pan-European legal framework on the development and use of 
+AI is under development. It is recommended that the analysis at national level be carried out 
+after the establishment of a regulatory framework at EU level, which will allow for the relevant 
+ongoing regulatory changes to be taken into account. Achieving an optimal balance between 
+the need for regulation and the need to ensure regulatory freedom for business should be set as 
+a fundamental principle in the preparation of the national analysis. This will serve as a 
+prerequisite for the creation of a regulatory regime that supports the business environment while 
+ensuring the rights of citizens and the well-being of society. The national assessment will 
+contribute to the development of a set of broad-spectrum measures to ensure the development 
+of reliable AI, including: 
+ Creating a national framework for risk assessment related to the development of AI 
+technologies. The purpose of the framework is to provide an opportunity for a 
+comprehensive overview of the legal and ethical aspects of AI technologies. The 
+framework will be based on the precautionary principle [63] and will include a pan-
+European methodology for assessing high-risk AI technologies. 
+ Establishing a specialized mechanism for monitoring and assessment of the impacts of 
+AI technologies. The mechanism will be of an advisory nature and will operate in 
+accordance with the principles of the national framework. Its main goal is to provide an 
+opportunity for targeted and consistent discussion and effective interaction between all 
+stakeholders: government, business, experts and the scientific community. This in turn 
+will help to form and formalize public-private partnerships that serve as platforms for 
+constructive debates on the development and implementation of AI. 
+ Creating a set of tools to stimulate the adoption of the principles of safety and legal 
+responsibility among the participants in the development, implementation and use of AI 
+technologies. As the life cycle of an AI system involves many participants and shared 
+5. Areas of impact and specific measures of the AI-BG Concept 
+ 
+42 
+legal responsibility, it is crucial that each participant understands its responsibilities 
+regarding the prevention of the risks associated with AI technologies. To this end, the set 
+of tools should include a combination of procedures and flexible approaches that 
+encourage informed judgment in the decision-making process. Such approaches are the 
+creation of ethical (sector- or organizational-oriented) commissions for conducting 
+research or implementing specific solutions based on AI; the development of sectoral 
+codes of conduct with accompanying tools for implementation in practice; and the 
+development of ethical guidelines for specific business lines and business models based 
+on AI. 
+ Creating opportunities to increase public engagement on the role of AI in social life. 
+Effective public dialogue is a key factor in building trust and formulating sustainable 
+policies. It will contribute both to raising public awareness and to promoting active citizen 
+participation in decision-making processes on trends in the development and use of AI. 
+In this context, it is important that the relevant regulatory authorities (Consumer 
+Protection Commission, Personal Data Protection Commission, Protection against 
+Discrimination Commission, Communications Regulation Commission, etc.) have the 
+power to explain to citizens the use of AI and how this affects the observance of their 
+fundamental rights. 
+ 
+43 
+6. PROPOSAL FOR DEVELOPMENT OF AN ACTION PLAN AND 
+SELECTION OF PRIORITY SECTORS 
+Given Bulgaria's limited resources, it is important to set national priorities for the thematic 
+areas of AI implementation. Chapter 7, which outlines a framework for implementation, 
+coordination and funding, proposes to organize a Working Group, including representatives of 
+all stakeholders, to map the status of sectors important for the development and implementation 
+of AI (regulations, industry 4.0 , assessment of the national and regional innovation capacity in 
+ICT, etc.) and to develop an Action Plan in the short, medium and long term until 2030. 
+A fundamental proposal is for Bulgaria to focus on technological specialization in the 
+field of data economy, as the country would find it difficult to achieve strong industrial 
+specialization due to the lack of a critical mass of leading industrial companies in the AI sector. 
+Today, the trend is for data to come to the forefront in AI and for the focus in machine self-
+learning to shift from algorithms to data [64]. Such is the European policy to make the EU a 
+world leader in data-driven economics [16]. An example of a useful service that would be very 
+valuable for AI applications is the integration of private (company) data with publicly available 
+ontologies and very large databases to prepare a data resource for further analysis. 
+It is possible to list branches and thematic areas in which it is important to conduct 
+scientific and applied research and to create both innovative prototypes and real, implemented 
+in practice applications. 
+ 
+Software industry. The information technology industry (in which software development 
+plays a central role) is a sustainable development and of ever-increasing importance for 
+Bulgaria - both in purely economic aspects as a growing contribution to the country's gross 
+domestic product, with the highest staff pay in the industry, as well as in social and other aspects 
+- retention or return from abroad of highly intelligent and qualified personnel, crucial for the 
+inclusion of broad goups of the population in high-tech tools in everyday life, etc. At the global 
+level, Bulgaria is increasingly establishing itself as a destination for the development of research 
+and development activities, as well as intensive innovative technologies in software. The 
+software-AI relationship should be developed in two aspects: 
+ application of AI methods in software development: in this aspect the prospects are very 
+good, considering that on the one hand, Bulgarian researchers have documented and 
+recognized achievements at the world level29, and on the other - in general the 
+qualification of Bulgarian software developers is high and they are open to the adoption 
+                                               
+29 For example, M. Vechev and V. Raichev, founders of the software company DeepCode, a spin-off of 
+the Zurich Polytechnic, purchased in 2020 by the unicorn company Snyk. The main product of 
+DeepCode performs semantic analysis of real-time programme code based on AI and has over 
+100,000 users. 
+6. Proposal for development of an action plan and selection of priority sectors 
+ 
+44 
+and application of new methodologies and tools for AI-based software development 
+(including so-called Software 2.0); 
+ software development with built-in AI such as: tools / systems / environments for 
+intelligent software development and management systems; building systems and means 
+for cyber protection with AI; AI systems for analysis and prevention of hybrid attacks 
+(including misinformation, manipulation, fake news, etc.); AI systems for critical 
+infrastructure protection; systems for processing and communication in natural language 
+with inclusion of the Bulgarian language; real-time image recognition and analysis 
+systems / software for large volumes; means for training and protection against AI 
+manipulations (including data protection and reliability); autonomous intelligent systems 
+(robots, etc.) and cyberphysical systems. 
+The software, which is developed this way, in addition to being the subject of intensive 
+exports (which is also typical for the software currently produced in Bulgaria), will significantly 
+help the implementation of AI in the consumer sectors. 
+ 
+Creating AI applications for educational purposes. This area is important due to the rapid 
+entry of e-learning in our country. It is no longer just about e-learning materials and online 
+communication environments to accompany the main activities in the classroom30, but about 
+entirely distance teaching and assessment. AI tools can be used to improve a number of aspects 
+of distance learning and to benefit from the information gathered, as long as they are carefully 
+designed and trained on representative data. AI applications will allow:  
+ creation of learning materials with virtual reality, voice connection and attractive game 
+elements; 
+ personalization of teaching with the help of intelligent training systems and adaptive 
+navigation in the metadata of learning resources; 
+ diagnosing the attention, reactions, emotions and dynamics of the work of individual 
+learners as feedback in personalized learning; 
+ supporting student assessment; 
+ supporting the generation of assessment tests by automatically synthesizing questions, 
+answers and distractors according to a given textbook; 
+ analysis of the collected data on the success and opinions of students, parents and teachers 
+to assess the quality of the learning process; 
+ creating software to support the planning of teachers' work; 
+ the integration of language technologies into systems for supporting the learning of 
+foreign languages. In practice, any formalized set of grammar rules can be considered as 
+a resource for automatic testing of knowledge of the relevant aspects of the language, 
+which is built into specially designed tests for verification. It would be useful for 
+Bulgarians abroad to provide a public online interface for learning Bulgarian grammar. 
+                                               
+30 The so-called “blended learning” 
+6. Proposal for development of an action plan and selection of priority sectors 
+ 
+45 
+AI applications in public services. The report "Overview of the use and effect of AI in public 
+services in the European Union" [26], published in July 2020, analyzes 230 deployments of AI 
+services in the EU public sector for the period May 2019 - February 2020. The most common 
+services as a percentage of the applications considered are: 
+ Chatbots, intelligent digital assistants, virtual assistants, advisory systems - 22.6%; 
+ Predictive analytics, simulations, data visualization - 16%; 
+ Computer vision (automatic image processing) and identity recognition - 12.6%; 
+ Expert systems, rule-based systems, algorithmic decision making - 12.6%; 
+ Natural language processing, text mining, speech recognition and analysis - 8%. 
+Other applications are: (deep) machine learning, process and vehicle automation, AI-
+based knowledge management, security analytics, audio processing. Bulgaria is among the 
+countries with relatively lower growth in the implementation of AI applications (3), the 
+Netherlands is leading with 19 systems, but nine countries are at the level of Bulgaria or with a 
+lower number of considered applications. 
+The use of AI technologies in public services in our country can be expanded and 
+deepened, because the country has qualified specialists and experience in all of the above AI 
+technologies. 
+ 
+Intelligent agriculture. Bulgaria already has the necessary conditions for the development and 
+implementation of relatively large-scale applications of AI in plant and animal husbandry - high 
+degree of connectivity, cloud structures for data exchange and storage, accessible public data, 
+qualified developers and specialists for the maintenance of complex cyberphysical systems. 
+Embedding AI technologies will allow the creation of complex infrastructures that integrate the 
+virtual and physical world and provide support for agricultural activities, such as remote process 
+control; effective use and monitoring of the quality of water resources and soil; monitoring and 
+controlling the growth of agricultural crops to increase yield and improve the taste of 
+agricultural products; analysis of sensory data and publicly available satellite images and 
+application of digital methods for diagnostics, forecasting and management of the production 
+of quality products without negative effects on the climate and the environment. The 
+introduction of modern technologies, such as the use of automation and robots in various plant 
+and animal husbandry processes, will be an important practical evidence of the benefits of 
+automating unattractive activities. Different AI technologies are integrated into intelligent 
+agriculture systems: machine learning including deep learning; semantic modeling and 
+ontological engineering; intelligent autonomous agents and multi-agent systems; 
+accompanying technologies such as the Internet of Things and cloud structures; construction 
+and maintenance of 3D models; analysis, integration and aggregation of big data for forecasting 
+and operational decision making. Several prototype developments in this area after an in-depth 
+assessment could serve as a reference infrastructure to be adapted and further developed for 
+different regions of Bulgaria at the service of agricultural producers. This will support the 
+formation and implementation of a consolidated agricultural policy, taking advantage of the 
+application of AI in agriculture, and will facilitate the entry of digitalization and Industry 4.0 in 
+6. Proposal for development of an action plan and selection of priority sectors 
+ 
+46 
+agriculture. In addition, it will be possible to plan measures for the development of professional 
+staff in intelligent agriculture. 
+Another important direction in the development of intelligent agriculture, important in itself, is 
+the collection, filtering, calibration, integration and organization of voluminous data sets and 
+concepts in the field. Descriptive information needs to be presented as a text from which to 
+derive (semi-) structured features in order to facilitate automatic integration with other data 
+resources and analysis with AI tools. Important tasks related to data preparation are:  
+ To create an ontology with labels (names of concepts) in Bulgarian, which systematizes 
+conceptual knowledge and data from natural sciences, biology and chemistry for crops, 
+pests, pest control measures and the complex relationships between them. This 
+information resource will make it possible to develop an intelligent system that can be 
+easily used by a large number of users in the agricultural sector. This will lead to greater 
+efficiency in the use of chemical and biological plant protection products and 
+environmental protection. In the future, the system can be multiplied for plant protection 
+of the forest (a essential natural resource of Bulgaria) and veterinary pharmacy. 
+ To organize and formalize the knowledge about strategy for Bulgaria crops and varieties 
+- their biological, chemical and physical characteristics; spatial data on climate and soils; 
+features of production: from seeds and planting material, through modern agricultural 
+technologies, to quality, efficiency and market realization. 
+It is necessary to prepare the national information resource in a standardized format that 
+will allow easy establishment of interoperability with internationally available information 
+resources (eg open related data in the field of agriculture and life sciences), to feed the Bulgarian 
+cloud of public data and to develop new intelligent analytical methods and approaches. 
+ 
+Applications of AI in healthcare and medicine. Under the Digital Europe program, the EC 
+plans to develop AI applications in healthcare for the following six exemplary areas: supporting 
+the decision-making process in clinical practice (how to treat a specific patient); treatment data 
+exchange management - for example cross-border data exchange; improving logistics in 
+hospitals; robotic surgery; detection of tumors in medical images and care for elderly patients 
+and citizens with disabilities. The role of data (including genomic data) is to support decision-
+making in clinical practice and medical research, to provide opportunities for computer 
+modeling and simulation, and to enable disease prevention and early detection. Among all the 
+listed goals, Bulgaria is still at the stage of data collection - texts of patient records and medical 
+images - and the organization of their use. There are also separate developments for the 
+automation of patient care processes. More complex applications are usually purchased with 
+the appropriate devices, such as the “Da Vinci” robotic surgical system. 
+During the last two or three decades in Bulgarian healthcare a number of health 
+information systems have been developed and implemented with different goals and purposes, 
+which provide information management in individual departments or support the accountability 
+of GPs, pre-hospital care specialists and medical institutions at the National Health Insurance 
+Fund. The lack of a comprehensive framework for e-health in the country and a unified concept 
+for the architecture and integration of individual components prevents the introduction of 
+6. Proposal for development of an action plan and selection of priority sectors 
+ 
+47 
+national, European and international health information standards, national and cross-border 
+data exchange, to ensure the necessary high level of security of health data and leads to the lack 
+of objective criteria for assessing the quality of health services and the effectiveness of the 
+significant financial resources invested in the system. The general opinion is systemic 
+dissatisfaction of the citizens and the medical staff with the existing health care system and lack 
+of trust in its quality and efficiency. Thus, medical informatics, which is a highly valued 
+profession in Western Europe, is becoming a misunderstood and therefore unattractive field of 
+specialization for young Bulgarian computer scientists. There is a lack of competent specialists 
+in this highly interdisciplinary field due to the insufficient representation of medical and health 
+informatics in theprogrammes of medical universities. 
+The strategic documents for the development of Bulgaria in the next decade plan the 
+creation of a National Health Information System, including a national system for electronic 
+health records of citizens, electronic referrals and electronic prescriptions. This will be a 
+prerequisite for the integration of health information systems and on this basis to overcome the 
+existing fragmentation between them by achieving semantic interoperability of systems and 
+technologies in health care and ensuring national and cross-border exchange of health data. The 
+integration of elements of e-health systems in the e-government portal will allow citizens easy 
+access to data related to the health system. It is proposed to create and maintain a National 
+Access Point, providing national and cross-border secure exchange of electronic health records 
+(with medical and health data from treatments, therapies, research, including medical images) 
+and electronic prescriptions. 
+With the planned development of e-health in Bulgaria, it will be possible to apply the 
+tools of AI for the analysis of patterns and predictive analytics for disease detection and risk 
+factors over the gathered large collections of pseudonymous data for Bulgarian patients. If a 
+risk of an observed or future disease is identified, it will be possible to send messages to at-risk 
+patients and their doctors for prophylaxis within an integrated health information system. In 
+this way, new models in health care and prevention of various diseases will be studied, based 
+on the analysis of big data with the means of AI. Based on the data collected, it will be possible 
+to set up decision support systems, including by improving the reading of medical images, in 
+clinical practice and healthcare management. The detailed automatic analysis of anonymized 
+records of Bulgarian patients will also help to create expertise that will be used in building a 
+space for Bulgarian data in the field of healthcare as part of the European Data Space. 
+Another task is related to the semi-automatic creation of arrays of formalized knowledge 
+with labels in Bulgarian, by using AI for partial machine translation of resources in English. In 
+medicine, there is a solid resource of manually defined declarative conceptual knowledge, with 
+names of concepts and connections in English - this is the Unified Medical Language System 
+(UMLS31), which is freely available for research. One of its purposes is to support the creation 
+of systems that automatically "understand" biomedical texts. There are also a large number of 
+                                               
+31 Unified Medical Language System see https://www.nlm.nih.gov/research/umls/index.html, built since 
+1986 by the US National Library of Medicine. 
+6. Proposal for development of an action plan and selection of priority sectors 
+ 
+48 
+public ontologies32 in the field of medicine, which are progressively recorded in a standardized 
+format such as so-called "related data" or knowledge columns. All of these resources are created 
+with the names of concepts and links in English. As it is unrealistic to plan the creation of a 
+Bulgarian conceptual resource to help identify and analyze data from records in Bulgarian, AI 
+tools need to be adapted to extract the necessary knowledge from resources in English. The 
+extension of the terminology used in the Bulgarian medical nomenclatures will also help to 
+annotate and mark interoperable data in the European medical data space. 
+ 
+Applications of AI in ecology and the environment. Integration of AI technologies into 
+environmental monitoring systems will facilitate the analysis of information and increase the 
+quality of observations. Data is a key component in these systems, as a resource that allows 
+monitoring and assessment of the state of the environment and changes related to climate 
+change. Collecting large data sets requires ubiquitous access to information, infrastructures with 
+the capacity to store data and analyze real-time volumetric images, as well as organizing and 
+delivering observations from robots, sensors, drones and satellite images with different 
+resolutions. Ongoing monitoring by intelligent systems will help to address issues such as the 
+protection of water bodies from pollution and drainage (early identification of hazardous 
+pollutants or the risk of drainage of important water bodies), early identification of flood 
+hazards (more rapid response to disasters), protection of forests from fires, parasites and illegal 
+logging (faster response to events that threaten the country's forests), etc.  
+ 
+As discussed in Chapter 2, virtually every sector using digitization is a potential consumer 
+of a type of AI, because the implemented computer systems can incorporate intelligent 
+components or devices to automate routine repetitive activities. The choice of national priorities 
+should be made in a relatively short period of time (e.g. 3-5 years) to allow for a flexible 
+response to dynamic changes in the rapidly evolving field of AI. In addition, it should be noted 
+that some of the AI applications enter the Bulgarian market as tested and certified products of 
+leading foreign companies, which is why in many cases (e.g. some areas of robotic surgery) it 
+is not effective to plan the development of national developments.  
+ 
+                                               
+32 https://ncbo.bioontology.org/  
+49 
+7. IMPLEMENTATION, MONITORING AND FINANCIAL PROVISION 
+7.1. Implementation 
+In connection with the effective implementation, monitoring and financial provision of 
+the activities envisaged in the Concept, it is appropriate for the Council of Ministers to establish 
+an Interdepartmental Working Group, which will include representatives of key state 
+institutions, district administrations, academia, business and professional associations and 
+related NGOs. This working group should analyze the state of the sector, map the expert units, 
+achievements and implemented innovations, and prepare an operational National Plan / 
+Roadmap for the implementation of the Concept, which defines the specific measures, 
+deadlines, responsible institutions and organizations, expected results and indicators and 
+sources of the necessary financial resources, as well as organization for reporting on their 
+implementation and their periodic updating. 
+Given the horizontal nature of the topic, the implementation of the National Plan / 
+Roadmap will be shared with the leading state institutions - the Ministry of Transport, 
+Information Technology and Communications (MTITC), the Ministry of Education and 
+Science (MoES), the State Agency for Research and Innovation (SARI), Ministry of Economy 
+(MoE), State e-Government Agency (SEGA), Ministry of Labor and Social Policy (MLSP), 
+Ministry of Health (MH), Bulgarian Small and Medium Enterprises Promotion Agency 
+(BSMEPA), Ministry of Agriculture, Food and Forestry (MAFF), Ministry of Environment and 
+Water (MOEW), Ministry of Energy (ME), Ministry of Justice (MoJ), Ministry of Finance 
+(MoF), Ministry of Interior (MI), and the Ministry of Defence (MoD). Other ministries and 
+agencies should be involved in the inclusion of other specific areas of application in the 
+Roadmap. The regional authorities should prepare their own plans with measures for the 
+implementation of AI-BG and establish their own regional units to support the dissemination 
+of information on the results and opportunities for implementation. In addition to participants 
+from state institutions, the Working Group should include representatives of universities and 
+research organizations, business and industry organizations and clusters, Sofia Tech Park, as 
+well as national non-profit associations related to science and technology (Federation of 
+scientific technical unions in Bulgaria, the Union of Scientists in Bulgaria, the Union of 
+Automation and Informatics, the Union of Electronics, Electrical Engineering and 
+Telecommunications), and non-governmental organizations such as the American Chamber of 
+Commerce, the Law and Internet Foundation and others. 
+7.2. Monitoring 
+In organizational terms, it is most appropriate for the monitoring of the implementation 
+of AI-related activities in the relevant sectoral and regional policies to be carried out by a 
+Coordinating Body / Council appointed by the Council of Ministers. The Council should 
+involve representatives of all stakeholders and establish a model and mechanism for 
+coordination at the strategic, political, operational and technical levels, ensuring that the 
+7. Implementation, monitoring and financial provision 
+ 
+50 
+priorities and objectives of AI-BG are updated and linked to the development and 
+implementation of national sectoral strategies. It is desirable to use the experience of EU 
+partners to manage strategic interdisciplinaryprogrammes and to involve international experts 
+in the Council. Much of the information needed for the work of the Council will be provided 
+by the contractors under the usual measures of the monitoring structure to ensure the accuracy 
+and correctness of this information, using an electronic platform for information sharing. The 
+evaluation of the implementation will be carried out periodically and will be presented in 
+reports, which will be submitted for approval by the Council of Ministers. 
+The purpose of the monitoring of the implementation of AI-BG is the possibility for 
+continuous and accurate reflection of the current results of its implementation and, as a direct 
+consequence of this - to take, if necessary, appropriate corrective actions. At the end of the 
+planned period for implementation of the Concept, a full, objective and comprehensive 
+evaluation of the final results will be performed. 
+The main parameters subject to monitoring are: 
+ compliance with the budget; 
+ compliance with deadlines; 
+ the achievement of the planned results and their quality. 
+While objective tracking of the first two parameters does not cause fundamental 
+difficulties, this is not the case for the third parameter. The implementation of any planned 
+measures or solutions must be accompanied by a measurement of their effectiveness, as well as 
+by criteria that should determine the level of success of any such measure or decision. 
+To avoid subjectivity as much as possible, all measurements should, as a general rule, be 
+quantitative and exceptions should be made where it is in principle impossible to define them. 
+They must be carried out before the start of each activity to fix its initial state, during its 
+implementation and after its completion. However, this means that the relevant measures must 
+be defined, verified and validated in advance. To the parameters formulated in this way should 
+be added some additional ones related to: 
+ the effective use of the provided resources - personnel, technologies, materials, 
+information, etc.; 
+ compliance with various requirements - regulatory, ethical, motivational, etc. 
+Some of the criteria for the evaluation of the activities provided in AI-BG are already 
+introduced or standard, such as indicators for the success of research and those related to the 
+evaluation of the efficiency of resource use. 
+At the same time, there are criteria and indicators that need to be specified, such as 
+assessing the impact of the emerging data economy, timely reporting of changes in the labor 
+market, measuring public awareness and attitudes towards the perception of AI and others. New 
+indicators are currently being developed within the composite Index for the Entry of Digital 
+Economy and Society Index (DESI), which measures the development of EU Member States 
+in terms of digitalisation in various fields, 5G coverage and use, artificial intelligence, ICT for 
+7. Implementation, monitoring and financial provision 
+ 
+51 
+sustainable development, cybersecurity, data-based economy, e-health, high-performance 
+computing and advanced digital skills. 
+In case of unsatisfactory results at some stage of the evaluation, corrective actions should 
+include changes in: 
+ the organization of implementation; 
+ planned resources of different types; 
+ the deadlines in individual steps, and in the extreme case - the deadline; 
+ the content and characteristics of parts of the Concept. 
+In order for the monitoring to perform its tasks in a well-regulated environment, while 
+avoiding conflicts between the participating countries as much as possible, it is necessary to 
+take the following measures: 
+ defining the goals, scope, tasks and expected results of the monitoring; 
+ regulation of the powers of the supervisory body; 
+ preparation of a monitoring plan. 
+7.3. Financing 
+Sustainable funding is the only way to strengthen Bulgaria's scientific and innovation 
+capacity in the field of AI and to ensure rapid accession to ambitious European initiatives for 
+the development of AI research and for the creation and implementation of modern AI 
+applications in key economic and social sectors. The High Level Expert Group on AI 
+recommends: “Targeted, meaningful and long-term funding for basic and applied AI research 
+is needed to maintain the competitiveness of European companies and meet societal challenges. 
+In particular, funding should be provided for research that can help create critical mass projects 
+on targeted topics, rather than focusing on individual projects without global coherence. This 
+can help bring together research teams to work towards common goals. At present, there is no 
+tool at European level to maintain this type of high-quality basic research, which could play a 
+deterrent role for scientists to stay in Europe and attract the best from abroad“[21]. Although 
+this recommendation is made at European level, it is fully valid for Bulgaria as well. Another 
+ambitious decision of the EC is to significantly increase the funding of AI by combining public 
+and private investments to reach at least 20 billion Euro per year for the next decade [65]. 
+In connection with the goal of creating knowledge and skills for the development and use 
+of AI, enshrined in the concept of AI-BG, it is necessary to increase investment in the education 
+of AI specialists to reduce the shortage of staff with appropriate professional qualifications for 
+work in this field, while updating the Bulgarian educational model so that it meets the needs of 
+business. Efforts in this direction should be made by both the public and private sectors. 
+The financial provision of the implementation of the Concept is based on the presumption 
+of optimized use of public and private finances, decentralization, strategic planning and 
+programming, as well as seeking the added value of the implemented measures in support of 
+the digital transformation of the economy and society and sustainable and environmentally 
+friendly development. The efficient allocation of the existing financial resources, as well as 
+7. Implementation, monitoring and financial provision 
+ 
+52 
+their efficient spending will be sought. Funding sources and financial instruments need to be 
+complemented in a balanced way to build the necessary scientific infrastructure, create 
+appropriate data sets, direct talented young researchers to AI research, build laboratory 
+prototypes and implement real applications through public-private partnerships. 
+The main sources of funding for the activities implementing the Concept are the state 
+budget, the Structural Funds of the European Union through the relevantprogrammes 
+andprogrammes of the European Union "Horizon 2020" and "Digital Europe", as well as the 
+National Plan for Reconstruction and Sustainability and other internationalprogrammes. 
+Opportunities for public-private partnerships and attracting business investment will also be 
+sought. 
+National and regional sources 
+Public funding of basic research in AI-BG and support for higher education should be 
+provided through the Ministry of Education and Science and itsprogrammes, as well as through 
+projects of the Research Fund. Applied research and innovation is the prerogative of the new 
+State Agency for Research and Innovation (SARI). As AI is part of ICT, which is a priority of 
+ISSS, some separate activities for applied research can be implemented through projects with 
+the National Innovation Fund as tools for financing innovative solutions based on AI. The 
+development of prototypes for experimental implementation in public organizations can also 
+be financed by regional funds, for example, through partnerships in the cluster "Sofia City of 
+Knowledge". 
+Programmes 2021-2027, funded by European funds 
+Theprogrammes are sources of funding for cohesion policy in the EU by reducing the 
+disparities that still exist between European regions and countries. Policy Objective 1 for 2021-
+2027 is "A smarter Europe by promoting an innovative and smarter economic transition". 
+The AI-BG concept covers different areas of impact, which implies funding through 
+different sources and with different instruments. 
+For Bulgaria for the period 2021-2027, an “Education Program” and a “Research, 
+Innovation and Digitalization Programme for Smart Transformation” have been approved, 
+which are a possible source of funding for some of the proposed specific measures, such as 
+infrastructure construction. Theprogrammes will also support the Centers of Excellence and 
+Centers of Competence established in the current period 2014-2020. 
+Another possible source of funding is the Enterprise Innovation and Competitiveness 
+Program, whose specific objective (i) in Policy 1: "Strengthening research and innovation 
+capacity and the introduction of modern technologies" will encourage cooperation between 
+research institutions and industry to strengthen translational research, technology transfer and 
+commercialization of results; and through a specific objective (ii) benefiting from digitalisation 
+7. Implementation, monitoring and financial provision 
+ 
+53 
+/ enhancing digital connectivity, the deployment of AI applications in the public and private 
+sectors33 will be supported. 
+For the period 2021-2027, the Technical Assistance Program, the Strategic Plan for 
+Agriculture and Rural Development, the Regional Development Programme and the Human 
+Resources Development Programme have also been approved. Probably in them there will be 
+an opportunity for at least partial financing of separate activities offered in AI-BG. 
+European (co)financing 
+Opportunities for funding some AI activities were provided at the European level in 2019 
+in the Horizon 2020 program, for example, through the competitions for the creation of the AI-
+on-demand platform (AI4EU) and “Building a a dynamic European network of AI34 centers of 
+excellence”. 
+In 2021, the new seven-year Framework Programme for Research and Innovation 
+Horizon Europe begins, which provides a significant budget for research on AI and other digital 
+technologies. In addition, the Digital Europe programme has been launched, which provides a 
+budget for the implementation of AI applications in various sectors. 
+The EU has a variety of opportunities to stimulate private sector investment and create 
+more attractive conditions for start-ups to stay and grow in Europe, for example, through 
+Horizon 2020 competitions, the European Fund for Strategic Investments (EFSI) and European 
+Investment Fund (EIF). 
+The AI High Level Expert Group proposes that the European data infrastructure be funded 
+through the Structural and Investment Funds to help create ecosystems to coordinate the 
+exchange and access of data. Recognition of cooperation between the public and private sectors 
+is crucial for increasing Europe's competitiveness, and it is recommended that public funding 
+be redirected to sustainably develop a secure, safe and high-quality data infrastructure. 
+ 
+ 
+                                               
+33 http://opik.bg/uploads/2019/12/nov-programen-period-2021-2027-g-4.pdf  
+34 Competition H2020-ICT-48-2020: Towards a vibrant European network of AI excellence centres. 
+54 
+8. DOCUMENTS REFERRED TO IN THE AI-BG CONCEPT 
+[1] Framework for National Strategy for the Development of Artificial Intelligence in Bulgaria, submitted by the 
+Working Group of BAS on July 1, 2019, 
+http://www.bas.bg/wp-content/uploads/2020/07/Towards-AI-Strategy-BAS-Vision-1July2019.pdf 
+[2] Artificial Intelligence for Smart Growth - Strategy for the Development of Artificial Intelligence 
+in Bulgaria until 2030 (preliminary vision), prepared by the Working Group of BAS, June 2020. 
+http://www.bas.bg/wp-content/uploads/2020/07/Proposal-National-Strategy-AI-2030-
+24June2020.pdf 
+[3] Science, Research and Innovation Performance of the EU 2020 (SRIP 2020). A Fair, Green and 
+Digital Europe, European Commission, Directorate-General for Research and Innovation, 
+Manuscript completed in May 2020, First edition, 
+https://ec.europa.eu/info/sites/info/files/srip/2020/ec_rtd_srip2020-report.pdf 
+[4] COM(2020) 65 final: White Paper on Artificial Intelligence - Europe in search of excellence and 
+an atmosphere of trust, 19.02.2020, 
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0065 
+link to the text in Bulgarian: 
+https://op.europa.eu/en/publication-detail/-/publication/aace9398-594d-11ea-
+8b8101aa75ed71a1/language-bg 
+[5] COM(2018) 237 final: Artificial Intelligence for Europe, April 25, 2018, 
+https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:52018DC0237 
+[6] EC – Factsheet: Digital Europe Programme: a proposed €9.2 Billion of funding for 2021-2027, 
+26.06.2019, 
+https://ec.europa.eu/digital-single-market/en/news/digital-europe-programme-proposed-eu92-
+billionfunding-2021-2027 
+[7] Ministry of Economy: Concept for digital transformation of the Bulgarian industry (Industry 4.0), 
+approved by the Council of Ministers on 30.08.2017, 
+https://www.mi.government.bg/files/useruploads/files/ip/kontseptsia_industria_4.0.pdf 
+[8] COM(2020) 64 final: Report on the effects of artificial intelligence, the Internet of Things and 
+robotics on safety and responsibility, 19.02.2020, 
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0064 
+[9] EC – High-Level Expert Group on Artificial Intelligence: Ethics guidelines for trustworthy AI, 
+08.04.2019, 
+https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai 
+[10] COM(2019) 168 final: Building trust in human-oriented artificial intelligence, April 8, 2019, 
+https://eur-lex.europa.eu/legal-content/BG/TXT/PDF/?uri=CELEX:52019DC0168&from=en 
+[11] European AI Alliance: The Assessment List for Trustworthy AI, 
+https://futurium.ec.europa.eu/en/european-ai-alliance/pages/altai-assessment-list-trustworthy-
+artificial-intelligence 
+[12] EU 2020 Rolling Plan for ICT Standardisaiton, 05.05.2020, 
+https://ec.europa.eu/docsroom/documents/41062 
+[13] General Data Protection Regulation (GDPR), 
+https://gdpr-info.eu/ 
+8. Documents referred to in the AI-BG Concept 
+ 
+55 
+[14] Regulation (EU) 2018/1807 of the European Parliament and of the Council - on a framework for 
+the free movement of non-personal data in the European Union, 14.11.2018 
+https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32018R1807 
+[15] COM(2019) 250 final: Guidelines on the Regulation on a framework for the free movement of 
+non-personal data in the European Union, 29.05.2019, 
+https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:52019DC0250 
+[16] COM(2020) 66 final: European data strategy, 19.02.2020, 
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0066 
+[17] EC – Event Report: Workshops on reference testing and experimentation facilities for Artificial 
+Intelligence in the Digital Europe Programme, 11.02.2020, 
+https://ec.europa.eu/digital-single-market/en/news/workshops-reference-testing-and-
+experimentationfacilities-artificial-intelligence-digital 
+[18] McKinsey Global Institute: Tackling Europe’s Gap in Digital and AI, Discussion Paper, February 
+2019, 
+https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-europes-gap-in-
+digital-and-ai 
+[19] Gartner: Hype Cycle for Artificial Intelligence – 2019, 25.07.2019, 
+https://www.gartner.com/en/documents/3953603/hype-cycle-for-artificial-intelligence-2019 
+[20] EC: Adopted conclusions on the Coordinated Plan on the development and use of Artificial 
+Intelligence Made in Europe, 18.02.2019, 
+https://data.consilium.europa.eu/doc/document/ST-6177-2019-INIT/bg/pdf 
+[21] EC – High-Level Expert Group on Artificial Intelligence: Policy and investment 
+recommendations for trustworthy Artificial Intelligence, 26.06.2019, 
+https://ec.europa.eu/digital-single-market/en/news/policy-and-investment-
+recommendationstrustworthy-artificial-intelligence 
+[22] Perrault R. et al.: The AI Index 2019 Annual Report, AI Index Steering Committee, Human-
+Centered AI Institute, Stanford University, December 2019, 
+https://hai.stanford.edu/sites/default/files/ai_index_2019_report.pdf 
+[23] NATO Science & Technology Organization: Science & Technology Trends 2020-2040, March 
+2020, 
+https://www.sto.nato.int/publications/Management%20Reports/2020_TTR_Public_release_final.pdf 
+[24] Magoulas, R., S. Swoyer: AI Adoption in the Enterprise 2020, O’Reilly Radar Report, 
+https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/ 
+[25] EC – AI Watch: AI for the public sector, 
+https://ec.europa.eu/knowledge4policy/ai-watch/topic/ai-public-sector_en 
+[26] EC – AI Watch – Artificial Intelligence in public services, 3 July 2020, 
+https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/ai-watch-
+artificial-intelligence-public-services 
+[27] European Parliamentary Research Service: Artificial intelligence in transport – Current and future 
+developments, opportunities and challenges, March 2019, 
+https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/635609/EPRS_BRI(2019)635609_E
+N.pdf 
+8. Documents referred to in the AI-BG Concept 
+ 
+56 
+[28] Regulation (EU) 2016/679 of the European Parliament and of the Council - on the protection of 
+individuals with regard to the processing of personal data and on the free movement of such data, 
+27.04.2016, 
+https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX%3A32016R0679 
+[29] Council Directive 2000/43 / EEC - on the application of the principle of equal treatment between 
+persons irrespective of racial or ethnic origin, 29.06.2000, 
+https://eur-lex.europa.eu/legal-content/BG/ALL/?uri=CELEX%3A32000L0043 
+[30] Council Directive 2000/78 / EEC - establishing a basic framework for equal treatment in 
+employment and occupation, 27.11.2000, 
+https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX%3A32000L0078 
+[31] Directive 2011/83 / EEC of the European Parliament and of the Council - on consumer rights, 
+25.10.2011, 
+https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX%3A32011L0083 
+[32] Directive (EU) 2019/882 of the European Parliament and of the Council - on requirements for 
+accessibility of products and services, 17.04.2019, 
+https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32019L0882 
+[33] UNESCO, World Commission on the Ethics of Scientific Knowledge and Technology 
+(COMEST): Report of COMEST on Robotics Ethics, 14 September 2017, 
+https://unesdoc.unesco.org/ark:/48223/pf0000253952 
+[34] Directive 2001/95 / EEC of the European Parliament and of the Council on general product 
+safety, 03.12.2001, 
+https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32001L0095 
+[35] Regulation (EEC) No 765/2008 of the European Parliament and of the Council - laying down the 
+requirements for accreditation and market surveillance relating to the marketing of products, 
+09.07.2008, 
+https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32008R0765 
+[36] Regulation (EU) 2019/1020 of the European Parliament and of the Council - on market 
+surveillance and product conformity, 20.06.2019, 
+https://eur-lex.europa.eu/legal-content/bg/ALL/?uri=CELEX:32019R1020 
+[37] Council Directive 85/374 / EEC - on the approximation of the laws, regulations and 
+administrative provisions of the Member States concerning liability for damage caused by a defect 
+in goods, 25.07.1985, 
+https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A31985L0374 
+[38] MTITC: National Programme Digital Bulgaria 2025 and Road Map, 05.12.2019, 
+https://www.mtitc.government.bg/bg/category/85/nacionalna-programa-cifrova-bulgariya-2025-i-
+putnakarta-kum-neya-sa-prieti-s-rms-no-730-ot-5-dekemvri-2019-godina 
+[39] MTITC: Draft national strategic document "Digital Transformation of Bulgaria for the period 
+2020-2030, 
+https://www.mtitc.government.bg/bg/category/167/proekt-na-nacionalen-strategicheski-
+dokumentcifrova-transformaciya-na-bulgariya-za-perioda-2020-2030-g 
+[40] MoF: Vision, goals and priorities of the National Development Programme Bulgaria 2030, 
+https://www.minfin.bg/bg/1394 
+8. Documents referred to in the AI-BG Concept 
+ 
+57 
+[41] Council of Ministers: Updated National Strategy for Development of Scientific Research 2017-
+2030 and Operational Plan for Implementation of the First Stage of the National Strategy for 
+Development of Scientific Research in the Republic of Bulgaria 2017-2030, 19.05.2017, 
+http://www.strategy.bg/StrategicDocuments/View.aspx?lang=bg-BG&Id=1231 
+[42] MoES: National Roadmap for Scientific Infrastructure 2017-2023, 
+https://www.mon.bg/upload/4012/Roadmap_2017_BG.pdf 
+[43] MoE: ISSS - Innovation Strategy for Smart Specialization of the Republic of Bulgaria 2014-2020, 
+updated 12/18/2018, 
+https://www.mi.government.bg/bg/themes/inovacionna-strategiya-za-inteligentna-specializaciya-
+narepublika-balgariya-2014-2020-g-1806-287.html 
+[44] EC – European innovation scoreboard 2019,   
+https://ec.europa.eu/growth/industry/policy/innovation/scoreboards_en 
+[45] SEGA: Updated Strategy for Development of e-Government in the Republic of Bulgaria 2019-
+2023 and Updated Roadmap for Implementation of the Strategy for the Period 2019-2023, August 
+2019, 
+https://e-gov.bg/wps/portal/agency/strategies-policies/e-management/strategic-documents 
+[46] MAFF: Strategy for Digitization of Agriculture and Rural Areas of the Republic of Bulgaria, 
+2019, 
+https://www.mzh.government.bg/media/filer_public/2019/05/10/strategia_za_cifrovizacia_na_ze
+medeli eto.pdf 
+[47] Institute of Agricultural Economics at the Agricultural Academy: Analysis of the state of 
+agriculture and the food industry, January 2020, 
+https://www.mzh.government.bg/media/filer_public/2020/01/21/analiz_na_sstoianieto_na_selskot
+o_stopanstvo_i_khranitelno-
+vkusovata_promishlenost_izgotven_ot_institut_po_agrarna_ikonomika.pdf 
+[48] Council of Ministers: National Cyber Security Strategy "Cyber Sustainable Bulgaria 2020", 
+18.07.2016, 
+http://www.strategy.bg/StrategicDocuments/View.aspx?lang=bg-BG&Id=1120 
+[49] Innovation strategy for intelligent specialization of Sofia, 28.01.2016, 
+https://www.sofia.bg/documents/20182/448750/ISIS_Sofia.pdf/f51fcd5a-2973-4679-
+89fe62b3dccb6662 
+[50] EC – DESI: The Digital Economy and Society Index, 
+https://ec.europa.eu/digital-single-market/en/desi 
+[51] BASSCOM Barometer 2019, Annual Report on the State of the Software Sector in Bulgaria, 
+December 2019, 
+https://www.basscom.org/RapidASPEditor/MyUploadDocs/BASSCOM_Barometer_2019_BG.pdf 
+[52] Vangavis: Artificial intelligence ecosystem in Bulgaria, 2019, 
+available at https://reports.seenews.com/ 
+[53] EC: European enterprise survey on the use of technologies based on artificial intelligence, 28 July 
+2020, https://ec.europa.eu/digital-single-market/en/news/european-enterprise-survey-use-
+technologies-based-artificial-intelligence 
+[54] MoE: National Strategy for Promotion of Small and Medium Enterprises 2014-2020, 23.01.2014, 
+https://www.sme.government.bg/uploads/2013/08/sme_strategy-2014-2020.pdf 
+8. Documents referred to in the AI-BG Concept 
+ 
+58 
+[55] EC – Horizon 2020 Policy Support Facility: Independent expert evaluation of the Bulgarian 
+research and innovation system, 2015, 
+https://www.mon.bg/upload/10722/Full_report_Peer_Review_of_the_BG_RI_system_under_the_
+PSF_bgl.pdf  
+summary in Bulgarian: 
+https://rio.jrc.ec.europa.eu/sites/default/files/report/PR%20Bulgaria_Executive%20summary%20
+Bulgarian.pdf 
+[56] Lopez Cobo et al.: Academic offer and demand for advanced profiles in the EU, EUR 29629 EN, 
+Publications Office of the European Union, Luxembourg, 2019, 
+https://ec.europa.eu/jrc/en/publication/academic-offer-and-demand-advanced-profiles-eu 
+[57] MoES: Artificial Intelligence in Education and Science, July 2020,  
+https://www.mon.bg/upload/23352/MON+AI+Doc.pdf  
+[58] UNICEF: Artificial Intelligence and Childrens Rights, 2019, 
+https://www.unicef.org/innovation/media/10726/file/Executive%20Summary:%20Memorandum
+%20on%20Artificial%20Intelligence%20and%20Child%20Rights.pdf 
+[59] UNESCO: Beijing Consensus on Artificial Intelligence and Education: Outcome document of the 
+International Conference on Artificial Intelligence and Education, Planning Education in the AI 
+Era: Lead the Leap, Beijing, 2019, 70 p. (multilingual), 
+https://unesdoc.unesco.org/ark:/48223/pf0000368303 
+[60] COM(2016) 381 final: New European Skills Agenda: Working together to strengthen human 
+capital, employability and competitiveness, 10.06.2016, 
+https://eur-lex.europa.eu/legal-content/BG/ALL/?uri=CELEX:52016DC0381 
+[61] National Academies of Sciences, Engineering, and Medicine, Artificial Intelligence: An 
+International Dialogue: Proceedings of a Workshop – in Brief, National Academies Press, 2019, 
+https://www.nap.edu/catalog/25551/artificial-intelligence-an-international-dialogue-proceedings-
+of-aworkshop-in 
+[62] National Academies of Sciences, Engineering, and Medicine, Implications of Artificial 
+Intelligence for Cybersecurity: Proceedings of a Workshop, National Academies Press, 2019, 
+https://www.nap.edu/catalog/25488/implications-of-artificial-intelligence-for-cybersecurity-
+proceedingsof-a-workshop 
+[63] UNESCO: World Commission on the Ethics of Scientific Knowledge and Technology 
+(COMEST), The Precautionary Principle, 2005, 
+https://unesdoc.unesco.org/ark:/48223/pf0000139578 
+[64] Gartner Hype Cycle for Artificial Intelligence – 2020, 27 July 2020, 
+https://www.gartner.com/en/documents/3988006/hype-cycle-for-artificial-intelligence-2020 
+[65] COM(2018) 795 final: Coordinated Plan on Artificial Intelligence, 7.12.2018, 
+https://ec.europa.eu/digital-single-market/en/news/coordinated-plan-artificial-intelligence 
+ 

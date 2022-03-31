@@ -1,0 +1,2611 @@
+National Artificial Intelligence 
+Strategy of the Czech Republic
+Acknowledgement
+The National Artificial Intelligence Strategy of the Czech Republic is a material that was created in collaboration 
+with a team of key artificial intelligence experts. We would like to thank the entire academic team, together with 
+the representatives of the private sector, who joined forces within the professional platforms Prague.ai, AICZECHIA 
+and the AI Platform of the Confederation of Industry. Furthermore, we would like to thank the representatives of 
+the ministries and experts from the Academy of Sciences of the Czech Republic and other individuals who actively 
+participated in the preparation of the National Artificial Intelligence Strategy of the Czech Republic.
+National Artificial Intelligence 
+Strategy of the Czech Republic
+The Czech Republic is a country of ingenious people. It is these people that we must build our future prosperity on. 
+The Government has committed itself to becoming one of Europe’s innovative leaders and a country of the techno-
+logical future within twelve years. The National AI Strategy you are holding in your hands is one of the important 
+steps towards this objective. Artificial intelligence, which includes smart programs and various machines from robots 
+in factories, through algorithms in banks, to self-driving cars in the streets, is the future. And the Czech Republic wants 
+to play an important role in it.
+We have all the requisites to do so – extraordinary scientists and developers, we are a technology-oriented country 
+and we meet the most stringent economic criteria. We have decided to set out on an ambitious path, which requires 
+both the State and businesses to engage investment, resources, data, and, above all, cooperation to retrain staff to 
+develop standards and international partnerships. The very word robot was coined by the Czech writer Karel Čapek 
+in 1920. Already then, it meant more than mere mechanical machines – an entirely new form of technology and so-
+ciety. In 21st century, software robots have a significant role. Already those robots are giving rise to issues of safety, 
+ethical values and risks of abuse. Successful resolution of those issues is our national priority.
+Safe and responsible AI
+ČThe Czech Republic has great potential to contribute to the prosperity and competitiveness of the EU as a whole. 
+Our best traditions are in industry, defence and security. We are the sixth safest country in the world, and our com-
+panies and developers have also succeeded in the area of protection from cyber attacks. We are a safe cyber port 
+in the heart of Europe. Therefore, our ambition is to become the centre of collaboration of the best scientists and 
+developers in these areas and to join the European efforts in the development of artificial intelligence, with man in its 
+centre. We want AI to be not only credible, but above all safe and responsible.
+We are going to ensure the safety of driverless cars, robots and autonomous weapons, simply wherever man and 
+intelligent machine meet. We are going to build on our past achievements in mobility and transport, military and 
+security research as well as our historical experience. We are going to focus on protecting every person and con-
+sumer, their rights and privacy, especially the weakest ones. We are going to prevent discrimination, manipulation 
+and misuse of AI, we are going to set the rules for decision-making of algorithms about people in everyday life. We 
+want artificial intelligence to serve all the people of Europe.
+Model country for Europe
+However, by combining our industrial traditions, research facilities and entrepreneurial skills, we can achieve much 
+more. In 2020 – 100 years since the word Robot was first used – we want to build AI research centres of European 
+importance, and we want to be the model country for the whole of Europe in automation before the Czech Republic’s 
+presidency of the EU Council in 2022. Our future economic performance will depend on the focus on final manu-
+facturing, technological solutions and services, which are essential for value added and profits. Digital transforma-
+tion of the economy through artificial intelligence is a huge opportunity for us, and we especially need to support 
+small and medium-sized businesses, start-ups and domestic brands. We want to be a country where new European 
+champions, the new Baťas, emerge and which is appealing to foreign investors not for the low prices, but because of 
+cutting-edge research, skilled workforce and friendly and predictable legislation. 
+This is the best time for us to make bold changes – we are among the most stable economies, our businesses achieve 
+unprecedented results, and our scientists are gaining increasing respect in the world. While everyone is afraid of 
+robots and labour market turmoil today, we are going to embrace them. We will help all employees and self-em-
+ployed persons with retraining and acquiring new skills. We will ensure that no one is left behind, everyone is given 
+the chance to succeed and that everyone has a share in the benefits of the breakthrough technology. 
+We have the highest ambitions and we are fully committed to fulfilling them. We gave the world the word robot and 
+we have nothing to worry about at the time of robots. We have hard work ahead of us, but I am convinced that to-
+gether we are going to get our country back to where it once belonged.
+Ing. Andrej Babiš 
+Prime Minister of the Czech Republic
+VISION – Czech Republic, the country of robots
+The Czech Republic and the European Union are fully aware of the fundamental importance of artificial intelligence 
+(AI) and its use for the future development and competitiveness of national, European and global economies and 
+societies. The National Artificial Intelligence Strategy of the Czech Republic (hereinafter the “National AI Strategy”, 
+“Strategy” or “NAIS”) is therefore primarily aimed at building on the activities and strategic documents of the EU 
+and achieving the full potential of digital transformation. To do so, it sets out a framework of priority objectives and 
+tools to support AI development in the academic, public and private sectors, mutual cooperation and international 
+engagement, which the Czech Republic has committed itself to in the Declaration of Cooperation on Artificial Intel-
+ligence signed on 10th April 2018. The National AI Strategy follows up on and meets the objectives of the Govern-
+ment Innovation Strategy 2019–2030 and is linked to the Digital Czech Republic programme. It was inspired by 
+similar foreign strategic documents concerning the AI and support for the digitization of the industry and services.
+The strategy was prepared in close cooperation with the Ministry of Industry and Trade, as the main coordinator, 
+with public, private and research institutions, the general public and with the involvement of social partners. Deputy 
+Prime Minister and the Minister of Industry and Trade is directly responsible for its implementation and will coordinate 
+it through the newly established AI Committee (a subcommittee under the Committee for the Digital Economy and 
+Society strategy), which primarily includes responsible ministries and whose operational management will be con-
+tinuously ensured by the Executive Committee. The specific procedural tools and tasks for implementing the overall 
+strategy coordination are summarized in the introduction to the strategy, under the heading “tools and tasks”. 
+NAIS is based on the assumption that current trends in artificial intelligence, automation, robotics, and the related 
+fields such as electromobility, data economy or 5G networks, are crucial for the further development of industry, 
+services and the economy as a whole. The main horizontal objectives of the Strategy are therefore to use these 
+state-of-the-art technologies to help the Czech Republic to become an innovative economy and to support domestic 
+companies and brands and further economic growth. Strengthen the safety and security of the population, increase 
+their comfort in everyday life and ensure fast, efficient and helpful communication with the State. The overall objective 
+is to make the Czech Republic again one of the world’s most advanced countries.
+The Strategy is vertically divided into seven chapters, according to the priority areas of development of artificial intel-
+ligence and their impacts. Each of them contains a summary of the current situation, based primarily on the Research 
+Report on the AI Potential in the Czech Republic and the mapping performed by the AI Platform of the Confederation 
+of Industry. These result in specific objectives in the short, medium and long term and tools to achieve them. The objec-
+tives are timed mainly in relation to the EU financial framework, they will be linked to the Implementation Plans of the 
+Digital Economy and Society strategy and formulated as specific measures that can be implemented within a given 
+time frame. The tools are cross-sectional for each chapter and do not have an implementation date. Each chapter lists 
+not only the responsible State administration body as the coordinator, but also the co-coordinator usually co-operat-
+ing with it, and other entities whose work it will coordinate for the given priority area. The objectives and tools will be 
+reviewed after each time period. The objectives and tools contained in this Strategy do not interfere with or replace 
+the applicable sectoral strategies of the respective coordinators, so this Strategy does not interfere with the division 
+of coordination responsibilities among the different ministries in the sense of the Competencies Act. On the contrary, 
+the purpose is to connect the responsible coordinators and co-coordinators for effective cooperation in achieving the 
+objectives and effective overall coordination of this Strategy.
+The key to fulfil the National AI Strategy is primarily to support the concentration of excellent R&D in AI, in particular 
+by supporting the creation of the European Centre of Excellence, Test Centre and Digital Innovation Hubs. The Strat-
+egy will also be fulfilled by deepening cooperation with global AI centres, but also by maintaining top research and 
+experts in the Czech Republic and, conversely, by simplifying and attracting conditions for the arrival of top foreign 
+talent.  (Chapter 1). It is therefore essential to ensure funding for research, the development of start-ups, the entire AI 
+ecosystem, the transfer of know-how and the availability of resources for innovation of SMEs ( Chapter 2). The driv-
+ing force behind digital and AI transformation is the economy and it is therefore necessary to create conditions for 
+its development. The State can contribute to this mainly by making available data, completing digital infrastructure, 
+supporting the transformation of enterprises and introducing modern public administration services (Chapter 3). 
+Introduction – How to read this strategy
+Education, training and retraining, both technical and humanitarian, will play a crucial role, targeting the skills need-
+ed in the next decade (Chapter 4). The training of human capital will be key to the effects of AI and automation on 
+the labour market and employment, but especially the social system will also have to respond quickly and flexibly 
+(Chapter 5). A significant role in development will also be played by clear legislation, ensuring the protection of 
+fundamental rights and security as well as legal certainty for investors (Chapter 6). An irreplaceable role in the use 
+of global trends is played by the international cooperation and involvement of the Czech Republic, especially at EU 
+level (Chapter 7).
+In the above-mentioned areas and in order to promote economic growth and competitiveness, public authorities 
+need to become actively involved. Above all, however, they will need to do this in close cooperation with the private 
+sector, which is without prejudice to other activities in this area, which we welcome. It is the cooperation of all the en-
+tities involved that is crucial for the real fulfilment of the National AI Strategy and successful handling of fundamental 
+changes for the Czech economy and society.
+doc. Ing. Karel Havlíček, Ph.D., MBA
+Deputy Prime Minister and Minister of Industry and Trade 
+Contents
+Executive Summary 8
+Coordinating the progress towards the National AI Strategy objectives 10
+Links of the National AI Strategy to national and European strategy documents 12
+List of strategic documents 13
+Chart of links among entities, objectives and tools 14
+1. Promotion and concentration of science, research and development 15
+2. Financing research and development, investment support and the development of 
+the AI ecosystem in the Czech  18
+3. AI in industry, services and public administration, economic growth, growth of wages 
+and overall competitiveness of the Czech Republic 22
+4. Human capital and the education system together with lifelong learning  26
+5. Measures to address the impacts of the AI on the labour market and the social system 30
+6. Legal and societal aspects of AI, ethical rules, consumer protection and security issues 34
+7.  International cooperation 38
+Annex – Mapping of entities engaged in AI activities 40
+Map of private sector entities that conduct applied research in the field of artificial intelligence 
+and academic sector and institutions involved in AI activities. 52
+8
+• The National AI Strategy (NAIS) is part of the implementation of the Innovation Strategy of the Czech Republic 
+2019–2030 (The Country for the Future) and its main objective to make the Czech Republic an innovation 
+leader.
+• At EU level, the main objective is to engage in increasing Europe’s global competitiveness through the use of 
+AI. The strategy is therefore directly linked to the initiatives of the European Commission (EC), especially the 
+Coordinated Plan for Artificial Intelligence, and the division into seven vertical chapters corresponds directly to 
+the areas the Coordinated Plan has defined.
+• Among cross-cutting objectives is to use the opportunity in the development of AI, good starting conditions of 
+the Czech Republic and cooperation with the private sector and to build the Czech Republic as a model 
+European country for AI, thanks to: 
+1. The concentration of excellent research on developing responsible and trusted AI
+• the focus of the Czech AI research and development is on disciplines closely related to human-machine 
+interaction (image recognition, language processing, AI clarity, security, defence, robotics, transport, etc.) 
+in international cooperation within and outside the EU;
+• it develops AI in key areas of security and defence, mobility, manufacturing and services based on the 
+European direction of human-centred artificial intelligence and AI ethical standards;
+• it is the foundation for building a comprehensive ecosystem of the European Centre of Excellence, Test 
+Centre and DIH, which will help Europe-wide competitiveness;
+2. Promoting digital transformation, especially for SMEs and the development of start-ups
+• it builds on the industrial and entrepreneurial tradition of the Czech Republic and high technological intel-
+ligence of the population;
+•  the basis is technology and innovation transfer from research and development to SMEs, financing high-
+tech innovations and developing new brands and businesses with pan-European and global reach;
+•  therefore, it is essential to support start-ups and spin-offs based on breakthrough disruptive innovations;
+3. Ensuring equal opportunities and benefits brought about by economic development for the entire 
+ society
+• starting conditions given by economic growth and low unemployment, an opportunity to increase added 
+value and wages through the development of an innovation-based economy;  
+•  the emphasis on broad retraining and increasing the level of skills of workers in fields with the highest po-
+tential for automation, in close collaboration between the public and private sectors;
+•  the creation of an administrative and legislative framework for AI that avoids any form of discrimination or 
+disadvantage, with a strong emphasis on rights and privacy;
+• The Deputy Prime Minister for the Economy and the Minister of Industry and Trade, who chairs the AI Committee. 
+• Each chapter contains the following key measures:
+1.   Promotion and concentration of science, research and development
+• organization of one of the networks of European Centres of Excellence based in Prague and involvement 
+in others; 
+•  building a system of centres of excellence, test centres and DIH for the transfer of know-how into practice;
+Executive Summary
+9
+• supporting the development and acquisition of top talent in the Czech Republic and abroad, from the EU 
+and third countries;
+2.   Financing research and development, investment support and the development of the AI ecosystem in the Czech 
+Republic
+• expanding financial support for top academic and enterprise AI research;
+•  building digital innovation hubs (IHAI, mobility, ESA), supporting start-ups and attracting smart investments;
+•  introducing tools to promote investment in innovative projects and automation, especially in relation to 
+SMEs;
+3.   AI in industry, services and public administration
+• creating conditions for the development of AI, in particular access to and use of data and infrastructure;
+• simplifying the recruitment and retention of excellent workers from EU Member States and third countries;
+• introducing AI applications in public administration (e.g. health or transport); 
+4.   Human capital and the education system together with lifelong learning 
+• development of lifelong learning and re-skilling, especially in professions endangered by automation;
+• transformation of the education system with regard to future labour market requirements;
+• the emergence of new university and doctoral degree programmes focusing on AI;
+5.   Measures to address the impacts of the AI on the labour market and the social system
+• promoting self-employment and starting a small business, adjusting flexible forms of work; 
+• continuous assessment of impacts and preparation of the social system and measures for changes in the 
+labour market;
+• supporting disadvantaged groups and regions most at risk due to automation;
+6.   Legal and societal aspects of AI, ethical rules, consumer protection and security issues
+• setting up an expert platform and forum for the ongoing review of legal and ethical AI rules;
+• removing barriers and introducing appropriate new AI development institutes (e.g. data trusts);
+• revision of AI legislation with an emphasis on preventing discrimination, protecting rights and privacy;
+7.   International cooperation
+• active involvement of the Czech Republic in international innovation initiatives, development of new tech-
+nologies and AI;
+• the use of existing and new regional, EU and international cooperation platforms;
+• inclusion of AI in the programme and preparation of the Czech Presidency of the EU Council in the second 
+half of 2022;
+10
+Main coordinating role: Ministry of Industry and Trade  
+Tools and tasks:
+• Establishment of the AI Committee as a subcommittee of the Steering Committee of the Digital Czech Republic 
+strategy, chaired by the Deputy Minister of Industry and Trade for Digitization and Innovation and members of 
+the coordinators and co-coordinators of the individual chapters of the Strategy.
+• The cooperating entities mentioned in each chapter collaborate with the coordinators and fulfil the objectives 
+of the strategy according to their respective responsibilities resulting from Act No. 2/1969 Coll. on the estab-
+lishment of ministries and other central bodies of the state administration of the Czech Republic must not be 
+violated.
+• Appointment of the representative for European AI Centres at the Ministry of Industry and Trade, who is directly 
+responsible to the Deputy Minister of Digitization and Innovation, and performs the executive coordination of 
+the objectives of the Strategy in building a European Centre of Excellence in AI and the European Test Centre, 
+both nationally and internationally, especially in the EU.
+• Convening stakeholder working groups to coordinate individual chapters to meet their objectives and keeping 
+the AI Committee updated on their functioning.
+• Once a year, a report on the fulfilment of the National AI Strategy objectives is submitted to the Steering 
+Committee of the Digital Czech Republic strategy and the Government of the Czech Republic with a proposal 
+to revise objectives and instruments after the end of the short period in 2021.
+• Cooperation with private and non-State actors institutionalized in the form of memoranda.
+The AI Committee consists of:
+• Deputy Prime Minister for Economy and Minister of Industry and Trade of the Czech Republic (chairs the 
+Committee)
+• Deputy Minister of Industry and Trade for Digitization and Innovation
+• Deputy Chairman of the Council for Research, Development, and Innovation
+• State Secretary for European Affairs
+• CEO of CzechInvest
+• CEO of CMZRB
+• Deputy Minister of Education, Youth and Sports 
+• Deputy Minister of Labour and Social Affairs
+• Deputy Minister of Transport 
+• Deputy Minister of Health 
+• Deputy Minister of Foreign Affairs 
+• Deputy Minister of Defence
+• Deputy Minister of the Interior 
+• Chairman of the Academy of Sciences of the Czech Republic
+Coordinating the progress towards the National AI Strategy objectives
+11
+• Director of the Institute of State and Law of the Academy of Sciences of the Czech Republic
+• a representative of higher education institutions
+• Vice President of the Confederation of Industry of the Czech Republic, chairing the AI Platform
+• Chairman of the Czech-Moravian Confederation of Trade Unions
+• Chairman of the Technological Agency of the Czech Republic
+• Representative for European AI Centres
+(The Statute and Rules of Procedure of the AI Committee may further modify the composition, including the specific 
+setting of cooperation with the entities concerned on specific topics within the National AI Strategy)
+The executive committee of the AI Committee includes the following persons as 
+needed:
+• Deputy Prime Minister for Economy and Minister of Industry and Trade
+• Deputy Minister of Industry and Trade for Digitization and Innovation 
+• State Secretary for European Affairs
+• Representative for European AI Centres
+12
+The National AI Strategy builds and follows up on existing key strategies at both European and national levels. 
+1. European Union
+At European level, the basic documents are “Artificial Intelligence for Europe” and the Coordinated Plan on 
+Artificial Intelligence (hereinafter the “Coordinated Plan”) issued by the European Commission in December 2018. 
+This Coordinated Plan sets out the European Union’s strategic objectives and priorities for artificial intelligence. It 
+is a European umbrella strategy for AI, which was developed in cooperation with Member States, and calls on 
+Member States to implement the Coordinated Plan at national level. For this reason, the strategy builds on the 
+structure of the Coordinated Plan, while at the same time modifying the objectives and headings (six areas in total 
+plus international coordination, see below) so that the Czech Republic can take advantage of the financial and 
+administrative support that the EU will provide to the Member States under the tools available by Digital Europe 
+and Horizon Europe in the upcoming programming period 2021–2027.
+Member States are to submit national AI Strategies by mid-2019 at the latest (i.e. by the end of June 2019), includ-
+ing the setting of investment measures and implementation plans. At the same time, the Council of the European 
+Union endorsed the Coordinated Plan by its conclusions of 11 February 2019, thus formally endorsing the European 
+approach to addressing and coordinating artificial intelligence. The Strategy therefore implements this European 
+approach.
+2. Digital Czech Republic
+At national level, the Strategy complements and builds on, in particular, two major government strategies for dig-
+itization and innovation. The Strategy is linked to Digital Economy and Society (hereinafter the “DES”), which is a 
+strategy forming one of the three pillars of the government’s programme Digital Czech Republic. In its sub-objec-
+tives, the DES clearly sets out specific tasks and areas for the elaboration of implementation plans in the field of 
+artificial intelligence. These sub-objectives are in particular: 1.6 “Active involvement of the Czech Republic in the 
+EU Initiative on Artificial Intelligence”, 2.1 “Support for the Development of Artificial Intelligence”, 6.4 “Ensuring a 
+Consistent Approach and Implementation of Legislation” and 8.3 “Two-way link of programmes and coordination 
+of the strategy Digital Economy and Society and initiatives based on the pillar Czech Republic in digital Europe”.
+3. Innovation Strategy of the Czech Republic
+In addition, the Strategy follows up on and supports the Innovation Strategy of the Czech Republic 2019–2030, 
+especially its part Digital State, production and services, where one of the main tools is the Coordinated Plan and 
+the National AI Strategy. 
+At the same time, the strategy is based on the study “Research of the potential for the Development of Artificial 
+Intelligence in the Czech Republic” (hereinafter the “AI Analysis”), which is the model for this Strategy and which 
+the government acknowledged and at the same time imposed on the Ministry of Industry and Trade the develop-
+ment of a National Artificial Intelligence Strategy of the Czech Republic.
+At the same time, the strategy will be taken into account in all other sectoral government documents that address 
+strategic solutions and practices in the digital economy and are linked to artificial intelligence. This applies mainly 
+to the National RIS3 Strategy.
+Links of the National AI Strategy to national and European strategy documents
+13
+• Communication from the Commission “A Digital Single Market Strategy for Europe”, 6 May 2015 COM(2015) 
+0192
+• Communication from the European Commission “Artificial Intelligence for Europe”, 25 April 2018, COM(2018) 
+237
+• Coordinated Plan on Artificial Intelligence, 7 December 2018, COM(2018) 795 final, Communication from 
+the Commission to the European Parliament, the European Council, the Council, the European Economic and 
+Social Committee and the Committee of the Regions 
+• Council conclusions on the coordinated plan on artificial intelligence, doc. 6177/19, of 18 February 2019
+• Digital Czech Republic, Government Resolution of 3 October 2018, No 629
+• Innovation Strategy of the Czech Republic 2019–2030, Government Resolution of 4 February 2019, No 104
+• Action Plan for Society 4.0, Government Resolution No 684 of 25 September 2017
+• National Space Plan 2014-2019, Government Resolution of 27 October 2014 No 872
+• Vision of Autonomous Mobility Development, Government Resolution No 720 of 11 October 2017
+• Strategic Framework Czech Republic 2030, Government Resolution No 368 of 19 April 2017
+• Development Strategy for Capital Market in the Czech Republic 2019–2023, Government Resolution No 156 
+of 4 March 2019
+• National Research and Innovation Strategy for Smart Specialization of the Czech Republic 2014–2020–2018 
+Update (National RIS3 Strategy), Government Resolution No 24
+• Research on the potential of the development of artificial intelligence in the Czech Republic, acknowledged 
+by the Government on 28 February 2019, which ordered the Ministry of Industry and Trade to draw up the 
+National Strategy on Artificial Intelligence by 30 April 2019, Government Resolution No 82 of 28 January 
+2019
+List of strategic documents
+14
+The diagram below broadly outlines key areas, and their main coordinators responsible for achieving the objectives 
+through key tools.
+Chart of links among entities, objectives and tools
+Government of the 
+Czech Republic
+National AI Strategy
+1. R&D Support 2. Financing 3. Industry 4. Education 5. Social Impacts 6. Regulation 7. International 
+cooperation
+Fond/Agency
+For non-specific 
+advanced research Platform and 
+forum
+Extending 
+education 
+and lifelong 
+learning by AI
+DIHs - 
+transmission
+AI into practice
+Preparing for 
+changes in the 
+labor market
+European Center of Excellence and 
+European Testing Center
+Early legal 
+regulation and 
+transposition of 
+the EU
+Coordination 
+within V4 
+and EU
+Ministry of Industry 
+and Trade of CR
+Ministry of 
+Education, 
+Youth and 
+Sports
+Ministry of 
+Industry and 
+Trade of CR
+Office of the 
+Government 
+of the CR
+Office of the 
+Government 
+of the CR
+Council of 
+Economic and 
+Social 
+Agreement
+Institute of State
+and Law of 
+the Academy 
+of Sciences
+Ministry 
+of Foreign 
+Affairs
+RVVI CzechInvest AIP SP ČR
+Main coordination
+Key areas
+Coordinator
+Co-coordinator
+New Tools
+Main Goals
+Ministry of 
+Labour and 
+Social Affairs
+15
+1.1 Responsibility
+Coordinator: Ministry of Industry and Trade  
+Co-coordinator: Council for Research, Development, and Innovation
+1.2 Baseline:  
+In the field of artificial intelligence, the Czech Republic has a comparative advantage in excellent research and 
+development, both in primary and applied research. There are thousands of researchers in AI and closely related 
+fields. Czech universities also produce more than a hundred experts in the AI area annually, which is more than 
+some of the world’s renowned AI centres.  In order to realize this potential, it is not only necessary to further devel-
+op scientific and research capacity in academia and business and to strengthen cooperation with the private sec-
+tor, but also to concentrate it significantly. The key factor is attracting top talent and transferring results into practice, 
+enabling substantial support for non-specific advanced research and innovation. The key is to build a European 
+Centre of Excellence in AI research, the European Test Centre and Digital Innovation Hubs, which are one of the 
+priorities of the National AI Strategy.
+1.3.1. Short-term objectives (until 2021):
+• Establishment of a European Centre of Excellence in AI based on a consortium of academic research institutes 
+based in Prague under direct coordination of the Ministry of Industry and Trade and in collaboration with other 
+V4 national research centres and partners and the Central European region.
+• Establishment of a European testing facility for advanced industrial production or advanced transport systems.
+• Fully functioning Digital Innovation Hubs (DIH) as a significant part of the knowledge transfer ecosystem. At 
+least one should be focused on security and resilience, especially in synergy areas (Mobility Innovation Hub) 
+or initiatives similar to CLC East within EIT Urban Mobility.
+• Involvement in European networks of excellence organized by, for example, CLAIRE and ELLIS, or targeting 
+specific areas such as META-NET and LT Innovate, and promoting cooperation with selected non-EU countries 
+(Israel, USA, South Korea).
+• Expansion of the Prague-based European Satellite Navigation Agency GSA to the “EU Space Program 
+Agency”. 
+• Two pilot complex projects facilitating the transfer of academic know-how. 
+• Programmes for two-way transfer of knowledge and experience between research and private sector with the 
+aim to create and implement revolutionary, disruptive innovations in Czech companies, e.g. using TACR and 
+GACR funds.
+• Promotion and assistance in the use of existing projects of economic migration for researchers and experts 
+(Fast Track and Welcome Package projects, long-term residence permits for scientific research, and granting 
+permanent residence in the interest of the Czech Republic).
+• Within the upcoming government programmes (a key and highly qualified employee), allow for accelerated 
+and simplified acquisition of residence and work permits for experts, researchers, and their family members.
+• Make the Czech Republic more attractive as a country for the further stay and activities of researchers and, 
+after completing their scientific research, allow them to stay in the Czech Republic for up to 9 months in order 
+to find a job, pursue further research or start a business.
+1. Promotion and concentration of science, research and development
+16
+• Creating a centre for humanities and social science research on the impacts of the AI on the economy, society 
+and the legal system belonging to the European Centre of Excellence and in international cooperation (EU 
+and V4).
+• Involvement of public administration and municipalities in the support of AI activities.
+1.3.2. Medium-term objectives (until 2027):
+• Full integration and cooperation of the European Centre of Excellence with partner research centres. 
+• Implement economic migration programmes aimed at facilitating the arrival of highly qualified employees in 
+the Czech Republic, make them more attractive and adapt them to practical needs.
+• Programme of promotion of the Czech Republic abroad for research experts, their active search and offering 
+employment opportunities in the Czech Republic and promotion of joint research opportunities in strategic 
+areas.
+• Creation of a fully functional ecosystem around the European Centre of Excellence and the European Testing 
+Centre for the transfer of research into practice and support for the creation of Czech start-ups.
+• Five projects for the transfer of academic know-how, at least three full Czech value chains.
+• Establishment of a European Centre for Business Development and Technology Transfer in the Czech Republic, 
+taking into account the existing structures of this type.
+• Completing the network of fully functional DIHs and their full interconnection, including European Centres.
+• Deeper engagement in research networks of excellence organized by, for example, CLAIRE, ELLIS, META-
+NET or LT Innovate, involvement in the strategic teams in these networks and integration across disciplines.
+• Creating an application development support system for industry needs, especially with regard to synergies 
+and outputs from the public, private or PPP sectors (e.g. support for new cloud services and API economy).
+• Expansion of the IT4Innovations High Performance Computing Centre (HPC) and related study programs and 
+collaboration with DIH, inter alia, to link it to available cloud platforms or similar services.
+• Make medical data available for research purposes on the basis of the relevant strategy in accordance with 
+the requirements for personal data protection. 
+• Creation of a dedicated research centre focusing on the use of AI in space research, either within the European 
+Centre of Excellence or at one of the technical universities.
+• Increase many times publishing activity increase in top journals (100 percent).
+1.3.3. Long-term objectives (until 2035):
+• Integrated system of the European Centre of Excellence, the European Testing Centre and DIH with links to 
+other Centres and DIHs in V4, Central Europe and the whole EU.
+• A fully functional integrated system of transfer of academic know-how integrated within the EU.
+• The Czech Republic as an attractive country for excellent scientists and researchers in AI from around the world.
+• Substantial increase in publishing activity in top journals (300 percent).
+17
+1.4 Tools:
+• Involvement in the EU initiative to build European Centres of Excellence, Test Centres and DIH.
+• Close links and collaboration between national, V4, regional and EU research institutes, sharing knowledge 
+and finding synergies with European Centres of Excellence and Testing Centres.
+• Revision of legal, administrative and other conditions to support the fastest and easiest acquisition of residence 
+and work permits for scientific and researchers in strategic areas for the development of the Czech economy, 
+with an emphasis on AI. Support for the identification of critical mass of excellent researchers, teachers and 
+technical professionals.
+• Essential simplification of administration for admission of foreigners – researchers and students from abroad 
+(visa duty, enrolment in studies, administration of doctoral studies, issues of taxes and insurance), revision of the 
+Act on the Residence of Foreigners.
+• Financial and non-financial support for attracting and retaining researchers in the Czech Republic, supporting 
+their careers in research organizations, attracting new talents from abroad.
+• Financial and non-financial support for systematic building of a comprehensive system of transfer of academic 
+know-how, including incubators and start-ups, involving joint laboratories with domestic and global compa-
+nies.
+• A programme to facilitate collaboration between SMEs and start-ups, and scientific research centres.
+• Development of the IT4Innovations national supercomputing centre and its interconnection at national, region-
+al and EU level with other scientific research centres and HPC centres.
+• Support for the acquisition of European grants, in particular from the European Research Council (ERC).
+• Searching and accessing data sources, collaborating with the public and private sectors to access data for 
+training AI systems. Facilitating access for researchers to training data.
+• Supporting the use of AI for space activities, especially collaboration with ESA.
+• Design and facilitation of accreditation for new doctoral programs and related specialized positions in univer-
+sities, support for online studies and interactive learning in English.
+• Regular consultation of experts, State sector, academics and business, and collaboration between technical, 
+social sciences, humanities, public, private and non-governmental sectors. 
+• Incorporating support tools into the RIS3 Strategy.
+• Implementation Plan No 1 of the Digital Czech Republic – Digital Economy and Society.
+1.5. Cooperating entities
+• CzechInvest; 
+• Technological Agency of the Czech Republic;
+• Grant Agency of the Czech Republic;
+• Ministry of Education, Youth, and Sports;
+• Ministry of Transport;
+• Academy of Sciences of the Czech Republic;
+• AI Platform of the Confederation of Industry;
+(other entities as decided by the chief coordinator or the AI Committee)
+18
+2. Financing research and development, investment support and the 
+development of the AI ecosystem in the Czech 
+2.1 Responsibility
+Coordinator: Ministry of Industry and Trade  
+Co-coordinator: CzechInvest
+2.2 Baseline:
+Setting up favourable conditions for investment and cooperation with foreign entities for the development of an AI 
+ecosystem, together with the support of science, research and development, is a key part of utilizing the potential 
+of artificial intelligence in the Czech Republic. Excellent research in academia and business requires financial and 
+non-financial support and coordination at the highest level to maximize efficiency. Today, even in the fast-paced 
+and popular AI market, start-ups can face challenges in getting the right funding allowing them to expand global-
+ly. Small and medium-sized enterprises whose their development and shift to high-value production will underpin 
+future prosperity, employment and economic growth, will face increasing funding and investment demands with 
+the progress of automation. A strong capital market then promotes economic development through efficient cap-
+ital allocation, which can also be used to create jobs with higher added value and lower risk due to automation, 
+building digital infrastructure and financing breakthrough innovations in AI.
+2.3.1. Short-term objectives (until 2021):
+• Mapping and utilizing current AI support tools, infrastructure and platforms.
+• Preparation and implementation of calls involving specific support for AI within TA CR and GA CR, including, 
+for example, research into the impact of AI development on cyber security and the security of technologies 
+using AI.
+• Creation of a tool to support innovative and research projects in AI managed directly by the Ministry of Industry 
+and Trade, which will enable, among other things, joint projects of companies and academic institutions.
+• Incorporating the funding and support for R&D and innovation in AI into the RIS3 Strategy.
+• Strengthening institutional financing of research institutions within the 17+ Methodology.
+• Creation of the Innovative Hub of Artificial Intelligence (IHAI) of CzechInvest.
+• Deepening the involvement in the European Institute of Innovation and Technology (EIT). 
+• Financing of the Czech Republic’s participation in elective ESA programmes dealing with AI development.
+• Establishment of start-up support programmes focusing on AI application in the public sector, in the area of 
+public services and in areas of national interest and specialization in the Czech Republic.
+• Create special grant programs for the purpose of obtaining and supporting postgraduate students and re-
+searchers in their studies and subsequent work in the Czech Republic.
+• Creating a map of AI start-ups and, in collaboration with Czech DIHs, connecting the start-ups with investors, 
+system integrators, consulting companies, and support providers.
+• Announcement of calls and tenders focused on the development of AI, especially of multidisciplinary teams, 
+even outside R&D support.
+• Introducing tools to promote investment in innovative projects and automation, especially in relation to SMEs.
+• Creation of market-based financial instruments of the CMZRB to improve access to financing for AI businesses 
+19
+and projects, especially in the private sector, including through innovative financial instruments.
+• Review and new legislative and system settings for the operation of investors (especially angels and other risk 
+investors) as well as for AI start-ups, analysis of tools facilitating their business.
+• Elaboration of an analysis of possibilities and forms of implementation of non-specific support of advanced 
+research projects.
+• Implementation of programmes allowing joint grant projects of companies and universities in AI.
+2.3.2. Medium-term objectives (until 2027):
+• Attracting major risk investments targeting the AI area and linking these investments with academic practice 
+and AI centres.
+• A demonstrable increase in investment in artificial intelligence and related sectors.
+• Attracting foreign technologically advanced projects to support the development of the AI ecosystem.
+• Creation of at least two more extensive long-term programmes enabling AI support, one of which can be di-
+rected to support cooperation and excellent research within TACR and GACR.
+• Implementation of the results of the analysis of introducing tools for non-specific support of advanced research 
+projects.
+• Establishment of a fund to finance academic institutions’ incubators in the pre-seed phase.
+• Needs analysis and possible establishment of a fund, or other tools to support the automation and acceleration 
+of AI solutions in industry and services, especially in SMEs.
+• Strengthening the financing of institutions and programme frameworks dealing with AI research with an em-
+phasis on internationalization.
+• Changing the conditions of the EU programming period with an emphasis on the development of AI in the 
+Czech Republic, V4 and the region.
+2.3.3. Long-term objectives (until 2035):
+• Establishment of new, economically important Czech companies in AI, operating on international markets, 
+especially in connection with the European Centre of Excellence and the European Testing Centre.
+• Support for AI start-ups for application of research results and outputs, especially in the context of the European 
+Centre of Excellence and the European Test Centre.
+• Building stable research centres based on projects financed by TACR and GACR.
+2.4 Tools:
+• Financing the preparation of the European Centre of Excellence through the Digital Czech Republic pro-
+gramme, resources of the City of Prague, involved entities and other non-State private partners.
+• Effective use of existing and future EU support tools, e.g. in the MFF 2021–2027, incl. Digital Europe, Horizon 
+Europe, Connecting Europe Facility, Creative Europe, etc. More use and involvement in EU initiatives such as 
+the European Institute of Innovation and Technology (EIT).
+• An expert group composed of representatives of the academic, private and public sectors to develop concrete 
+measures for implementing AI support and investment objectives, defining grants and specific programmes and 
+investment programs for SMEs and researchers in AI.
+• Targeted grant programmes focused on long-term specific financing of AI, within GA CR, TA CR and other 
+20
+providers. At the same time, the analysis and implementation of missing tools to support non-specific research. 
+• Coordination of all tools to support innovation and competitiveness for the use of funds from available pro-
+grammes and within the EU, including the negotiation of the next programming period.
+• Continuously evaluating the effectiveness of support programmes based on AI mapping and its development 
+in the Czech Republic.
+• Designing and creating special grant programs for the purpose of obtaining and supporting AI postgraduate 
+students and researchers in their studies and subsequent work in the Czech Republic.
+• Clarification of financial support and tools for the implementation of AI projects.
+• Supporting investments in automation and deployment of AI, especially in small and medium-sized enterprises, 
+especially corporate finance and investment sources, including EU sources and financial markets (especially 
+the capital market, including venture capital and alternative and new forms of financing).
+• Support for the development and modernization of financial instruments and other financial services tools that 
+can support highly innovative services and business models.
+• Promotion of investments in cultural and creative industries and other sectors that generate high added value, 
+as well as jobs at low risk due to automation. 
+• Promoting the Czech AI environment in the Czech Republic and abroad. 
+• Connecting domestic and foreign entities to implement joint AI projects.
+• Creation of suitable conditions for start-ups and spin-offs in AI area, their financing with venture capital and 
+support for their further development.
+• Encouraging incubation and gaining experience abroad, linking research, AI business and start-up scenes and 
+support of all stages of the establishment and development of start-ups.
+• Special programme for start-up support programmes focusing on AI application in the public sector, in the 
+area of public services and in areas of national interest and specialization in the Czech Republic. 
+• Technological missions to AI excellent countries to establish, consolidate and develop both domestic and inter-
+national AI collaboration, initiate joint AI projects, and invest in further development.
+• Assistance to new AI investment projects to attract technologically advanced investment projects from abroad 
+to support the development of the local AI ecosystem.
+• Joint-venture projects of domestic and foreign entities.
+• Creating support for AI technologies with public support providers.
+• Creating a systematic concept of financial support that can be used by municipalities and regions to support 
+and retain researchers and similar experts in regions.
+• Inclusion of AI-focused non-profit organizations in the field of strategic development of the Czech Republic into 
+programmes for the support of non-governmental non-profit organizations from national sources.
+• Fulfilment of the government’s Capital Market Development Strategy in the Czech Republic 2019–2023.
+• Implementation Plan No 7 of the Digital Czech Republic – Digital Economy and Society.
+21
+2.5. Cooperating entities: 
+• Českomoravská záruční a rozvojová banka; 
+• Technological Agency of the Czech Republic;
+• Grant Agency of the Czech Republic;
+• Ministry of Finance;
+• Ministry of Transport;
+• Czech National Bank;
+• AI Platform of the Confederation of Industry;
+(other entities as decided by the chief coordinator or the AI Committee)
+22
+3.1 Responsibility
+Coordinator: Ministry of Industry and Trade 
+Co-coordinator: AI Platform of the Confederation of Industry of the Czech Republic
+3.2 Baseline: 
+The Czech Republic is one of the most industrialized countries with almost 40% share of value added in the econo-
+my. Of this, more than a fifth of the production goes to the automotive sector. As a result, the advent of AI, automa-
+tion and massive robotics can become a source of uncertainty for businesses, their business models and the econ-
+omy. The companies will have to undergo internal transformation of their structure, organization of production and 
+use of employees, as well as partners and customer-supply chains. In the event of a global race for technological 
+dominance, Europe and the Czech Republic, coupled with the German industrial cluster, risk losing up to half the 
+added value, especially in the automotive industry. But the digital and AI transformation of the economy will even 
+more affect the service sector. The Czech Republic’s industrial, economic and technological position will therefore 
+be crucial for the future growth of the economy and living standards in the coming ground-breaking period. At the 
+same time, artificial intelligence can be a key engine that will enable us to move up the value chain and encourage 
+the emergence of strong new national champions as well as the successful development of existing businesses. AI 
+can also be the engine of its own disruptive innovations, which can significantly strengthen the Czech economy. 
+Furthermore, the aim is to market our own disruptive advantages before competition. Therefore, it is essential to use 
+and transfer the knowledge from cutting-edge research into business practice, support automation in companies, 
+especially small and medium-sized enterprises, and closely related issues of qualified and retrained workforce. 
+The main objective is to increase not only the competitiveness of the Czech Republic, but the whole region and 
+Europe, and attention should also be paid to the development of such AI solutions that have high application po-
+tential through the use of knowledge from other vertical sectors (e.g. automotive, mobility, aviation). In this respect, 
+State intervention is justifiable and desirable, especially in terms of creating business conditions and building the 
+necessary infrastructure and getting the maximum part of the value chain in parts with high added value. The basic 
+prerequisite is to make available a sufficient data base while preserving the privacy and other rights of stakehold-
+ers to build a data-based economy.
+3.3.1. Short-term objectives (until 2021):
+• Accelerating adoption of existing disruptive technologies and engaging AI tools in the corporate environment, 
+with a particular focus on supporting small and medium-sized enterprises, especially those with high synergy 
+effects.
+• Creating a continually updated map of all players in AI industry and services.
+• Analysis of the position of the Czech Republic in the field of technological development of artificial intelligence 
+and its applications in the business sector, including the network industries of transport, telecommunications 
+and energy.
+• Promotion and assistance in the use of existing projects of economic migration (Fast Track and Welcome 
+Package projects), and using the option to grant permanent residence in the interest of the Czech Republic.
+• Within the upcoming government programmes (a key and highly qualified employee), allow for accelerated 
+and simplified acquisition of residence and work permits for experts, highly skilled workers and their family 
+members.
+3. AI in industry, services and public administration, economic growth, 
+growth of wages and overall competitiveness of the Czech Republic
+23
+• In justified cases (e.g. health care or transport), elaborate strategies and conditions for the use of data for 
+research purposes respecting the requirements for the protection of personal data and propose appropriate 
+measures according to the ministerial focus. 
+• Propose parameters, conditions and system for collecting and maintaining defined quality data for possible 
+use in AI systems. 
+• Involvement in global activities focusing on testing and evaluation of data quality and validation and perfor-
+mance of AI applications for use e.g. in healthcare. Preparation of a strategy of implementing AI applications 
+in healthcare in line with approaches in countries with similar health levels, especially in Europe.
+• Test the first prototypes on real data and apply them in new areas and evaluate them in practice.
+• Creating programmes for accelerating digital transformation and AI innovation, especially in priority sectors 
+and building on the real needs of corporate and cooperating academia.
+• Simplifying the conditions for investment and entrepreneurship in the AI area, including receiving investment 
+from third countries, setting up start-ups and third country SMEs.
+• Setting the conditions for more efficient use of EU investment programmes for AI companies.
+• Elaboration of AI pilot projects in public administration and health care.
+• Developing a binding public administration data availability plan for AI use, including data standards.
+3.3.2. Medium-term objectives (until 2027):
+• Launch programmes supporting the return of Czechs working abroad, with the aim of increasing the number 
+of skilled workers in the AI area.
+• Continuously implement economic migration programmes aimed at facilitating the arrival of highly qualified 
+employees in the Czech Republic, make them more attractive and adapt them to practical needs.
+• Promote the Czech Republic abroad as an attractive place for highly qualified workers. 
+• Analyse and implement the necessary changes to the tax system on a continuous basis, taking into account 
+technological progress and, above all, automation.
+• Implement ground-breaking AI projects in public administration to simplify life for citizens and businesses and 
+streamline activities and increase the added value of public administration.
+• Creating specialized workplaces for evaluating AI applications, e.g. for healthcare, including their involvement 
+in international networks.
+• Implement a programme for collecting and protecting high-quality healthcare data for their possible use in AI 
+systems according to the proposed conditions.
+• Implement programmes to support automation and use of AI in the business sector, closely linked to excellent 
+research, education reform and social system adjustments.
+3.3.3. Long-term objectives (until 2035):
+• Use the potential of AI to shift the Czech economy in global value chains towards higher added value, produc-
+tivity and prosperity of businesses and household wealth.
+• Change the Czech economy to a digital economy based on state-of-the-art domestic research and develop-
+ment and high-value-added production that realizes economic growth using AI technology.
+24
+• Substantially increase the Czech Republic’s global position in terms of competitiveness, technological and 
+industrial competences in all relevant areas and in close cooperation between entrepreneurs and public ad-
+ministration.
+ 
+3.4 Tools:
+• Creating specialized AI ecosystems linking research centres to the business community, which will support AI 
+deployment by sector and industry, primarily through dedicated support activities, technical talent training, 
+research, teaching and application area collaboration.
+• Continuous collection of AI application data to provide an adequate data base for independent and com-
+prehensive analysis of the needs, strengths and weaknesses of AI deployment across sectors of the economy. 
+• To conduct a dialogue on possible new AI applications in public administration with private sector and their 
+development and deployment, e.g. in the form of hackathons.
+• Provision of digital infrastructure and necessary processes for efficient provision of open data (government 
+cloud, data platform, etc.) in accordance with the objectives of the Digital Czech Republic programme. In or-
+der to aggregate data in one place, store the data in a unified form, and above all ensure access to it by the 
+private sector, including in the case of municipalities, their service organizations and subcontractors.
+• Supporting the building of complete value chains in the Czech Republic so that the Czech Republic can maxi-
+mize its potential, especially in terms of supporting the inflow, stay and use of investments in the Czech Republic 
+in the area of AI.
+• Support programs for the promotion and acceleration of digital transformation, innovation and enterprise au-
+tomation based on the real needs of target organizations, especially SMEs.
+• Developing tax policy to promote a steady growth of the digital economy while ensuring sustainable govern-
+ment revenue, both in terms of taxation of labour and capital.
+• Making available and sharing of public sector data, in particular search for appropriate data for open shar-
+ing, their maintenance and updating.
+• Targeted educational and awareness-raising campaign for companies on the possibilities and benefits of AI 
+and digitization.
+• Support for cross-sectoral and cross-disciplinary collaboration and training of AI systems on shared data to 
+develop new types of automation and economic activities, in collaboration between businesses and academ-
+ia.
+• Developing competition policies to ensure a balanced competitive environment, even in an environment of AI 
+transformation, enabling smaller start-ups as well as larger established companies to develop.
+• Promoting the coherence of AI activities with other important areas of digitization such as cyber security or HPC 
+and data analytics.
+• Promoting the use of high-performance computing by both the private and public sectors in various sectors of 
+the economy and society.
+• The Digital Innovation Hub (DIH) network in the Czech Republic facilitating the development of automation and 
+AI in companies and the transfer of research into practice, especially from the European Centres of Excellence.
+• Promoting high value added production and services, by integrating modern know-how, innovation, cultural 
+and creative industries, domestic brands building, by other intellectual property tools and exports.
+• Use of AI as part of providing health services, administration of medicinal products and medical devices and 
+in reimbursement processes, reporting of interventions, predictions of cost development and other data pro-
+cessing, especially within the fulfilment of the National eHealth Strategy of the Czech Republic 2016–2020. 
+25
+• Promoting the success of Czech companies in the AI area with the aim of increasing the prestige of the domestic 
+ecosystem.
+• The introduction of AI in public administration to simplify the lives of citizens and businesses and make it more 
+effective, in particular by increasing productivity, improving services, collection of taxes, and fraud detection, 
+with the maximum use of, inter alia, open source technologies, if their nature so allows, while preserving the 
+protection of intellectual property rights and the conditions for investment and cooperation with private entities.
+• Implementation Plan No 2 of the Digital Czech Republic – Digital Economy and Society.
+3.5. Cooperating entities:
+• Ministry of the Interior;
+• Ministry of Labour and Social Affairs;
+• Ministry of Health;
+• Ministry of Transport;
+• Ministry of Agriculture;
+• Ministry of Culture;
+• Ministry of Regional Development;
+• The Czech Chamber of Commerce
+• The Confederation of Commerce and Tourism of the CR;
+• Technological Agency of the Czech Republic;
+(other entities as decided by the chief coordinator or the AI Committee)
+26
+4. Human capital and the education system together with lifelong learning 
+4.1 Responsibility
+Coordinator:  Ministry of Education, Youth and Sports
+Co-coordinator: Council of Economic and Social Agreement
+4.2 Baseline: 
+Education plays a crucial role in the transformation of the economy and society brought about by artificial intelli-
+gence. In order to minimize the potential negative impacts and, on the other hand, to fully exploit the opportunities 
+offered, it will be necessary not only to adapt the whole education system, but also to focus on lifelong learning 
+and retraining directly with employers for the development of human capital. According to the Research Report of 
+AI Potential in the Czech Republic, a part of mainly routine skills will be substitutable with technologies, affecting 
+1.3 million Czech employees within 5 years, 2.2 million Czech employees within 15 years and almost 3.4 million 
+Czech employees within 30 years. It is therefore essential to focus on skills development that will not be replaced 
+by automation and, on the contrary, develop unique skills that can be used in high value-added positions. At the 
+same time, complex skills, multidisciplinarity and IT thinking are becoming more important. Due to the dynamics 
+of changes, the education system must also be flexible enough to focus on developing the knowledge and skills 
+that can be used on the future rather than the current labour market. At present it shows only insufficient fulfilment 
+of the conditions for the inclusion of digital technologies in education and the overall development of this area in 
+educational processes. Pupils do not achieve the expected results in the field of IT thinking, most teachers perceive 
+the use of information technology as a supplement to classical teaching, not as a fundamental factor in its transfor-
+mation. Mathematical literacy is then very often negatively related to the subject’s low popularity with pupils. Thus, 
+the whole Czech education system faces a very important and challenging task, and for its successful fulfilment it 
+is necessary to allocate sufficient resources and give it the highest priority. Close cooperation between the public 
+and private sectors, especially educational institutions, employers and non-governmental organizations, as well 
+as international cooperation and the adoption of good practice examples, are essential. New strategic documents 
+for education in the post-2020 period offer an opportunity for its transformation.
+4.3.1. Short-term objectives (until 2021):
+• Developing methodological support for school principals, teachers and faculties educating teachers for pro-
+posed changes in the curriculum.
+• Financial support and accreditation of a new PhD programme for AI in English at national level.
+• Financial support and accreditation of PhD programme for study of social, economic, security and legal im-
+pacts of AI.
+• Conducting experimental verification of the development of digital competencies, and IT thinking of children 
+and pupils.
+• Extending the offer of further professional education and retraining.
+• Opening of new master’s and doctoral study programmes and fields in AI.
+• Enabling independent implementation of doctoral degree programmes in the field of artificial intelligence to 
+non-university research institutions.
+• Prepare financial support instruments for the opening of new master’s and doctoral degree programmes in AI 
+or the extension of the existing programmes to include AI.
+• Recommend universities to use AI for university management. 
+27
+• Awareness raising, promotion and information support in the area of further education, preparation for chang-
+es in the labour market.
+4.3.2. Medium-term objectives (until 2027):
+• The start of the transformation of education according to the prepared proposal and the Education Policy 
+Strategy after 2020.
+• Initiation of teaching under the revised Framework Educational Programmes.
+• Updating the Framework Educational Programmes and introducing appropriate elements for teaching AI-
+oriented IT skills at all primary and secondary schools.
+• Incorporating the development of digital competences and IT thinking of children and pupils into teacher train-
+ing.
+• The introduction of AI teaching at (mainly technical) universities, including bachelor programmes focused on 
+AI.
+• Implementation of pilot projects for the management of higher education institutions and teaching methods at 
+all levels of education using the principles of management of complex systems using AI.
+• The first graduates of an AI doctoral programme in English.
+• The first graduates of a doctoral programme for the study of social impacts of AI.
+• Creating positions for the study of AI impacts at faculties of social sciences and humanities.
+• Designing and implementing programmes to extend or change the qualifications of existing IT professionals 
+within lifelong learning programmes implemented by higher education institutions.
+• Performing a transformation of lifelong learning and re-skilling to increase the skills associated with automation 
+and the onset of disruptive technologies, especially for vulnerable professions.
+• Introduction of educational programmes at secondary schools and universities focused on specialized creative 
+fields with high added value in relation to private sector demand.
+• Financially support the expansion of AI teaching at universities and in study programmes not primarily focusing 
+on AI, including the opening of new AI bachelor programmes.
+• Financially support pilot projects for the management of higher education institutions and teaching methods at 
+all levels of education using the principles of management of complex systems using AI.
+4.3.3. Long-term objectives (until 2035):
+• Completing the transformation of education, including fully functional AI teaching in English in most relevant 
+schools and the transformation of content and form of teaching with regard to the ongoing changes in the la-
+bour market and society.
+• Ensuring a flexible curriculum update system focusing on development of digital competences and IT thinking 
+of children and pupils, including preparing teachers and headmasters for these situations.
+• Exploiting the potential of AI at all stages and aspects of education, including fully operational management 
+of universities and teaching methods at all levels of schools, using the principles of management of complex 
+systems using AI.
+28
+4.4 Tools:
+• Study of the proposal of gradual transformation of education with respect to AI impacts, including quantifica-
+tion of its implementation costs and ensuring sufficient material and technical conditions.
+• The transformation of the education system also with regard to the effects of AI in the preparation of a new 
+strategy for education policy and digital education after 2020 and the revision of framework education pro-
+grammes.
+• Continuous evaluation of automation and AI impacts on society, labour market, education and life in the Czech 
+Republic.
+• Revision of general education content, which will include (verified) development of digital competences and IT 
+thinking of children and pupils, and opening to new methods and ways of learning.
+• Promotion of the development of STEM technical skills, 21st century skills and creative and soft skills with regard 
+to labour market predictions and the creation of high value added jobs.
+• Stabilization of the financial and personnel situation of education and further increase of its budget necessary 
+for the implementation of the proposed measures, based on a study of the design of gradual transformation of 
+education in relation to AI impacts.
+• Support programme for the implementation of AI in education, including the use of tools for managing the 
+transformation of education based on artificial intelligence.
+• Support for doctoral studies in AI, where the amount of scholarship must allow for full-time dedication to sci-
+ence.
+• Developing the competences of teachers in working with information, digital technologies and AI with regard 
+to the changing nature of teaching and increasing teachers’ prestige.
+• Strengthening school equipment for the development of digital literacy, IT thinking and AI teaching in terms of 
+material equipment, infrastructure and software using open source and licencing.
+• Support programme for strategic alliances of higher education institutions with top universities and synchroni-
+zation of their curricula in relation to student and academic worker mobility.
+• Financial support for new higher education programmes in AI.
+• Utilizing AI tools to improve the quality and efficiency of the learning process itself, especially taking on routine 
+tasks and freeing up the capacity for creative part of teaching.
+• Extension of the National Qualifications Framework to new professional qualifications corresponding to the 
+requirements of the future labour market in AI.
+• The development of the National Qualifications System as a comprehensive system to increase qualifications, 
+development of new models and individualization in further education and extension of further vocational 
+training and retraining.
+• Development and State support for the system of lifelong learning and vocational training, support for in-ser-
+vice training and development of digital skills. 
+• Educational seminars for experts and the general public, discussions on current AI implementation topics, rais-
+ing awareness in society about the basic aspects of AI and its impacts.
+• Promoting opportunities for in-service training and digital skills development.
+• Motivational tools for businesses and individuals to participate in re-skilling programmes.
+• Removing administrative and other barriers to the development of further education, creating a transparent 
+29
+and stable environment and ensuring effective legislation and standardization processes for further education.
+• Design and implementation of measures aimed at increasing the openness of educational pathways and en-
+suring the permeability of initial and further education, including further development of the results recognition 
+system.
+• Analysis of possibilities increasing individual demand for further education without distinction of work activity, 
+especially of self-employed persons (e.g. use of time off, vouchers, tax relief).
+• Coordination of initial and further education activities so that the two areas form coherent units within the con-
+cept of lifelong learning, including inter-ministerial cooperation and cooperation with the private sector.
+• Tripartite dialogue on appropriate support for further education.
+• Implementation Plan No 3 of the Digital Czech Republic – Digital Economy and Society.
+4.5. Cooperating entities:
+• Ministry of Industry and Trade;
+• Ministry of Labour and Social Affairs;
+• National Institute for Education;
+• Czech National Coalition for Digital Jobs; 
+• National Higher Education Accreditation Authority; 
+• Czech Rectors Conference; 
+• Higher Education Council;
+(other entities as decided by the chief coordinator or the AI Committee)
+30
+5.1 Responsibility
+Coordinator: Ministry of Labour and Social Affairs
+Co-coordinator: Council of Economic and Social Agreement
+5.2 Baseline:
+The greatest impacts of the AI on the economy are generally expected through automation and replacement of 
+routine and repeatable (even laborious) work by machines. Thus, human capacity should be liberated for more 
+creative, value-added work and, overall, performance, productivity, quality and efficiency should be increased. 
+At the same time, automation is a way to compensate for the lack of labour due to unfavourable demographic 
+developments in developed countries. Therefore, there is likely no risk of a total loss of jobs, because the lost ones 
+should be compensated by the emergence of new jobs. However, it will be necessary to undergo a successful 
+transformation at the level of the whole economy, sectors and individuals, which can impose a considerable bur-
+den not only on the educational, but also on the social system and bring about many negative consequences if it 
+is not properly managed. In most cases, retraining of workers for which sufficient support, will be needed to move 
+to the same or better jobs, while the extent and speed of finding a new job is largely individual. Potential threats 
+include deepening the problems in socially excluded regions, temporarily increasing structural and frictional un-
+employment, or deepening the various forms of inequality and discrimination. The effects of automation are likely 
+to be different for different population groups, with the middle class being among the most affected groups. The 
+impacts can thus be not only purely economic, but also social and political. We are also very likely to see a change 
+in FTEs, the emergence of new forms of work and the expansion of outsourcing, to which we will need to respond 
+flexibly and consider the use of innovative approaches and their practical verification. Given the unpredictability 
+of the changes, it will be crucial to first prepare the appropriate tools that can be used operatively in the event of 
+disruption in the labour market due to AI and automation. these will be based on the measures under the Work 4.0 
+Action Plan and the fulfilment of the objectives of the Digital Czech Republic strategy.
+5.3.1. Short-term objectives (until 2022):
+• Continuous mapping of ongoing and expected labour market trends in individual sectors.
+• Updating and revising the National Register of Professions reflecting technological development and specifi-
+cation of new competencies in the Central Competence Database.
+• Involvement of employer and employee representatives in the process of assessing the impact of technological 
+trends on changes in the structure of professions and their content.
+• Analysis of possible compensation of budget and insurance revenue losses by other sources.
+• Increasing support for self-employment and starting small enterprises through effective career guidance, 
+coaching, education, targeted grants, soft loans or tax depreciation. 
+• Preparing an analysis and subsequent proposals to reduce working time at some life stages.
+• Preparing the definition of working relationships within online platforms in terms of preventing the spread of 
+precarious work and endangering insurance systems and ensuring its compatibility with labour legislation in 
+the Czech Republic, coverage in terms of taxation and inclusion in social and health insurance systems.
+• Preparing a proposal for appropriate legislative support and legal interpretation in the field of flexible forms 
+of work.
+5. Measures to address the impacts of the AI on the labour market and the 
+social system
+31
+• Analysis of positive and negative effects of teleworking, defining occupational safety and health when working 
+from home.
+• Proposal for changes in the social and pension system in terms of future demographic development and chang-
+es associated with rapid technological changes.
+• Proposal of a recommendation for the support of mental and physical health in the context of the character of 
+work.
+5.3.2. Medium-term objectives (until 2027):
+• Taking into account the new labour market requirements associated with the development of digital technolo-
+gies in the National Register of Professions and the Central Competence Database.
+• Adaptation of benefit systems to support the transition to emerging disciplines and professions.
+• Operational deployment of tools and implementation of prepared changes according to current changes in 
+the labour market.
+5.3.3. Long-term objectives (until 2035):
+• Prepare the society for the changes and impacts of artificial intelligence and automation on the economy and 
+especially the labour market.
+• Prevent long-term unemployment and flexibly create new jobs in the labour market for disadvantaged groups 
+through targeted programs and effective measures.
+• Minimize the possible negative impacts of economic and labour market transformation and, on the contrary, 
+contribute to the positive use of opportunities to increase productivity and efficiency of work and its evaluation.
+5.4 Tools:
+• Regular preparation and refinement of sectoral and thematic predictions in order to estimate the possible 
+threats and opportunities for the creation of new jobs.
+• A methodological approach to monitoring the impact of technological changes on the labour market.
+• Regular preparation and refinement of sectoral and thematic predictions in order to estimate the possible 
+threats and opportunities for the creation of new jobs.
+• Creating the conditions for the involvement of employer and employee representatives in the process of assess-
+ing the impact of technological trends on changes in the structure of professions and their content.
+• Taking into account the new labour market requirements associated with the development of digital technolo-
+gies in the National Register of Professions and the Central Competence Database.
+• Promoting self-employment and starting small enterprises.
+• Research and preparation of possible solutions in the area of tax and insurance systems and the conditions 
+under which these systems could cope with reducing the fiscal burden on labour revenues and with increasing 
+the demand for extended job opportunities in public services.
+• Definition and regulation of work in the context of shared economy.
+• Supporting older and low-skilled people and reducing gender segregation in the labour market.
+• Analysis of socio-economic impacts of technological changes.
+• Changes in social security and pension systems.
+32
+• Creating conditions to increase labour market flexibility.
+• Monitoring and evaluating the influence of teleworking on the reconciliation of family and working life.
+• Proposal to reduce working time at some life stages.
+• Monitoring and evaluating the influence of teleworking on the reconciliation of family and working life.
+• Proposal of a recommendation for the support of mental and physical health in the context of the character of 
+work.
+• Use of AI in social services, especially to facilitate their users’ lives, improve care, or help clients stay in their 
+natural environment for as long as possible.
+• Creating the conditions for the involvement of employer and employee representatives in the process of assess-
+ing the impact of technological trends on changes in the structure of professions and their content.
+• Promoting the development of job opportunities and worker mobility following the impacts of automation and 
+AI.
+• Systematic support to labour market adaptation to technological changes, including the support for self-em-
+ployment and starting small enterprises through effective career guidance, coaching, education, targeted 
+grants, soft loans or tax depreciation.
+• Analysis of possible solutions in the area of tax and insurance systems and the conditions under which they 
+could cope with reducing the fiscal burden on labour revenues and with extended job opportunities in public 
+services.
+• Definition and regulation in the context of a shared economy and other new economic models.
+• Support for job creation by adjusting the possible tax burden on labour.
+• Supporting older and low-skilled people and reducing gender segregation in the labour market, including 
+upgrading skills and skills in older age groups, promoting flexible work for women of childbearing age and 
+reducing gender exclusivity of professions and educational disciplines, especially IT and pedagogy.
+• Extension of the National Register of Professions to new units of work corresponding to the newly created 
+professions, continuous updating and revision reflecting technological development and competency specifi-
+cations in the Central Competence Database.
+• Use of AI in social services, especially to facilitate their users’ lives, improve care, or help clients stay in their 
+natural environment for as long as possible. 
+• Changes in the social and pension system in terms of future demographic development and changes associat-
+ed with rapid technological changes towards keeping the employees on the labour market.
+• Practical testing of new policies based on foreign good practice and national expert analyses.
+• Use of new social models to support the transition of workers to new positions with regard to changes in labour 
+organization and the loss of social security with a tendency towards looser labour relations.
+• Fulfilment of the measures under the Work 4.0 Action Plan.
+• Implementation Plan No 3 of the Digital Czech Republic – Digital Economy and Society.
+33
+5.5. Cooperating entities:
+• Labour Office of the Czech Republic; 
+• Ministry of the Interior;
+• Ministry of Education, Youth, and Sports;
+• Ministry of Industry and Trade;
+• Ministry of Finance;
+• AI Platform of the Confederation of Industry;
+(other entities as decided by the chief coordinator or the AI Committee)
+34
+6.1 Responsibility
+Coordinator: Office of the Government of the Czech Republic 
+Co-coordinator: Institute of State and Law of the Academy of Sciences of the Czech Republic
+6.2 Baseline:
+In areas affecting global trends, such as artificial intelligence, the development of the Czech legal system largely 
+depends on the activities of transnational and international entities of which the Czech Republic is a member. The 
+most important influence is that of the European Union law, which has set strategic goals in the field of AI, includ-
+ing the creation of Ethical Guidelines for the Development and Use of Artificial Intelligence and the creation of an 
+innovation-friendly legal framework. Other international organizations, notably the OECD, the WTO, the UN and 
+the Council of Europe, also have significant activity in this field. In addition to binding international documents, 
+these organizations also provide regulatory guidance through non-binding model laws and recommendations. 
+Similarly, a number of private sector documents are being produced, especially in the form of self-regulatory codes 
+and other forms of soft-law. In order to develop and fully exploit the potential of the AI in the Czech Republic, it is 
+necessary, first of all, to respond flexibly and continuously to the development of technologies by setting up friendly 
+research and development legislation, as well as emerging economic models, removing obstacles and, conversely, 
+setting legal certainty. All this while maintaining a high level of protection of fundamental and other rights and in 
+line with the European approach of human-centric AI.
+6.3.1. Short-term objectives (until 2021):
+• Identify specific legislative barriers to research, development and use of AI in each sector.
+• Preparation of an analysis of Czech legal regulations and implementation of European principles of liability for 
+damage in relation to AI, especially for the operation of autonomous and collaborative systems and for phas-
+es of experimental and live operation with special emphasis on continuously self-learning systems, including 
+possible introduction of compulsory insurance.
+• Establishment of an expert platform and forum for continuous monitoring of legal and ethical rules and in-
+struments at national and international level in light of current needs for research, development and use of AI 
+organized in cooperation with the Institute of State and Law of the ASCR.
+• A public consultation, including an interactive questionnaire, on the basic legal issues associated with the 
+protection of rights to intellectual property items created by AI and the legal certainty, including Ethical recom-
+mendations for the development and utilisation of artificial intelligence.
+• Development of an analysis of legislative and technical barriers to accessing data necessary for research and 
+development in AI and horizontal (cross-sectoral) analysis of specific data access legislation. On that basis, an 
+analysis and public consultation of proposals for possible solutions (e.g. the data trust model) in the environ-
+ment of Czech law, including the legislative proposals for changes and their approval.
+• Public consultation on data ownership and disclosure and GDPR application principles, including an analysis 
+of GDPR adaptation law in relation to AI.
+• Preparation of a risk analysis of existing personality protection, privacy protection and data protection in re-
+lation to AI.
+• The facilitation of sharing of personal and other data, which can be utilised for the AI purposes. Public consul-
+tation on proposed method, e.g. draft standard form agreements.
+• Preparation of analysis for the use of test operation of AI in the Czech law environment, particularly in the form 
+6. Legal and societal aspects of AI, ethical rules, consumer protection and 
+security issues
+35
+of regulatory test environment (so called regulatory sandbox). Analysis of the use of the concept of regulatory 
+sandboxes. Identification of sectors suitable for the implementation of AI testing operations, particularly in the 
+light of specific sector regulation.
+• Development of certification and standardization in the field of cyber security of AI products, systems and ser-
+vices and prevention of their abuse following the European Cyber Security Act.
+• Commence a dialogue between security forces about the possible AI application in the security area.
+• Extension of the existing interdepartmental working group of Autonomous Management, which is being led by 
+the Ministry of Transport of the Czech Republic on other legislative issues related to the development and use 
+of autonomous vehicles and other means of transport in the Czech Republic. The conclusions will be presented 
+to the AI Committee, with which it will work closely.
+• Creation of model procedures in the creation of DPIA within the impact assessment of selected technologies.
+• Installing sound systems in selected courtrooms and recording of court proceedings, incl. testing the transcrip-
+tion of spoken word into a machine form, automatically converting the spoken word into text.
+6.3.2. Medium-term objectives (until 2027):
+• Implementing AI development and usage tools in accordance with ethical and legal rules (including Ethical 
+Guidelines for Artificial Intelligence Development and Use) and human centric AI.
+• Developing industry-specific codes of conduct extending to the European and international levels – a global 
+good practice for AI competitiveness.
+• Conducting an analysis and assessment of the risks to the competitiveness of companies resulting from both 
+different strategy papers covering ethical frameworks and constraints on access to data collection and key AI 
+tools as well as legislation in the EU, the US and China.
+• Analysis and elimination of legislative barriers and administrative burdens on AI start-ups.
+• Taking action in specific areas related to AI development, in particular for efficient and rapid access to and 
+use of data, use of autonomous mobility resources, effective protection of intellectual property and enhanced 
+consumer protection.
+• Setting up a legal conduct framework through autonomous systems and for personality and privacy protection 
+when creating so-called digital copies of individuals.
+• Creation of a unified system for evaluating the impacts of legal regulations and ethical rules and their adapta-
+tion depending on the development of technologies to support basic research, development and use of AI, to 
+support the competitiveness of the Czech Republic and to ensure effective cyber security.
+• Establishment of competence centres, certification and evaluation laboratories and centres of excellence for 
+cyber security.
+• Creating an interdisciplinary platform to address, in particular, the development and implementation of meth-
+ods to verify the effects of AI on security and resilience, in particular critical systems, by designing metrics to 
+compare emergency preparedness of public and private entities and developing and implementing standards 
+for AI systems, products and services.
+• Introduction of AI elements in the judiciary, such as the sounding of all recording halls, the use of spoken word 
+transcripts in selected agendas, and the involvement of artificial intelligence elements in the justice anonymizer.
+36
+6.3.3. Long-term objectives (until 2035):
+• A flexible legal system capable of adapting rapidly to changes due to technological developments, including 
+possible adaptations of the legislative process and interpretation of law, including innovation case law and AI 
+with sufficient legal certainty.
+• Legislation to develop new business models in the digital economy with regard to AI development.
+• Securing standards primarily in the areas of security, personal data protection and the protection of fundamen-
+tal rights in research, development and use of AI.
+• Introduction of AI elements in the judiciary, in particular the use of transcription in machine form in all court 
+cases, deployment of an anonymization tool using artificial intelligence elements, automatic indexing of court 
+decisions allowing easier search among decisions within the CTD project, involvement of artificial intelligence 
+for handling requests of users and citizens.
+• Introduction of an analytical statistical system for the processing of data by the justice sector, i.e. in particular 
+the evaluation of data in the field of justice and their use for searching indicators; improving case management.
+6.4 Tools:
+• Expert Platform and Forum organized in cooperation with the Institute of State and Law of the Academy of 
+Sciences of the Czech Republic (modelled on the “Observatory and Forum” set up by the European Commission) 
+and bringing together representatives of the academia, public service, business and non-governmental organ-
+izations with the aim of continuously monitoring legal and ethical rules and instruments at national and interna-
+tional level, as well as emerging needs according to current research, development and use of AI.
+• Continuous evaluation of legislative and other legal risks for the competitiveness of the Czech Republic, cre-
+ation of ethical frameworks and for the national implementation of binding EU regulations and recommenda-
+tions.  
+• Supporting the development of AI solutions to ensure the effective functioning of law in the private and public 
+sectors.
+• Removing legal barriers to AI development, including public law and, for example, public procurement.
+• Developing AI-based systems in the judiciary itself to streamline its functioning while maintaining all safeguards.
+• Adopting a clear and timely AI regulation to ensure legal certainty for citizens, entrepreneurs and investors.
+• Education and social awareness in the field of AI regulation and ethics, including the promotion of interdisci-
+plinary fields of study.
+• Support of certified methodology of implementation and specialized courses, including the proposal of a cer-
+tified methodology for system audits in co-operation of the public and private sectors.
+• Regular updating of the implementation of EU legislation, monitoring of externalities and monitoring of legal 
+certainty in the field of cloud computing, the Internet of Things, data economy and smart economy of industry 
+and services.
+• Coordinating and regularly informing all key governmental, academic and business platforms on AI tools 
+discussed in the international institutions and the position of the Czech Republic, especially the exchange of 
+information in expert groups on AI in the UN, OECD and OSCE.
+• Fulfilling the strategy Digital Czech Republic – Czech Republic in Digital Europe.
+• Implementation Plan No 6 of the Digital Czech Republic – Digital Economy and Society.
+37
+6.5. Cooperating entities:
+• Ministry of Justice,
+• Legislative Council of the Government of the Czech Republic; 
+• Government office of the Czech Republic;
+• Ministry of Industry and Trade;
+• Ministry of Transport;
+• AI Platform of the Confederation of Industry;
+• Economic Committee of the Chamber of Deputies;
+• National Cyber and Information Security Office;
+• Czech Telecommunications Office;
+• Civil Aviation Authority;
+(other entities as decided by the chief coordinator or the AI Committee)
+38
+7.1 Responsibility
+Coordinator: Office of the Government of the Czech Republic
+Co-coordinator: Ministry of Foreign Affairs
+ 
+7.2 Baseline:  
+Artificial intelligence appears in all current debates at national and international level that are related to the devel-
+opment of the economy and society. AI was one of the most discussed issues in 2018 also in the European Union 
+and the theme resonates in international organizations. Horizontal projects are being developed within the OECD. 
+As with the EU, the OECD is establishing its own AI Policy Observatory on monitoring and collecting relevant 
+ policy documents and promoting collaboration between different interest groups. The theme also appears at many 
+AI-focused meetings (The AI Summit, World Summit AI, AI Forum 2018 and others), as well as at major annual 
+conferences (e.g. the World Economic Forum). It can be expected that in the coming years it will play a crucial 
+role in the various activities and programmes of international institutions and in bilateral and multilateral relations 
+between States. It is therefore a great opportunity to become an active and strong player on the international scene 
+with a clear position and clear priorities. The Czech Republic takes over the V4 presidency in July 2019, and AI will 
+be one of the key topics of V4 strategic cooperation.
+7.3.1. Short-term objectives (until 2021):
+• Identify and exploit the potential of cooperation with selected non-EU States (Israel, USA, South Korea).
+• Description of AI priority areas in which the Czech Republic has excellent results or a strong potential for de-
+velopment, and a strategy for communicating these areas towards international partners.
+• Preparation of an argument and strategy of communication towards EU partners, especially with the aim to 
+gain support for the creation of the European Centre of Excellence, the European Test Centre and DIH in the 
+Czech Republic (including organising an expert workshop in Brussels). 
+• Presentation of NAIS and identification of potential / topics for cooperation within the EU, V4 and other inter-
+national platforms (OECD, relevant international conferences and meetings).
+• Organization of a specific conference within the V4 Presidency (2nd half of 2019–1st half of 2020) to ex-
+change experience in AI.
+• Promotion of the AI theme to the summit of the V4 Prime Ministers during the Czech Presidency.
+• Expert exchange of experience and best practices and presentation of the results of specific projects imple-
+mented under the Czech Presidency in V4.
+• AI relation to the European Commission’s work programme established after the 2019 elections, NAIS revision.
+• Negotiating and using the Digital Europe programme, from which it will be possible to draw funds for projects 
+based on modern digital technologies, supporting communication campaigns.
+• Inclusion of AI in the Czech Presidency of the EU Council in the 2nd half of 2022.
+• Organising a digital EU-wide conference on AI and initiating an EU online platform for sharing good practice 
+under the Czech Presidency of the EU Council.
+7.  International cooperation
+39
+7.3.2. Medium-term objectives (until 2027):
+• One of the priorities of the Czech Presidency of the EU Council will be also to promote the AI in the programme 
+of the Presidency Trio.
+• Active participation in the creation of the annual work programmes of the project Digital Europe, taking into 
+account the experiences of national drawdown and the specificities of potential beneficiaries.
+• Active support and cooperation with third countries in innovation, new technology development and artificial 
+intelligence (Israel, USA, South Korea).
+• Establishing AI as the subject of bilateral and multilateral strategic partnerships, opening and coordinating the 
+promotion of specific topics at working level.
+• Promoting international financial programmes to develop AI, support of responsible ministries in their use by 
+potential national beneficiaries.
+• Coordination of preparations for negotiations within the OECD, preparation and participation of the Czech 
+Republic in negotiations at all levels based on national expert capacities.
+7.3.3. Long-term objectives (until 2035):
+• Support and continuity of activities on the 2030 Innovation Strategy, fulfilment of their priorities, including the 
+goals of the Digital Czech Republic, which is its integral part.
+• Link to European and international AI initiatives, in particular the Coordinated Plan and its updates.
+• Establishing the international image of the Czech Republic as an innovative country with excellent results in AI.
+7.4 Tools:
+• Integrating the AI theme into the V4 priorities and the programme of the Czech Presidency of V4; coordination 
+of V4 positions in AI for EU negotiations (in close cooperation with V4 partners). 
+• Developing bilateral cooperation and building coalitions of like-minded countries with all the relevant stake-
+holders in the EU to support AI and build and operate European Centres and DIHs.
+• Cooperation in strategic formats such as the Czech-German Strategic Dialogue (Working Group for Research, 
+Development and Innovation), the Czech-French Strategic Partnership (digitization and development of eco-
+systems for the development of start-ups) and the Slavkov Format (Dual Education and Industry 4.0).
+• Active participation in the implementation of the Coordinated Plan for AI and other EU initiatives.
+• Active participation in working groups on AI within the EU, OECD, UN and other international organizations.
+• Active participation and promotion of Going Digital II; in co-ordination with the specialized ministries, involve-
+ment in the strategic discussions in committees, working groups and OECD political plenums will be ensured 
+according to national priorities and needs. 
+• Continuous communication of AI activities of the Czech Republic at the international level, mainly through dig-
+ital media and suitable types of events, with an emphasis on presenting key national capacities, outstanding 
+results and achievements of the Czech Republic in this area.
+• Fulfilling the strategy Digital Czech Republic – Czech Republic in Digital Europe.
+7.5. Cooperating entities:
+• Ministry of Industry and Trade;
+(other entities as decided by the chief coordinator or the AI Committee)
+40
+Academia
+Table 1 – Institutions and number of FTEs participating in AI activities
+INSTITUTIONS total FTEs total
+CTU 224.9
+BUT 71.6
+MFF UK 81.3
+ITE TUL 7.5
+FI MU 50.46
+ZCU 62
+UPOL AI 16
+OSU UVAFM 30
+AI@VSE 9.3
+VŠB 59.2
+1.LF UK 7.75
+AS CR 58
+TOTAL 678
+Annex – Mapping of entities engaged in AI activities
+INSTITUTION
+Number of 
+R&D workers 
+of which 
+Ph.D.
+of which excellent 
+researchers FTEs total
+number of PhD 
+students involved
+CTU 366 156 41 224.9 143
+ITE TUL 15 14 3 7.5 8
+BUT 104 50 18 71.6 54
+UK 118 60.2 16 89.1 51
+FI MU 86 67 24 50.46 45
+ZCU 80 35 4 62 41
+UPOL AI 16 12 7 16 5
+OSU UVAFM 33 30 8 30 7
+AI@VSE 12 11 6 9.3 10
+VŠB 87 40 20 59.2 27
+AS CR 97 77 20 58 25
+TOTAL 1,014 552 167 678 416
+Table 2 – Structure of researchers by workplace
+41
+Table 3 – Structure of workplaces by methods, technologies and application sectors
+M
+ET
+HO
+DS
+ČT
+U
+IT
+E 
+TU
+L
+BU
+T
+U
+K
+FI
+ 
+M
+U
+ZC
+U
+U
+PO
+L 
+AI
+AI
+@
+ 
+VS
+E
+O
+SU
+ 
+U
+VA
+FM
+VŠ
+B 
+TU
+O
+AS
+ 
+CR
+TO
+TA
+L
+Da
+ta
+ S
+ci
+en
+ce
+3.
+2
+1.
+3
+9.
+4
+3
+6.
+5
+3.
+3
+11
+21
+.8
+12
+.2
+71
+.7
+M
+ac
+hi
+ne
+ le
+ar
+ni
+ng
+45
+.2
+1.
+5
+11
+.1
+2.
+15
+5.
+1
+11
+.2
+5
+2.
+2
+7.
+5
+17
+.1
+10
+8.
+05
+Di
+st
+rib
+ut
+ed
+ a
+ut
+on
+om
+ou
+s s
+ys
+te
+m
+s
+2.
+8
+6.
+4
+0.
+2
+0.
+2
+1.
+2
+10
+.8
+Au
+to
+m
+ati
+c 
+de
+du
+cti
+on
+9
+2.
+7
+0.
+8
+1.
+5
+2
+4.
+7
+2
+22
+.7
+Pl
+an
+ni
+ng
+, s
+ch
+ed
+ul
+in
+g
+16
+.5
+5
+2.
+4
+1.
+8
+2.
+5
+9.
+7
+32
+.9
+5
+Sp
+ee
+ch
+ a
+nd
+ n
+at
+ur
+al
+ la
+ng
+ua
+ge
+ p
+ro
+ce
+ss
+in
+g
+4
+1.
+5
+8.
+5
+45
+.5
+10
+.4
+15
+1.
+3
+0.
+8
+87
+M
+ac
+hi
+ne
+ p
+er
+ce
+pti
+on
+12
+.6
+5.
+8
+0.
+05
+2.
+7
+21
+.1
+5
+Au
+to
+no
+m
+ou
+s r
+ob
+oti
+cs
+17
+.7
+6.
+2
+1.
+1
+0.
+3
+0.
+4
+11
+.5
+37
+.2
+Si
+m
+ul
+ati
+on
+s
+6.
+1
+9
+1.
+7
+3.
+5
+3.
+3
+1
+24
+.6
+Co
+m
+pu
+te
+r v
+is
+io
+n 
+an
+d 
+gr
+ap
+hi
+cs
+13
+19
+.7
+2.
+05
+4.
+5
+4
+6.
+5
+4.
+2
+18
+71
+.9
+5
+G
+am
+e 
+Th
+eo
+ry
+4.
+8
+4.
+8
+Fo
+rm
+al
+ m
+et
+ho
+ds
+ in
+ a
+rti
+fic
+ia
+l i
+nt
+el
+lig
+en
+ce
+11
+4.
+2
+16
+3
+34
+.2
+TE
+CH
+N
+O
+LO
+GY
+ A
+N
+D 
+AP
+PL
+IC
+AT
+IO
+N
+ A
+RE
+AS
+Au
+gm
+en
+te
+d 
+an
+d 
+vi
+rt
+ua
+l r
+ea
+lit
+y
+2.
+4
+2.
+9
+2
+1
+3.
+4
+11
+.7
+Ro
+bo
+tis
+ati
+on
+9.
+45
+1.
+1
+1.
+15
+0.
+75
+5.
+3
+13
+.1
+30
+.8
+5
+M
+an
+-M
+ac
+hi
+ne
+ C
+om
+m
+un
+ic
+ati
+on
+6.
+5
+4.
+5
+6.
+9
+27
+.5
+7
+1.
+5
+53
+.9
+Se
+cu
+rit
+y 
+an
+d 
+de
+fe
+nc
+e
+8
+10
+1.
+1
+0.
+5
+1
+1
+4.
+5
+26
+.1
+Au
+to
+no
+m
+ou
+s t
+ra
+ns
+po
+rt
+ sy
+st
+em
+s
+23
+.4
+2.
+7
+3.
+55
+0.
+25
+1
+1.
+8
+32
+.7
+M
+od
+er
+n 
+pr
+od
+uc
+tio
+n 
+an
+d 
+di
+st
+rib
+uti
+on
+ sy
+st
+em
+s,
+ in
+cl
+. 
+M
+ai
+nt
+en
+an
+ce
+9.
+95
+1.
+3
+4.
+6
+0.
+7
+3.
+1
+1
+20
+.6
+5
+Po
+w
+er
+ e
+ng
+in
+ee
+rin
+g
+6.
+95
+1.
+1
+0.
+5
+3.
+9
+1.
+5
+13
+.9
+5
+Sm
+ar
+t P
+ro
+du
+ct
+s
+0
+3.
+7
+2.
+35
+1.
+3
+7.
+35
+G
+am
+in
+g 
+an
+d 
+ed
+uc
+ati
+on
+ sy
+st
+em
+s
+0
+3.
+1
+3.
+05
+0.
+5
+1.
+8
+0.
+5
+8.
+95
+In
+te
+rn
+et
+ te
+ch
+no
+lo
+gi
+es
+0
+0.
+9
+24
+.9
+1
+2
+1.
+3
+6.
+2
+36
+.3
+As
+si
+sti
+ve
+ a
+nd
+ M
+ed
+ic
+al
+ T
+ec
+hn
+ol
+og
+y
+11
+.4
+3.
+6
+9.
+6
+7.
+1
+1.
+3
+5.
+4
+5.
+5
+43
+.9
+Sm
+ar
+t c
+iti
+es
+4
+1.
+1
+0.
+5
+0.
+5
+14
+.6
+2
+22
+.7
+Pu
+bl
+ic
+ a
+dm
+in
+ist
+ra
+tio
+n
+2.
+7
+0
+3.
+5
+0.
+8
+2
+5.
+9
+0.
+2
+15
+.1
+Fo
+od
+ a
+nd
+ a
+gr
+ic
+ul
+tu
+re
+0
+0
+2.
+6
+1
+3.
+6
+42
+Table 4 – Sources of funding of research teams in AI (CZK thousands)
+IN
+ST
+IT
+U
+TI
+O
+N
+sp
+ec
+ia
+l p
+ur
+po
+se
+, 
+Cz
+ec
+h 
+re
+se
+ar
+ch
+, 
+Eu
+ro
+pe
+an
+ 
+op
+er
+ati
+on
+al
+ 
+pr
+og
+ra
+m
+m
+es
+in
+sti
+tu
+tio
+na
+l
+in
+du
+st
+ria
+l
+fo
+re
+ig
+n
+to
+ta
+l
+CT
+U
+12
+4,
+33
+0
+37
+,7
+58
+69
+09
+7
+46
+60
+3
+99
+97
+9
+30
+88
+38
+08
+55
+IT
+E 
+TU
+L
+51
+00
+ 
+ 
+52
+00
+20
+0
+17
+00
+12
+20
+0
+BU
+T
+34
+61
+4
+27
+52
+1
+92
+23
+77
+53
+11
+99
+6
+7,
+20
+2
+98
+08
+4
+U
+K
+51
+,2
+06
+16
+14
+0
+11
+00
+0
+19
+29
+0
+83
+20
+ 
+11
+29
+56
+FI
+ M
+U
+16
+37
+3
+28
+00
+13
+14
+13
+95
+1
+76
+6
+ 
+35
+20
+4
+ZC
+U
+21
+00
+0
+10
+00
+0
+20
+00
+0
+64
+00
+45
+00
+ 
+61
+90
+0
+U
+PO
+L 
+AI
+1,
+00
+0
+ 
+10
+00
+17
+00
+0
+ 
+ 
+19
+00
+0
+O
+SU
+ U
+VA
+FM
+96
+19
+ 
+ 
+28
+49
+5
+57
+0
+ 
+38
+68
+4
+AI
+@
+VS
+E
+89
+7
+ 
+ 
+61
+03
+ 
+ 
+70
+00
+VŠ
+B
+42
+,6
+63
+15
+82
+4
+77
+15
+16
+30
+8
+34
+76
+ 
+85
+98
+6
+AS
+ C
+R 
+34
+00
+0
+50
+0
+30
+00
+51
+50
+0
+55
+00
+ 
+94
+50
+0
+TO
+TA
+L
+34
+0,
+80
+2
+11
+0,
+54
+3
+12
+2,
+34
+9
+21
+8,
+60
+3
+13
+5,
+30
+7
+11
+,9
+90
+94
+6,
+36
+9
+43
+Private sector
+In the Czech Republic, according to the expectations of experts, there are hundreds of entities conducting ap-
+plied research in the field of artificial intelligence. Dozens of private institutions are involved in basic AI research. 
+According to the initial evaluation of the mapping of the corporate AI environment, carried out by the Confederation 
+of Industry of the Czech Republic, analytical conclusions were drawn showing the distribution between individual 
+application methods, sectors and areas. The mapping was done so that the National Strategy could be based on 
+real data and knowledge from practice. Therefore, we collected quantitative data on research, development and 
+production of algorithms and software for AI, but also on the use of AI in the Czech Republic. The mapping will 
+continue and will be evaluated on a regular basis. The numbers were rounded according to rounding rules to make 
+the results as accurate as possible. The members of the Confederation of Industry of the Czech Republic, all other 
+member associations and organizations and the general public were approached for the purpose of mapping – in 
+total thousands of entities were approached, of which 50 companies decided to become involved at this stage.
+Table 5 – Application development areas of AI
+Chart 1 – Application development areas of AI
+Application development areas of AI Total share in %
+Information and communication activities 66%
+Professional scientific and technical activities 32%
+Security and defence 23%
+Marketing 30%
+Corporate management 17%
+Financial and insurance industries 26%
+Remote earth survey 9%
+Logistics 17%
+Manufacturing industry 17%
+Business process support 45%
+Other 26%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+Application	development	 areas	of	AI
+44
+Table 6 – Methods used in AI
+Chart 2 – Methods used in AI
+Methods used in AI Total share in %
+Data science 57%
+Machine learning (incl. deep learning) 79%
+Distributed autonomous systems 9%
+Automatic deduction 19%
+Planning, scheduling 19%
+Speech and natural language processing 47%
+Machine sensing 21%
+Autonomous robotics 11%
+Simulation 28%
+Computer vision and graphics 49%
+Other 9%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+Methods	used	 in	AI
+45
+Table 7 – Number of R&D workers in AI
+Chart 3 – Number of R&D workers in AI (FTEs)
+Number of R&D workers in AI (FTEs) Total share in %
+0.1-5 48%
+5.1-10 23%
+10.1-15 11%
+15.1-20 8%
+20.1-50 8%
+> 50.1 2%
+0,1 - 5 5,1 - 10 10,1 - 15 15,1	- 20 20,1 - 50 > 50,1 
+46
+Table 8 – Application sectors
+Chart 4 – Application sectors of final products
+Application sectors of final products Share
+Cybersecurity 23%
+Cross-sector applications 13%
+Health care 21%
+Corporate AI 45%
+Robotics 21%
+Marketing 30%
+Financial and insurance industries 32%
+Automotive 26%
+Internet of Things 21%
+Trading 15%
+Regulations and standards 6%
+AI hardware 6%
+General hardware 4%
+Media and news 21%
+Education 21%
+Earth sensing 9%
+Agriculture 6%
+Physical security 2%
+Humanities 6%
+IT and networks 17%
+Legal 11%
+Travel 2%
+SW development 30%
+Personal assistants 19%
+Sport 2%
+E-Sports 2%
+Other 21%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+Application	sectors	of	final	products
+47
+Table 9 – Methods of financing of AI research and development
+Chart 5 – Methods of financing of AI research and development
+Methods of financing of AI research and development Total share in %
+Own resources 88%
+External sources – private local (e.g. business angel, VC fund, bank loan) 13%
+External sources – private foreign (e.g. business angel, VC fund) 8%
+External sources – public local (e.g. TA CR, national grants) 30%
+External sources – public foreign (e.g. European Union grants) 23%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Own	resources	 External	 sources	–
+private	 local	(e.g.	
+business	angel,	VC	
+fund,	bank	loan)
+External	 sources	–
+private	 foreign	(e.g.	
+business	angel,	VC	
+fund)
+External	 sources	–
+public	local	(e.g.	TA	CR,	
+national	grants)	
+External	 sources	–
+public	foreign	(e.g.	
+European	Union	
+grants)
+Methods	of	financing	of	AI	research	and	development
+48
+Table 10 – Annual turnover in CZK million in AI activities in the Czech Republic
+Chart 6 – Annual turnover in CZK million in AI activities in the Czech Republic
+* the data in the table are set as an interval to protect company know-how
+>	CZK	1	mill.		 CZK	1	- 5	mill. CZK	6	-10	mill.	 CZK	11	- 15	mill.		 CZK	16	- 50	mill.		 >	CZK	51	mill.	 No	answer
+Annual turnover in million of CZK in AI activities in the Czech 
+Republic
+Total share 
+in %
+> CZK 1 mill.  19%
+CZK 1-5 mill. 13%
+CZK 6-10 mill. 15%
+CZK 11-15 mill.  4%
+CZK 16-50 mill.  4%
+> CZK 51 mill. 6%
+No answer 40%
+49
+Table 11 – Volume of planned investments for AI in 2019 and 2020
+Chart 7 – Volume of planned investments in the Czech Republic (in CZK million) in AI in 2019 and 2020
+* the data in the table are set as an interval to protect company know-how
+Volume of planned investments in the Czech Republic          
+(in CZK million) in AI for 2019 and 2020 Total share in %
+CZK 1-5 million 31%
+CZK 6-10 million 8%
+CZK 10-50 million 15%
+CZK 51 million or more 6%
+No answer 40%
+CZK	1–5	million	 CZK	6–10	million CZK	10–50	million	 CZK	51	million	or	more No	answer
+50
+Table 12 – Importance of the issue of education and retraining of workers / employees with increasing labour market 
+transformation
+Chart 8 – Importance of the issue of education and retraining of workers / employees with increasing labour market 
+transformation
+Importance of the issue of education and retraining 
+of workers / employees with increasing labour market 
+transformation (the onset of new technologies, AI, etc.)
+Total share in %
+Very important 44%
+Neutral 13%
+We do not address at all 10%
+No answer 33%
+Very	 important	 Neutral	 We	do	not	address	at	all No	answer
+51
+52
+Map of private sector entities that conduct applied research in the field of 
+artificial intelligence and academic sector and institutions involved in AI 
+activities.
+Pr
+ag
+ue
+Br
+no
+Lib
+ere
+c
+Ol
+om
+ou
+c
+Pil
+se
+n Kla
+tov
+y
+Ra
+ko
+vn
+ík
+Os
+tra
+va
+53
+PRIVATE SECTOR CITY SCOPE OF OPERATION
+SpeechTech, s.r.o. Pilsen 
+information and communication activities, security and defence,
+finance and insurance
+TOVEK, spol. s.r.o. Prague 
+information and communication activities, security and defence,
+marketing, corporate management, finance and insurance
+business process support
+Memsource, a.s. Prague
+information and communication activities, corporate management, 
+business process support, translations and localization
+ReplayWell, s. r. o Brno information and communication activities, education and training
+Ximilar, s.r.o. Brno business process support, marketing
+OptiSolutions, s.r.o. Prague
+information and communication activities, professional scientific 
+and technical activities, corporate management, manufacturing 
+industry, business process support, machine maintenance
+Geneea Analytics Prague
+information and communication activities, marketing, finance
+and insurance, business process support
+RaRe Technologies, s.r.o. Prague
+information and communication activities, security and defence,
+marketing, finance and insurance, business process support
+Customer support, media & advertising
+Machine Learning Prague, 
+s.r.o Machine Learning 
+College
+Prague
+information and communication activities, professional scientific 
+and technical activities
+Retailys.com, s.r.o.
+information and communication activities, marketing, logistics, 
+business process support
+Phonexia, s.r.o. Klatovy
+information and communication activities, security and defence,
+finance and insurance, business process support
+Seznam.cz Brno
+information and communication activities, marketing, search on
+Internet, image processing
+CertiCon, a.s. Prague security and defence, manufacturing industry
+Creative Connections, s.r.o.  Prague
+information and communication activities, professional scientific 
+and technical activities, creation of medical simulators
+INSTITUTION CITY
+CTU Prague 
+BUT Brno
+MFF Prague
+ITE TUL Liberec
+FI MU Brno
+ZCU Pilsen
+UPOL AI Olomouc
+OSU UVAFM Ostrava
+AI@VSE Prague 
+VSB Ostrava
+1. LF UK Prague
+AS CR Prague
+54
+Lexical Computing CZ, s.r.o. Brno
+information and communication activities, professional scientific 
+and technical activities
+atlantis telecom, s.r.o. Prague information and communication activities, business process support
+Bender robotics, s.r.o. Brno marketing, logistics, business process support
+NeuronSW LTD - Czech 
+branch
+Prague logistics, manufacturing industry
+Innovative Business, s.r.o. Prague business process support
+Valeo Autoklimatizace, k.s. Rakovník
+professional scientific and technical activities, security and 
+defence, Automotive - Autonomous driving
+Microsoft, a.s. Prague
+information and communication activities, professional scientific 
+and technical activities, security and defence, corporate 
+management, finance and insurance, land survey, logistics, 
+business  process support
+Eyedea Recognition, s. r. o. Prague security and defence, transportation systems
+ProTyS, a.s. Prague 6 industrial automation 
+GoodAI Research, s.r.o. 
+GoodAI Applied, s.r.o.
+Prague
+information and communication activities, professional scientific 
+and technical activities, corporate management, finance and 
+insurance, manufacturing industry, business process support
+FlowerChecker, s.r.o. professional scientific and technical activities, aerial land survey
+OKsystem, a.s. Brno
+information and communication activities, security and defence,
+marketing, corporate management, business process support
+IBM Česká Republika, spol. 
+s.r.o.
+Prague
+information and communication activities, professional scientific 
+and technical activities, security and defence, marketing, corporate 
+management, finance and insurance, aerial land survey, logistics, 
+manufacturing industry, business process support
+NEWTON Technologies, a.s. Prague information and communication activities
+VDT Technology, a.s
+information and communication activities, corporate management, 
+manufacturing industry, business process support
+Blindspot Solutions, s.r.o. Prague
+information and communication activities, marketing, finance and 
+insurance, aerial land survey, logistics, manufacturing industry, 
+business process support
+Lundegaard, a.s. Prague
+nformation and communication activities, marketing, finance and 
+insurance
+Wunderman Prague
+information and communication activities, marketing, business 
+process support
+Amper Meteo, s.r.o. Prague professional scientific and technical activities
+

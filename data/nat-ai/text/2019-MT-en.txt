@@ -1,0 +1,2778 @@
+
+Contents
+Foreword Hon. Silvio Schembri Parliamentary Secretary for Financial Services, Digital Economy and Innovation ..............................2
+Foreword Wayne Grixti Chair of Malta.AI Taskforce ................................................................................................................................3
+Executive Summary ..................................................................................................................................................................................4
+Introduction and Background .................................................................................................................................................................7
+What is AI? ................................................................................................................................................................................................................. 8
+How intelligent is AI?................................................................................................................................................................................................ 9
+Why does AI matter?................................................................................................................................................................................................ 9
+Why are some people concerned? ......................................................................................................................................................................10
+AI in the EU .............................................................................................................................................................................................................11
+What are the opportunities for Malta? ................................................................................................................................................................12
+Malta – Towards an AI Strategy  ...........................................................................................................................................................................13
+Vision and Goals ......................................................................................................................................................................................14
+Goals – where will we be? .....................................................................................................................................................................................15
+Malta’s benefits as a launchpad for AI ................................................................................................................................................................18
+Strategic pillars and enablers of the Strategy and Vision for Artificial Intelligence in Malta ........................................................................19
+Strategy implementation and governance  ........................................................................................................................................................19
+Investment, Start-ups and Innovation .................................................................................................................................................20
+Investment, start-ups and innovation .................................................................................................................................................................21
+Establish the right conditions for Malta to become a leading centre for the application of AI solutions ..................................................21
+Increase R&D activity in Malta ..............................................................................................................................................................................21
+Support entrepreneurs to establish AI-related business ventures and scale ................................................................................................22
+Attract international talent, entrepreneurs and investors to Malta  ...............................................................................................................23
+Public Sector Adoption ...........................................................................................................................................................................24
+Create an AI-powered Government  ...................................................................................................................................................................25
+Encourage the procurement of smart technologies .........................................................................................................................................26
+Implement high-profile AI pilot projects  ............................................................................................................................................................26
+Malta’s pilot projects - AI for traffic management .............................................................................................................................................27
+Malta’s pilot projects - AI in education ................................................................................................................................................................28
+Malta’s pilot projects - AI in healthcare ...............................................................................................................................................................29
+Malta’s pilot projects - AI for customer service ..................................................................................................................................................30
+Malta’s pilot projects - AI in tourism ....................................................................................................................................................................31
+Malta’s pilot projects - AI for better utilities .......................................................................................................................................................32
+Private Sector Adoption .........................................................................................................................................................................33
+Build awareness of what AI is and how it can be deployed .............................................................................................................................34
+Identify readiness of the private sector to adopt AI ..........................................................................................................................................34
+Help local businesses to incorporate AI into their business ............................................................................................................................35
+Build trust in how AI works in terms of transparency and accountability ......................................................................................................35
+Eucation and Workforce ........................................................................................................................................................................36
+Understand and plan for the impact of technology and automation on the Maltese labour market ........................................................37
+Equip the workforce with stronger digital competencies and new skills........................................................................................................37
+Build awareness amongst the general population of what AI is and why it is important ............................................................................37
+Build awareness of AI amongst students and parents .....................................................................................................................................38
+Foster and embrace the adoption of AI in education .......................................................................................................................................38
+Develop teachers’ knowledge and awareness of AI in education ....................................................................................................................39
+Equip all students enrolled in higher education programmes in Malta with AI skills ...................................................................................39
+Increase the number of graduates and post-graduates with AI-related degrees .........................................................................................39
+MCAST’s AI Strategy and Action Plan ...................................................................................................................................................................40
+Legal and Ethical .....................................................................................................................................................................................41
+Establish an Ethical AI Framework Towards Trustworthy AI ............................................................................................................................42
+Launch the world’s first national AI certification framework ...........................................................................................................................44
+Appoint a Technology Regulation Advisory Committee to advise on legal matters ......................................................................................45
+Set up a Regulatory Sandbox for AI and a Data Sandbox for AI ......................................................................................................................45
+Ecosystem Infrastructure ......................................................................................................................................................................47
+Investment in Maltese Language Resources ......................................................................................................................................................48
+Incentivise further investment in data centres ..................................................................................................................................................48
+Establish a Digital Innovation Hub (DIH) with a focus on AI .............................................................................................................................49
+Increase the extent of the open data availability to support AI use cases .....................................................................................................49
+Provide cost-effective access to compute capacity ...........................................................................................................................................49
+Expand Malta’s data economy through 5G and IoT ..........................................................................................................................................50
+Identify best practices for securing national AI solutions .................................................................................................................................51
+Malta.AI Taskforce ..................................................................................................................................................................................52
+Malta.AI Working Groups .......................................................................................................................................................................53
+Contributing Stakeholder Organisations .............................................................................................................................................54
+2
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+HON. SILVIO SCHEMBRI
+The pace of innovation continues to accelerate. Indeed, 
+as artificial intelligence becomes ever-more prevalent and 
+intersects across our lives to redefine the man and machine 
+relationship, many commentators believe that we are on the 
+brink of a revolution on the same scale as the industrial one. 
+Clearly then, it is vital for Malta to have the foresight to look 
+beyond the present and lay the foundations today to excel in 
+tomorrow’s world.
+The Strategy and Vision for Artificial Intelligence in Malta aims 
+to ensure that benefits brought about by this next wave of 
+innovation delivers benefits across all segments of Maltese 
+society. At the same time, we need to be vigilant of the risks 
+and transformations ahead. 
+This requires awareness and understanding amongst the 
+general population and business community alike of what AI is 
+and why it is important. It necessitates creating trust in how AI 
+works in terms of transparency and accountability. 
+In developing this strategy, we included an explicit aim to put 
+Malta amongst the top 10 nations with the highest impact 
+national AI programme. While some of the actions in this 
+respect are already well underway – we are launching the 
+world’s first national AI certification programme – the fruit of 
+other actions will take longer to come to fruition. However, the 
+groundwork will commence right away. 
+We plan to gradually infuse AI into education, healthcare 
+and a range of public services to deliver better services to 
+Malta’s citizens and businesses, enhance economic and 
+social well-being, and drive operational excellence across 
+the public administration. We will do this transparently and 
+in consultation with the public and key stakeholders to build 
+common understanding, awareness and trust along the way. 
+The strategy sets out six AI-related pilot projects to be 
+undertaken and we expect more to be identified as we look 
+forward.  
+We will also be investing heavily in tools and skills to ensure 
+that we have the capability to grasp the opportunities ahead. 
+The strategy sets out actions to equip all students enrolled 
+in higher education programmes in Malta with AI skills and 
+knowledge. Scholarships and personal tax incentives will be 
+used to leverage and increase the number of post-graduate 
+AI specialists. 
+Our current workforce will not be left behind. We will be 
+setting up a think tank, together with key stakeholders and 
+social partners, to understand and plan for the impact of 
+technology and automation across the wider Maltese labour 
+market. In conjunction, we will also assist vulnerable workers 
+to develop new digital skills and give due focus to supporting 
+life-long learning and upskilling activities. We will also invest 
+in developing language tools to enable us to communicate 
+with our digital devices in Maltese, just as seamlessly as we 
+currently do in English. 
+Our vision is for Malta to become the “Ultimate AI Launchpad”. 
+We expect this strategy to catalyse R&D and innovation 
+across the country. We will look to set up regulatory and data 
+sandboxes for AI to help companies test innovative concepts 
+and solutions in a contained environment with proportionate 
+safeguards. We want to build a vibrant start-up community and 
+encourage its members to collaborate with local businesses 
+looking to infuse AI into their operations. 
+We want AI to help Malta’s citizens and businesses get ahead 
+and as a government we will do all we can to do so. We are 
+committed to pursuing the Malta AI Strategy and Vision in 
+partnership with our country’s citizens. Conscious that this is a 
+new area, we shall nurture dialogue to ensure that stakeholders 
+can ask questions, voice concerns and make recommendations 
+as we take this strategy forward. 
+In conclusion, I would like to express my gratitude to 
+the Malta.AI Taskforce, Working Groups, and all the 
+stakeholders and individuals who contributed to the 
+development of this strategy. I look forward to your 
+support in working towards our vision. 
+Parliamentary Secretary for Financial Services, 
+Digital Economy and Innovation
+Foreword
+Malta: The Ultimate AI Launchpad
+3
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+WAYNE GRIXTI
+Few would dispute that technology is becoming ever more 
+intertwined with our daily lives. Yet it appears we are only 
+starting to scratch the surface of what is to come over the next 
+two decades. Artificial intelligence AI is expected to become 
+the most important and transformative general-purpose 
+technology GPT of our era and radically alter our way of life, 
+both economically and socially, as the wheel, electricity, cars, 
+computers and the internet did in the past.
+Throughout 2019, the Malta.AI Taskforce and Working Groups 
+have worked hard to develop a National AI Strategy that aims 
+to create a lasting and positive impact on Malta’s citizens and 
+businesses. This is just the beginning of Malta’s journey into 
+this exciting new era, but already, in some aspects, we are well 
+ahead of the game. 
+In 1995, Malta launched one of the first AI degree programmes 
+in Europe and has steadily built up AI expertise over the years. 
+Last year, the country became a pioneer in its creation of 
+the Malta Digital Innovation Authority (MDIA), a regulatory 
+authority responsible for governmental policies aimed at 
+positioning Malta as a centre for excellence and innovation 
+across digital technologies. 
+In parallel with the launch of strategy, Malta has published its 
+ethical AI Framework, Towards Trustworthy AI. The document 
+builds on the work of various international bodies and 
+organisations and establishes a set of guiding principles and 
+trustworthy AI governance and control mechanisms to guide 
+AI practitioners on how to design, train and operate AI in a 
+trusted and ethical manner. 
+Taking a further leap forward, the MDIA will publish guidelines 
+for the world’s first national AI certification programme. The 
+programme will be voluntary, at least initially, and aims to 
+provide applicants with valuable recognition in the marketplace 
+that their AI systems have been developed in an ethically aligned, 
+transparent and socially responsible manner. Certification will 
+be awarded following a thorough audit process undertaken 
+by independent experts authorised by the MDIA. We expect 
+that many nations will look to follow our lead in this respect. 
+On behalf of both the Malta.AI Taskforce and the MDIA, we 
+would welcome the opportunity to share our experiences and 
+knowledge with you. 
+Collaboration will be a central theme that underpins Malta’s 
+AI ecosystem as we take this strategy forward together with 
+Malta’s citizens and businesses. As a small country, we want to 
+team, share and co-innovate with governments, organisations, 
+researchers, tech entrepreneurs and pioneers from around 
+the world to explore, showcase and champion the benefits 
+that AI can deliver. 
+Our aspiration is for Malta to become the “Ultimate AI Launchpad” 
+– a place in which local and foreign companies, and entrepreneurs, 
+can develop, prototype, test and scale AI, and ultimately showcase 
+the value of their innovations across an entire nation primed 
+for adoption. Our ambition is to create the conditions for AI to 
+springboard from Malta to the rest of the world.
+We are not there yet, with much work still to be done. I 
+therefore ask for your support in helping us take this strategy 
+and its actions forward over the coming years. The MDIA 
+has been tasked with the responsibility for the monitoring 
+and governance of the strategy’s implementation, and, as 
+its Chief Technology Officer, I will continue to be involved. I 
+look forward to working with Malta’s stakeholders to turn our 
+vision into a reality. 
+Chair of Malta.AI Taskforce 
+Foreword
+4
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+EXECUTIVE SUMMARY
+Malta: The Ultimate AI Launchpad
+5
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+A Strategy and Vision for Artificial Intelligence in Malta 2030 aims 
+to map the path for Malta to gain a strategic competitive 
+advantage in the global economy as a leader in the AI field. 
+The Strategy is expansive, looking at the impact 
+commercially and socially, areas of economic opportunity 
+and the need for special consideration, if not regulation, 
+where AI use cases potentially intersect with national 
+priorities, values and citizen’s rights. 
+The Strategy has been built on the following three 
+strategic pillars:
+Investment, start-ups and innovation: sets out 
+initiatives to generate investment and position the 
+country as a hub for AI application and niche areas of 
+research and development, supported by a vibrant start-
+up community. 
+Public sector adoption: explores how AI can be 
+deployed widely across the public administration to 
+improve citizens’ experiences, expand access to public 
+services, and directly improve well-being. Six AI pilot 
+projects covering traffic management, education, 
+health, customer service, tourism, and utilities will be 
+undertaken over the coming three years. 
+Private sector adoption: details initiatives to drive 
+awareness and enable companies of all sizes to use, 
+develop and integrate AI applications across their 
+organisations. Support measures include access to 
+technological expertise, the provision of toolkits and 
+financial assistance. 
+Each pillar draws on three strategic enablers:
+Education and workforce: plans for the impact of 
+technology and automation on the Maltese labour market 
+and proposes measures to assist workers to develop new 
+digital skills, increase the number of AI specialists and equip 
+all students on higher education programmes in Malta with 
+AI knowledge. 
+Ethical and legal: establishes the world’s first national 
+AI certification programme to provide a platform to 
+practitioners and companies that wish to showcase 
+ethically aligned, transparent and socially responsible AI 
+solutions, building on Malta’s Ethical AI Framework Towards 
+Trustworthy AI. It makes provision for the formation of 
+a Technology Regulation Advisory Committee to advise 
+on laws and regulation in respect to AI matters and the 
+creation of regulatory and data sandboxes. 
+Ecosystem infrastructure: lays out investments in tools to 
+enable Maltese Language AI solutions, initiatives to support 
+data availability and actions to mitigate cybersecurity risks 
+and facilitate cost-effective access to high-performance 
+compute capability among other measures designed to 
+create the underlying infrastructure to support a thriving 
+AI ecosystem.  
+The document sets a vision for Malta to become the 
+“Ultimate AI Launchpad” by 2030 and a Strategy, 
+supported by a series of actions to be undertaken 
+between 2019-2022 to lay the foundations to get there. 
+Executive Summary
+6
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Malta: The Ultimate AI Launchpad
+7
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+INTRODUCTION AND 
+BACKGROUND
+CHAPTER 1
+What is AI?
+• After more than six decades as an academic discipline, 
+and several cycles of hope, hype and decline, the field of 
+artificial intelligence (AI) has emerged from the laboratory 
+as a science project into a more consumable, commercially 
+viable and socially impactful technological innovation.
+• Defining what AI actually is remains challenging. Experts 
+have not yet reached an agreement on the matter, so AI has 
+many different definitions which are constantly evolving. 
+The reason for this is that AI consists of a wide range of 
+technologies, scientific approaches and definitions which 
+are simultaneously being researched, discovered and 
+taken forward to expand what is possible.
+• The European Commission’s AI HLEG published A definition 
+of Artificial Intelligence: main capabilities and scientific 
+discipline in December 20181. This seven-page document 
+opened with a disclaimer: “The following description and 
+definition of AI capabilities and research areas is a very 
+crude oversimplification of the state of the art. The intent 
+of this document is not to precisely and comprehensively 
+define all AI techniques and capabilities, but to describe 
+summarily the joint understanding of this discipline that 
+the High-Level Expert Group is using in its deliverables”.
+• The definition provided in the document states: “Artificial 
+intelligence (AI) refers to systems designed by humans that, 
+given a complex goal, act in the physical or digital world 
+by perceiving their environment, interpreting the collected 
+structured or unstructured data, reasoning on the knowledge 
+derived from this data and deciding the best action(s) to take 
+(according to predefined parameters) to achieve the given 
+goal. AI systems can also be designed to learn to adapt their 
+behaviour by analysing how the environment is affected by 
+their previous actions. As a scientific discipline, AI includes 
+several approaches and techniques, such as machine 
+learning (of which deep learning and reinforcement learning 
+are specific examples), machine reasoning (which includes 
+planning, scheduling, knowledge representation and 
+reasoning, search and optimisation), and robotics (which 
+includes control, perception, sensors and actuators, as well 
+as the integration of all other techniques into cyber-physical 
+systems).”
+• Put simply, AI uses data and algorithms (a set of 
+instructions using mathematical formulae) on computers 
+or other technological systems to perform specific tasks 
+or make decisions that usually require human intelligence, 
+such as learning, problem solving, pattern recognition, 
+visual perception and speech recognition. Trained AI can 
+perform these tasks or make these decisions without 
+explicit human instructions using a series of techniques 
+and technologies.
+1 Source: European Commission’s High-Level Expert Group on AI (2018). A definition 
+of Artificial Intelligence: main capabilities and scientific disciplines. European 
+Commission.
+Malta: The Ultimate AI Launchpad
+9
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+• Most of us interact with AI-based systems on a daily basis 
+without paying too much attention to them. Common 
+applications that embed AI technologies include search 
+engines, virtual voice assistants, spam filters, websites 
+with online shopping recommendations, and social media 
+channels.
+• Although most commonly software application based, such 
+as on smart phones and computers, AI technologies can 
+also be embedded into other physical hardware devices 
+such as drones, autonomous cars and robotics.
+How intelligent is AI?
+• AI has sparked existential debates on the fate of humanity. 
+In 2014, the late Stephen Hawking stirred controversy when 
+he told the BBC that: “The development of full artificial 
+intelligence could spell the end of the human race2.”
+• His reference to “full” relates to the distinction between 
+general and narrow intelligence. Humans learn and 
+apply such learnings across domains: in other words, the 
+human brain can “generalise” knowledge gained from a 
+single experience and apply such knowledge to different 
+experiences in entirely different contexts.
+• Machines are not yet able to replicate this deeply human 
+skill. Even the “smartest” and most powerful AI systems 
+today, which can outperform humans in a specific task, 
+such as playing a particular game or diagnosing a certain 
+type of cancer, are not able to generalise knowledge 
+beyond a specific task and context. Therefore, they are 
+often called “narrow AI.”
+• While it may be possible, in the distant future, for human 
+engineers to architect an AI that can demonstrate a more 
+general intelligence, no currently available system can or 
+will evolve, organically, to become full or general.
+• Consequently, this future scenario in which machines 
+“generally” outthink humans to become a threat to 
+humanity itself is not a practical scenario and has limited 
+utility for public policy makers.
+• Rather, discussions about the rise of sentient AI are 
+proper topics for academic circles, future-focused think 
+tanks and Hollywood producers. They are otherwise a 
+distraction from the real and current risks of AI that must 
+be understood and considered by public policy makers.
+• A more pragmatic threat worthy of policy consideration 
+is how humans may corrupt or misapply this technology. 
+Policy makers should also predict and influence how AI 
+might change governance, society, health, work and other 
+aspects of life.
+2 Source: Cellan-Jones, R. (2014). Stephen Hawking warns artificial intelligence 
+could end mankind. BBC News. [online] Available at: https://www.bbc.com/news/
+technology-30290540 [Accessed 20 Jun 2019].
+Why does AI matter?
+• AI is widely considered to be a general purpose technology. 
+In other words, it has functions and characteristics 
+which can generate and spread incremental and radical 
+innovation and business growth across different fields, 
+activities and sectors.
+• Research conducted on behalf of the World Economic Forum3 
+highlighted that AI is projected to underpin close to 14 trillion 
+of global economic growth by 2030 and drive significant 
+productivity gains, if not transform how businesses operate, 
+across all sectors of the global economy.
+• Though the timeline and nature of impact will play out 
+differently across sectors and countries, AI is expected to 
+make a noticeable difference to each and every one of us. 
+Beyond the workplace and industry, AI will also transform 
+the way we live and play.
+• There have been fewer than 30 general purpose 
+technologies4 throughout human history. The wheel, the 
+internal combustion engine, electricity, cars, computers 
+and the internet are amongst them. AI has now joined this 
+exclusive set of historical milestones, highlighting just how 
+big the impact is expected to be.
+• Some of AI’s most impactful applications revolve around 
+how it can be used to achieve positive outcomes for society:
+ · In the healthcare field, extensive work is underway 
+to use AI to detect and diagnose various forms of 
+cancer, monitor health and provide individuals with 
+personalised treatment plans
+ · Various countries are using AI to help prevent traffic 
+jams and manage traffic flows, thereby reducing 
+travel times and decreasing emissions
+ · In the education field, AI is being used to help 
+teachers provide feedback on students’ homework, 
+enhance early childhood vocabulary development, 
+learn and practice foreign languages, and assist 
+with personalised learning content outside the 
+classroom
+ · In some countries, farmers are deploying AI systems 
+to identify pests, diseases and nutritional deficiencies 
+in crops and to determine water and fertiliser needs 
+accurately, thereby reducing costs, improving yields 
+and decreasing pesticide usage
+3 Source: PwC. (2017). Sizing the prize: World Economic Forum
+4 Source: Lipsey, R., Carlaw, K. and Bekar, C. (2005). Economic Transformations: 
+General Purpose Technologies and Long Term Economic Growth. Oxford University 
+Press.
+10
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Why are some people concerned?
+• The benefits that AI will bring about are vast, but the 
+technology also creates various risks that need to be 
+addressed and appropriately managed.
+• AI raises profound questions across ethical, legal and 
+regulatory domains, touching a range of areas from 
+protecting national security and citizen rights to advancing 
+commercial interests and international standing. These 
+include the risks of biased and unaccountable automated 
+decision-making, discrimination, data privacy-related 
+issues, cyber threats and the potential for manipulation of 
+political systems and wider society in general. 
+• Various nations, international organisations, standards 
+agencies and bodies are developing research, principles, 
+guidelines, standards and control frameworks aimed at 
+enhancing trust and ethics in the design, deployment and 
+use of AI systems. 
+• The potential for technological job displacement is also 
+a major concern for policy makers. Various studies have 
+been undertaken by academics, research institutes 
+and government bodies on the potential impact that 
+automation will have on the workforce, but there appears 
+to be little consensus on both the number of jobs at high 
+risk from automation and the number of new jobs that are 
+expected to be created by the technology. 
+• One of the most widely quoted and influential studies 
+was conducted by Carl Frey and Michael Osborne from 
+Oxford University in 2013. It forecast that around 47% of 
+jobs in the US were at high risk of being automated5 from a 
+’technologically capable’ perspective. 
+• Numerous other studies on the topic have since been 
+undertaken, including one by the OECD6, which expanded 
+on this work by examining all the tasks that workers carry 
+out across their jobs. The research put the US figure at 10% 
+and 12% for all OECD nations. It also highlighted that the 
+variance in automatability across countries is large, with 
+33% of all jobs in a Central European country deemed to 
+be highly automatable, compared with only 6% of the jobs 
+in a country in the Nordics. 
+• A 2018 study by Accenture estimated that: “If companies 
+were to invest in AI and human-machine collaboration at 
+the same level as the top-performing fifth of companies 
+globally, they could boost revenues by 38% and lift 
+employment levels by 10% between 2018 and 2022.”7 The 
+World Economic Forum estimates that automation will 
+displace 75 million jobs but generate 133 million new ones 
+worldwide by 2022 in The Future of Jobs Report 20188. 
+5 Source: Frey, C. and Osborne, M. (2017). The future of employment: How 
+susceptible are jobs to computerisation?. Technological Forecasting and Social 
+Change, p.114
+6 Source: Nedelkoska, L. and Quintini,G. (2018). Automation, skills use and training: 
+OECD Social, Employment and Migration Working Papers No. 202, OECD
+7 Source: Shook, E and Knickrehm, M. (2018). Reworking the Revolution: Accenture
+8 Source: World Economic Forum (2018). The Future of Jobs Report 2018
+Malta: The Ultimate AI Launchpad
+11
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+• EY’s recent report, The Future of Work, highlights how 
+difficult it is to forecast the nature and impact of 
+technology on jobs. It outlines how studies may overstate 
+the extent of machine substitution for human labour due 
+to a lack of useful and accurate data, or understate the 
+strong complementary role of automation in boosting 
+productivity and employment. The report does, however, 
+stress that a counter-scenario could play out in which 
+sudden shock job losses occur in the short term. Its key 
+message stresses that policy actions should be a national 
+imperative to ensure workers get future-ready and quickly 
+acquire the new skills needed to adapt this changing world 
+as the pace of change accelerates over the next decade9.   
+AI in the EU
+• In April 2018, the European Commission published the 
+Communication on Artificial Intelligence for Europe10, a 20-
+page document that lays out the EU’s approach to AI, to 
+ensure that Member States work together on the most 
+important issues relating to AI to ensure that:
+ · Europe is competitive in the AI landscape
+ · No one is left behind in the digital transformation
+ · New technologies are based on values
+• The Communication on Artificial Intelligence for Europe sets 
+out a European initiative on AI which aims to:
+ · Boost the EU’s technological and industrial capacity 
+and AI uptake across the economy
+ · Prepare for socio-economic changes brought about 
+by AI
+ · Ensure an appropriate ethical and legal framework
+• The Communication sets out how €1.5 billion will be 
+made available to support AI research between 2018 and 
+2020, with the EU having already invested €1.1 billion in 
+AI-related research under the Horizon 2020 research and 
+innovation programme between 2014 and 2017. 
+• The European Commission also established the European 
+AI Alliance as a multi-stakeholder forum for engaging in a 
+broad and open discussion of all aspects of AI development 
+and its impact on the economy and society. It is steered by 
+the AI HLEG, which consists of 52 experts who have been 
+selected by the European Commission for this task. 
+• The AI HLEG has a general objective to support the 
+implementation of the European Strategy on Artificial 
+Intelligence. This includes making recommendations on 
+future-related policy development and on ethical, legal 
+and societal issues related to AI, including socio-economic 
+challenges11.
+9 Source: Halloran, L. and Andrews, J. (2018). The Future of Work: EY
+10 Source: Communication from the Commission (2018). Artificial Intelligence for 
+Europe (COM(2018) 237 final). European Commission.
+11 Source: European Commission. High-Level Expert Group on Artificial Intelligence. 
+[online] Available at: https://ec.europa.eu/digital-single-market/en/high-level-
+expert-group-artificial-intelligence [Accessed 25 Jul. 2019].
+• The European Commission worked with Member States, 
+including Malta, to develop the Coordinated Plan on Artificial 
+Intelligence12, which was published in December 2018. The 
+goal of the plan is to “maximise the impact of investments 
+at EU and national levels, encourage synergies and 
+cooperation across the EU, exchange best practices and 
+collectively define the way forward to ensure that the EU 
+can compete globally.”
+• This plan proposes joint actions for closer and more 
+efficient cooperation between Member States, Norway, 
+Switzerland and the European Commission in four key 
+areas: to increase investment, make more data available, 
+foster talent and ensure trust. 
+• As part of this process, all Member States were asked to 
+develop national AI strategies which address the countries’ 
+specific priorities. Some of these strategies have been 
+published and others are expected in 2019. 
+• The European Parliament and the Council of the European 
+Union reached a provisional political agreement in 
+February 2019 on the first ever Digital Europe Programme, 
+which will see €9.2 billion invested between 2021 and 
+202713 across five key digital areas14: 
+ · €2.7 billion to build up, strengthen and increase 
+accessibility to supercomputing
+ · €2.5 billion to invest in and drive adoption of 
+AI by businesses and public administrations; 
+facilitate safe access to and storage of large data 
+sets and algorithms; and strengthen testing and 
+experimentation facilities 
+ · €2 billion to support the procurement, development 
+and deployment of advanced cybersecurity equipment, 
+tools, data infrastructures and knowledge
+ · €700 million to support the current and future 
+workforce in EU countries, including Malta, to 
+acquire advanced digital skills through long- and 
+short-term training courses and on-the-job training 
+and traineeships
+ · €1.3 billion to support the wide use of digital 
+technologies across the economy and society, 
+including the public sector and areas of public 
+interests, such as healthcare, education, transport, 
+and the cultural and creative sectors 
+12 Source: Communication from the Commission (2018). Coordinated Plan on 
+Artificial Intelligence (COM(2018) 795 final – Annex). European Commission.
+13 Source: European Commission. EU budget: Commission proposes €9.2 billion 
+investment in first ever digital programme. [online] Available at: https://europa.eu/
+rapid/press-release_IP-18-4043_en.htm  [Accessed 11 Mar. 2019].
+14 Source: DG Connect (2019). Digital Europe Programme Factsheet. European 
+Commission
+12
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+What are the opportunities for Malta?
+• Located in the centre of the Mediterranean, the Maltese 
+islands have been a major regional trading hub throughout 
+their history. Moreover, a strategic location, a clear 
+political commitment to ensure sustainable economic 
+development, and a highly qualified workforce, has 
+ensured that the country is increasingly respected as an 
+attractive investment location.
+• Malta’s economy has seen significant transformation 
+across the last 15 years, and its GDP has more than 
+doubled across this period15. Over the last five years, Malta 
+has been one of the fastest-growing economies in the 
+eurozone. Malta’s economy grew by 6.7% in 2018, making it 
+the fifth year in a row in which real GDP has grown by over 
+5%. The outlook for strong growth looks set to continue, 
+with real GDP growth forecasted to be 5.3% in 2019 and 
+4.8% in 202016. 
+• Malta joined the EU in 2004 and became a member of the 
+eurozone in 2008. It also transformed its economic focus, 
+shifting from low-end manufacturing to an innovation-
+driven, service-based economy which is recognised as a 
+leading global hub for financial and digital industries, with 
+a re-dimensioned focus on industry aligned to advanced 
+manufacturing, maritime and aviation service, together 
+with significant growth in tourism, construction and real 
+estate. 
+• The continued diversification of Malta’s economy into new 
+areas is important as the global economy continues to 
+transform. Last year, the country became a pioneer in its 
+creation of the Malta Digital Innovation Authority (MDIA), a 
+regulatory authority responsible for governmental policies 
+aimed at positioning Malta as a centre for excellence and 
+innovation across digital technologies. 
+• The Government of Malta has taken a clear stance on 
+technological innovation: it should be embraced, not 
+stifled; Malta should be a disrupter, rather than a follower. 
+In line with this commitment, Malta firmly established 
+itself as a leader in new, up-and-coming areas such as 
+distributed ledger technology (DLT) and gained global 
+recognition as the “Blockchain Island”. The country has 
+now set out to establish itself in the fields of AI. 
+• AI solutions will enable companies to enhance operational 
+performance and deliver better services to their customers. 
+This is especially relevant in a tight labour market such as 
+Malta’s.
+• Malta’s key sectors are well suited to adopt AI solutions 
+as companies look to innovate to provide competitive 
+differentiation and drive operational improvements. Set 
+out below is some examples of how AI is being used in 
+these industries, either in Malta or globally:
+15 Source: World Bank. GDP (current LCU). [online] Available at: https://data.
+worldbank.org/indicator/NY.GDP.MKTP.CN?locations=MT&most_recent_value_
+desc=false [Accessed 11 Aug. 2019].
+16 European Commission (2019). Summer 2019 Economic Forecast – Malta.
+ · Financial services: AI-driven based solutions 
+are being used for intelligent financial planning, 
+investment and money management services 
+for consumers. They are also helping financial 
+institutions create smarter credit and risk 
+analysis applications and streamline operational 
+performance.
+ · Gaming: AI technologies are frequently incorporated 
+into solutions to help detect and reduce fraud, 
+enhance marketing effectiveness, and augment 
+customer service interactions and customer 
+experience functions. 
+ · Advanced manufacturing and aviation 
+maintenance, repair and overhaul industries: 
+AI-driven solutions are being deployed for condition 
+monitoring and predictive maintenance activities. 
+The solutions draw on the vast amount of data that 
+aircraft, ships and machines now generate.
+ · Tourism: AI models are being applied to big data 
+to discover industry trends and sentiment (i.e. 
+what tourists like and dislike) at scale, provide 
+recommendations on places to visit and book, and 
+enable hotels and vacation rental owners to deploy 
+automated pricing solutions based on supply and 
+demand. 
+ · Real estate: AI solutions are being used to 
+increase the relevance of recommendations users 
+see on websites, display personalised advertising, 
+identify when new properties come on the market, 
+and automatically tag and classify property photos 
+and listings.
+• Global technology companies are making significant 
+investments in AI and opening new AI hubs in international 
+locations; sometimes in partnership with universities, 
+countries and cities. Companies and research organisations 
+are actively seeking out high-profile use cases to pilot 
+and showcase AI projects. National projects are highly 
+attractive, and Malta’s size makes it a viable test bed for 
+pilot projects which can be run across an entire country. 
+• Malta can leverage its natural resources and size, as well 
+as innovative public policy, to translate a bold leadership 
+vision into a set of tools, incentives, resources and 
+collaborative ecosystems that accelerate the journey from 
+AI development to AI adoption, leading to commercial 
+success, social benefit and international recognition.
+Malta: The Ultimate AI Launchpad
+13
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+• Countries have an opportunity to differentiate themselves 
+through strong policy actions that address ethical, 
+regulatory and legal dilemmas brought about by AI. Malta 
+has taken a global lead by developing the world’s first 
+national AI certification programme. The certification 
+process will largely be based on Malta’s Ethical AI 
+Framework, Towards Trustworthy AI17 and aims to provide 
+applicants with valuable recognition in the marketplace 
+that their AI systems have been developed in an ethically 
+aligned, responsible and trustworthy manner. 
+• While a handful of large countries can out-invest and 
+out-build others, the nature of AI development makes 
+it possible for a single company or academic lab to put 
+a small country on the map, even to lead and drive the 
+agenda in one branch of AI.
+Malta – Towards an AI Strategy 
+• In November 2018, the Parliamentary Secretary for Financial 
+Services, Digital Economy and Innovation appointed the Malta.
+AI Taskforce with the remit of advising the Government and 
+developing a national strategy on AI (hereafter also referred 
+to as the Strategy, the National AI Strategy and the Malta AI 
+Strategy). The Malta.AI Taskforce members include a diverse 
+set of some of the country’s best minds in entrepreneurship, 
+academia, public policy, technology strategy, law and data 
+science. Working groups were also formed to address the 
+various areas of focus for the Malta AI Strategy.
+• In March 2019, the Malta.AI Taskforce published a high-
+level policy document, Malta – Towards an AI Strategy18. The 
+document laid out the blueprint and the key areas of focus 
+for the National AI Strategy.
+• The Government’s aim was to develop a National AI 
+Strategy that focuses investment, resources and attention 
+in ways that maximise the benefits for Malta and its 
+contributions to the global economy. 
+• To realise this vision, the Malta.AI Taskforce and working 
+groups engaged with a broad spectrum of stakeholders, 
+aiming to be inclusive and build awareness of the key topics 
+and issues that should be addressed through the Strategy 
+and formulate AI policies that are consistent with emerging 
+international standards and norms around AI ethics. 
+• The comments received during the consultation were 
+supportive of the direction and areas of focus set in the 
+high-level policy document Malta – Towards an AI Strategy, 
+and the national strategy has therefore built on these 
+areas to set out a number of actions that will be achieved 
+by 2022, together with actions to support a longer-term 
+vision of where the country would like to be in 2030. 
+17 Source: Parliamentary Secretariat for Financial Services, Digital Economy 
+and Innovation within the Office of the Prime Minister (2019). Malta towards 
+Trustworthy AI, Malta Ethical Framework.
+18 Source: Parliamentary Secretariat for Financial Services, Digital Economy and 
+Innovation within the Office of the Prime Minister (2019). Malta – Towards an AI 
+Strategy.
+14
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+VISION AND GOALS
+CHAPTER 2
+Malta: The Ultimate AI Launchpad
+15
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Malta – the “Ultimate AI Launchpad”
+Malta aspires to become the “Ultimate AI 
+Launchpad”- a place in which local and 
+foreign companies and entrepreneurs can 
+develop, prototype, test and scale AI, and 
+ultimately showcase the value of their 
+innovations across an entire nation primed 
+for adoption. The ambition is to create 
+the conditions for AI to springboard from 
+Malta to the world.
+Goals – where will we be?
+The table overleaf sets out aspirational goals for Malta to achieve between 2019 and 2022 through 
+the actions and policy measures detailed in the following chapters. The corresponding 2030 vision is 
+the longer-term outlook of where Malta hopes to get to as it builds on the groundwork and actions 
+of the Strategy.
+16
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Malta: The Ultimate AI Launchpad
+17
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+18
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Malta’s benefits as a launchpad for AI
+• With its small population of just under half a million inhabitants, the entire nation, rather than a town 
+or city, becomes the ultimate AI pilot site.
+• Malta is an EU Member State with a tech-savvy population, and English is one of the country’s two 
+official national languages. 
+• Its local laws and regulatory frameworks are specifically designed to promote the adoption and use 
+of innovative technologies. 
+• The country has a strong and rapidly growing economy and a stable and business-friendly regulatory 
+environment across telecommunications, gaming, financial services and fintech, which is conducive 
+for trials and nurtures innovation.
+• Malta’s telecommunications infrastructure is amongst the most advanced in Europe, with high 
+mobile and high-speed broadband penetration rates and 5G-ready infrastructure in place.
+• The Maltese government is committed to creating the conditions for a robust local AI ecosystem, 
+helping companies that invest in and serve Malta not only to establish their businesses but also to 
+commercialise and scale. Public policy is also used to accelerate private sector adoption of AI.
+• The Maltese telecoms regulator already operates a test-and-trial licensing scheme in support 
+of innovative spectrum uses which aim to exploit Malta’s unique potential as a test bed, both for 
+technology tests and service trials involving third parties or the public.
+• Leading global telecommunications companies have agreements in place with the Government to 
+use the island as a test bed for digital technologies.  
+• Malta will look to set up a Regulatory Sandbox for AI to enable firms to explore and test concepts and 
+solutions with proportionate safeguards, in a contained environment for a well-defined duration. 
+• The national data protection authority will also set up a Data Sandbox to support organisations that 
+need to use personal data in the process of developing or testing innovative products and services 
+in the specific area of AI. 
+• The country is keen to work with and collaborate with companies of all sizes, nations, international 
+bodies and research organisations to accelerate the AI agenda. 
+Malta: The Ultimate AI Launchpad
+19
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+AI is expected to have a transformative impact across multiple 
+areas of society, government and business. The Strategy and 
+Vision for Artificial Intelligence in Malta 2030 therefore takes a 
+holistic approach and aims to give due focus to the needs of 
+various different groups of stakeholders as the country looks 
+forward to achieving its vision. 
+The Strategy includes three vertical pillars which focus 
+on boosting investment, innovation and adoption. It also 
+includes three horizontal enablers that cut across the three 
+aforementioned areas. Its wide-reaching nature ensures it is 
+inclusive and does not leave any segment of society unduly 
+burdened or left behind. 
+Strategy implementation and governance 
+• Effective governance will be critical for the successful implementation and achievement of the Strategy. 
+• Each action set-out in this document has been jointly developed with relevant stakeholders, who will now have responsibility to 
+take them forward. 
+• The Malta Digital Innovation Authority (MDIA) will be responsible for the oversight and governance of the Strategy, in accordance 
+with the functions vested to it under the MDIA Act. The MDIA will work with each stakeholder to agree on key implementation 
+milestones and monitoring mechanisms for areas and actions they are responsible for.
+Strategic pillars and enablers of the Strategy and Vision for Artificial Intelligence in Malta
+20
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+INVESTMENT, START-UPS 
+AND INNOVATION
+CHAPTER 3
+Malta: The Ultimate AI Launchpad
+21
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Innovation is at the heart of the Malta AI Strategy. This is 
+deeply interlinked with investment and economic activity from 
+both local and foreign businesses, increased expenditure on 
+Research and Development (R&D) and the creation of new 
+start-up enterprises. 
+Malta will seek to attract and develop talent, drive investment 
+and incubate an innovation ecosystem that will allow the AI 
+sector to flourish. Economic development has therefore been 
+set out as a primary objective and key focus of the Strategy. 
+The Government will look to nurture, attract and welcome 
+companies of all sizes across all industries, from start-ups to 
+scale-ups to established global tech leaders. 
+Establish the right conditions for Malta to 
+become a leading centre for the application of 
+AI solutions 
+• AI is a broad field with many branches and sub-branches. 
+The limitless scope of application means that there 
+are many niches that can be explored, showcased and 
+championed. While Malta’s inherent limitations make 
+it challenging for the country to become a leader across 
+every field of AI, it can be a model nation focused on 
+excelling in the application of AI across specific fields.
+01 The Maltese Government wants to collaborate with 
+researchers, start-ups and companies that wish to use 
+Malta to pilot and deploy AI solutions. It has created an 
+interface for interested parties to submit a proposal 
+and request a meeting with government officials at 
+www.malta.ai.  
+02 The Government also will fund the development of a 
+digital collaboration platform which will allow it, as well as 
+research institutes and the private sector, to publish project 
+profiles, collaboration requests, innovation challenges 
+and requests for information (RFIs). Once complete, the 
+collaboration platform will be the digital hub of Malta’s AI 
+activity, showcasing the volume of AI opportunities in Malta 
+and facilitating opportunities for local and international 
+start-ups, corporates and research organisations to tap 
+into and work together.
+03 The Maltese Government has placed the development of 
+new emerging technological sectors such as AI as a national 
+priority. Through Tech.mt, a public-private foundation 
+tasked with promoting Malta as a leading global hub for 
+emerging technologies, including AI, the Government will 
+provide €1m per annum in funding to raise the visibility of 
+the country’s offering and promote Maltese AI businesses 
+through various marketing activities, with participation in 
+and sponsorship of leading global AI and tech summits in 
+Malta and overseas. 
+Increase R&D activity in Malta
+• R&D is a major driver of innovation and helps new products 
+and services to be brought to the market. Malta is taking a 
+multi-pronged approach to increase R&D intensity as a key 
+focal area of the National AI Strategy. 
+04 In 2019, Malta introduced a Patent Box Regime (Deduction) 
+enabling qualifying beneficiaries to benefit from a deduction 
+against taxable income or gains of up to 95% of the gross 
+revenue from its qualifying intellectual property (IP) assets. 
+This measure is expected to significantly strengthen Malta’s 
+positioning as the “Ultimate AI Launchpad” and stimulate 
+AI related R&D activities in the country. 
+05 The country will also invest to strengthen its AI research 
+capabilities at two of its public higher education institutes, 
+the University of Malta (UoM) and the Malta College of Arts, 
+Science & Technology (MCAST), to increase academic and 
+applied research output and drive greater collaboration 
+with industry and international partners. Further details 
+on these initiatives are provided on p.41.
+06 Financial support will be provided for AI-related research 
+commercialisation programmes and technology 
+development (including financial support for research, 
+development and innovation) in Malta’s areas of Smart 
+Specialisation (ICT as an Enabler, ICT Based Innovation, 
+Tourism Product Development, Aviation and Aerospace, 
+Health, Resource Efficient Buildings, High Value-Added 
+Manufacturing, Aquaculture) through the Malta Council for 
+Science and Technology (MCST) R&I FUSION Programme 
+until 2020. The annual budget currently allocated to the 
+R&I FUSION Programme is €2.2m. 
+07 Malta Enterprise, the Economic Development Agency of 
+the Maltese Government, has launched a set of incentives 
+which aim to support companies of various sizes in R&D 
+and innovation activities. These measures include financial 
+assistance (in the form of tax credits) to undertake R&D 
+projects; employ those holding or undertaking doctoral 
+degrees; and support SMEs in temporarily engaging highly 
+qualified personnel from large businesses and research 
+organisations for specific projects. 
+Investment, start-ups and innovation
+22
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+• Malta has invested heavily in infrastructure and legislation 
+to be well positioned to become a leader in health-related 
+AI research. The country’s health information system is 
+fully centralised and its Directorate for Health Information 
+and Research (DHIR) holds extensive registers and data 
+repositories (most dating back 10 or 20 years) with set 
+variables around specific diseases or life events. The 
+unique records permit linkage between registers and public 
+datasets to create an infinite combination of data variables 
+which are anonymised or pseudonymised for release to 
+third parties for public interest research purposes. 
+08 The government will shortly introduce a new legal notice 
+which regulates the secondary processing of personal data 
+in the health sector, as allowed for and specified within the 
+General Data Protection Regulation (GDPR), for matters 
+pertaining public health, health services management, 
+health statistics and research. The legal notice lays out 
+conditions and safeguards and provides for a clear 
+approval mechanism for health research through Malta’s 
+Health Ethics Committee or any other Ethics Committee 
+recognised by the Information and Data Protection 
+Commissioner.
+Support entrepreneurs to establish AI-related 
+business ventures and scale
+• Start-ups bolster the business community, drive innovation 
+and R&D, stimulate competition and introduce new 
+products, services and business models into the market. 
+Yet starting a new business is not easy, and entrepreneurs 
+often need support to get their business off the ground. 
+The Maltese Government will therefore be implementing 
+a series of policy actions to catalyse, synergise and boost 
+start-up activity in the country. 
+Accelerators
+09 The Government will seek to partner with an internationally 
+renowned start-up accelerator to run a programme in 
+Malta. The initiative is expected to provide participants 
+with seed investment, connections, mentorship and 
+hands-on support to build business, product and fund-
+raising strategies. The programme will conclude with a 
+demo day, where participants will have the opportunity to 
+pitch their business to investors who can help accelerate 
+their companies’ growth. Applications are expected to be 
+open to both local and foreign companies focusing on AI 
+and other emerging technologies. 
+10 YouStartIT, a well-established, early stage accelerator 
+programme run by the MITA Innovation Hub, will be given 
+additional funding to run a thematic AI-based programme, 
+thereby increasing its cohort to two programmes per 
+year. As part of its offering, it will provide zero-equity 
+investments (seed capital grants) to help early stage start-
+ups to validate and develop proof of concepts for AI-based 
+ventures.
+11 The TAKEOFF Seed Fund Award (TOFSA) will be given 
+additional funding to support AI ventures over and above 
+its current allocation. TOFSA is a joint initiative between the 
+Ministry for the Economy, Investment and Small Businesses, 
+the University of Malta (UoM) and its Knowledge Transfer 
+Office, TAKEOFF Business Incubator and the Centre 
+for Entrepreneurship and Business Incubation, which 
+provides seed funding to researchers and entrepreneurs. 
+Under the programme, TOFSA awards funds through a 
+two-step process, whereby the best-written applications 
+are shortlisted for a live pitch in front of a panel of judges, 
+with the top applicants receiving funding. 
+Funding 
+• Access to finance remains a key challenge for many 
+businesses across their early growth stages, and the 
+business angel and venture capital market in Europe, 
+and more so in Malta, is underdeveloped compared with 
+leading global markets.
+12 The Government will therefore look to establish an 
+investment fund to provide equity-based risk capital to 
+Maltese start-ups and scale-ups. It is envisaged that:
+ · All investments will be structured through co-
+investments19 with private investors who will 
+participate alongside the Government on equal 
+terms and conditions
+ · Co-investments will only be undertaken with qualified 
+business angels, venture capitalists, venture funds 
+and private equity houses that have gone through 
+an extensive screening and due diligence process to 
+gain accreditation for the scheme
+ · The involvement of the private sector as co-investors 
+will create a multiplier effect in terms of the volume 
+of funding available, and also help to increase deal 
+flow and decrease investment risk and transaction 
+costs. 
+13 The Government will also look to update the rules of the 
+Seed Investment Scheme, which provides tax credits to 
+investors in return for investment in a qualifying Maltese 
+start-up or early stage company. The changes being 
+considered include:
+ · The removal of certain restrictions relating to the 
+type of qualifying activities
+ · Wider company characteristics parameters to make 
+the scheme accessible to later stage start-ups and 
+scale-ups 
+ · New investor eligibility criteria to make it possible 
+for companies and collective investment schemes 
+to avail of similar tax benefits  
+19 Note: Co-investment is defined as any form of public equity investment (up to 
+50%) in private companies alongside a partner organisation of qualified investors 
+(such as VC funds or business angel networks),
+excluding direct public investment in VC funds and funds of fund. (European 
+Commission, 2017).
+Malta: The Ultimate AI Launchpad
+23
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+14 Malta Enterprise has launched various incentives schemes 
+which can finance innovative AI undertakings with a viable 
+business concept in their early stages of development. The 
+incentive schemes will run through 2019 and 2020 and may 
+be extended to the following years. Assistance includes: 
+ · Seed funding grants of up to €25,000 under Business 
+START (B.Start). The total budget available for this 
+scheme is currently €1m per year. 
+ · Repayable advances structured as a mezzanine 
+finance instrument to support start-ups with a 
+proven business concept undertake initiatives linked 
+to raising equity investment from third parties, 
+procuring equipment and crowd-funding. Typical 
+support is in the range of €200,000 and advances are 
+repayable over a number of years.
+Capital gains tax relief on exits
+15 The Government will consider introducing a change to 
+Malta’s tax legislation to reduce/eliminate capital gains and 
+duty on document on the transfer of shares. The proposed 
+changes are expected to incentivise more entrepreneurs 
+to start businesses, reward them for their successes and 
+stimulate re-investment into other business ventures, thus 
+driving further economic activity and employment.
+Attract international talent, entrepreneurs 
+and investors to Malta 
+• Malta wishes to position itself as a leading hub for global 
+start-up activity. The country already has a sizeable 
+number of foreign entrepreneurs, companies and workers 
+in digital and knowledge-based industries, mostly from the 
+EU countries of Sweden, the UK, Germany, Italy, France 
+and Spain. Malta will now implement further measures to:
+ · Make it easier for non-EEA nationals looking to set 
+up or invest in business locally
+ · Incentivise workers with specialised skills that are 
+in high demand both locally and globally to move to 
+Malta
+16 Malta will launch a “Start-up visa” for aspiring entrepreneurs 
+who intend to develop an innovative business in Malta. 
+Applications will be assessed on the strength of the 
+business plan submitted, without any capital investment 
+requirements. The visa will provide a simplified, fast-track 
+procedure for start-up founders and their families from 
+outside of the EU and the European Free Trade Area to 
+reside and work in Malta, subject to the satisfaction of 
+appropriate background checks on the applicants. A 
+mechanism provides for temporary, then permanent, 
+residence permits to be obtained subject to the fulfilment 
+of certain requirements. 
+• Malta’s Key Employee Initiative provides third-country 
+nationals who will be employed in a managerial or highly 
+technical post at a salary above €30,000 per annum with 
+a fast-tracked, single permit for work and residence to 
+be processed within five working days. The scheme is 
+available to individuals working in the field of AI who meet 
+these criteria. 
+17 The Government will shortly re-introduce the Qualifying 
+Employment in Innovation and Creativity (Personal Tax) 
+Scheme. This incentive provides qualifying employees who 
+work in wide range of AI-related roles, including industrial 
+research and experimental development, product 
+development and product and process innovation, and 
+earn over €52,000 per annum to benefit from a reduced 
+flat rate of personal income tax at 15% for a three-year 
+period. 
+24
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+PUBLIC SECTOR ADOPTION
+CHAPTER 3
+Malta: The Ultimate AI Launchpad
+25
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Public sector adoption
+AI can play a transformation role in the way public services are 
+delivered, national resources are used and infrastructure is 
+deployed. It also has the potential to make government more 
+efficient, thus improving internal operations and governance, 
+and leading to better use of taxpayers’ money. 
+In June 2019, the Maltese Government launched Mapping 
+Tomorrow20 , a strategic plan for the digital transformation of 
+the public administration. In his foreword, Mr. Mario Cutajar, 
+the Principal Permanent Secretary, states: “We cannot just 
+address the present situation; we need to have foresight to 
+look ahead beyond the present and into tomorrow… We are 
+looking at how best to embed artificial intelligence capability 
+into business processes and how to adopt other emerging 
+technologies to achieve services of excellence… Our aim is 
+to have a Digital Public Administration that is continuously 
+renewing itself, transforming the way citizens and business 
+interact with government and providing public services of 
+excellence.”
+AI can improve almost everything a government does and 
+provide new choices in the way services are delivered. Various 
+AI technologies have already reached a level where they can 
+deliver significant tangible benefits today, with those that it 
+could deliver in the next few years potentially being much larger. 
+The Government aims to stimulate and catalyse AI adoption in 
+Malta and will implement a series of actions across the next 
+three years to turn this vision into a reality, including:
+• Creating an AI-powered Government
+• Implementing high-profile pilot projects to:
+ · Provide better services to citizens/businesses
+ · Improve the economic and social well-being of 
+citizens/businesses
+ · Improve the internal operations of the public 
+administration
+• Implementing policy actions to encourage procurement of 
+smart technology-based solutions
+Create an AI-powered Government 
+18 The Government will look to explore how AI can be 
+deployed across each area of government and public 
+administration. The responsibility for carrying out these 
+actions shall lay with the respective Ministries’ or state-
+owned entities Chief Information Officers (CIOs).
+ 
+19 An awareness campaign will be launched for public officers 
+to build capacity, knowledge and understanding of what 
+AI is, why it is important, and the benefits of public sector 
+adoption. The awareness campaign will consist of:
+ · An internal communications campaign, targeted to 
+all public sector officials, to commence following the 
+launch of the National AI Strategy
+ · A series of awareness events between 2020 and 
+2021 to equip public officials with foundational 
+AI knowledge and insights into projects being 
+undertaken by the Maltese Government 
+ · Events for all senior officials in the public sector to 
+build deep insight into the Government’s AI strategy 
+and implementation plan, public sector AI projects, 
+and local and global developments 
+20 The public service training curricula will be updated in 
+2020 to include AI-related courses. AI training courses will 
+commence in 2021. Furthermore, financial support will be 
+made available to public officers wishing to obtain external 
+certification and qualification in AI-related areas. 
+21 The public administration will accelerate the use of 
+AI technologies across citizen services and internal 
+administration through:
+ · The development of a guidance document to 
+highlight AI use case applications within the public 
+administration and a checklist to reference when 
+developing project proposals
+ · The drafting of technical policy statements to assist 
+in the adoption of AI for government services 
+ · The formulation of a Technical Committee to review 
+architecture of solutions to be implemented within 
+Public Administration, particularly with regards to 
+the adoption of AI
+22 In 2017, Oxford Insights created the world’s first 
+Government AI Readiness Index to answer the question: 
+how well placed are national governments to take 
+advantage of the benefits of AI in their operations and 
+delivery of public services? The 2019 Government AI 
+Readiness Index, produced with the support of the 
+International Development Research Centre (IDRC), sees 
+a development of this methodology and an expansion of 
+scope to cover all UN countries (from our previous group 
+of OECD members). It scores the governments of 194 
+countries and territories according to their preparedness 
+to use AI in the delivery of public service. Malta was ranked 
+43rd in the 2019 Government AI Readiness Index. As 
+part of the Strategy, the Government will monitor Malta’s 
+performance in the AI Readiness Index and commission 
+work to identify and implement measures to improve 
+Malta’s standing. 
+20 Source: Office of the Principal Permanent Secretary (Office of the Prime Minister) 
+and the Malta Information Technology Agency (MITA) (2019). Mapping Tomorrow: A 
+Strategic Plan for the Digital Transformation of the Public Administration 2019 – 2021. 
+26
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Encourage the procurement of smart 
+technologies
+23 The Government will also develop various policy measures 
+that support the public procurement of emerging 
+technologies solutions, including:
+ · The launch of a new business case template which 
+requires business owners to put forward a request 
+for technology procurement to document whether 
+emerging technologies have been considered – and 
+if not, why. Business cases that align to national 
+digital strategies, such as the Malta AI Strategy, will 
+be prioritised. 
+ · Enacting a training and awareness programme to 
+build capacity and knowledge and to equip public 
+administration procurement teams with insight 
+into AI technologies, AI procurement frameworks 
+such as the one currently being developed by the 
+World Economic Forum21, and pre-commercial 
+procurement methods. 
+Implement high-profile AI pilot projects 
+• The Malta.AI Taskforce and its Working Group for Public 
+and Private Sector Adoption, in consultation with the 
+Public Administration, have identified six AI pilot projects 
+that will be undertaken and implemented by 2022 as part 
+of the Strategy. 
+• Each of these projects is expected to have a profound 
+and positive impact across a large section of society and 
+will play a key role in raising the visibility of the tangible 
+benefits that AI can deliver to society and business. Each of 
+the projects will also demonstrate Malta’s commitment to 
+using AI to tackle the UN’s Sustainable Development Goals 
+(SDGs). 
+• The MDIA will monitor that each pilot project gets 
+implemented by the respective business owner. 
+• A detailed assessment will be carried out following the 
+conclusion of each of the pilot projects to determine the 
+viability of a wider roll-out of each project at scale. 
+21 Source: Department for Digital, Culture, Media and Sport (2019)website. How the 
+public sector can procure AI-powered solutions more effectively and responsibly. 
+[online] Available at: (Accessed on 20 June 2019) https://dcmsblog.uk/2019/07/
+how-the-public-sector-can-procure-ai-powered-solutions-more-effectively-and-
+responsibly/ [Accessed 20 Jun. 2019].
+• The following actions determined which projects would be 
+taken forward:
+ · A long-list of AI use cases was identified and assessed 
+against various criteria by members of the Malta.
+AI Taskforce and its Working Group for Public and 
+Private Sector Adoption, with additional stakeholders 
+from industry, government and academia invited to 
+participate in the process. 
+ · The respective business owners from government 
+were then invited to participate in a series of 
+workshops and meetings where the detailed AI 
+projects were jointly developed with the support 
+of the Malta.AI Taskforce’s Working Group for 
+Public and Private Sector Adoption and additional 
+stakeholders.
+Malta: The Ultimate AI Launchpad
+27
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+:
+Malta’s pilot projects - AI for traffic management
+“ A mobility analytics dashboard 
+will be developed to generate 
+location intelligence across different 
+modes of transport in real time and 
+leverage big data derived from Malta 
+Public Transport (MPT) data and 
+other sources.”
+Business owner: Transport Malta
+Ministry for Transport, Infrastructure and Capital 
+Projects
+24 Self-driving vehicles are regarded as a shining example 
+of how much AI can transform the way we live. 
+However, it could be at least two to three decades 
+before we see a widespread roll-out on Maltese roads. 
+Of more immediate use is the way AI can be used by 
+traffic planners and controllers to reduce congestion, 
+route traffic and improve road safety. 
+Pilot projects to use AI to optimise traffic light control 
+and waiting time flows have already been undertaken in 
+various international locations, including the US, the UK, 
+Germany and Singapore. A company running a project on 
+50 intersections in Pittsburgh, US, claims to have reduced 
+waiting times by up to 40%, journey times by 25% and 
+vehicle emissions by up to 20%. In Hagen, Germany, 
+AI-optimised traffic light control deployments suggest 
+intersection waiting times can decrease by about a half 
+compared with a traditional pre-timed signal plan.
+Algorithms can power journey planner applications to 
+suggest the best routes, methods of transport and the 
+expected time needed to reach destinations. More data 
+enables these applications to provide more accurate 
+suggestions and predictions. 
+This project will explore how AI can be incorporated into 
+Malta’s traffic control systems and geographic information 
+systems (GISs) to:
+• Reduce congestion and emissions 
+• Identify patterns in transport behaviours
+• Deliver insights to enable intelligent journey planning 
+and scheduling of public transport 
+• Create intelligent private journey routing (in 
+conjunction with third-party applications)
+• Assist with monitoring, policing and enforcement
+A mobility analytics dashboard will be developed to 
+generate location intelligence across different modes of 
+transport in real time and leverage big data derived from 
+Malta Public Transport (MPT) data and other sources. 
+The proposed project will consist of three parts that will be 
+undertaken across a three-year period:
+• Part 1: A pilot project to deploy an AI engine to manage 
+traffic flow on one key junction. The solution will use 
+existing video feeds to detect the number of vehicles 
+on the road, then the AI software will process this 
+information and control the traffic lights to keep traffic 
+flow moving in the most optimal way, with a manual 
+controller retaining oversight for safety purposes. 
+• Part 2: The enhancement of Malta’s GIS system by 
+connecting new data feeds to the current system and 
+making the information available to third-party, AI-
+enabled, journey planner and mapping applications. 
+This will improve the accuracy of journey planning and 
+provide real-time tracking of public transport through 
+the development of a mobility analytics dashboard.
+• Part 3: A detailed study on the potential for widespread 
+AI enhancements to be incorporated in Malta’s traffic 
+management system.
+28
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Malta’s pilot projects - AI in education
+Business owner: Department of Learning 
+and Assessment Programmes
+Ministry for Education and Employment 
+25 AI promises to enhance education at all levels, 
+especially by providing personalisation at scale. The 
+Ministry for Education and Employment (MEDE) 
+has a wide-reaching vision for how AI can support 
+its priorities and continuous improvement. The 
+vision draws from the Framework for the Education 
+Strategy for Malta 2014-2024, which focuses on the 
+learner’s educational journey. Given the sensitivities of 
+trialling new technologies in a sector as important as 
+education, priority will be given to student and parent 
+engagement throughout this initiative.
+The main objectives of this strategy are to:
+• Reduce the gaps in educational outcomes between 
+boys and girls and between students attending 
+different schools; decrease the number of low 
+achievers and raise the bar in literacy, numeracy, and 
+science and technology competence; and increase 
+student achievement
+• Support educational achievement of children at 
+risk of poverty and from low socio-economic status 
+and reduce the relatively high incidence of early 
+school-leavers
+• Increase participation in lifelong learning and adult 
+learning
+• Raise levels of student retainment and attainment in 
+further, vocational and tertiary education and training
+Looking ahead, it is foreseen that the introduction and 
+implementation of AI will assist administrators and 
+educators to provide individual and adaptive learning 
+experiences to students and predict analytical trends to 
+make informed decisions and issue relevant policies to 
+achieve the targets set within the education strategy.
+The proposed project will consist of two parts that will be 
+undertaken by 2022:
+• Part 1: A pilot project to develop an AI-powered 
+adaptive learning system to help students achieve 
+better education outcomes through personalised 
+learning programmes based on student performance, 
+ambitions and needs. The pilot will also help teachers 
+to build more formative assessments of the pupils’ 
+capabilities. The project will be piloted with 50 
+educators and 1,000 students across primary and 
+secondary education.
+• Part 2: A pilot project to construct a rich data set 
+and use AI to assist in driving insights and actions to 
+enhance the education system. The initial project 
+will focus on delivering predictive insights to assist in 
+identifying early school-leavers to help educators take 
+preventative actions to drive better outcomes.
+The MEDE will ensure student and parent participation in the 
+development, testing and deployment process, ascertaining 
+that these important stakeholders in this initiative fully 
+appreciate its benefits and the experimental nature of the 
+pilot project, and have a meaningful route by which to make 
+their concerns known.
+Malta: The Ultimate AI Launchpad
+29
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Malta’s pilot projects - AI in healthcare
+“The data-heavy nature of 
+healthcare makes it one of 
+the most exciting frontiers 
+in AI. Malta has made 
+significant investments to 
+become a leader in the 
+digital health space”
+Business owner: Pharmacy of Your 
+Choice (POYC) 
+Ministry for Health
+26 The increased availability of data and recent 
+advancements in AI could present unprecedented 
+opportunities in healthcare which create value for 
+citizens, providers and regulators. As AI and deep 
+learning enter the mainstream of clinical medicine, 
+these technologies have the potential to complement 
+and support healthcare professionals in enhancing the 
+quality, efficiency and performance of healthcare, and 
+break new frontiers in biomedical research.
+Through AI technologies, healthcare professionals may 
+be able to make better, quicker and more accurate 
+decisions across diagnosis, treatment and care to improve 
+patient health outcomes and increase the efficiency and 
+sustainability of healthcare systems. 
+Malta’s vision foresees AI being deployed in the future to: 
+• Prevent disease within its population
+• Optimise the care trajectory for patients with common 
+chronic conditions
+• Develop and apply precision therapies for complex 
+illnesses
+• Reduce adverse events
+• Accelerate biomedical research
+The data-heavy nature of healthcare makes it one of the 
+most exciting frontiers in AI. Malta has made significant 
+investments to become a leader in the digital health space 
+and one of the best countries to undertake health-related 
+AI pilot projects. 
+The Pharmacy of Your Choice (POYC) repository captures 
+entitlement, prescription and dispensing data for over 
+143,000 active patients with chronic conditions. It has been 
+maintained over a period of 10 years and now includes a 
+wealth of information on the local population, including 
+deceased persons, the prevalence of and shifts in chronic 
+conditions, and the treatments provided in this regard. 
+This is in addition to full demographic data, as well as 
+data on related prescribing and dispensing practices and 
+practitioners.  
+The pilot project to be undertaken will explore how the 
+application of AI on top of the POYC platform can:
+• Assist prescribers to make more informed decisions 
+from a patient safety perspective 
+• Perform predictive analysis to drive cost savings in 
+procurement spend
+• Devise preventive care models at both the macro and 
+micro level to create better health outcomes
+The use of data to deliver more effective and less costly 
+healthcare is central to the Malta’s Digital Health Strategy. 
+The Ministry for Health is currently laying the technical, 
+semantic and legal foundations for public health data to 
+be collected, stored and made available for consumption 
+in a standardised, structured and secure manner through 
+the implementation of a National Electronic Health Record 
+(NEHR) system. The NEHR project is underway and expected 
+to go live by the end of 2021. It aims to generate better-
+informed decisions by health professionals and ascertain 
+continuity of care for patients. 
+NEHRs are expected to create the perfect environment for 
+curated, context-rich data, on which AI can be deployed 
+to process large amounts of complex, interrelated health 
+information in the most efficient and effective manner possible. 
+This will be ever more important when large genomic data sets 
+become mainstream and/or if indirectly linked data sets, such 
+as those pertaining to the social determinants of health, are fed 
+into machine learning models.
+The Ministry for Health is committed to building trust in these 
+new systems by keeping patient welfare and safety at the 
+forefront, while working to ensure data privacy, transparency 
+of algorithms, data standardisation and interoperability across 
+multiple platforms. 
+30
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Malta’s pilot projects - AI for customer service
+“ Processing clients’ requests 
+quickly, efficiently and as 
+accurately as possible is of 
+paramount importance. ”
+Business owner: servizz.gov
+Office of the Prime Minister
+27 Many public and private sector organisations across 
+the globe are using intelligent chatbots and similar AI-
+driven solutions in call centers and customer service 
+functions to augment and enhance their human-led 
+services. 
+The servizz.gov platform is the central point of information 
+for all government services. Citizens and people living in 
+Malta make use of servizz.gov through various channels, 
+including email and telephone. When receiving any form 
+of query regarding government services, assigned agents 
+refer to the service catalogue and other online resources to 
+gather information to draft an answer. 
+Processing clients’ requests quickly, efficiently and as accurately 
+as possible is of paramount importance. The project will 
+explore how applying AI into the servizz.gov customer service 
+workflow can drive perfomance enhancements across each of 
+these areas. 
+The project will consist of the phases below, with the first to be 
+completed by 2022:
+• The first phase will focus on the back office. An AI-driven 
+email assistant will be created to assist servizz.gov agents, 
+analyse citizens’ email queries automatically and provide 
+the assigned agent with a suggested reply automatically. 
+The agent will then use the suggested reply as a basis for 
+the official final reply to the citizen, to minimise the time 
+taken to reply to queries. A human agent will check and 
+control the quality and content of the reply email, and 
+the changes will be monitored by the AI system so that it 
+continues to learn how to better formulate reply emails. 
+However, the final say is that of the human agent.
+• Later phases of the project envisage the development 
+of a chatbot, which will use AI to initially determine how 
+citizens can best be directed to obtain the information that 
+they are seeking. The long-term strategy is to include voice 
+assistance over the telephone, with the same principle 
+of an AI system that is able to communicate and help 
+customers with their queries, but in this case using the 
+voice medium. 
+All these services will be developed in both English and Maltese 
+so that servizz.gov can serve clients in their preferred language. 
+Furthermore, as an additional long-term strategy, it is envisaged 
+that servizz.gov will be able to use machine translation services 
+to communicate clearly with foreign nationals living in Malta in 
+their preferred language. 
+Malta: The Ultimate AI Launchpad
+31
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Malta’s pilot projects - AI in tourism
+Business owner: Malta Tourism Authority 
+Ministry for Tourism
+28 The Ministry for Tourism, with the Malta Tourism 
+Authority (MTA), has commissioned the development 
+of the Digital Tourism Platform, which will launch in 
+2019. It aims to enable Malta to deliver better tourism 
+experiences through technology by obtaining and 
+leveraging valuable insights from data. The project 
+will see the launch of interactive information kiosks 
+in the main tourism areas and the creation of digital 
+applications to provide tourists with the information 
+they need. 
+As a next step, AI will be incorporated into the Digital 
+Tourism Platform to enable the development of rich tourist 
+personas, which combine psychological characteristics, such 
+as interests and lifestyle choices, with demographic data. 
+Machine learning will enable the platform to create deeper 
+and smarter personas as it collects more data. From this 
+information, the Digital Tourism Platform will be able to:
+• Suggest itineraries and experiences for tourists 
+matched to their interests, similar to recommendation 
+engines commonly used by digital music and television 
+streaming services and social media
+• Create propensity models based on predictive analytics 
+to forecast where a tourist will go and which tickets they 
+may purchase, and use that information to recommend 
+suggestions, via targeted promotional notifications 
+within the app, to balance loads and minimise queues. 
+Subsequent phases of the project could see wider data 
+sets, such as those from IoT sensors on bus stops and 
+tourist attractions, incorporated into the platform to 
+drive smarter, just-in-time recommendations. 
+Building on this initiative, the Government plans to launch an 
+Environment Passport initiative. The Environment Passport 
+will provide VisitMalta+ app users with information and 
+advice to make their visit more environmentally friendly 
+and offer them rewards, such as discounted attraction 
+admission fees, for undertaking environmentally friendly 
+actions.
+Other measures to incorporate technology into Malta’s tourism 
+offering are also underway. These include the development of 
+virtual experiences in museums and sites, using augmented 
+reality (AR) to enrich the visitor’s experience and knowledge 
+of the attraction and create a more immersive dimension. The 
+project will also enable the MTA to set up a roaming virtual 
+reality (VR) experience which will be used in overseas fairs when 
+marketing the Maltese islands. 
+32
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Malta’s pilot projects - AI for better utilities
+Business owner: Information 
+Management Unit
+Ministry for Energy and Water Management
+29 The utilities sector, especially the energy sector, is 
+expected to undergo a profound transition over 
+the coming decade. Renewable energy generation 
+is expected to increase significantly, driven by 
+technological enhancements and a drive at national, 
+European and global levels for more green energy. 
+Demand is also expected to increase, along with the 
+number of electric vehicles on the road, with more 
+viable battery technology and greater roll-out of electric 
+vehicle charging points. These shifts will require new 
+capacity from the grid and improvements in the system 
+resilience of Malta’s energy supply. 
+The utilities sector can benefit significantly from the 
+introduction of AI – it can be used to automate manual 
+processes, enable the interpretation of collected data, 
+facilitate load distribution optimisation in accordance with 
+live demand and supply, and enhance maintenance and 
+performance. 
+Malta’s national utility companies, Enemalta, Water Services 
+Corporation and ARMS, are collecting huge amounts of raw 
+data in both structured and unstructured form. The sheer 
+scale of the available data and its rapid rate of change make 
+it difficult to process using traditional database and software 
+techniques. Machine learning algorithms running on local 
+or cloud-based high-performance computing systems can 
+provide the capabilities needed to improve operations and 
+make faster, more intelligent decisions. 
+A pilot project will be undertaken where: 
+• AI algorithms will be used to collect, organise and 
+analyse current data to discover patterns and other 
+useful information relating to water and energy usage. 
+The solution will deploy large-scale analytics and 
+machine learning on customer data to help the utility 
+companies to maximise resources and subsequently 
+provide responsive real-time customer service 
+management. Concurrently, they have the ability 
+to make real-time adjustments to attain optimised 
+generation efficiency.
+ 
+• Predictive maintenance models and scenarios will 
+also be developed. Data from various sources, 
+such as historical maintenance records and sensor 
+data from the network, will be used to facilitate the 
+implementation of solutions which identify problems 
+before they occur, reducing the need for the current 
+time-intensive manual inspections.
+The project is expected to drive better efficiency, resilience 
+and stability across Malta’s energy and water networks, and 
+lay the foundation for the next evolution of its smart grid 
+network. 
+Malta: The Ultimate AI Launchpad
+33
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+PRIVATE SECTOR ADOPTION
+CHAPTER 5
+34
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Build awareness of what AI is and how it can 
+be deployed
+• The Malta.AI Taskforce’s Working Group for Public and 
+Private Sector conducted a survey22 amongst private 
+enterprises in Malta to gauge awareness of what AI is, 
+their interaction with AI technology, comfort with AI, 
+plans and challenges related to AI deployment, and the 
+areas in business where they would feel comfortable with 
+AI being used.
+• The research highlights the need to build awareness of 
+what AI is and how it can be deployed, especially amongst 
+SMEs. The key findings showed that:
+ · Roughly half of respondents at companies surveyed 
+did not have the correct understanding of what AI is
+ · Only 50% were aware that they had ever interacted 
+with an AI device; however, when made aware of 
+some common AI applications, over 95% indicated 
+that they had used one of these services over the 
+last year
+ · One-in-five business already uses AI technology, 
+while a further quarter would do so in the coming 
+years
+ · Professionals not having the appropriate knowledge 
+and skills, or with uncertainty about how to apply 
+them, were stated by businesses as the biggest 
+challenge to deploying AI solutions across their 
+organisations
+30 Various awareness activities will be undertaken which aim 
+to build knowledge and encourage dialogue with private 
+businesses. The activities will include:
+ · A national AI publicity campaign to build AI awareness 
+and knowledge, dispel myths and misconceptions, 
+and generate awareness of stimuli (funding schemes 
+and fiscal incentives) to support AI adoption
+22 Note: The survey was conducted between June and July 2019 across a sample of 
+private businesses that is representative of business size classification and sector of 
+private businesses operating across the Maltese economy.
+ · A series of public workshops to facilitate two-way 
+dialogue between AI experts and industry
+ · The development of sector-focused materials which 
+aim to highlight how AI can be used across different 
+business activities in the related industries
+ · In consultation with the Malta Council for Social and 
+Economic Development (MCESD), government will 
+encourage trade unions, industry representatives 
+and employers’ associations to run sector-focused 
+seminars to explore how SMEs can utilise and 
+benefit from AI tools
+ · A public workshop, organised by the UoM, which will 
+explore how private companies can collaborate with 
+academia to develop AI solutions
+Identify readiness of the private sector to 
+adopt AI
+31 Companies need a baseline level of digital maturity in order 
+to adopt AI at scale. To help local companies understand 
+and close gaps in their organisation and technology 
+infrastructure that impede AI adoption, the Government 
+will commission the development of an AI readiness 
+toolkit, which will be used to help businesses understand 
+where they are on their AI journey and provide practical 
+advice to help them progress. The toolkit will contain:
+ · An AI maturity and readiness assessment tool
+ · Information on various AI technologies
+ · Information on how AI can be applied to different 
+areas of business and sectors (use cases)
+ · Guidance to accelerate AI adoption
+32 The Government will also develop and launch a Private 
+Sector AI Readiness Index and publish the findings on an 
+annual basis.
+Private sector adoption
+Private sector technology giants have swiftly brought AI into daily 
+life through the applications they have developed. Algorithms 
+used across search, social media, digital advertising and 
+e-commerce recommendation engines are some of the most 
+widespread examples. Whilst these applications are broadly 
+used by businesses across the globe, there is an opportunity 
+for private sector enterprises to do so much more with AI. 
+The Government is looking to take an active role in stimulating 
+broader AI adoption across the local private sector. It aims to set 
+out a clear AI vision, direction and strategic priorities to guide 
+private sector interest. Furthermore, it aims to help shape and 
+accelerate private sector AI adoption through several measures 
+listed below.
+ 
+Malta: The Ultimate AI Launchpad
+35
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Help local businesses to incorporate AI into 
+their business
+• The Government will focus on designing measures that 
+enable companies of all sizes to use, develop and integrate 
+AI applications in the way they work and the way they do 
+business. These include:
+33 The development of support measures to help entities to 
+carry out in-depth AI readiness assessments, an upgrade 
+to industry 4.0, a review of business processes, and 
+implementation of AI-based solutions
+• Investment in the development of Maltese language 
+tools to support AI-driven understanding and 
+generation of Maltese text and speech to catalyse 
+the deployment of AI solutions by industry (further 
+information on this measure is provided on p.48) 
+• The creation of Digital Innovation Hub for 
+businesses to access technological expertise, 
+advice and insight into industry practices (further 
+information on this measure is provided on p.50) 
+• Training programmes and financial support measures to 
+help business owners and employees to develop AI-related 
+skill sets (further information on this measure is provided 
+on p.39)
+Build trust in how AI works in terms of 
+transparency and accountability
+• The willingness and openness of private sector clients and 
+consumers to use AI solutions in the way they are serviced 
+will have a big role in dictating the pace of adoption. Malta 
+has recently developed an Ethical AI Framework, Towards 
+Trustworthy AI, which sets out Ethical AI Principles, 
+Trustworthy AI Requirements and Control Practices for 
+AI development and use which are ethically aligned, 
+transparent and socially responsible (further information 
+on this measure is provided on p.45). 
+ 
+36
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+EDUCATION AND WORKFORCE
+CHAPTER 6
+Malta: The Ultimate AI Launchpad
+37
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Education and workforce
+Malta is predominantly a service-based economy that relies 
+on quality human capital delivering high-value-added services. 
+The Government recognises the critical function provided by 
+the working population, as well as the education system in 
+Malta, which provides the fundamental function of sustaining 
+current and future generations of trained and educated people. 
+At the same time, the onset and widespread adoption of AI is 
+expected to disrupt current work practices and functions at a 
+broader level and create both opportunities and skills gaps. 
+The education system and workforce implications are therefore 
+deeply intertwined elements of Malta’s AI Strategy.
+As highlighted in the introductory section of this document, 
+various studies have been undertaken by academics, 
+research institutes and government bodies on the potential 
+impact that automation will have on the workforce, but 
+there appears to be little consensus on both the number 
+of jobs at high risk from automation and the number of 
+new jobs that are expected to be created by the technology. 
+However, a few common themes are prevalent:
+ · AI will drive big changes across all economic sectors: 
+“New jobs will be created, others will disappear, 
+most will be transformed23”
+ · The pace of change will play out differently across 
+countries, sectors and roles 
+ · The workforce will need to acquire new skills and 
+adapt their ways of working as AI becomes more 
+widespread
+Equip the workforce with stronger digital 
+competencies and new skills
+35 The Government will also design and launch a national 
+reskilling programme to help vulnerable workers to 
+develop new digital skills through the provision of 
+short training courses and support measures for on-
+the-job training. The programme will consider ways 
+to involve the refugee community in such initiatives. 
+36 Further support measures will be developed to help 
+employers to invest more in on-the-job training and 
+employees to undertake external training programmes. 
+37 The Investing in Skills programme, co-financed through the 
+European Social Fund (ESF), will be operational until 30 June 
+2023 and has a budget of €5m to help employed people 
+develop and increase knowledge and skills through training. 
+38 The eSkills Malta Foundation, in collaboration with MDIA, 
+will seek to offer professional certification courses in AI to 
+various target groups.
+Build awareness amongst the general 
+population of what AI is and why it is 
+important
+39 Although AI is expected to bring numerous opportunities 
+and improvements to our quality of life, it is acknowledged 
+that this could be a big change. Another fundamental 
+view is that this change cannot be avoided; instead, it is 
+something that needs to be embraced and leveraged 
+within our society and institutions.
+Understand and plan for the impact of 
+technology and automation on the Maltese 
+labour market
+34 A dedicated think tank will be set up to develop policy 
+actions related to the impact of technology and automation 
+on the Maltese workforce. The think tank will:
+ · Conduct research to identify the more vulnerable 
+skills and jobs in society
+ · Propose and publish actionable insights to help 
+the Government, businesses, unions and employer 
+associations to develop robust transition plans
+ · Engage in dialogue and perform consistent 
+monitoring to develop in-depth insights into how 
+these jobs are likely to be impacted
+ · Establish defined training paths to help workers 
+build new skills which better match the needs of 
+businesses
+ · Assess whether employment reforms and safeguards 
+may need to be introduced to offset potential major 
+upheavals in the job market which may be caused 
+by automation
+ · Develop incentive proposals to drive employers’ 
+investment in upskilling
+• All key stakeholders, including trade unions and employer 
+associations, will be asked to participate in the think tank. 
+The project will be coordinated by the National Skills 
+Council and the eSkills Malta Foundation, which includes 
+various representatives from government, industry and 
+education. The two bodies are currently working on 
+projects to evaluate skills and policy measures to address 
+current and future skills gaps and upskill industries sectors 
+in digital and emerging technologies, and the think tank 
+will align with these activities.
+23 Source: Communication from the Commission (2018). Artificial Intelligence For 
+Europe (COM(2018) 237 final). European Commission.
+38
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+• The Malta.AI Taskforce also conducted a survey24 amongst 
+a representative cross-section of the Maltese population 
+to measure awareness and attitudes towards AI. The 
+research highlighted that:
+ · More than 60% of respondents did not have the 
+correct understanding of what  AI is
+ · Only 42% were aware that they had ever interacted 
+with an AI device. However, when made aware of 
+some common AI applications, 80% indicated that 
+they had used one of these services over the last 
+year
+ · Survey respondents’ comfort with AI usage varies 
+by area of application, with just over 80% being 
+comfortable with AI in transportation, and only 
+about half being comfortable with AI in financial 
+advice and justice
+ · 70% expect AI to be beneficial to society, while 8 out 
+of 10 respondents would be open to using more AI if 
+it helped them in their daily lives
+40 The Government will launch a national campaign to build 
+awareness of what AI is, counteract fears and showcase 
+how it will benefit Maltese citizens of all ages. The 
+campaign will highlight how no parts of Maltese society 
+will be unduly burdened or left behind as AI adoption 
+accelerates. A key part of the campaign will aim to build 
+trust in AI usage amongst the older generations who 
+stand to benefit hugely from AI-enabled assistive home 
+technologies, which can offer support with self-care and 
+help offset anxiety, confusion and loneliness.
+ 
+Build awareness of AI amongst students and 
+parents
+41 The MEDE, with the support of other stakeholders, will 
+continue to organise the annual AI Family Challenge, a 
+hands-on AI education programme that brings together 
+families, schools, communities and technology mentors to 
+give everyone the chance to learn, play and create using 
+AI. They will also organise AI-themed weekends, game-
+jams and AI hands-on workshops for children of all ages. 
+42 The MEDE will also support and give funding to an annual 
+AI Olympiad. The event is targeted at students in primary 
+and secondary years and challenges them to learn 
+and use AI methods to solve real-world problems. The 
+winning team will be awarded the prize of attending and 
+participating at the Global AI Congress event overseas. 
+24 Note: The survey was conducted between June and July 2019 across a sample 
+group of individuals that reflects the demographics of the Maltese population.
+Foster and embrace the adoption of AI in 
+education 
+• One of the Malta AI Strategy’s key goals is to develop a 
+modernised and boosted education system for Malta. 
+While the education system and curricula have undergone 
+a number of developments and innovations in recent 
+years, the broader delivery of training and education has 
+not developed significantly from the traditional classroom-
+based setup.
+• Advancements in AI in education have the potential to 
+allow for a personalised learning system which draws 
+on vast learner and student data, leading to a richer and 
+better transfer of knowledge.
+• The MEDE has a wide-reaching vision of how AI can 
+support its priorities and continuous improvement. 
+This includes the introduction and implementation 
+of AI to help administrators and educators to provide 
+individual and adaptive learning experiences, as 
+well as predicting analytical trends to take informed 
+decisions and develop relevant policies to achieve the 
+targets set out in Malta’s education strategy.
+• These changes will not happen overnight or in isolation 
+from other activities: they will be introduced gradually over 
+the coming 10 years in close collaboration with educators, 
+teaching unions, parents, students and other related 
+stakeholders.
+• As part of the development of the National AI Strategy, 
+the Malta.AI Taskforce Work Group for Education and 
+Workforce met with a number of policy makers, educators 
+and industry representatives to understand their position, 
+levels of support and concerns relating to the introduction 
+of AI in education. A workshop was held in conjunction 
+with the largest teachers’ union in Malta, the Malta Union 
+of Teachers (MUT), where their representatives put 
+forward over 30 different ideas of how AI solutions could 
+be incorporated into the education environment from 
+student, teacher and system-facing perspectives.
+• The MEDE will now take forward a number of pilot projects 
+to support the introduction of AI in education. Further 
+information on the proposed pilot projects is provided on 
+page p.30.
+43 The MEDE will also set up a working group involving 
+schools and all of Malta’s teachers’ unions with the remit 
+to co-develop the implementation of these projects, jointly 
+assess outcomes and develop a strategy for a wider roll-
+out of AI in education.
+Malta: The Ultimate AI Launchpad
+39
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Develop teachers’ knowledge and awareness 
+of AI in education
+• The Strategy recognises and acknowledges that the 
+functions of the human teacher cannot be replicated or 
+automated, and that AI in education represents support for 
+the teaching profession in the continuous development of 
+people. Tools should assist teachers, not create additional 
+burdens.
+• Building support for the introduction of AI tools in education 
+requires teachers to develop appropriate awareness, be 
+kept informed on key developments, receive appropriate 
+training and ensure that any implementation plans are 
+properly structured.
+44 The MEDE will organise an annual conference on AI in 
+education to inform, support and disseminate good 
+practices in AI for teaching, learning and assessment 
+purposes. International experts from the teaching 
+profession will participate and share key learnings relating 
+to the use of AI in their educational establishments. 
+45 The MEDE will develop and introduce introductory AI 
+training at all levels, including education officers, school 
+management, teachers and learning support assistants. 
+46 The Government will also introduce a scheme to 
+provide financial reimbursement for educators 
+wishing to obtain certification in approved 
+Massive Open Online Courses in AI-related fields. 
+47 The UoM will look to introduce AI-related components as 
+part of an update to its Masters in Teaching and Learning 
+programme, which qualifies graduates to enter the 
+teaching profession in Malta.
+Equip all students enrolled in higher education 
+programmes in Malta with AI skills
+• AI is expected to change or transform work activities across 
+every economic sector. It is therefore imperative to build AI 
+knowledge and skills across all academic disciplines as the 
+younger generation get ready to enter the working world.
+48 Starting in the 2019/20 academic year, students 
+undertaking any course at the UoM will be able to select 
+AI elective modules as part of their studies. The modules 
+will provide students with European Credit Transfer and 
+Accumulation System credits (ECTS), which count towards 
+their overall degree.
+49 The Malta College of Arts, Science & Technology (MCAST), 
+Malta’s technical college for applied studies, has committed 
+to introducing obligatory AI components across all courses 
+within the next three years.
+50 The MEDE will also work to support private higher 
+education institutions in developing and expanding current 
+and future AI-related programmes and modules.
+Increase the number of graduates and post-
+graduates with AI-related degrees
+• AI skills are in high demand and are crucial to a thriving 
+AI ecosystem. LinkedIn recently published research on 
+the most promising jobs of 201925: “These positions 
+come with high salaries, a significant number of job 
+openings and year-over-year growth, and are more 
+likely to lead to a promotion.” Data scientists topped the 
+list of promising jobs in the US, whilst machine learning 
+engineers had the joint-highest median US salary. 
+• The UoM’s AI department has its roots in the early 90s when 
+the first AI research was being conducted. Today, it offers 
+various short courses, a B.Sc.AI, an M.Sc. AI and a PhD degree 
+which provides specialisations in different areas of AI. 
+• Undergraduate student intake for the B.Sc.AI course 
+increased by 300% across the 2018/19 academic year and 
+is expected to increase once again during the 2019/20 
+academic year.
+51 The UoM will look to develop an Applied AI Platform (an 
+interdisciplinary entity within the university aimed at 
+fostering collaborations between different faculties and 
+institutions) over the coming years. The investment will 
+enable the UoM to increase the number of academics, areas 
+of research and specialist modules it can offer; develop 
+new joint degree undergraduate and post-graduate 
+courses with other faculties; embark on new research and 
+EU projects; increase its work with industry on AI-related 
+projects; and accelerate AI awareness programmes. 
+52 The country will strengthen its core knowledge base 
+of specialists by providing around 50 scholarships per 
+year between 2020 and 2022, for students to undertake 
+post-graduate studies in AI (Masters/PhD level) at the 
+UoM. These scholarships will supplement those already 
+provided directly by the university. The Government will 
+also continue to provide scholarships and financial support 
+to carry out post-graduate studies in AI outside Malta 
+under the Tertiary Education Scholarship Scheme (TESS). 
+53 The Government recently introduced legislation to provide 
+individuals who undertake Master (MQF Level 7) and PhD/
+Doctoral (MQF Level 8) level qualifications with a tax credit 
+for the full amount of income tax that would be due on the 
+first €60,000 of earnings, subject to the satisfaction of certain 
+criteria. The tax credit would be for a single year for individuals 
+who obtain a Master’s degree, and for a period of two years 
+for individuals who obtain a PhD/Doctoral qualification.
+25 Source: Pattabiraman, K. (2019). LinkedIn’s Most Promising Jobs of 2019. [online] 
+Available at: https://blog.linkedin.com/2019/january/10/linkedins-most-promising-
+jobs-of-2019 [Accessed 20 Jun 19].
+40
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+MCAST’s AI Strategy and Action Plan
+54 To further increase the number of qualified AI specialists, 
+the UoM will provide access to the Masters in AI programme 
+to a wide cohort of applicants from different backgrounds. 
+ICT professionals with strong industry experience but no 
+undergraduate degree, and graduates with undergraduate 
+degrees in different areas may be granted access to the 
+course on either a full- or part-time basis, subject to 
+completing three foundational modules prior to entry. This 
+entry route is in place for the 2019/20 academic year and 
+will remain thereafter.
+ 
+It is envisaged that, in the coming years, the AI revolution will 
+bring about a series of disruptions in both the job market and the 
+education ecosystem. MCAST has therefore developed the 2020-
+2025 AI Strategy and Action Plan, which aims to map out how: 
+ · AI will be intrinsically embedded into MCAST’s daily 
+operations
+ · Students can be better prepared for an AI-powered 
+industry
+ · AI tools will be used to improve learning experiences, 
+support teachers and facilitate administrative 
+functions
+ · Lecturers can gain more competence in 
+understanding and applying AI in teaching, research 
+and industry solutions
+The MCAST AI Strategy and Action Plan will be enabled 
+through nine strategic actions that will be undertaken over a 
+five-year period. The initiatives include AI-enabled enhanced 
+e-learning environments and intelligent tutoring systems, the 
+development of AI-driven personalised learning applications, 
+the introduction of AI as a core part of course curricula across 
+all areas of study and the development of AI-specific courses, 
+and professional development for academics in AI-related 
+areas.
+  
+The MCAST AI Strategy and Action Plan is available for download 
+at https://www.mcast.edu.mt/wp-content/uploads/AI-Strategy 
+Final.pdf
+55 MCAST will pilot the introduction of AI-specific components 
+as part of post-graduate programmes in 2020 and will 
+launch AI-specific post-graduate programmes by 2025. AI 
+is already a key part of its IT-related programmes below 
+post-graduate level. 
+ 
+Malta: The Ultimate AI Launchpad
+41
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+LEGAL AND ETHICAL
+CHAPTER 7
+42
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Establish an Ethical AI Framework Towards 
+Trustworthy AI
+56 In August 2019, Malta published a draft Ethical AI 
+Framework, Towards Trustworthy AI26, which aims to 
+establish a set of guiding principles and trustworthy AI 
+governance and control practices. The Government’s 
+ambition is to create a practical and workable framework 
+that can serve as a guide and enabler for AI practitioners to 
+create trustworthy AI in Malta and beyond.
+• The intention is for the Malta Ethical AI Framework to 
+support AI practitioners in identifying and managing 
+the potential risks of AI, while also serving to identify 
+opportunities to encode a higher ethical standard into AI. 
+The draft document was released for public consultation 
+in August 2019 and the final version is expected in October 
+2019, shortly after the release of the Strategy.
+57 A National Technology Ethics Committee will also be set 
+up under the MDIA to oversee the Ethical AI Framework 
+and its intersection across various policy initiatives, 
+including investments in tools and continuous monitoring 
+mechanisms, skills and capabilities, innovation ecosystem 
+and regulatory mechanisms.
+26 Malta: Parliamentary Secretariat for Financial Services, Digital Economy 
+and Innovation within the Office of the Prime Minister (2019). Malta towards 
+Trustworthy AI, Malta Ethical Framework.
+Legal and ethical
+AI raises profound questions across ethical, legal and 
+regulatory domains, from protecting national security 
+and citizens’ rights to advancing commercial interests and 
+international standing. As AI use cases proliferate, it is 
+important that these issues are addressed at the outset to 
+mitigate risks and unintended outcomes. Otherwise, Malta’s 
+development into the “Ultimate AI Launchpad” may be 
+hindered by a lack of trust and low adoption by stakeholders. 
+For an AI system to be trusted, ethics, governance and strong 
+control practices must be central to its design and deployment. 
+Organisations which effectively incorporate ethical 
+considerations into their AI projects, supported by a robust risk 
+management system and monitoring mechanisms, can expect 
+to gain a competitive advantage over their peers.
+In order for Malta to develop a top 10 national AI programme, 
+it will require an AI ecosystem that promotes acceleration in 
+the achievement of the benefits of AI while minimising its risks.
+Malta: The Ultimate AI Launchpad
+43
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Trustworthy AI Requirements
+• Malta’s Ethical AI Framework builds on the European 
+Commission’s AI HLEG Ethics Guidelines for Trustworthy AI 
+published on 8 April 2019 and the Recommendation of the 
+Council on Artificial Intelligence adopted on 21 May 2019 by 
+the OECD countries and various non-member adherents. 
+• The Malta Ethical AI Framework sets out four Ethical AI 
+Principles for establishing trustworthy AI which are in 
+alignment with the European Commission’s AI HLEG Ethics 
+Guidelines for Trustworthy AI:
+• Human autonomy: humans interacting with AI systems 
+must be able to keep full and effective self-determination 
+over themselves
+• Prevent harm: AI systems must not cause harm at any 
+stage of their lifecycle to humans, the natural environment 
+or other living beings
+• Fairness: the development, deployment, use and 
+operation of AI systems must be fair
+• Explicability: end users and other members of the public 
+should be able to understand and challenge the operation 
+of AI systems as required for the particular use case.
+A Communication from the European Commission titled 
+Building Trust in Human Centric Artificial Intelligence27 outlines 
+that “trust is a prerequisite to ensure a human-centric approach 
+to AI: AI is not an end in itself, but a tool that has to serve people 
+with the ultimate aim of increasing human well-being”.
+• To achieve trustworthy AI, the Ethical AI Principles 
+discussed above must be translated into specific 
+requirements for AI systems that can be measured and 
+evaluated. Reflecting on the EU’s work, the Malta Ethical 
+AI Framework identifies seven specific requirements that 
+AI systems should respect to be considered trustworthy. 
+27 Source: Communication from the Commission (2019). Building Trust in Human 
+Centric Artificial Intelligence (COM(2019) 168 final). European Commission.
+Malta Ethical AI Framework
+• The Trustworthy AI Requirements are interrelated 
+and should be continuously evaluated and addressed 
+throughout the AI system’s lifecycle. The relevance and 
+level of importance of each of the requirements will 
+depend on the nature of each use case, and will need to 
+take into consideration the objectives, data sets, functional 
+components, level of autonomy, environmental conditions 
+and impacts of each particular AI system. It is also important 
+to note that some of the above requirements are already 
+reflected in existing laws. For example, Article 22 of the 
+General Data Protection Regulation (GDPR) establishes that 
+when companies use AI to make a “significant decision” 
+about individuals, the data subject has the right to have a 
+human review that decision.
+ 
+44
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+• It is common for early technology developers to 
+prioritise innovation and benefit realisation over 
+controls. But with AI, as it develops its decision 
+framework through adaptive learning rather than pre-
+programmed code, it’s important that ethical, legal and 
+regulatory requirements are considered as part of the 
+training conditions for an AI system from the outset. 
+• Due to the unique nature of AI and the quasi-cognitive nature 
+of the activities it is performing, new control constructs will 
+also be required to augment those historically used for 
+legacy technology. The development of a robust system 
+of controls for an AI system will require the retrofit of 
+control practices over human-based processes to machine 
+based-decisions, and the codification of ethical and trust 
+objectives into system objectives and monitoring practices. 
+• The Malta Ethical AI Framework, Towards Trustworthy AI, 
+also includes a set of over 60 illustrative leading practice 
+control practices for AI, first at the governance level and then 
+for each of the Trustworthy AI Requirements, which have 
+guidance to AI practitioners in developing a robust 
+control framework for ethical and trustworthy AI. 
+The Malta Ethical AI Framework will be updated 
+as new guidance materials are released and as 
+changes are identified through AI project pilots. 
+• The draft Ethical AI Framework, Towards Trustworthy AI, is 
+available for download at www.malta.ai. The final version 
+will be released in October 2019 following an analysis of 
+the feedback received during the public consultation.
+Launch the world’s first national AI 
+certification framework
+• Malta has taken a global lead in developing a regulatory 
+and certification framework for innovative technology 
+arrangements through the setting up of the MDIA and 
+the creation of the Innovative Technologies Arrangements 
+and Services (ITAS) Act. The certification framework was 
+intentionally developed to be technology neutral and 
+voluntary because the country understood that individuals 
+and organisations of good intent would seek out a positive 
+sign of recognition that would build trust and transparency 
+amongst users, consumers and wider stakeholders, even 
+if not mandated by a national competent authority (NCA). 
+58 Malta intends to continue its strong tradition as an innovator 
+and first mover in the space of innovative technologies. 
+It will therefore amend the ITAS Act to expand the list of 
+technologies that the MDIA provides certification for and 
+become the first country in the world to launch a national 
+AI certification programme in October 2019.
+• The certification process will largely be based on Malta’s 
+Ethical AI Framework, which aligns and builds on the 
+EU and OECD ethical frameworks, in order to provide 
+applicants with valuable recognition in the marketplace 
+that their AI systems have been developed in an ethically 
+aligned, transparent and socially responsible manner. 
+The ambition is to create the right frameworks to help 
+trustworthy AI springboard from Malta to the world, in line 
+with Malta’s vision to become the “Ultimate AI Launchpad”. 
+• Certification will be issued by the MDIA, the national 
+regulator with responsibility for governmental policies 
+and regulation on emerging technologies, including 
+the development and enforcement of standards for 
+compliance with local and international obligations. 
+• The MDIA’s AI certification process will include a detailed 
+assessment process carried out by independent, 
+MDIA-approved system auditors who will review 
+the control frameworks in place in order to achieve 
+ethical and trustworthy AI. The process also includes 
+a business review, with due diligence on the key 
+people behind and involved in the business, to build 
+additional layers of trust from users of the technology. 
+• The MDIA recognises that it is working at the forefront 
+of technology regulation and the innovative technologies 
+that it reviews. The main challenge is to ensure that the 
+MDIA’s regulatory function does not hinder innovation 
+in the field of AI. The MDIA would like to actively 
+collaborate with European institutions and international 
+organisations on AI-related initiatives to understand 
+emerging standards and norms, and firmly supports 
+global initiatives to develop standards to use AI for good. 
+• Additional information about the Malta AI certification process 
+is available at www.mdia.gov.mt and www.malta.ai.
+Malta: The Ultimate AI Launchpad
+45
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Appoint a Technology Regulation Advisory 
+Committee to advise on legal matters
+• The regulation of AI is a hotly debated area. There are 
+polarising views on the topic, with some commentators 
+suggesting that AI regulation will stifle innovation and 
+others firmly believing that it is the only way to ensure that AI 
+technologies are used in an ethical and trustworthy manner. 
+• The EU Parliament stated that28 “many policy aspects 
+relevant for AI-enabled services, including rules on 
+consumer protection and policy on ethics and liability, are 
+covered by the existing regulatory framework on services”. 
+It also said that it “considers that a comprehensive 
+law or regulation on AI should be approached with 
+caution as sectoral regulation may provide policies 
+that are general enough but also refined up to the level 
+where they are meaningful for the industrial sector”. 
+• The Ethics Guidelines for Trustworthy AI published by 
+AI HLEG state: “AI systems do not operate in a lawless 
+world. A number of legally binding rules at European, 
+national and international level already apply or are 
+relevant to the development, deployment and use of AI 
+systems today. Legal sources include, but are not limited 
+to: EU primary law (the Treaties of the European Union 
+and its Charter of Fundamental Rights), EU secondary 
+law (such as the General Data Protection Regulation, the 
+Product Liability Directive, the Regulation on the Free 
+Flow of Non-Personal Data, anti-discrimination directives, 
+consumer law, and Safety and Health at Work Directives), 
+the UN Human Rights treaties and the Council of Europe 
+conventions (such as the European Convention on Human 
+Rights), and numerous EU Member State laws. Besides 
+horizontally applicable rules, various domain-specific 
+rules exist that apply to particular AI applications (such as 
+the Medical Device Regulation in the healthcare sector).” 
+• The European Commission has also set up working groups 
+to consider whether updates or the development of new 
+legislation might be required to fully address the risks and 
+challenges brought about by AI technologies.
+59 The Maltese Government will appoint legal experts to form 
+a Technology Regulation Advisory Committee to:
+ · Assess and determine the extent to which existing 
+laws and regulations will apply to AI technologies 
+(matters relating to IP and liability-related issues will 
+be a priority)
+ · Analyse local laws and regulations that may need to 
+change to keep pace with technology
+ · Monitor and consider developments at a European 
+level
+ · Advise on the setting up of a Regulatory Sandbox for 
+AI
+28 Source: Motion for a European Parliament Resolution on a comprehensive 
+European industrial policy on artificial intelligence and robotics ((2018/2088(INI)). 
+European Parliament.
+• Malta is currently working on a Private Law Bill 
+that aims to provide clarity on specific provisions 
+related to IP and liability issues in the context of DLT. 
+• As a next phase, the country will explore whether further 
+provisions could be developed which would clarify 
+ownership of IP rights in AI-generated outputs, particularly 
+where multiple entities are involved in the value chain. 
+Liability-related issues on specific use cases, open source 
+development and automated decision making will also be 
+explored to help determine if supplementary legislation 
+may be needed to mitigate some potential blockers and 
+grey areas in existing legislation. Furthermore, the country 
+will look into competition law and the antitrust aspects of 
+AI with respect to control of data.
+Set up a Regulatory Sandbox for AI and a Data 
+Sandbox for AI
+• Certain regulatory provisions may restrict the ability to test 
+new AI applications and ideas.
+60 The country will therefore look to set up a Regulatory 
+Sandbox for AI which will provide regulatory exemptions 
+to enable firms to explore and test concepts and solutions 
+with proportionate safeguards, in a contained environment 
+for a well-defined duration. Sandbox tests are expected 
+to be modelled on particular use cases. The Technology 
+Regulation Advisory Committee will therefore work with 
+the MDIA to identify and determine the best legal and 
+operational structure for the Regulatory Sandbox, given 
+the diverse range of applications, sectors and regulations 
+that AI can potentially touch.
+• The European legislative framework on the protection 
+of personal data (the GDPR) sets out clear and strict 
+rules on how the processing of personal data must be 
+carried out by controllers to ensure that the fundamental 
+rights and freedoms of data subjects are safeguarded. 
+61 In addition to the Regulatory Sandbox proposed above, the 
+Office of the Information and Data Protection Commissioner 
+(IDPC), as the national data protection authority, will also 
+set up a Data Sandbox to support organisations that need 
+to use personal data in the process of developing or testing 
+innovative products and services in the specific area of AI. 
+Data Sandbox participants will be guided and assisted 
+by the IDPC on how to apply data protection rules and 
+requirements to their projects and be given assurances, to 
+the extent possible, that such projects do not infringe the 
+provisions of the GDPR. The scope of the Data Sandbox is 
+to give a certain level of comfort from enforcement action. 
+Projects will be assessed on the degree of demonstrable 
+benefit that they will potentially deliver to the public. 
+• Both of these services would be closely monitored to 
+enable the regulatory authorities to contain risk, and build 
+capacity and experience in regulating these fields. 
+46
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Malta: The Ultimate AI Launchpad
+47
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+ECOSYSTEM INFRASTRUCTURE
+CHAPTER 8
+48
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Ecosystem Infrastructure
+The Government is aware that cutting-edge technology and data 
+infrastructure, together with supportive regulatory and policy 
+initiatives, are needed for the Malta AI Strategy  to truly take off. 
+Investment in Maltese Language Resources
+• In 2013, Rosner and Joachimsen assessed the state 
+of the Maltese language in digital media, particularly 
+the extent to which it is used and, more importantly, 
+the extent to which such use is supported through the 
+deployment of tools and resources. The conclusions 
+reached from the results of this analysis are that the level 
+of technological support for Maltese, compared with that 
+for other European languages, is extremely low, giving 
+rise to the threat of “digital extinction” for the language. 
+In this context, “digital extinction” refers to the possibility 
+that Maltese, while possibly maintaining its status as a 
+national tongue with institutional support and recognition, 
+is nevertheless virtually absent from digital media. 
+• English has therefore become the default language choice 
+across most technological devices in Malta, simply because 
+there are more resources available and they are easier to 
+use.
+62 In order to counteract this, the country will make 
+crucial investments in the development of Maltese 
+language resources and tools. The investment will 
+enable computers to be able to process, understand 
+and generate Maltese text and speech, and AI solutions 
+to be developed and accessible in both of Malta’s 
+national languages and become a part of everyday life. 
+• The Maltese language resources and tools will also have 
+a ripple effect on many sectors, including education 
+and health. It will be possible to create more advanced 
+software to process data in Maltese in a more efficient 
+and accurate manner and to create education tools for 
+the Maltese language that make use of these underlying 
+language technologies.
+Incentivise further investment in data centres
+• AI applications are likely to generate and require a 
+tremendous amount of near real-time data, necessitating 
+adequate data centre infrastructure on the island to 
+support the high-quality connectivity and high-efficiency 
+hosting services.
+• Therefore, the sustained growth of the data centre services 
+market in Malta, and the positive sentiment towards 
+further market development opportunities, have given 
+rise to continued investment in the industry. Additionally, 
+to meet the growing computing and storage demands of 
+public services, both the Government and the UoM have 
+invested in building their own data centre facilities.
+63 The Government is keen to stimulate further private 
+investment into the sector. Malta Enterprise, the country’s 
+economic development agency, will offer a number of 
+support measures and incentives to encourage this, while 
+competitive electricity tariffs are on offer to companies 
+undertaking such business activities.
+There are various dimensions of enabling infrastructure that 
+need to be part of a holistic AI ecosystem, which are illustrated 
+in the diagram below.
+Malta: The Ultimate AI Launchpad
+49
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Establish a Digital Innovation Hub (DIH) with a 
+focus on AI
+• Institutional infrastructure will be required to drive AI 
+adoption, and these organisations will be mandated to 
+provide support to the intended end users. The European 
+Commission’s Digital Europe Programme29 includes 
+proposals for €9.7b in funding for supercomputing, AI, 
+cybersecurity and trust, digital skills and DIHs (“one-stop 
+shops” for SMEs and public administrations to access 
+technological expertise, advise and experimentation 
+facilities) which are being established as centres of 
+excellence that provide insight into industry practices and 
+research.
+64 Malta plans to establish a DIH with a focus on AI. The hub 
+will be a multi-stakeholder innovation centre that aims to 
+help both the public and private sector to grasp new digital 
+opportunities. The DIH will allow both public and private 
+stakeholders to access sector-specific, technological and 
+financial expertise, and streamline efforts to increase 
+Malta’s AI-related research and innovation activities. The 
+DIH aims to provide assistance in setting out how the 
+application of AI can be used to solve real-life problems 
+through applied research, demo spaces and advisory 
+services.
+Increase the extent of the open data 
+availability to support AI use cases
+• As part of the implementation of the Public-Sector 
+Information Directive, the Malta Information Technology 
+Agency (MITA) drafted its National Data Strategy30 in 
+2016 with a holistic and comprehensive vision for 
+the management of data across the whole public 
+administration, set out as one of the pillars of the Digital 
+Malta Strategy, and a vision for data to empower citizen 
+and business applications. The National Data Strategy 
+comprises a set of general principles and best practices 
+that should guide future investments in this domain. 
+65 Additionally, MITA has recently launched Malta Data Portal31, 
+which included 41 registers and 200 data sets covering 10 
+sectors by September 2018, and will increase as the initiative 
+is further developed. It aims to provide a one-stop shop 
+for the discovery, viewing, downloading and online usage 
+of data which is classified and has all the requirements of 
+the open data definition. As a next step, The National AI 
+Strategy will consider measures to increase the number of 
+public data sets available, while ensuring that the interests 
+of Maltese companies and individuals are protected. 
+66 As part of the National AI Strategy, a roadmap will also 
+be prepared to identify ways of integrating information 
+from sensor-based sources and other relevant data into 
+29 Source: European Commission (2018). EU budget: Commission proposes €9.2 billion 
+investment in first ever digital programme. [online] Available at: https://europa.eu/
+rapid/press-release_IP-18-4043_en.htm [Accessed 11 Mar. 2019].
+30 Source: MITA (2016). National Data Strategy.
+31 Source: Malta Data Portal website. [online] Available at: https://open.data.gov.mt 
+[Accessed 5 Aug. 2019].
+national open data processes and platforms. The work 
+will include an assessment of readiness of the current 
+open data registry towards nurturing the development of 
+applications powered by AI.
+• INSPIRE, formally known as European Directive 2007/2/EC, 
+establishes an infrastructure for spatial information in the 
+EU. The Directive was transposed into Maltese legislation 
+under the provisions of the Development Planning Act and 
+brought into force by Legal Notice on 22 December 2009. 
+Environmental-related geospatial data sets are available 
+through the Malta Spatial Data Infrastructure (MSDI) 
+portal. AI use cases will also require access to geo-spatial 
+information, and the MSDI is an enabler to this.
+Provide cost-effective access to compute 
+capacity
+• Access to large-scale compute capability is a foundational 
+element of AI research and development. Malta will 
+require access to local, regional and global infrastructure 
+and will consider various policy measures to facilitate this. 
+Emerging compute capabilities and technologies could 
+potentially be explored to create a mix of specialised 
+compute solutions, each targeted at different use cases, 
+thereby improving the overall cost effectiveness. Many 
+organisations throughout Europe have already invested 
+heavily in the creation of significant compute capabilities.
+• On a national level, supercomputing cluster A.L.B.E.R.T. 
+at the UoM supports various research initiatives, 
+including studies that are catered towards AI. Moreover, 
+the Government of Malta Hybrid Cloud offers flexible 
+architecture and access to a global, scalable infrastructure 
+that can utilise cloud machine learning tools. 
+• The European High-Performance Computing Joint 
+Undertaking (EuroHPC JU) will pool European resources 
+to develop top-of-the-range exascale supercomputers 
+for processing big data, based on competitive European 
+technology. The EuroHPC JU is a legal and funding entity 
+which will enable the pooling of EU and national resources 
+in high-performance computing (HPC), with the aim of:
+ · Developing a pan-European supercomputing 
+infrastructure: buying and deploying two 
+supercomputers in the EU that will be among the top 
+five in the world and at least two others that would 
+today rank in the global top 25 for Europe’s private 
+and public users, and scientific and industrial users, 
+for use in more than 800 scientific and industrial 
+application fields
+ · Supporting research and innovation activities: 
+developing a European supercomputing ecosystem, 
+stimulating a technology supply industry, and making 
+supercomputing resources in many application 
+areas available to a large number of public and 
+private users, including SMEs32
+32 Source: European Commission. The European High-Performance Computing Joint 
+Undertaking – EuroHPC. [online] Available at: https://ec.europa.eu/digital-single-
+market/en/eurohpc-joint-undertaking [Accessed 5 Aug. 2019].
+50
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+• The total planned budget for EuroHPC JU from 2019 to 2026 
+through the co-investment with Member States is around 
+€1 billion, €486 million of which emanates from the actions 
+already planned by the European Commission in Horizon 
+2020 and Connecting Europe Facility (CEF) programmes in 
+the current Multiannual Financial Framework (MFF).33The 
+budget will be matched by a corresponding amount from 
+participating countries, where industry has expressed 
+an existing need for HPC access for research purposes. 
+• Through the EU’s share in the EuroHPC JU, the Maltese 
+Government can benefit from the EuroHPC initiative 
+through the involvement of national stakeholders in 
+the relevant European funded research. In the longer 
+term, if industry demand for access to the EuroHPC 
+research facilities justifies it, government can explore 
+joining the EuroHPC funding to provide such access. 
+67 The Maltese Government will look towards expanding 
+access to high-performance compute capacity 
+across on-demand, on-premise and European 
+infrastructures as part of the National AI Strategy. 
+68 A feasibility study will be conducted to assess the needs 
+for HPC in Malta, taking into account interoperability, 
+participation and dependencies with regard to EuroHPC. 
+69 AI is exceedingly being offered through cloud platforms. 
+The Government will therefore leverage the investment 
+in the Government of Malta Hybrid Cloud to support 
+demand for AI compute capacity and make use 
+cases of a limited scale more feasible to undertake. 
+70 The Government will also pilot a small-scale supercomputer 
+cluster hosted locally to support public sector, private 
+sector and research use cases for potential interconnection 
+with EuroHPC. Investment could facilitate migration of 
+demand from the Government of Malta Hybrid Cloud to 
+a national super compute cluster in 2022 if economics for 
+cloud are less favourable to a capital outlay in national HPC 
+infrastructure.
+Expand Malta’s data economy through 5G  
+and IoT
+• Malta has a leading telecommunications infrastructure and 
+is at the top of the European Commission’s Digital Economy 
+and Society Index (DESI) 2019 scoreboard for coverage of 
+next-generation access (NGA) technologies and ultrafast 
+broadband connectivity34. Fixed broadband speeds of up 
+to 1Gbps are available on a nationwide basis, in addition 
+to connectivity from 75,000 high-speed Wi-Fi hotspots. 
+• Malta is connected to the global internet by five submarine 
+fibre optic cables to Sicily (which is connected to mainland 
+Italy), all delivering high-capacity international connectivity. 
+The Maltese Government is also actively studying the 
+33 Source: EuroHPC Joint Undertaking. Leading the way in the European 
+Supercomputing. [online] Available at: https://eurohpc-ju.europa.eu/ [Accessed 5 
+Aug. 2019].
+34 Source: Digital Economy and Society Index Report. (2019). European Commission
+feasibility of a new submarine cable connecting Malta to 
+other locations, with the goal of enhancing the resilience 
+and quality of the current international electronic 
+communications connectivity.
+• All three local telecommunication companies have 
+expressed their intention to continue investing in 
+upgrading their mobile networks, while planning to 
+capitalise on new technologies such as 5G and the IoT. 
+• The Maltese telecoms regulator already operates a 
+test-and-trial licensing scheme in support of innovative 
+spectrum uses; it aims to exploit Malta’s unique 
+potential as a test bed, both for technology tests and 
+service trials involving third parties or the public. 
+• An international telecommunications company recently 
+signed a memorandum of understanding (MoU) 
+with the Government to promote and harness the 
+latest disruptive technologies to boost innovation in 
+Malta. Two pilot projects are currently underway, with 
+the first using the IoT for a network of public smart 
+recycling bins and the second focused on smart parking 
+applications. The company announced that it will also 
+be collaborating with the Malta on AI-related areas. 
+• The Maltese Government will actively engage with local and 
+international companies that are interested in using the 
+country as a test bed for 5G and IoT trials, as it is believed 
+that investment in these complementary technologies 
+will boost the development of Malta’s AI ecosystem and 
+stimulate the launch of new data economy services, 
+products and applications across different economic 
+sectors.
+• An EU-financed Research on Smart Cities project is 
+currently underway. The project aims to assess the latest 
+advances in Europe in the development of smart cities and 
+determine which are most applicable to Malta, along with 
+how much they would cost to implement and sustain. The 
+experiences that have been learnt through the adoption of 
+these developments by other European Member States are 
+also being analysed to proactively determine the potential 
+outcomes of local smart city developments.
+71 The Government is keen to ensure that investments 
+undertaken in sensor and device infrastructure which can 
+enable IoT applications are fully leveraged. It therefore 
+plans to:
+ · Develop a registry which provides information on all 
+government sensor and IoT networks
+ · Identify where DLTs can add enhancements, 
+including decentralised authentication services and 
+digital trust at scale
+ · Develop and prototype applied DLTs within a sensor 
+and IoT network, assess results and propose a 
+strategy for wider roll-out
+Malta: The Ultimate AI Launchpad
+51
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Identify best practices for securing national AI 
+solutions
+• Launching cybersecurity on a national scale essentially 
+calls for a planned, collective and systematic approach. 
+Accordingly, this led to the need for a National Cyber 
+Security Strategy which brings together all the relevant 
+players in the cybersecurity space. In line with European 
+regulations, Malta maintains an established Critical 
+Information Infrastructure Protection Directorate, which 
+also operates the national Computer Security Incident 
+Response Team.
+• The Directorate also serves as the national authority 
+overseeing Directive (EU) 2016/1148 of the European 
+Parliament and of the Council of 6 July 2016 concerning 
+measures for a high common level of security for network 
+and information systems across the EU. The oversight 
+of the security of electronic communications networks 
+and services is part of the regulatory remit of the Malta 
+Communications Authority, whereas privacy and data 
+protection aspects are overseen by the Information 
+and Data Protection Commissioner. MITA overseas the 
+cybersecurity of the Government’s infrastructure and 
+establishes government policies in the cybersecurity space. 
+Other relevant players include the entities entrusted with 
+public security, such as the police and the army.
+• A National Cyber Security Strategy was launched in 
+September 2016 following public consultation. The 
+document presented the strategic approach for 
+cybersecurity on a national scale. It intended to build an 
+awareness of cybersecurity, its extent and its implications 
+for Malta as an integral part of cyberspace.
+72 The intersection of AI and cybersecurity poses various 
+technical, ethical and governance challenges. The 
+Government will therefore undertake a risk assessment 
+of national AI solutions and look to establish the security 
+requirements, both physical and cyber, to safeguard 
+national and public security from inherent threats, hazards 
+and vulnerabilities.
+52
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+ 
+Wayne Grixti
+Chair
+ 
+Dr. Angelo Dalli
+Member
+Ing. Emanuel Darmanin
+Member
+Prof. Alexiei Dingli
+Member
+Dr. Abdalla Kablan
+Member
+Dr. Jackie Mallia
+Member
+Francois Piccione
+Member
+Ing. Antoine Sciberras
+Member
+Dylan Seychell
+Member
+Ing. Godfrey Vella
+Member
+Wilbert Tabone
+Secretary
+MALTA.AI 
+TASKFORCE
+Malta: The Ultimate AI Launchpad
+53
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Investment, start-ups and innovation
+Dr. Angelo Dalli (Chair), Alex Borg, Theo Dix, Dr. Abdalla Kablan, 
+Anthony David Gatt, Dylan Seychell.
+Public and private sector adoption
+Ing. Emanuel Darmanin (Chair), Greta Attard, Dr. Keith Cilia Debono, 
+Francois Grech, Chris Meilak, Euchar Sultana.
+Education and workforce
+Prof. Alexiei Dingli (Chair), Carmel Cachia, Gilbert Guillaumier, 
+Corne Nagel, Ing. Godfrey Vella, Wilbert Tabone.
+Legal and ethical framework
+Dr. Jackie Mallia (Chair), Dr. Victoria Buttigieg, Cathey Cobey, 
+Andrew Tony Camilleri, Denise De Gaetano, Dr. Matthew Fenech, 
+Dr. Olga Finkel, Frith Tweedie, Dr. Stefan Zrinzo Azzopardi, Céline Moille.
+Ecoysystem infrastructure
+Ing. Antoine Sciberras (Chair), Kyle Anastasi, Michael Azzopardi, 
+Jonathan Cassar, Keith Cortis, Alexei Debono.
+MALTA.AI WORKING 
+GROUPS
+54
+Malta: The Ultimate AI Launchpad A Strategy and Vision for Artificial Intelligence in Malta 2030 
+Contributing Stakeholder Organisations
+The Government and the Malta.AI Taskforce would like to thank all the individuals and 
+organisations that contributed to the National AI Strategy through policy proposals, 
+workshops, meetings and consultation feedback.
+Malta: The Ultimate AI Launchpad
+55
+A Strategy and Vision for Artificial Intelligence in Malta 2030 
+

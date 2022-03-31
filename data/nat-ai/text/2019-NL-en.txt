@@ -1,0 +1,3392 @@
+Strategic Action Plan for 
+Artificial Intelligence
+The Netherlands
+
+Strategic Action Plan for 
+Artificial Intelligence
+The Netherlands
+
+Strategic Action Plan for Artificial Intelligence | 5
+Table of contents
+Summary 7
+Artificial intelligence is the key technology for societal and economic opportunities  9
+Track 1: Capitalising on societal and economic opportunities  13
+AI offers solutions for societal challenges  15
+The government makes optimal use of AI in the performance of public tasks 19
+AI entrepreneurship is stimulated 22
+Track 2: Creating the right conditions 25
+AI research and innovation in the Netherlands are of high quality and leading in Europe 27
+The Netherlands has excellent training opportunities for living with AI and more talent  
+for working with AI 30
+The Netherlands has more usable data for AI applications to improve AI developments  34
+The Netherlands is at the forefront of Europe in high-quality digital and intelligent connectivity 
+ for effective AI applications 37
+Track 3: Strengthening the foundations 39
+Public values and human rights remain protected 41
+AI is used in such a way that everyone can trust it 43
+Markets are open, competitive and offer good consumer protection  47
+The safety of citizens, businesses and government entities in the Netherlands remains protected  50
+Appendices 53
+Appendix 1: Overview of actions  54
+Appendix 2: Financial resources for AI  61
+AI oers solutions for societal challenges
+The government makes optimal use of AI in the performance of 
+public tasks
+Public values and human rights remain protected
+The safety of citizens, businesses and government entities in
+the Netherlands remains protected at all times
+AI is applied in such a way that everyone can trust it
+Markets are open and competitive, and oer good 
+consumer protection
+AI research and innovation in the Netherlands are of high quality
+and are leading in Europe
+The Netherlands is at the forefront of Europe in high-quality digital
+and intelligent connectivity for eective AI applications
+The Netherlands has excellent training opportunities for living 
+with AI and more talent for working with AI
+The Netherlands has more usable data for AI applications to 
+improve AI developments
+Strategic Action Plan for Arti cial Intelligence 
+Track 2
+Track 3
+Strengthening the 
+foundations
+Creating the 
+right conditions
+Track 1
+Capitalising on societal and 
+economic opportunities
+The Netherlands is able to capitalise on AI’s societal and economic opportunities, as well as to safeguard the public interests of AI, thus 
+contributing to prosperity and well-being
+AI entrepreneurship is stimulated
+Strategic Action Plan for Artificial Intelligence | 7
+Summary
+Artificial intelligence (AI) is radically changing the world.  
+AI will make a substantial contribution to economic growth, 
+prosperity and well-being of the Netherlands. It will also 
+be of huge assistance in dealing with societal issues in 
+areas such as ageing, climate change, food safety and 
+healthcare. At the same time, we must not close our eyes 
+to challenges such as the protection of fundamental rights 
+including privacy, non-discrimination and autonomy. 
+If the Netherlands and Europe wish to be at the forefront 
+of a globally competitive economy, we must accelerate the 
+development and application of AI in the Netherlands.  
+We can do so. The Netherlands is well positioned to take 
+on this challenge, partly due to its high-quality connecti-
+vity, strong foundation for public-private partnerships 
+(PPP) and world-class research. We must make good use 
+of this head start to develop our international profile in 
+this area.
+The government is focusing on three tracks. Track 1 is that 
+we must capitalise on societal and economic opportunities 
+This goal requires intensive PPPs, which will enable the 
+Netherlands to make a difference on the European playing 
+field and in global markets. From start-ups and scale-ups 
+to small and medium-sized enterprises (SMEs) or large 
+corporations, companies are crucial due to their innovative 
+and competitive power. They will determine whether the 
+Netherlands leads the way in AI or ends up following other 
+countries in this area, and whether AI applications will 
+really benefit the Dutch economy and Dutch society. 
+Companies’ added value comes from their ability to 
+respond both to societal challenges and market demand. 
+As a result, the government is developing this track in 
+PPPs, particularly with the Dutch AI Coalition, while calling 
+on companies and organisations to join in these efforts. 
+Track 2 intends to arrange the required prerequisites for a 
+favourable AI climate in the economy and society at large. 
+These prerequisites include the right knowledge, skills and 
+training: top-quality scientific AI research as well as 
+applied research that businesses and professionals can 
+use. They also include usable data and high-quality and 
+intelligent connectivity. In this context, we are investing in 
+research programmes, increasing access to innovation 
+funding for start-ups, investing in training, promoting 
+data-sharing, and further developing digital connectivity 
+with and for AI. 
+Track 3 is about ‘Strengthening the foundations’. This track 
+concerns the protection of citizens fundamental rights as 
+well as appropriate legal and ethical frameworks. As a 
+result, people and companies will feel confident that AI 
+will be used with care. It is important as well that markets 
+remain open and competitive, and that national security is 
+safeguarded in all AI developments. To this end, the 
+necessary legislation and regulations are already in force 
+or in the making. The government is also monitoring AI 
+developments and making efforts to ensure the use of 
+ethical guidelines (European and otherwise) for AI 
+applications by companies and public organisations. 
+In other words, there is no time to waste. This Strategic 
+Action Plan for AI describes the course that the Netherlands 
+wants to take. It is a first step towards initiating concrete 
+measures to achieve the intended acceleration and profile. 
+The government cooperates with the Dutch AI Coalition,  
+in which companies, government agencies, knowledge 
+institutions and educational institutions join forces to 
+implement new AI actions that help specific domains and 
+sectors.
+The following principles play a guiding role in the Dutch 
+approach:
+ • We work together in public-private partnerships, 
+including in the Dutch AI Coalition, to seize the societal 
+and economic opportunities of AI.
+ • The Netherlands is committed to international coopera-
+tion, especially with European partners. 
+ • We promote ourselves as a country that is at the 
+forefront of AI applications which serve the interests of 
+people and society. 
+ • We opt for an inclusive approach that puts people first, 
+in which we strive for reliable AI.
+The Dutch AI approach has the following main objective: 
+The Netherlands is able to capitalise on AI’s societal and 
+economic opportunities, as well as to safeguard the public 
+interests of AI, thus contributing to prosperity and 
+well-being. This objective is elaborated in three tracks, 
+comprising a total of eleven objectives, as indicated in the 
+following infographic.
+
+Strategic Action Plan for Artificial Intelligence | 9
+Artificial intelligence is the key technology for 
+societal and economic opportunities 
+AI1 is a key technology that is transforming our world. 
+Image recognition applications support physicians in the 
+diagnosis of certain types of cancer. AI is also increasingly 
+being used in the logistics sector and plays a major role in 
+the development of self-driving cars. We also experience 
+the convenience offered by AI in our daily lives, for 
+example in the form of intelligent search engines, 
+translation algorithms, navigation systems, webshop 
+chatbots that automatically respond to questions and 
+complaints, and algorithms that make recommendations 
+to us or even develop tailor-made products that meet our 
+personal needs. AI can also be combined with robotics or 
+unmanned systems, for example in the manufacturing 
+industry. 
+ 
+AI owes its huge societal and economic potential to the 
+fact that this key technology can be applied in almost all 
+domains and sectors. Eighty-six per cent of companies 
+anticipate that AI will have a major impact on their sector.2 
+AI also has an impact on public interests and values such 
+as fundamental rights, consumer protection and national 
+security. Given AI’s high speed of development, it is 
+important to continue monitoring this impact, and to track 
+and anticipate its effect on our public interests. Space for 
+experimenting with AI applications is important in this 
+respect.
+1 For more information on the definition of AI, see the Independent 
+High-Level Expert Group on Artificial Intelligence, ‘A Definition of AI: 
+Main Capabilities and Scientific Disciplines’, April 2019.
+2 EY and Microsoft, ‘Artificial Intelligence in the Netherlands’,  
+October 2018.
+WHAT IS AI?
+There is no generally valid definition of AI that is 
+consistently used by all stakeholders. We use the 
+European Commission’s description of AI: ‘AI refers to 
+systems that display intelligent behaviour by 
+analysing their environment and taking actions – with 
+some degree of autonomy – to achieve specific goals’.
+For an understandable explanation of what AI is, 
+everyone is invited to take the National AI course 
+<https://app.ai-cursus.nl/home>. This course briefly 
+explains what this technology is all about. 
+Participation is free.
+Well placed
+The Netherlands is well placed to take advantage of the 
+opportunities offered by digitalisation in general and by AI 
+in particular.3 We have world-class networks, data centres 
+and hosting and housing providers, a digitally active and 
+skilled population, a research community that is doing 
+groundbreaking research on AI while applying it itself,4 and 
+a favourable, PPP-intensive climate for entrepreneurs, 
+start-ups and innovation. The Dutch government 
+distinguishes itself by its many (often small-scale) pilots 
+and experiments and an increasing focus on the develop-
+ment and promotion of key enabling technologies. 
+According to research by McKinsey, the Netherlands scores 
+above average in terms of AI readiness on all the different 
+dimensions, with top scores for automation, digital 
+readiness and innovation.5
+3 Parliamentary Paper 26643, No. 623. For a detailed description of the 
+current state of affairs, see ‘Rapport AI voor Nederland’ (Report on 
+AI for the Netherlands) of the Confederation of Netherlands Industry 
+and Employers (VNO-NCW), et al., November 2018. 
+4 Elsevier, ‘Artificial Intelligence: How knowledge is created, 
+transferred and used’, 2018. One of the findings is that of the more 
+than 100 Dutch AI scientists, approximately forty have an above-
+average citation index.
+5 McKinsey Global Institute, ‘Notes from the AI Frontier; Tackling 
+Europe’s Gap in Digital and AI’, February 2019, p. 42.
+10 | Strategic Action Plan for Artificial Intelligence
+Urgency to accelerate 
+The Netherlands will need to accelerate in the area of AI, 
+as it is crucial for the efficiency and effectiveness of all 
+sectors and domains. Other countries are also investing 
+heavily in AI, for good reason. The Netherlands must 
+facilitate AI, so that companies can keep their research  
+and innovation in (and bring it to) the Netherlands.6 
+Companies will have to apply high-quality AI in order to 
+remain competitive. After all, a ‘winner-takes-all’ or 
+‘winner-takes-most’ dynamic can arise, with a real chance 
+that the Netherlands will become dependent on other 
+parties.7 That could potentially damage our economic 
+security, our autonomy and our well-being. And while the 
+Netherlands is well placed for AI in certain respects, in 
+other areas it needs to tighten its approach. Large 
+companies are already using AI to provide better services 
+and increase productivity. It is important that SMEs follow 
+suit and that the number of start-ups and scale-ups8 in the 
+area of AI increases considerably.9 The Netherlands must 
+take action to position itself firmly in the AI playing field 
+and create a thriving AI ecosystem.10
+The Dutch approach: a strategic action plan 
+for AI 
+This Strategic Action Plan for AI (SAPAI) contains the 
+government’s intentions to accelerate AI development in 
+the Netherlands and to raise its profile internationally.  
+It examines AI developments in the Netherlands, the 
+elements needed to further encourage AI innovation, and 
+the fundamentals that are crucial to safeguarding public 
+interests in AI developments. With this plan, the 
+Netherlands aims to capitalise on AI’s societal and 
+economic opportunities in the long term and to safeguard 
+the public interests surrounding AI. Many countries have 
+already drawn up an AI strategy, and the European 
+Commission has published a coordinated plan for AI in 
+which it calls on Member States to create their own AI 
+plans. 
+6 ‘Rapport AI voor Nederland’ (Report on AI for the Netherlands), 
+Confederation of Netherlands Industry and Employers (VNO-NCW), 
+et al., November 2018. 
+7 Ibid.
+8 Start-ups and scale-ups are young, technology-driven companies 
+with the ambition to grow into international innovative leaders.
+9 Ibid.
+10 Ibid. 
+This Strategic Action Plan for AI responds to that call.  
+It was created in collaboration with public and private 
+parties (the AI Task Force) and is in line with the 2018 
+Dutch Digitalisation Strategy11 and other relevant policy 
+documents. The Report on AI for the Netherlands and the 
+recent white paper of the AI Task Force are important 
+building blocks for this Action Plan. It sets out an inte-
+grated approach and general policies. Sectors or domains 
+are included mainly for illustrative purposes. The exception 
+to this is Track 1, where a non-exhaustive series of specific 
+actions has been identified for a number of domains. 
+Governance
+The Strategic Action Plan for AI is an agenda that is 
+updated annually. The House of Representatives will be 
+informed about the implementation of the policy actions 
+set out in this Action Plan (see Appendix 1 for an overview) 
+as part of the progress report and update of the Dutch 
+Digitalisation Strategy. In addition, the various ministries 
+apply their own evaluation and monitoring systems for the 
+actions for which they are responsible. The progress of the 
+AI approach is on the agenda of the National Council for 
+the Dutch Digitalisation Strategy.
+The government collaborates with the Dutch AI Coalition 
+in specific areas. In this Coalition, companies, government 
+agencies, knowledge institutions and educational 
+institutions work together on generic issues in order to 
+help specific application areas and sectors move forward. 
+Examples include collaboration in the field of talent and 
+knowledge development, access to knowledge, data 
+sharing, societal acceptance of AI, promotion of new 
+economic activity and a stimulating role towards applica-
+tion areas/sectors.
+11 Ministry of Economic Affairs and Climate Policy, ‘Dutch Digitalisation 
+Strategy: Getting the Netherlands ready for the digital future.’ June 
+2018.
+
+
+Strategic Action Plan for Artificial Intelligence | 13
+Track 1: Capitalising on societal and 
+economic opportunities 
+AI offers great societal and economic opportunities. First of all, there are opportunities for solving societal challenges in 
+which the government is involved as a partner. Consider, for example, the use of AI for more effective investigation and 
+enforcement, new possibilities for prevention, diagnosis and treatment in healthcare, cultivation of crops without 
+daylight, and predicting traffic jams. AI also has considerable potential in the provision of public services and can help 
+improve work processes of government organisations. The government is also encouraging the business community to 
+develop AI applications and utilise knowledge.
+Solving societal 
+challenges
+Government’s use of AI for 
+public tasks
+Cooperation on societal 
+challenges
+Organisational integration
+Beer cooperation
+The government experiments
+Government encourages 
+companies to perform public tasks
+Government stimulates start-ups
+Companies use knowledge
+Encouraging AI 
+Entrepreneurship
+Actions include:
+• Knowledge and Innovation Agendas 
+2020–2023 for missions and key technolo-
+gies, including AI. 
+• Research into design principles for AI in the 
+legal domain (CWI, the national research 
+institute for mathematics and computer 
+science,  TNO the Netherlands organisation 
+for applied scientic research, the UvA, 
+University of Amsterdam and the OM, the 
+Dutch public prosecution service). 
+Actions include:
+•  The digital course series on AI by the 
+Academy for Digitalisation and Computerisa-
+tion of the Government, is available for every 
+civil servant in the Netherlands.
+Actions include:
+• Ministry of the Interior and Kingdom 
+Relations (BZK), Association of Netherlands 
+Municipalities (VNG) and Netherlands 
+Enterprise Agency (RVO) organise round 
+tables on the public domain and the technolo-
+gies applied there, such as chatbots.
+• The government organises expert meetings 
+on AI for various professional disciplines 
+(technical and otherwise), such as architects, 
+developers and data scientists.
+Actions include:
+•Ministry of the Interior and Kingdom 
+Relations (BZK), Association of Netherlands 
+Municipalities (VNG) and others experiment 
+with AI, with a focus on ethics by design and 
+algorithm transparency.
+• Government agencies such as the police, the 
+Netherlands Enterprise Agency and P-Direkt 
+(the Shared Service Centre for HRM of the 
+Dutch government) develop a chatbot.
+Actions include:
+• Ministry of the Interior and Kingdom 
+Relations (BZK), together with a regional 
+party, publishes a second AI SBIRtender.
+• Ministries participate in the largest AI and 
+blockchain hackathon in the world: Odyssey.
+Actions include:
+• Improved access to innovation funding and 
+venture capital through Innovation Credits, 
+the Seed Capital Scheme and the Dutch 
+Venture Initiative.
+• Stationing start-up Liaison Ocers in San 
+Francisco/Los Angeles, New York/Boston, 
+Singapore, Berlin, Paris and London.
+Actions include:
+•Plan of the Netherlands AI Coalition  to 
+enhance synergies between research, 
+education and organisations.
+• Regional smart industry hubs and data 
+value hubs provide SMEs with tools and 
+training modules for responsible use of AI.
+• Chambers of Commerce oer hands-on AI 
+information to SMEs..
+Track 1 | Capitalising on societal and economic opportunities 
+Strategic Action Plan for Artificial Intelligence | 15
+AI offers solutions for societal challenges 
+AI can contribute to solving societal challenges in all sorts 
+of areas such as safety, healthcare, agriculture and food, 
+energy transition and sustainability. In order to seize these 
+opportunities, the government is also focusing on an 
+aspect that distinguishes the Netherlands from other 
+countries: its excellent PPP environment, As a result the 
+Netherlands has an attractive climate for larger pilot areas 
+and hubs for data sharing and sectoral applications that 
+are being set up at a European level. The Dutch AI 
+Coalition is collaborating with stakeholders (including the 
+government) on a domain-specific implementation. 
+The Netherlands organises public–
+private partnerships to work on 
+societal challenges
+In order to capitalise on the opportunities offered by AI for 
+solving societal issues, the government has opted for the 
+Dutch approach: organising good cooperation between 
+government agencies, companies and knowledge 
+institutions, with shared responsibilities. It is up to the 
+government to create the right conditions, to promote 
+innovation and to apply AI in its own domain and for 
+achieving its own goals. The government is therefore 
+committed to exploiting the societal and economic 
+opportunities of AI in areas and sectors such as safety, 
+healthcare, agriculture and food, the energy transition and 
+sustainability, for example in the context of the mission-
+driven innovation policy. In addition, the government itself 
+uses AI in the provision of public services. But it is 
+ultimately the companies (from start-ups and scale-ups to 
+SMEs and large companies), with their innovative and 
+competitive strengths, that make the difference. They 
+determine whether the Netherlands will lead or follow in 
+AI and, especially, in its application in a way that offers 
+economic and societal value. Companies generate such 
+added value by responding to the aforementioned societal 
+challenges, and to market demand. The government is 
+further developing this track in PPPs, in particular with the 
+Dutch AI Coalition, and calls on companies and organisa-
+tions to join this effort in order to jointly turn the chal-
+lenges and opportunities surrounding AI into effective 
+action. 
+The Dutch AI Coalition and the Dutch Digital Delta  
+‘Top Team’, together with companies, ministries, 
+knowledge institutes, ‘Top Sectors’, the Netherlands 
+Organisation for Scientific Research (NWO), the 
+Association of Universities in the Netherlands (VSNU) and 
+the Netherlands Organisation for Applied Scientific 
+Research (TNO), are developing long-term knowledge and 
+innovation programmes for generic basic knowledge in 
+combination with knowledge and cooperation in sectors 
+such as healthcare, agriculture and food. 
+In its letter to the House of Representatives entitled Naar 
+missiegedreven Innovatiebeleid met Impact (Towards mission-
+driven innovation policy with impact), the government 
+broadly formulated a new approach for the Top Sectors 
+and innovation policy. Here, too, the emphasis is on PPP in 
+order to seize the opportunities it offers for tackling 
+societal challenges. 
+  ACTIONS:
+• In October/November 2019, the Knowledge and 
+Innovation Agendas 2020-2023 will be published 
+for missions and key enabling technologies, 
+including AI. These missions are in the areas of 
+safety, healthcare, agriculture and food, the energy 
+transition and sustainability. The agendas contain a 
+long-term financial commitment in the form of a 
+Knowledge and Innovation Contract.
+• Together with other parties, TNO is investing in 
+in-depth knowledge, system development and the 
+development of ecosystems and applications for AI, 
+for example for cybersecurity, care, agriculture and 
+security. The approach is multidisciplinary, 
+combining knowledge about technology, behaviour, 
+acceptance and applications. 
+Security
+AI technology offers many opportunities in the fields of 
+justice, security and defence. Security is not only a societal 
+challenge, but also a public task. 
+Research is currently being carried out, often in collabora-
+tion with scientific institutions, into the opportunities for 
+the application of AI in, for example, cybersecurity, police 
+tasks and defence. Ethical aspects and proportionality are 
+also explicitly taken into account. 
+16 | Strategic Action Plan for Artificial Intelligence
+In the police domain, too, there are great opportunities for 
+using AI. In fact, it is already being applied in various ways, 
+for example in the selection of relevant visual material for 
+investigative purposes, in the selection of promising cold 
+cases, or to improve the handling of reports. In order to 
+further stimulate research into, and the development of, 
+AI within the organisation, the police have established the 
+National Police Lab AI. This is a systematic, long-term 
+collaboration between police and science in the context of 
+the Innovation Centre for Artificial Intelligence (ICAI), to 
+investigate how AI can contribute to the effectiveness of 
+the police, today and in the future. Research is also being 
+carried out into explainable and transparent AI and into 
+the ethical aspects of using AI in policing. The Lab has also 
+proven to be a useful tool for the police to engage and 
+retain AI top talent. In this way, the police are at the 
+forefront of developing the ethical, social and societal 
+responsible application of AI for its tasks.
+Experiments with AI applications have also been started in 
+the field of justice administration and law enforcement, 
+for example to gain a better understanding of debt 
+problems or to better detect child abuse or molestation.  
+At present, the guiding principle for the application of AI in 
+the administration of justice is that experiments should 
+take place in small, clear and manageable steps outside 
+the context, for the time being, of actual pending lawsuits 
+or disputes.12
+Under the heading ‘Meaningful Control of Autonomous 
+Systems’ (MCAS), the Centre for Work and Income (CWI), 
+TNO, the UvA Faculty of Law and the UvA Institute of 
+Informatics, together with an endowed professor of Public 
+Prosecution, are developing a series of system design 
+principles for a new generation of intelligent systems 
+within the legal domain.
+The opportunities of AI for security cannot be dissociated 
+from the international context. The European 
+Commission, the United Nations Interregional Crime and 
+Justice Research Institute and the International Criminal 
+Police Organization (INTERPOL) are currently analysing  
+the opportunities offered by AI in criminal investigation 
+and law enforcement. The European Commission’s 
+Directorate-General for Migration and Home Affairs 
+intends to draw up a strategy for AI in the security and 
+migration domain. Within the Council of Europe, an 
+‘Ethical Charter on the Use of Artificial Intelligence in 
+Judicial Systems and their environment’ has been 
+adopted.
+12 See, for example, the letter from the Minister for Legal Protection to 
+the Senate on artificial intelligence and algorithms in the administra-
+tion of justice of 19 December 2018, Parliamentary Paper 34775-VI, 
+No. AH.
+On behalf of the Dutch Ministry of Defence, research has 
+been carried out into AI and its implications for defence.  
+In this domain, AI offers opportunities in the field of 
+decision support, intelligence gathering, data analysis and 
+accelerated responsiveness in the defence of Dutch 
+territory. Another advantage of AI systems for the Ministry 
+of Defence is the possibility of intervening in areas that are 
+not accessible to people due to Anti-Access/Area Denial 
+weapon systems. This application is already being 
+implemented in a number of areas, such as underwater 
+drones for mine control (Remus) and the missile defence 
+system (the Patriot). The focus is on autonomous systems 
+that can take over ‘dull, dirty & dangerous’ tasks. Ongoing 
+research is focused on the further development of 
+algorithms, command and control and the interaction 
+between different unmanned systems. The Ministry of 
+Defence is also developing a vision for AI. 
+  ACTIONS:
+• Research on the effectiveness of the application of 
+AI for police tasks and the ethical aspects of AI.
+• Research into design principles for AI in the legal 
+domain (CWI; Netherlands Organisation for Applied 
+Scientific Research (TNO); University of Amsterdam 
+(UvA) and the Dutch Public Prosecution Service).
+• The Robotic Autonomous Systems unit of the 
+Ministry of Defence translates developments in the 
+field of robotics and autonomous systems into 
+concrete national operations. 
+• The Ministry of Defence is developing a vision for AI 
+in which attention will be paid to the use of AI in 
+military functions (e.g. command and control, 
+intelligence, protection and logistics). This vision 
+will be published in 2020.
+Health and healthcare 
+AI offers new opportunities for healthcare in the field of 
+prevention, diagnosis and treatment, and logistics. For 
+example, there are AI tools in use that can accurately 
+analyse cancer cells, allowing better diagnoses to be made. 
+AI applications can read X-rays, enabling faster detection 
+and analysis of conditions. There are algorithms that can 
+predict aggression in patients or calculate the chance of 
+re-admission in intensive care. AI also holds a substantial 
+promise as a decision support tool (DST) for the healthcare 
+professional. In addition, AI is increasingly able to support 
+citizens in self-management of their health through the 
+many possibilities offered by portable technology and 
+health apps. The possibilities of AI within the healthcare 
+sector should therefore be stimulated. At the same time, 
+however, these developments pose new challenges. 
+Citizens and healthcare professionals must be able to trust 
+AI applications. This is why the Ministry of Health, Welfare 
+Strategic Action Plan for Artificial Intelligence | 17
+and Sport has explored the risks and opportunities of 
+applying algorithms and AI in healthcare – including legal 
+and ethical issues, as well as the associated instruments – 
+in four round tables with healthcare parties. Based on the 
+outcome of these sessions, the Ministry is examining how 
+the application of AI can be facilitated. However, basic 
+principles for the use of health data, such as privacy and 
+citizens’ control over their own data, will have to be 
+observed at all times. 
+	ACTIONS:
+• At the end of 2019, the Ministry of Health, Welfare 
+and Sport will issue a new letter to the House of 
+Representatives on AI and Big Data in the 
+healthcare sector. 
+• The Ministry of Health, Welfare and Sport is 
+developing an AI Handbook to help parties orient 
+themselves in this field.
+Agriculture and food 
+AI offers great opportunities in agriculture, horticulture 
+and food supply, for example through further automation, 
+‘precision agriculture’, selection of new varieties (phenoty-
+ping), crop cultivation without daylight and system 
+integration. AI is also increasingly being used to better 
+visualise purchasing and consumption behaviour. For 
+example, Wageningen University & Research has 
+developed an app that every two hours asks consumers 
+what fruit and vegetables they have eaten in the past two 
+hours. Together with TNO (Soesterberg), a Big Data tool 
+has been developed to collect social media statements 
+about fruit and vegetables and analyse the associated 
+attitudes and behaviour of citizens. In addition, the Smart 
+Dairy Farming project has led to the establishment of the 
+JoinData Foundation, a non-profit cooperative that 
+enables safe and transparent data distribution in the 
+agri-food sector. This is a precondition for data-driven 
+analyses that support livestock farmers in their daily 
+operations. 
+	ACTION:
+• The Ministry of Agriculture, Nature and Food 
+Quality, together with the Dutch AI Coalition, will 
+intensify the further development of a data 
+infrastructure for arable farming. 
+Energy transition and sustainability 
+Mobility 
+AI can be applied at the level of the engine, the vehicle and 
+the driver (and the interaction between them), all road 
+users, the supply chain, the traffic and transport system 
+and the environment. AI helps identify market trends, 
+identify risks, reduce traffic congestion, reduce green-
+house gas and air pollutant emissions, design and manage 
+transportation, and analyse travel demand and pedestrian 
+behaviour. For example, the Directorate-General for Public 
+Works and Water Management (Rijkswaterstaat) uses AI to 
+predict traffic jams, prevent accidents and optimise the 
+Dutch infrastructure. 
+AI AND GREENHOUSE TECHNOLOGY 
+The need for sustainable and safe production systems 
+for fresh food is growing worldwide. The Dutch supply 
+cluster of greenhouse technology has a leading 
+position worldwide with an annual export value of 
+€2.5 billion. The Hortivation Foundation and TNO are 
+working on the further development of digital 
+cultivation. Within the Data-Driven Integrated 
+Growing Systems initiative, TNO has teamed up with 
+16 market parties to develop new analysis techniques 
+in the field of Big Data and deep learning in order to 
+give growers a framework for action vis-à-vis 
+operational cultivation decisions. To this end, 
+algorithms will be used and knowledge models will be 
+developed that open up various data sources inside 
+and outside the greenhouse (e.g. climate, hardware, 
+cultivation activities). Co-creation and new business 
+models are supporting the implementation and 
+scaling up of the innovations developed in the market.
+Energy transition
+The switch to sustainable energy supply under the 
+government’s Climate Agreement calls for smart solutions 
+to make good use of the various variable energy sources. 
+The solutions developed for these types of flexibility and 
+congestion markets range from energy source selection in 
+buildings, the role of electric cars in the energy system, 
+error detection in electricity networks and providing highly 
+detailed insight into the energy networks. The focus is 
+currently shifting to system design, to create a system of 
+systems. Energy will have to be available under any 
+circumstances, irrespective of weather conditions and 
+transition choices; preferably as sustainable and affordable 
+a manner as possible. This increasingly complex puzzle 
+requires the use of new technology – for operational 
+management, but also for solid investment decisions. 
+18 | Strategic Action Plan for Artificial Intelligence
+In this regard, special attention is paid to the transition to 
+sustainable industry and to multiple use of space in the 
+North Sea. If industrial parties switch to hydrogen, for 
+example, this will have consequences for the required 
+infrastructure and supply of hydrogen, but also for the 
+energy balance in the immediate vicinity of these indu-
+stries. A well-timed transition offers many opportunities 
+but also requires insight and overview. Early explorations 
+in the Rotterdam port area are the first of their kind.
+With the arrival of offshore wind farms, the North Sea is 
+another area where many interests are at stake – from 
+fishing to the cultivation of seaweed. There is a need for 
+information about the North Sea, the seabed and how 
+they develop over time. The construction and main-
+tenance of wind turbines in bleak conditions far away from 
+the coast has led to many Dutch innovations, such as 
+inspections with drones, maintenance robots and vertical 
+piling of foundations. A coordinator commissioned by the 
+Energy ‘Top Sector’ and Dutch Digital Delta ‘Top Team’ will 
+design and accelerate the use of AI with respect to the 
+above-mentioned themes.
+SELF-DRIVING CARS 
+The use of AI is increasing strongly in the automotive world, from ‘under the hood’ (predictive maintenance) to the 
+environment. Cars are evolving into programmable, connected platforms full of sensors that exchange data with 
+other vehicles and with the infrastructure. Alongside the traditional car manufacturers, parties such as Google are 
+becoming increasingly important. In the years ahead, we will see a strong development of autonomous systems for 
+real-time estimation and prediction algorithms for vehicles, drivers and environmental conditions. This development 
+will be based on existing and newly acquired data sources. An integrated approach to this data, including the 
+context and environment of the autonomous vehicle, will result in a more complete but also more complex and 
+possibly ambiguous picture. This is expected to increase safety, but also raises questions, for example about dealing 
+with uncertainties within autonomous systems. Who is responsible for controlling the vehicle? How can autonomous 
+driving AI algorithms be checked and explained to the various stakeholders for acceptance and safety, etc.? The 
+National Research Institute for Mathematics and Computer Science (CWI), the Netherlands Organisation for Applied 
+Scientific Research (TNO), the University of Amsterdam's (UvA) Faculty of Law and Institute of Informatics have 
+joined forces to find answers to these questions within a collaborative project named ‘Meaningful Control of 
+Autonomous Systems’.
+Strategic Action Plan for Artificial Intelligence | 19
+The government makes optimal use of AI in 
+the performance of public tasks
+The government aims to use the potential of AI for the 
+performance of public tasks, e.g. in public space and the 
+social domain, to maximum effect. For example, AI 
+applications can contribute to better work processes of 
+various government organisations and better solutions to 
+societal issues. This requires effective cooperation, for 
+example to combine data collected by different parties.  
+It is also important for governments to experiment with AI 
+applications and challenge market parties to come up with 
+innovative solutions for better execution of tasks.
+The government can integrate AI 
+applications organisationally
+In order to be able to integrate AI applications from an 
+organisational point of view, the government will first 
+need to ensure that sufficient knowledge and expertise are 
+available. This is particularly important because, as 
+explained in Track 3, the application of AI must meet high 
+standards especially in the government domain, for 
+example in terms of care, transparency and proportionate 
+deployment. In AI applications for government functions, 
+public values such as equal treatment, privacy, human 
+dignity, autonomy and security must be taken into account 
+right from the design phase, a principle known as 
+value-based design. This requires technical, legal, ethical 
+and organisational expertise. Supported by good commu-
+nication, this can contribute to acceptance by the public of 
+AI in government functions. Organisational integration 
+and administrative support are needed to scale up AI 
+solutions. AI can lead to fundamental changes in work 
+processes. It may require new forms of collaboration, or a 
+complete redesign of business processes. Concrete cases 
+can contribute to a structural and responsible embedding 
+of AI in the organisation, enabling a smooth roll-out.13  
+The experiences gained can be shared within the 
+knowledge networks in order to enable governments to 
+properly integrate AI into the existing organisation. 
+13 For the actions relating to example projects, see the sub-target: ‘ 
+The government is experimenting more with AI and is rolling out 
+more successful example projects’.
+	 ACTIONS:
+• The national government is enhancing knowledge 
+of AI among civil servants in various ways. 
+Examples include the digital course series on AI that 
+is available at the Governmental Academy for 
+Digitalisation and Computerisation of the 
+Government (RADIO) for every civil servant in the 
+Netherlands, and attention to AI in the develop-
+ment of employees competences. 
+• The national government is looking for organisatio-
+nal structures (including PPP) that will consolidate 
+knowledge within government organisations. 
+Dutch governments work better 
+with each other, companies and 
+knowledge institutions
+In the use of AI in the public domain, interdisciplinary 
+collaboration and collaboration between organisations are 
+crucial in order to safeguard legal and ethical precondi-
+tions, share knowledge, make common facilities available 
+and support the removal of specific obstacles to a further 
+roll-out. A number of government organisations, universi-
+ties and companies have AI knowledge in specific areas 
+which is also interesting for other government agencies. 
+The government is constantly looking for ways to streng-
+then collaboration among government bodies, the business 
+community and knowledge institutions. This includes 
+promoting example projects in the public domain and 
+making data available and sharing it for those projects. 
+This is in line with the activities of the Dutch AI Coalition. 
+20 | Strategic Action Plan for Artificial Intelligence
+  ACTIONS:
+• The Ministry of the Interior and Kingdom Relations 
+and the Netherlands Enterprise Agency are 
+developing an implementation toolkit for innova-
+tive technologies. This also involves seeking 
+interdisciplinary cooperation with, among others, 
+the Chief Information Officers of other government 
+agencies and with contractors. 
+• Together with the Association of Netherlands 
+Municipalities (VNG) and the Netherlands 
+Enterprise Agency, the Ministry of the Interior and 
+Kingdom Relations organises meetings on 
+experiences in the public domain and the AI 
+technologies used there, such as chatbots.
+• The national government organises expert 
+meetings for professionals in various technical 
+disciplines that deal with AI applications on a daily 
+basis. These include architects, developers and data 
+scientists from various organisations. 
+• Active participation in European public sector 
+initiatives within the framework of the coordinated 
+Action Plan for AI. These may take the form of calls 
+to realise AI example projects.
+The government is experimenting 
+more with AI and is rolling out 
+more successful example projects
+The government is already experimenting with AI 
+extensively, with a view to its successful roll-out. A risk 
+assessment survey by TNO on the application of AI in the 
+public sector shows that experiments with AI applications 
+such as chatbots, decision algorithms and translation 
+algorithms are taking place at various locations within the 
+government. 
+  ACTIONS: 
+• In collaboration with other government organisati-
+ons and the Association of Netherlands Munici-
+palities (VNG), the Ministry of the Interior and 
+Kingdom Relations is conducting two experiments 
+with AI in 2019, focusing on ethics in, by and for 
+design and the transparency of algorithms. The 
+ambition is to build up a portfolio of example 
+projects, which will be shared in the knowledge 
+network. 
+• Many government bodies, including the Ministry of 
+Social Affairs and Employment, the Ministry of the 
+Interior and Kingdom Relations, the Ministry of 
+Justice and Security and several municipalities, 
+pursue poverty reduction policies. Initiatives are 
+combined as much as possible in order to come to 
+high-quality proposals. This involves the early 
+identification of potential poverty, which can 
+prevent suffering and high costs. 
+• Various government organisations are experimen-
+ting with text mining, for example to make it easier 
+to search archives (JustID) and council documents 
+(Ministry of the Interior and Kingdom Relations, 
+VNG). The intention is to use AI in follow-up 
+projects.
+• Several government organisations are exploring the 
+possibilities of new technologies in procurement, 
+with a focus on blockchain and AI. The ‘Sustainable 
+digitalisation of public procurement’ (Duurzame 
+digitalisering van de Rijksinkoop) programme focuses 
+on AI. This concerns the purchase of generic 
+services from the government and the systems that 
+have been set up for this purpose. 
+• Various government agencies, such as the police, 
+the Netherlands Enterprise Agency and ‘P-Direkt’ 
+(the Shared Service Centre for HRM of the Dutch 
+government) are developing a chatbot.
+Strategic Action Plan for Artificial Intelligence | 21
+The government is using more 
+resources to encourage 
+companies to develop AI for its 
+public tasks
+When it comes to procurement, the government is a major 
+player in various sectors. With a procurement volume of 
+€73.3 billion, the government invests considerable 
+amounts, mainly in the physical environment, the social 
+domain and security. As such, the government has a major 
+influence on the degree of innovation and the utilisation 
+of the opportunities offered by AI. 
+Many innovative applications are developed by innovative 
+SMEs. By making good use of the range of instruments 
+offered by public procurement legislation, innovative 
+companies can also be given a chance. This may include 
+things such as innovation partnerships (deployed in 
+‘Startup in Residence’ programmes), Small Business 
+Innovation Research (SBIR)14 and instruments that finance 
+the development of innovations, particularly by SMEs. 
+Governments can also enter into a dialogue with the 
+business community before the tender procedure takes 
+place.
+14 SBIR is a form of tendering in which companies can develop 
+innovative solutions to the societal demands of the government by 
+means of a stepped innovation competition (first phase feasibility 
+study, second phase prototype development).
+  ACTIONS: 
+• The Ministry of Justice and Security and the 
+Ministry of the Interior and Kingdom Relations 
+have accepted 21 proposals for feasibility studies in 
+phase 1 of SBIR AI in the public sector; proposals for 
+phase 2 will be accepted in 2020. A second SBIR 
+with a regional party is being prepared.
+• Over the next few years, various government 
+ministries, including the Ministry of Justice and 
+Security and the Ministry of the Interior and 
+Kingdom Relations, will take part in Odyssey, the 
+world’s largest hackathon in Groningen, in various 
+different tracks. In Odyssey, the business commu-
+nity is challenged to develop initiatives for AI 
+solutions in response to specific government needs. 
+• In the coming years, ministries will use the various 
+instruments within procurement legislation to 
+promote innovation in the market. In addition to 
+SBIR, this also concerns innovation partnerships, 
+market consultation and the competitive dialogue. 
+22 | Strategic Action Plan for Artificial Intelligence
+AI entrepreneurship is stimulated
+AI offers enormous opportunities for service and techno-
+logy companies, for example helping them increase 
+productivity, set up flexible production systems and 
+provide customised solutions. AI makes companies more 
+competitive, more future-proof and strengthens the 
+competitive position of the country as a whole. AI opens 
+up possibilities to automate complex tasks. It enables 
+companies to predict machine maintenance needs, ensure 
+product quality and better plan processes that save costs 
+and resources. In addition, AI can help to make more 
+efficient use of raw materials. Finally, AI-driven companies 
+are very important for solving societal challenges, as 
+indicated earlier in this chapter.
+Many large Dutch companies are already working on 
+deepening their knowledge of AI and using it to improve 
+their services and productivity. However, most of these AI 
+activities are still in the planning or pilot phase. Adoption 
+among SMEs and the number of start-ups and scale-ups 
+needs to increase significantly. Large companies can help 
+SMEs, start-ups and scale-ups to develop and apply 
+AI-driven innovations and new business models. Some of 
+the problems faced by these companies are characteristic 
+of problems in other technical sectors, such as access to 
+knowledge, scarce risk capital, scarce talent and internati-
+onalisation. A strong AI industry is important for the 
+Netherlands, also in view of the ambition to seize the 
+opportunities of human-centric AI for the economy and 
+society. That is why extra attention is devoted to AI 
+entrepreneurship, especially within existing policy actions. 
+In addition, the AI Coalition plays an important role in 
+creating a favourable business climate for AI in the 
+Netherlands. 
+PROCESS OPTIMISATION
+A number of companies have already implemented AI 
+to optimise their processes. For example, VORtech is 
+using AI to detect and locate leaks in pipeline 
+networks. Dutch water companies use large networks 
+of pipelines, so any leakage can have major 
+consequences. The AI application analyses deviations 
+in pressure and flow rates within the pipeline network 
+day and night in order to detect leaks. It ensures that 
+any problems are solved quickly so that water ‘simply’ 
+continues to flow from the tap.
+Another company, EPCOR, uses AI to predict 
+maintenance needs on Auxiliary Power Units (APU) 
+for 30 different airlines worldwide. By collecting data 
+from the APU and then analysing it with AI, flight 
+operation is more reliable and the costs of 
+maintenance are lower. It also contributes to flight 
+safety and the prevention of flight delays.
+Strategic Action Plan for Artificial Intelligence | 23
+The government encourages 
+AI-related start-ups and scale-
+ups in the development of 
+applications 
+The more than 300 AI-driven start-ups and scale-ups in 
+the Netherlands (over 9000 FTEs) operate mainly in the 
+field of business software, care, marketing and fintech.15 
+They benefit from a favourable environment for techno-
+logy-driven entrepreneurship and access to talent, capital, 
+knowledge, networks and markets. AI start-ups and 
+scale-ups face specific obstacles. It is particularly difficult 
+for them to recruit AI staff, as they are often unable to pay 
+high, fixed salaries.
+In order to stimulate technology-driven entrepreneurship, 
+a new government-wide start-up and scale-up strategy 
+was published in June 2018, with an implementation 
+budget of €65 million. This will improve the business 
+climate for start-ups and scale-ups, and StartupDelta will 
+be continued for four years under the name TechLeap.nl, 
+with more focus on the further growth of start-ups and 
+scale-ups. The new programme includes a centre of 
+expertise and a national growth programme. This provides 
+approximately 50 promising Dutch scale-ups per year with 
+access to international networks. It is expected that many 
+AI start-ups/scale-ups will participate. The strategy also 
+includes measures to improve access to diverse talent 
+(AI-related and otherwise). 
+It is important for start-ups to find their first customers 
+and clients. Governments and large companies play a role 
+as launching customers or clients, involving start-ups in 
+solving their innovation issues. This may take the form of 
+challenges, competitions, ‘Startup-in-Residence’ 
+programmes, experiments or a consortium. In addition,  
+AI start-ups and scale-ups require a great deal of capital, 
+even more than ‘regular’ start-ups and scale-ups16, in 
+order to be able to scale up quickly in an internationally 
+competitive market. It is also important for AI start-ups 
+and scale-ups to be able to grow rapidly internationally 
+and gain access to international networks and markets. 
+The trade and innovation departments in the foreign 
+missions support them in these efforts.
+15 StartupDelta, ‹Artificial Intelligence in the Netherlands – Startup 
+Report 2018›, 2018.
+16 Roland Berger & Asgard, ‘Artificial Intelligence – A strategy for 
+European startups – Recommendations for policymakers’, 2018.
+  ACTIONS:
+• The Ministry of Economic Affairs and Climate Policy 
+is increasing access to innovation financing for 
+start-ups (AI-related and otherwise) through 
+early-stage financing and the Innovation Credit 
+(Innovatiekrediet), and is facilitating access to risk 
+capital for start-ups with the ‘Seed Capital Scheme’, 
+the ‘Dutch Venture Initiative’, the scale-up fund and 
+via the Regional Development Agencies (RDAs) 
+(Regionale Ontwikkelingsmaatschappijen, ROMs) 17. 
+• In the supplementary agreement concluded 
+between the Ministry of Economic Affairs and 
+Climate Policy, the Ministry of Finance and 
+Invest-NL, AI is included as one of the focus areas 
+for Invest-NL. The Ministry of Economic Affairs and 
+Climate Policy and the Ministry of Finance are 
+exploring a change in the tax rules which will make 
+it more attractive to pay out in stock options – and 
+thus to work for a start-up or scale-up.
+• The Ministry of Justice and Security, the Ministry of 
+Social Affairs and Employment and the Ministry of 
+Economic Affairs and Climate Policy are drafting 
+legislation relating to the right of residence for 
+essential employees of start-ups and scale-ups.  
+The legislation will enter into force in the summer 
+of 2020.
+• The Ministry of Foreign Affairs will appoint six 
+start-up liaison officers to its posts in San Francisco/
+Los Angeles, New York/Boston, Singapore, Berlin, 
+Paris and London by 2020 at the latest. 
+• TechLeap.nl (formerly StartupDelta) organises 
+missions to start-up and technology fairs and 
+prominent tech hubs, and start-ups and scale-ups 
+are more closely involved in trade and innovation 
+missions and ‘Top Sector’ missions.
+17 The RDAs are an instrument of the Ministry of Economic Affairs and 
+Climate Policy and the provinces involved for the regional 
+implementation of economic and innovation policy. They provide a 
+regional stimulus to innovative SMEs in business development, 
+strategic acquisition, trade facilitation and investments in start-ups 
+and scale-ups. 
+24 | Strategic Action Plan for Artificial Intelligence
+Companies (including SMEs) make use 
+of knowledge and applied research
+The exchange of knowledge and the sharing of tools 
+between researchers and businesses, for example via research 
+labs, field labs and smart industry hubs, is crucial for the valorisa-
+tion of AI research and innovation. Wherever possible, the 
+research labs seek cooperation with relevant Smart Industry field 
+labs18 to share knowledge and tools more broadly. The six RDAs 
+have dozens of AI companies in their portfolios and play a role in 
+strengthening AI-driven entrepreneurship. For example, the 
+Limburg Business Development Fund of LIOF (the Regional 
+Development Agency of the Province of Limburg) provided eight 
+early-stage AI-related financings and grants totalling €3.8 million. 
+New AI-driven growth is also relevant for the broader, late-adap-
+tors concerning innovation, SMEs. In this segment, AI helps to 
+organise repetitive work more easily, planning and stockpiling are 
+more accurate and demand-driven, and chatbots can help with 
+customer queries. Businesses often find it difficult to keep up with 
+the fast pace of innovation and to use technology and especially AI 
+successfully in their company. The ‘Accelerating the digitalisation 
+of SMEs’ (Versnelling digitalisering MKB) programme and an 
+information programme of the Chamber of Commerce can help 
+them with this. Higher professional education (HBO), with more 
+than 15,000 Information and Communication Technology (ICT) 
+students and a large number of ICT professors, can help (innova-
+tive) SMEs with useful and high-quality AI knowledge, for example 
+by means of short-term and solution-focused research through 
+the use of students and trainees. In addition, the European 
+Commission is developing a network of digital innovation hubs for 
+AI in Europe19 to accelerate the application of AI in SMEs, with TNO 
+as the Dutch point of contact.
+18 There are currently 39 of them, including Tata Steel, Philips and Campione, 
+which are experimenting with effective production and preventive 
+maintenance.
+19 This is done in collaboration with the industry-driven European AI Public-
+Private Partnership, led by the Big Data Value Association and the European 
+Robotics Association. 
+  ACTIONS:
+• As of 2019, the government will scale up the 
+‘Accelerating the digitalisation of SMEs’ (Versnelling 
+digitalisering MKB) programme, including five 
+regional SME workshops in which education, the 
+government and the business community 
+collaborate.
+• In 2019, RDAs will jointly explore how they can 
+specifically stimulate entrepreneurship using AI.
+• The Dutch AI Coalition is working out a plan to 
+create more synergy between research, education 
+and organisations. 
+• Five regional smart industry hubs and research 
+centres (data value hubs) provide companies, 
+particularly SMEs that are late-adaptors concerning 
+innovation, with up-to-date knowledge, tools and 
+training modules for the responsible use of AI and 
+data. The hubs organise workshops for SMEs, issue 
+feasibility vouchers and work with vocational 
+education on the development of digital skills.
+• In the smart industry approach, the sharing of 
+knowledge and valorisation of research with 
+respect to AI applications will be strengthened.
+• TNO connects the Dutch field labs and hubs with 
+the European AI Digital Innovation Network.
+• As of 2020, the Chamber of Commerce will be 
+providing SMEs with business-oriented information 
+about AI, based in part on best practice examples 
+from the SME Workshops. 
+• The ICT research platform improves the visibility of 
+practice-based ICT research in the Netherlands, 
+together with the employers’ umbrella organisati-
+ons VNO-NCW (Confederation of Netherlands 
+Industry and Employers) and MKB-Nederland 
+(Dutch Federation of Small and Medium-Sized 
+Enterprises), HBO-i20, SIA21 and 50 HBO professors. 
+Target: by 2020, 200 SMEs will be working with 
+innovative ICT applications, including AI.
+20 The HBO-i foundation is a partnership of ICT courses in higher 
+professional education in the Netherlands.
+21 SIA is the National Coordinating Body for Applied Scientific Research 
+(Nationaal Regieorgaan Praktijkgericht Onderzoek) of the Netherlands 
+Organisation for Scientific Research (NWO).
+Track 2: Creating the right conditions
+In order to accelerate AI development, the government wants the Netherlands to have a vibrant AI climate with 
+conditions that support and promote AI research and the development, marketing and deployment of AI applications. 
+This requires a number of key ingredients: high-quality research and innovation, a workforce with the right knowledge 
+and skills to develop and work with AI, access to sufficient high-quality data, and high-quality and intelligent digital 
+connectivity. Given its aim to boost AI developments in the Netherlands, the government is fully committed to achieving 
+these conditions.
+26 | Strategisch Actieplan voor Artificiële Intelligentie
+AI research and innovation 
+in the Netherlands 
+Excellent training 
+opportunities Usable data Connectivity
+Digital literacy for primary and 
+secondary education
+Vocational and higher education
+Sharing data
+Computing power
+Intelligent connectivity
+Stimulate fundamental and 
+applied research into AI
+Beer international
+cooperation
+Actions include:
+• The Dutch Research Council 
+(NWO) publishes an AI research 
+agenda 
+• Establishing an AI knowledge 
+centre that is leading in Europe 
+• Dutch Ministry of Education, 
+Culture and Science (OCW) 
+invests in the supercomputer at 
+SURF
+Actions include:
+• The Netherlands is prominently 
+active in European AI consortia 
+like BVDA/EURobotics, AI4EU, 
+CLAIRE and ELLIS.
+• Strengthening international AI 
+cooperation through the 
+Holland Innovation Network 
+and economic missions.
+Actions include:
+• AI is one of the a focus areas 
+in the innovation actions of 
+the Digital Connectivity 
+Action Plan.
+Actions include:
+• The Regional Investment Fund  
+improves the alignment of the 
+Secondary vocational education 
+with the labour market.
+• National Data Science trainee 
+programme.
+Actions include:
+• Inclusion of digital literacy in 
+revised curriculum for 
+primary and secondary 
+education.
+ 
+• Businesses improve their 
+support to education 
+through the Digitalisation 
+Agenda for primary and 
+secondary education.
+Actions include:
+• The STAP-scheme (labour 
+market position stimulus) 
+invests in individual budgets for 
+training and development 
+(€200 million).
+• A multi-annual programme for 
+the improvement of Lifelong 
+Development.
+Actions include:
+• Inventory of data sharing 
+solutions amongst others for AI 
+and data markets. 
+• The Netherlands actively 
+contributes to Common 
+European Data Space (including 
+for AI). 
+Actions include:
+• Promote FAIR principles for 
+private data sharing for AI.
+• Promote the reuse of public 
+data via data.overheid.nl and 
+developer.overheid.nl.
+Actions include:
+• Exploration of AI applications to 
+improve network performance.
+Actions include:
+• In the Digital Europe 
+Programme, the Nether-
+lands is commied to 
+collaborating on research 
+and innovation of High-Per-
+formance Computing for AI.
+Beer opportunities for
+further training
+Usable data Connectivity
+Track 2 | Creating the right conditions
+Strategic Action Plan for Artificial Intelligence | 27
+AI research and innovation in the Netherlands 
+are of high quality and leading in Europe
+The Netherlands aspires to remain competitive in Europe 
+and distinguish itself with top-quality AI research and 
+innovation. Cooperation and investment in research are 
+needed to attract additional researchers and many more 
+AI companies, for new knowledge, talent and skills for the 
+jobs, services, products and work processes of the future. 
+The Netherlands must have an innovation system that 
+stimulates both fundamental and applied AI research and 
+promotes knowledge sharing. Pooling forces for a strong 
+public–private knowledge base and synergy with European 
+consortia are crucial. In this way, knowledge can circulate 
+and be more effectively used (‘valorised’). Small and 
+medium-sized enterprises, as well as start-ups and 
+scale-ups, must also be able to participate. 
+The Netherlands has an innovation 
+system that stimulates 
+fundamental and applied research 
+on AI
+Fundamental and groundbreaking AI research forms the 
+basis for research and innovation and, by extension, for 
+training, recruiting and retaining diverse talent. AI is 
+innovating the way research is done in all areas of science, 
+from medical diagnostics (cancer research), digital 
+humanities (behavioural research) to astronomy (analysis 
+of telescope data on black holes). AI is applied in all fields 
+of science: from medical diagnostics to longitudinal file 
+studies and from mobility research to media studies.  
+AI also leads to new knowledge and innovation, for 
+example through synergy between genetic, medical and AI 
+knowledge. The Netherlands has world-class AI research 
+within its borders, especially in the field of machine 
+learning based on image, language, text, video and sound, 
+and in the digital humanities.22 
+22 Elsevier, ‘Artificial Intelligence: How knowledge is created, 
+transferred and used’, 2018.
+Both fundamental and applied AI research are needed.  
+To facilitate curiosity-driven fundamental research in the 
+area of ICT and AI, the Ministry of Education, Culture and 
+Science is investing in a broad knowledge base of 
+universities and institutes, in the National Science Agenda, 
+in sectoral plans and Top Sectors and ICT infrastructure. 
+Within this broad scientific approach, the ministry is also 
+investing in several larger AI-related initiatives: 
+Commit2data, VWData and Prevention and Big Data.  
+The National Science Agenda is a broad, social, connecting 
+and innovative initiative, with an eye for the importance of 
+promoting diverse talent. The emphasis is on fundamental 
+research linked to applied and practical research. More 
+research and innovation are needed to develop AI in such 
+a way that it is human-centric, trustworthy, transparent 
+and explainable; see also Track 3 of this Plan (the 
+Netherlands is conducting more research into the 
+development and application of responsible AI). Within 
+the National Science Agenda, digitalisation in general is 
+part of almost all routes and artificial intelligence is 
+specific to the ‘Value creation through responsible access 
+to and use of Big Data’ (Waardecreatie door verantwoorde 
+toegang tot en gebruik van big data) route. The VWData 
+programme originated from the impulse generated by the 
+launch of the National Science Agenda. Ministerial 
+departments have the opportunity to invest in AI-related 
+research themselves. The Ministry of Health, Welfare and 
+Sport has chosen to invest in Prevention and Big Data and 
+this investment has been doubled from the National 
+Science Agenda. To ensure that researchers have access to 
+sufficient computing capacity, the Ministry of Education, 
+Culture and Science is investing €18 million in a new 
+national supercomputer at SURF.
+In recent years, the relative share of Dutch publications on 
+AI has dropped from 4% to less than 2% of publications 
+worldwide, mainly because other countries have  
+significantly increased their efforts. A broad AI research 
+agenda, cooperation and targeted investments are 
+important to be able to capitalise on the opportunities 
+that AI research offers to Dutch science, economy and 
+society. 
+28 | Strategic Action Plan for Artificial Intelligence
+To utilise the results of AI research, collaboration between 
+knowledge institutions, civil society organisations and the 
+business community is crucial. Moreover, it calls for 
+combinations of technological and non-technological 
+disciplines. This is done for AI as a key enabling technology 
+within the mission-driven innovation policy on the 
+initiative of the Dutch Digital Delta ‘Top Team’.
+Field- and industry labs have been initiated by the 
+universities, in collaboration with companies and civil 
+society organisations that have joined forces in ICAI.  
+There are now nine AI Labs, each with at least five PhD 
+students, in which companies and government organisa-
+tions collaborate directly. These include two AholdDelhaize 
+retail labs (UvA and Delft University of Technology 
+(TU Delft)), an ING fintech lab and a National Policy Lab AI. 
+This is unique in Europe. The Ministry of Defence is 
+running specific research programmes on AI applications 
+in the security domain, in close collaboration with NATO 
+partners, the business community and universities and 
+knowledge centres such as TNO, the National Aerospace 
+Laboratory (NLR) and the Maritime Research Institute 
+Netherlands (MARIN).
+The European Commission is encouraging large AI 
+excellence research centres as part of the European AI 
+approach for top research, talent, technology, applications 
+and responsible AI use. Combining fundamental and 
+applied research in value chains generates an important 
+added value for a national and European approach. The 
+Dutch AI Coalition is working on a plan to position the 
+Netherlands as a leading AI research centre in Europe.
+ACTIONS23:
+• After the summer of 2019, NWO will publish a 
+broad AI research agenda for initiating new 
+research programmes and tools and generating 
+national and international synergy. 
+• Ministries are exploring the possibility of investing 
+in an AI programme as part of Action Line 2 of the 
+National Science Agenda (Nationale 
+Wetenschapsagenda) in 2020.
+• Within the framework of the mission-driven 
+innovation policy, long-term programmes will be 
+set up for the AI key enabling technology for 
+innovative knowledge and solutions with and for 
+relevant application areas.
+• Based on Dutch strengths such as the AI research 
+labs, a proposal will be developed in 2019 under the 
+auspices of the Dutch AI Coalition for an AI 
+knowledge centre in the Netherlands that is a 
+leader in Europe.
+• The Ministry of Education, Culture and Science is 
+investing €18 million in the purchase of a national 
+supercomputer for SURF. 
+• The TO2s24 organise joint workshops on AI topics 
+such as explainability, valorisation of research, and 
+societal impact. 
+• Within the context of the interdepartmental 
+programme ‘Strengthening the IT workforce in the 
+civil service’ (Versterking HR ICT Rijksdienst) (coordina-
+ted by the Ministry of the Interior and Kingdom 
+Relations), a cooperation plan will be set up with 
+ICT educators in higher education. This plan aims to 
+boost innovation and the development of the 
+national government on specific themes (including 
+AI) by setting up field labs. 
+• The Ministry of Defence is having its strategic 
+knowledge partners (TNO, NLR and MARIN) carry 
+out research programmes in which AI is developed 
+and applied.
+• The ‘Data Science, Artificial Intelligence & Quantum 
+Technology for Military Applications’ knowledge 
+centre is developing AI application possibilities for 
+the Ministry of Defence and is collaborating with 
+TNO.
+23 See Track 1 for the development of a long-term, public-private 
+programme for AI research and innovation for societal challenges 
+(part of the mission-driven innovation policy).
+24 TO2s are the applied research institutes united in Federation TO2. 
+Federation TO2 consists of Deltares, ECN, Marin, NLR, TNO and 
+Wageningen-Research.
+Strategic Action Plan for Artificial Intelligence | 29
+  ACTIONS:
+• The Netherlands provides visible involvement in 
+the major initiatives for broad European coopera-
+tion on AI, such as: the Strategic Research Agenda 
+by BVDA/EURobotics27 (with 300 industrial and 
+academic partners), the establishment of a specific 
+AI PPP on behalf of the European Commission and 
+international academic initiatives, such as CLAIRE 
+and ELLIS (European Lab for Learning & Intelligent 
+Systems). 
+• The Netherlands will continue its current participa-
+tion in future European programmes, such as 
+Horizon Europe, Digital Europe and EUREKA, 
+including through the Dutch National Contact Point 
+for European programmes and innovation 
+missions.
+• The Netherlands is strengthening its cooperation 
+with other Member States and European initiatives, 
+including through the Holland Innovation Network 
+and economic missions.
+• The Netherlands is actively seeking collaboration 
+on AI with other countries within and outside 
+Europe, such as Germany, France, Singapore, the US 
+and Belgium. For example, an innovation mission 
+to Singapore will be organised at the end of 2019 
+for collaboration in the field of AI, and in 2020 
+opportunities will be explored for effective bilateral 
+collaboration between the US and the Netherlands 
+in specific AI areas. 
+• The Netherlands Foreign Investment Agency (NFIA) 
+has included Artificial Intelligence as a primary focus 
+area in its Strategic Action Plan, ‘The Netherlands: 
+Digital Gateway to Europe’ and will focus a 
+substantial part of its acquisition activities on it. 
+27 A partnership of the Big Data Value Association and the European 
+Robotics Association.
+Dutch companies and knowledge 
+institutions will cooperate more 
+effectively internationally, 
+especially in European consortia
+The European Commission is strongly committed to 
+public–private investment in research and innovation in 
+the field of AI.25 It wants public and private parties to 
+invest at least €20 billion in AI until 2020 and then up to 
+more than €20 billion per year until 2027.26 For its part, the 
+Commission is making €1.5 billion available to AI under the 
+current Horizon 2020 framework programme until 2020. 
+For the EU’s next long-term budget (2021–2027), the 
+Commission has proposed to invest at least €7 billion from 
+Horizon Europe and the Digital Europe Programme in AI.
+The Netherlands is already benefiting from the European 
+opportunities and will continue to focus on them. Within 
+the European Horizon 2020 programme, €986 million was 
+allocated to 580 AI-related projects from 2014 to 2017. 
+Dutch parties received €61 million (6.1%) of this. Assuming 
+the same share, a budget of €48 million per year will be 
+available for Dutch parties in AI-related European projects 
+in the coming years. This can only be achieved if Dutch 
+parties are and remain well connected at the European 
+level by highlighting and supporting European initiatives. 
+Several large industrial companies, such as Philips, NXP 
+and ASML, have indicated that they intend to invest 
+heavily in AI-driven European research and development 
+programmes, such as EUREKA, in the coming years. 
+The share of Dutch knowledge centres and companies in 
+larger AI-related European programmes will be increased 
+in the coming years, as will the cooperation with other 
+member states on AI research and programmes. The aim is 
+to increase the visibility of Dutch AI knowledge and 
+expertise and thus to promote opportunities for Dutch 
+industry and knowledge centres in research, innovation, 
+trade, acquisition and security. 
+The Confederation of Laboratories for Artificial Intelligence 
+Research in Europe (CLAIRE) is an example of such a 
+European programme. CLAIRE is a European partnership 
+of thousands of researchers, to which more than 300 
+Dutch organisations (universities, large companies and the 
+European Space Agency in Noordwijk) are affiliated. 
+CLAIRE focuses on the development of human-centric AI, 
+which is an important Dutch and European core value for 
+all areas of AI. With the support of the municipality, CLAIRE 
+has recently established its headquarters in The Hague.
+25 See Appendix 2 for an overview of European funds. 
+26 This represents all investments across the EU (including Norway, 
+Switzerland and the UK).
+30 | Strategic Action Plan for Artificial Intelligence
+The Netherlands has excellent training 
+opportunities for living with AI and more 
+talent for working with AI
+The labour market is changing rapidly as a result of 
+technological progress and digitalisation. This requires 
+adaptability and flexibility in the labour market and in the 
+education system. Workers not only need to keep their 
+knowledge and skills up to date, but also to continue to 
+develop them throughout their working lives. Vocational 
+and higher education should train more and more diverse 
+students, providing them with the expertise needed to 
+work with AI. The foundation for this will be laid in primary 
+and secondary education, where digital literacy will 
+become part of the curriculum within the context of the 
+comprehensive curriculum review.
+Everyone has more and better 
+access to continuing education 
+for AI-related knowledge and 
+skills
+Contrary to previous technological breakthroughs, which 
+mainly took over physical and routine tasks, AI will also 
+take on mental tasks. It is still unclear whether the total 
+number of jobs will increase or decrease as a result of AI. 
+However, it is expected that the tasks that make up jobs 
+and the skills that they require will change drastically. On 
+the one hand this concerns AI-specific skills, on the other 
+hand human and interpersonal skills that AI cannot 
+replace.28 AI-related skills and knowledge, such as digital 
+skills, AI literacy, conceptual thinking and the ability to 
+assess the implications of AI, are becoming important to 
+all of us.29 Different groups will also need to develop 
+different skills, depending on how and to what extent AI 
+influences their work.
+28 MacCrory, F., Westerman, G., Alhammadi, Y., & Brynjolfsson, E. 
+(2014). Racing with and against the machine: Changes in occupatio-
+nal skill composition in an era of rapid technological advance.
+29 Ponce, A. (2018). Artificial Intelligence: A Game Changer for the 
+World of Work. Brussel: ETUI.
+‘Those who work don’t have to learn anymore’ is a thing of 
+the past. The labour market is evolving and changing 
+rapidly. Workers (together with employers and public 
+authorities) need to invest in their training so that they can 
+respond to rapid technological developments and the 
+demand for new skills. This is also in the direct interest of 
+employers, given the growing shortage of suitable 
+personnel. At the same time, it is important to bear in 
+mind that successful applications of new technologies are 
+to a large extent explained by non-technological determi-
+nants.30 In order to promote the success of innovation, 
+therefore, it is important to invest not only in new 
+technologies, but also in the soft side of innovation, such 
+as in the skills of employees. In order to ensure an 
+inclusive labour market, the entire labour force must be 
+included in AI development, where everyone is given the 
+necessary space and stimulated to invest in their develop-
+ment.31 This is not yet the case: at present, it is mainly 
+those with higher education and permanent contracts who 
+engage in courses, education or training.32 
+30 These non-technological determinants of innovation are also 
+referred to as ‘social innovation’. Volberda et al. define social 
+innovation as the development of new management skills, the use 
+of innovative forms of organisation, the establishment of 
+high-quality employment relationships and partnerships to improve 
+competitiveness and productivity. See: Volberda, H., Jansen, J., 
+Tempelaar, M., & Heij, K., ‘Monitoren van sociale innovatie: slimmer 
+werken, dynamisch managen en flexibel organiseren’, Tijdschrift 
+voor HRM 2018, 1, p. 85-110.
+31 According to the think tank DenkWerk (2019), over the next ten years 
+three million workers will need digital education, and between 40 
+and 45 thousand people will have to retrain every year. This will 
+require an annual investment of 6 to 7 billion euros. So more seems 
+to be needed. 
+32 Poulissen, D., van Eldert, P., Fouarge, D., & de Grip, A. (2018). Leren 
+onder werkenden met een kwetsbare positie op de arbeidsmarkt 
+(No. 005). Maastricht University, Research Centre for Education and 
+the Labour Market (ROA).
+Strategic Action Plan for Artificial Intelligence | 31
+Vocational and higher education 
+train more students with talent 
+to work with AI
+The education system will have to respond actively to the 
+changing demand for labour and thus to new training 
+needs. Collaboration between education, business and 
+research institutions enables new technologies to be 
+applied quickly in training. Within the Education 
+Innovation with ICT Acceleration Plan (Versnellingsplan 
+Onderwijsinnovatie met ICT), so-called acceleration zones are 
+being set up to improve the connection of study 
+programmes to the labour market and promote the 
+professionalisation of instructors. The Digitalisation 
+Agendas for Senior secondary vocational education and 
+training (MBO) and primary and secondary education also 
+include the ambition to make teachers digitally proficient.
+There is a great need for (both male and female) AI experts 
+and data professionals. The popularity of AI and Computer 
+Science programmes is growing so rapidly that universities 
+are finding it difficult to accommodate this growth. As a 
+result, all universities with a bachelor’s programme in AI 
+have set an enrolment restriction for the coming academic 
+year (2019–2020). They are struggling to find enough 
+lecturers and the funds to pay them. This is undesirable. 
+The universities have been asked, therefore, to include this 
+capacity problem in their sectoral plans33 and to seek 
+cooperation with other universities and with companies 
+and other employers. Following the advice of the Van Rijn 
+Committee34, the higher education sector will see a review 
+of the flat-rate basic grant of education funding from 2020 
+onwards35, based on the percentage of students in science 
+and technology and other variables. The technical 
+universities, together with the general universities and 
+universities of applied sciences, will draw up a sectoral 
+plan for STEM study programmes, in order to improve 
+training capacity, study success rates and the connection 
+with the labour market. 
+Even if all current capacity issues are resolved and the 
+number of graduates continues to grow, the huge demand 
+for AI experts and data professionals will not be met. 
+Additional measures are needed, including encouraging 
+boys and girls to opt for degree programmes in ICT, 
+attracting foreign talent and retraining workers from 
+shrinking sectors. Businesses can also help by investing in 
+and freeing up capacity for education. 
+33 Sectoral plans are being used to invest in strengthening the research 
+base.
+34 Parliamentary Paper 31288, No. 726. 
+35 Parliamentary Paper 31288, No. 744.
+  ACTIONS:
+• A scheme that will structurally make more than 
+€200 million available in the form of individual 
+budgets for training and development will be 
+presented to the House of Representatives after the 
+summer of 2019. This ‘STAP’ (Labour Market 
+Position Stimulus) budget replaces the current tax 
+deduction scheme for training and is accessible to 
+everyone up to the state pension age. 
+• In order to encourage employers to invest in 
+individual learning budgets, the Ministry of Social 
+Affairs and Employment is working with the 
+Ministry of Finance, the Tax and Customs 
+Administration (Belastingdienst), sectors and 
+executives to clarify the tax treatment of individual 
+learning and development budgets.
+• The Ministry of Social Affairs and Employment is 
+developing a scheme to implement the Wiersma 
+motion, which will structurally make €48 million a 
+year available from 2020 to promote a learning 
+culture in SMEs, and the Heerma motion, which will 
+make a total of €60 million available over a period 
+of five years to provide additional support to the 
+agricultural, hospitality and recreation sectors in 
+order to attract more ‘BBL’ students (students in 
+the ‘work-based’ VET learning pathway).
+• With ‘MKB!dee’, the Ministry of Economic Affairs 
+and Climate Policy is challenging SMEs to come up 
+with ideas that will lead to more investment in 
+training and development of workers. While 
+intended for all SMEs, the scheme focuses in 
+particular on the challenges of technical SMEs and 
+digitalisation. It relates to the broad effects of 
+digitalisation, not to the ICT sector as such. In 2019, 
+€7.5 million is available. 
+• The Ministry of Social Affairs and Employment, the 
+Ministry of Education, Culture and Science and the 
+Ministry of Economic Affairs and Climate Policy are 
+carrying out a long-term, action-oriented program-
+me to improve the preconditions for Lifelong 
+Development (LLD), including pilots with training 
+and employment help desks (leerwerkloketten) in 
+various regions, further flexibilisation of the range 
+of courses on offer and assessment of the feasibility 
+of a digital training overview. 
+• The Ministry of Social Affairs and Employment and 
+the NWO are investing approximately €3 million in 
+research to gain more insight into the impact of 
+digital technologies (such as AI) on work and 
+employment.
+32 | Strategic Action Plan for Artificial Intelligence
+  ACTIONS:
+• The Regioal MBO Investment Fund (Regionaal Investeringsfonds mbo) scheme provides €25 million a year until 2022 
+for projects that improve the connection of Senior secondary vocational education (MBO) to the labour market, 
+for example if the profession for which they offer training changes as a result of AI. 
+• The Foundation for Cooperation on Vocational Education, Training and Labour Market (Samenwerkingsorganisatie 
+Beroepsonderwijs Bedrijfsleven, SBB) also pays attention to AI for senior secondary vocational education (middelbaar 
+beroepsonderwijs, MBO)in the qualification files, where relevant. A recent example of a new qualification that 
+includes AI is ‘software developer’.
+• Commissioned by the Minister of Education, Culture and Science, the universities have drawn up sectoral plans 
+for the STEM, Social Sciences and Humanities sectors. The Ministry will contribute an extra €70 million to this, 
+and the periodic resources for profiling can also be used for this purpose. 
+• The Ministry of Education, Culture and Science supports the Education Innovation with ICT Acceleration Plan for 
+all higher education institutions (universities of applied sciences and research universities) by making €15 million 
+available over four years.36
+• In 2019, the Learning Outcomes Experiment (Experiment Leeruitkomsten) will be evaluated, in which higher educa-
+tion and the business community experiment with more flexible, tailor-made part-time education for adults, in 
+order to enable employees to learn effectively while working. 
+• In the summer of 2019, a subsidy scheme will be published to encourage Senior secondary vocational education 
+(MBO) institutions to jointly develop innovative and flexible education programmes for workers and jobseekers. 
+• The Ministry of Education, Culture and Science is investigating how study programmes can better respond to 
+rapid technological developments in the strategic exploration for Senior secondary vocational education (MBO) 
+and the Strategic Agenda for Higher Education and Research (publication: autumn 2019). 
+• Through the Human Capital Agenda for ICT, the Ministry of Economic Affairs stimulates PPP with the aim to 
+promote innovation and knowledge transfer for new technologies in education. This will be kicked off with the 
+course, ‘AI in a Day’.
+• Starting in September 2019, a second batch of candidates will start working in the National Data Science Trainee 
+Programme, in order to develop themselves as data scientists, from the interdepartmental programme 
+‘Strengthening the IT workforce in the civil service’ (Versterking HR ICT Rijksdienst) (coordinated by the Ministry of 
+the Interior and Kingdom Relations).
+• The Ministry of Education, Culture and Science, together with skills development researchers, is exploring how 
+digital skills can be applied in HBO and MBO.
+• In order to stimulate innovation and development in the national government, a study is being carried out in 
+collaboration with ICT trainers in higher education into setting up field labs on specific themes, including AI, from 
+the interdepartmental programme ‘Strengthening the IT workforce in the civil service’ (Versterking HR ICT 
+Rijksdienst) (coordinated by the Ministry of the Interior and Kingdom Relations).
+36 Association of Universities in the Netherlands (VSNU), Netherlands Association of Universities of Applied Sciences (Vereniging Hogescholen) & 
+Surf, ‘Versnellingplan Onderwijsinnovatie met ICT’, May 2018. 
+Strategic Action Plan for Artificial Intelligence | 33
+  ACTIONS: 
+• In the autumn of 2019, the government will review 
+the curriculum for primary and secondary education 
+and include digital literacy in it. Legal anchoring is 
+planned for 2021. 
+• The government is investigating the possibilities of 
+setting up an AI Lab for education. 
+• The Digitalisation Agenda for primary and secon-
+dary education37 aims to provide more and better 
+support for education in digitalisation issues by the 
+business community in five key areas: innovative 
+capacity, digitally literate teachers and pupils, 
+digital learning resources, infrastructure and ethics. 
+37 Parliamentary Paper 32034, No. 31.
+Primary and secondary schools 
+teach pupils digital literacy
+For the current generation of pupils, the online and offline 
+worlds are closely connected. However, this does not 
+guarantee that pupils understand what is happening on a 
+digital level or that they are actually digitally literate. 
+Education has an important role to play in providing equal 
+digital opportunities for all boys and girls, regardless of 
+origin or background, and in inspiring enthusiasm among 
+boys and girls for professions in which digital skills 
+predominate. This calls for digitally literate teachers.
+Digital literacy is one of the nine learning areas of 
+Curriculum.nu, the revision of the curriculum for primary 
+and secondary education. In the future, all schools will 
+focus on basic ICT skills, information skills, media literacy 
+and computational thinking (a collection of thought 
+processes such as logical reasoning, systematic thinking 
+and pattern recognition). These skills are essential to 
+develop, understand and deal with AI.
+The increase of AI, also in education itself, has made it 
+important to understand the underlying processes. Pupils 
+and teachers will have to develop their critical faculties in 
+this area. This requires investment in the knowledge and 
+skills of teachers. To this end, long-term connections with 
+business practice are indispensable. Businesses can help 
+by investing in and freeing up capacity for education. So 
+far, this has not been sufficiently structured.
+34 | Strategic Action Plan for Artificial Intelligence
+The Netherlands has more usable data for AI 
+applications to improve AI developments 
+The advantage of data lies in application possibilities such 
+as data-driven AI. Dutch businesses and consumers 
+benefit from the societal and economic opportunities 
+offered by data. Think of car manufacturers, who are more 
+likely to find out whether a car is faulty and doctors who 
+make better diagnoses. In order to develop high-quality 
+and reliable AI applications, usable data (including 
+representative, verifiable and shareable data) is crucial38. 
+By combining different types of data from different 
+parties, valuable new datasets can be created that make 
+new AI applications possible. In order to realise this 
+potential, it is necessary for public, private and civil society 
+organisations to be able to share more data with each 
+other. It goes without saying that this must be done 
+responsibly and , among other things, with due regard for 
+privacy rules. 
+The Netherlands has more 
+useful data for AI applications
+An AI application requires, among other things, high-
+quality data. Aspects such as accuracy, completeness, 
+reliability, representativeness and timeliness all influence 
+the quality of data. Companies and governments benefit 
+from high-quality AI applications for economic, ethical and 
+safety reasons. This is because high-quality AI applications 
+provide more reliable and accurate results, which improve 
+forecasting and decision-making. Indeed, low quality data 
+can cause bias and imbalances in AI39: bias when the data 
+itself contains prejudices (because people have them too), 
+bias through prejudice in the algorithms, and imbalances 
+when data is not representative. It is important, therefore, 
+that the person applying AI is aware of the quality of the 
+data used. This is also in line with the action under AI 
+research and innovation in the Netherlands are of high quality and 
+leading in Europe to make knowledge, tools and training 
+modules available for the responsible use of data. 
+38 The terms ‘data’ or ‘information’ do not have an unambiguous 
+definition. For the purpose of this document, we refer to informa-
+tion in digital form: data that is either raw or processed – cleaned, 
+formatted, combined and/or structured – to make it suitable for 
+analysis or use. In practice, it is increasingly difficult to distinguish 
+between data and algorithms; both are also referred to as ‘code’.
+39 For example, between men and women or persons with a different 
+cultural background.
+The required quality of an AI application and, by extension, 
+of the data used in it is context-dependent. The required 
+quality of data cannot be determined unequivocally; there 
+is no single generic quality requirement that is optimal for 
+every AI application. In some cases, for example in the 
+case of data for a self-driving car, there is a40 great need for 
+high-quality data, because this is an AI application with a 
+potentially large impact. For data used for an AI applica-
+tion that predicts the fastest queue in the supermarket, 
+lower quality requirements may apply. 
+Finding high-quality data is often a challenge. Datasets 
+tend to differ in terms of completeness, accuracy and 
+format. Metadata can help AI developers understand the 
+origin and composition of a dataset by providing informa-
+tion about, for example, the design of the dataset and the 
+available data elements. The General Data Protection 
+Regulation (GDPR) and the Police Data Act (Wet politiegege-
+vens, Wpol) provide clarity about the conditions for the 
+(possibly) further processing of data. Apart from that, the 
+quality of data and datasets for use depends on the 
+purpose for which they are used. If the purpose of the data 
+processing changes, the quality (including the risk of bias) 
+will have to be reviewed. 
+Common principles such as the internationally verified and 
+accepted FAIR (Findable, Accessible, Interoperable, 
+Reusable) principles offer a good basis for the standards, 
+tools and training per domain or sector. This can be used 
+to make data suitable, or to determine its suitability for 
+reuse (sharing) by both people and machines under clearly 
+described conditions. There is a great deal of focus on data 
+standardisation in the healthcare sector, as evidenced by 
+various initiatives around the Basic Data Set for Care 
+(Basisgegevensset Zorg, BGZ) by Nictiz, the Registration at 
+the Source (Registratie aan de Bron) programme of the 
+university medical centres and Zorggegevens.nl. The latter 
+is a register of all care data and their sources drawn up by 
+the Dutch National Institute for Public Health and the 
+Environment (RIVM). It does not give access to data, but 
+promotes collaboration on the sharing of data by 
+providing insight into which parties have access to which 
+data.
+40 Or data to support decisions in a job interview or in a procedure for 
+the early release of a convicted person.
+Strategic Action Plan for Artificial Intelligence | 35
+Public, private and civil society 
+organisations share more data 
+with each other in a 
+responsible manner 
+A barrier to AI developments is that developers may not 
+have access to certain data, because it is technically 
+protected or indirectly protected by being classified as 
+intellectual property, trade secrets, state secrets or as a 
+potential or actual security risk. Partly with a view to AI 
+development, in its vision on data sharing between 
+companies the government stated that responsible data 
+sharing should become more common than it is now.41 In 
+fulfilling its ambition to be at the forefront of promising 
+and responsible B2B data sharing, the government is 
+guided by three basic principles: (1) data sharing is 
+preferably done on a voluntary basis, (2) data sharing is 
+mandatory where necessary, and (3) people and 
+companies remain in control of data. 
+HEALTHCARE 
+The Personal Health Train (PHT) is a metaphor for the 
+set of agreements, the architecture and 
+implementation for the responsible use of health data 
+in, among other things, AI applications. The PHT 
+builds on the FAIR data principles. Citizens, patients, 
+healthcare professionals or researchers run the 
+‘trains’ (algorithms) to ask the ‘stations’ (datasets) 
+questions and get answers. The key principle 
+underlying the PHT is that data is not brought to the 
+algorithm, but the algorithm is brought to the data. In 
+this way, the data remains at the source, while 
+algorithms can still learn from it. This is in line with 
+the trend for data to be stored locally. PHT is an 
+example of privacy by design, because it enables the 
+use of personal data without that data being found in 
+the (outcomes of) AI.
+41 See also appendix to Parliamentary Paper 26643, No. 594, ‘De 
+Nederlandse visie op datadeling tussen bedrijven’ (The Dutch vision 
+on data sharing between companies).
+  ACTIONS:
+• › The Ministry of Economic Affairs and Climate 
+Policy is exploring the possibilities of stimulating 
+the use of the FAIR principles in the sharing of 
+private data for AI applications.
+• › The Ministry of the Interior and Kingdom 
+Relations is stimulating the provision of public 
+sector information for re-use, for example via data.
+overheid.nl and through the further development 
+of the API portal developer.overheid.nl. 
+THE ROYAL LIBRARY
+The Royal Library of the Netherlands (KB, Koninklijke 
+Bibliotheek) uses AI to remain in control of fast-
+growing information flows and to provide the user 
+with better and more complete information. The KB is 
+building AI-based search and find technologies by 
+allowing the computer to read and analyse the 
+millions of digital texts managed by the KB on 
+subjects, persons, places and events. 
+Furthermore, the KB actively contributes to the 
+development of AI techniques by making historical 
+newspaper, book and magazine data available to 
+researchers for text and data mining, including in the 
+NWO research programme ‘Common Lab Research 
+Infrastructure for the Arts and Humanities’. 
+In addition, the KB is increasingly making data 
+available as training material for international 
+benchmark competitions, in order to contribute 
+compensating bias to state-of-the-art algorithms. 
+The library has the expertise to assess training 
+material on the bias that can lead to discriminatory AI 
+applications. To this end, it has developed an 
+assessment framework to assess the quality of AI on 
+the basis of seven principles: accessibility, 
+inclusiveness, supervision, transparency, neutrality, 
+safety and compliance.
+36 | Strategic Action Plan for Artificial Intelligence
+  ACTIONS:
+Various actions are already underway, including those 
+resulting from the Vision on Data Sharing Between 
+Companies45 and the ‘Data Agenda Overheid’ 
+(Government Data Agenda)46, as well as sector-specific 
+actions (in the healthcare sector, for instance)47.  
+In addition, the following actions will be taken 
+specifically for data sharing for AI:
+• The Ministry of Economic Affairs and Climate Policy 
+and the Dutch AI Coalition are organising sector 
+dialogues on specific data sharing bottlenecks and 
+needs for AI. The Ministry of the Interior and 
+Kingdom Relations will be involved in order to 
+better align supply and demand of public data with 
+the needs of AI applications. 
+• The Ministry of Economic Affairs and Climate Policy 
+will carry out an inventory of existing examples of 
+solutions for data sharing for AI (such as the PHT) 
+and ways to further stimulate data sharing for AI 
+(such as data markets, rewards and innovation 
+tools). 
+• The European Commission has announced its 
+intention to invest in a Common European Data 
+Space to increase the availability of data for AI and 
+other purposes. The Netherlands will actively 
+contribute to the implementation of this initiative 
+on the basis of the Dutch vision. 
+45 See appendix to Parliamentary Paper 26643, No. 594, ‘De 
+Nederlandse visie op datadeling tussen bedrijven’ (The Dutch vision 
+on data sharing between companies). 
+46 See appendix to Parliamentary Paper 26643, No. 597, ‘NL Digitaal: 
+Data Agenda Overheid (NL Digital: Government Data Agenda).
+47 Parliamentary Paper 27529, No. 164. 
+The Netherlands distinguishes itself by its strong PPPs on 
+data sharing. Where data sharing is an opportunity for 
+Dutch society or the economy as a whole, the government 
+should preferably promote data sharing by facilitating it 
+and, if necessary, by regulating it. The government 
+facilitates B2B data sharing (see box below). It has a lot of 
+data at its disposal, which has been increasingly available 
+as open data for a number of years now.42 In accordance 
+with European directives, the Dutch government has made 
+thousands of datasets available via the data register43 and 
+the Netherlands Space Office makes satellite data 
+available free of charge via the satellite data portal.44 There 
+is also much to be gained from public-private and 
+public-public data sharing. 
+The creation of a Common European Data Space for AI is 
+being discussed at the European level in order to enable 
+the seamless exchange of data across borders. 
+SYSTEMS FOR DATA SHARING 
+In order to be able to apply data-driven AI, it is 
+important that companies start sharing data. In 
+recent years, data sharing within specific sectors has 
+been the subject of framework agreements such as 
+‘Ishare’ for the logistics sector and ‘JoinData’ in 
+agriculture. Under the Medmij framework agreement 
+for patient data, patients are in control of their own 
+healthcare data and can decide for themselves who 
+gets access to what data. 
+In addition to these sectoral initiatives, a declaration 
+of intent was signed in May 2019 for a cross-sectoral 
+data sharing coalition.
+42 See also appendix to Parliamentary Paper 26643, No. 597, ‘NL 
+Digitaal: Data Agenda Overheid (NL Digital: Government Data 
+Agenda). 
+43 https://data.overheid.nl 
+44 https://www.spaceoffice.nl/nl/satellietdataportaal/ 
+Strategic Action Plan for Artificial Intelligence | 37
+The Netherlands is at the forefront of Europe 
+in high-quality digital and intelligent 
+connectivity for effective AI applications
+Like other technological innovations, AI requires high-
+quality digital connectivity to get off the ground and 
+function optimally. This is an important prerequisite for 
+effective AI applications in sectors. The Netherlands 
+already has a high-quality backbone infrastructure and 
+mobile infrastructure that provides excellent regional, 
+national and international connectivity. This infrastructure 
+is expected to continue to evolve to meet the growing 
+demand for connectivity. In this way, the Netherlands is 
+positioning itself as an ideal location for AI development 
+and applications. AI can also contribute to high-quality 
+digital connectivity. Finally, it is important that the 
+Netherlands has sufficient access to the computing power 
+needed for effective AI applications. 
+HIGH-QUALITY DIGITAL CONNECTIVITY FOR 
+EFFECTIVE AI APPLICATIONS
+High-quality digital connectivity means that, 
+depending on the application (AI-related or 
+otherwise), the quality parameters latency, data rate, 
+and reliability can be set. AI applications such as 
+self-driving cars require high reliability and low 
+latency. Augmented and virtual reality (AR/VR) 
+applications require a high data rate and low latency. 
+For effective AI applications, the availability of 
+computing power and data processing (local or 
+remote) may also be important.
+The Dutch fixed and mobile 
+networks offer high-quality 
+connectivity for AI applications 
+and are available anytime and 
+anywhere at competitive rates
+The government’s Digital Connectivity Action Plan 201848 
+describes the necessary steps to ensure high-quality digital 
+connectivity. First and foremost, the preconditions must 
+be in place for market players to invest sufficiently in the 
+further expansion of existing and new connectivity. An 
+important development here is the arrival of 5G. This new 
+generation of mobile communication is different from 4G 
+in several key aspects. 5G can offer higher peak speeds, 
+has lower latency rates, and can be tailored more flexibly 
+and quickly to meet specific connectivity needs. As a result, 
+this technology offers excellent opportunities for new, 
+innovative AI applications such as self-driving cars, remote 
+surgery and the further optimisation of production 
+processes. The Digital Connectivity Action Plan’s actions 
+contribute to the high-quality connectivity that this 
+requires. 
+It is also important that the networks used by AI  
+applications are secure. To this end, the Dutch 
+Telecommunications Act (Telecommunicatiewet) imposes a 
+duty of care on telecom operators. In addition, a bill (the 
+Telecommunications Sector (Undesirable Control) Bill 
+(wetsvoorstel ongewenste zeggenschap in de telecommunicatie)) 
+has been submitted to the House of Representatives for 
+discussion. This bill offers the possibility of prohibiting or 
+reversing unwanted control in the telecommunications 
+sector.
+	ACTION:
+• AI will be included as a point of attention in the 
+elaboration of the actions on innovation in the 
+Digital Connectivity Action Plan. 
+48 Parliamentary Paper 26643, No. 547.
+38 | Strategic Action Plan for Artificial Intelligence
+AI contributes to high-quality 
+connectivity for effective AI 
+applications: ‘Intelligent 
+connectivity’
+AI offers possibilities for far-reaching automation in the 
+control, organisation and management of networks. As a 
+result, those networks will become more or less autono-
+mous and will respond in real time to changing conditions 
+in the network or to changing user demand. In this way, 
+the network quality and the customer experience can be 
+optimised. 
+	ACTION:
+• The Ministry of Economic Affairs and Climate Policy 
+will discuss the possibilities of AI applications in 
+networks with the parties involved. 
+POSSIBILITIES RELATING TO SPECTRUM
+AI can contribute to better utilisation of the available 
+frequencies, and thus to high-quality digital 
+connectivity. Dynamic spectrum allocation makes it 
+possible to allocate certain frequencies to a party in 
+(alternating) time frames of a few seconds. For 
+example, this will allow a party to meet its basic need 
+for connectivity with a regular licence for exclusive 
+use and, in times of excess demand, purchase extra 
+frequency space. A model is also conceivable in which 
+a private party fulfils this role or in which mobile 
+operators rent out frequency space to each other. 
+Spectrum sharing between parties may also become 
+more dynamic with AI and can thus contribute to 
+more efficient utilisation.
+Companies in the Netherlands 
+have access to sufficient 
+computing power for effective AI 
+applications
+Computing power is an important component for many AI 
+applications. The computing power (in combination with 
+storage) currently available to parties in the Netherlands 
+and in Europe may not be sufficient, given the ambitions 
+with regard to the application of AI. More and more 
+computing power is needed to perform and process 
+increasingly complex tasks and extensive research and 
+other data – not just for AI applications, but also in 
+education and research. In time, developments in the field 
+of quantum computing may accelerate AI developments. 
+The government will monitor whether the availability of 
+computing power is keeping pace with the growing 
+demand for it (see also AI research and innovation in the 
+Netherlands are of high quality and leading in Europe). 
+	ACTION:
+• The Netherlands is committed to cooperation 
+between the EU Member States in the field of 
+research and innovation of High-Performance 
+Computing for AI within the Digital Europe 
+Programme, which will start in 2021. 
+CENTRAL COMPUTING VERSUS EDGE 
+COMPUTING
+Virtual assistants such as Siri, Google Now or Cortana 
+have hardly any computing power in-house : it’s ‘in 
+the cloud’ (for example, a computing centre). This is 
+known as ‘central computing’. In AI applications that 
+use central computing, the networks are important 
+because they connect the AI widgets and gadgets to 
+the remote computing power. 
+In mobile edge computing, the AI application does 
+have its own computing power on board to process 
+data, or the computing capacity is placed close by in 
+the end-user’s access network (for example in the 
+providers’ local data centres). One example is a 
+self-driving car. Given the need for extremely low 
+processing times for the real-time data, sending large 
+amounts of data to a central location is not an option. 
+A lot of data is therefore processed locally (e.g. sensor 
+data about the traffic) and only some data is sent to 
+central locations (e.g. for traffic management). The 
+cooperation between these components (fixed and 
+mobile networks on the one hand, and the Internet of 
+Things, AI, robotics, AR and VR on the other) is 
+referred to in the market as ‘intelligent connectivity’.
+Track 3: Strengthening the foundations
+The foundations need to be strengthened in order to be able to to take advantage of the opportunities offered by AI and 
+address the risks. In this context, the government is committed to the protection of citizens› fundamental rights and to 
+appropriate ethical and legal frameworks. This allows people and companies to maintain trust in AI.49 It is also of 
+fundamental importance that markets remain open and competitive, and that national security is safeguarded in the AI 
+developments. 
+49 See also the ‘Ethics Guidelines for Trustworthy AI’ of the High-Level Expert Group on Artificial Intelligence.
+40 | Strategic Action Plan for Artificial Intelligence
+Track  3 | 
+Public values and human 
+rights protected Trust
+Legal and ethical frameworks
+Open, competitive markets
+and consumer protection
+Competitive markets
+Security
+Research into responsible AI 
+development and application
+Intellectual Property
+Consumer protection
+Actions include:
+• Research into the
+- legal aspects of decision-
+   making algorithms;
+- risks of facial recognition 
+   technology; 
+- European certication of AI 
+   applications in the 
+   administration of justice.
+• Establishing a transparency lab 
+for government organisations. 
+Actions include:
+• Stimulating the participation of 
+Dutch companies as well as 
+public organisations in the pilot 
+phase of the ethical guidelines 
+for AI from the High Level Expert 
+Group of the European 
+Commission. 
+Auditable
+Actions include:
+• Netherlands Research Organisa-
+tion NWO’s call for research on 
+explainable, socially conscious 
+and responsible AI
+Actions include:
+• The government invests in 
+research into the responsible use 
+of AI as well as the transparency/ 
+explainability of algorithms 
+(VWData programme).
+Eective supervision
+Actions include:
+• Research into the supervision of 
+algorithms
+Actions include:
+• The government advocates that 
+a European regulator should be 
+able to impose ex-ante 
+obligations on large digital 
+platforms with a gatekeeper 
+function o which consumers 
+and businesses are heavily 
+dependent.
+• The Netherlands Authority for 
+Consumers and Markets (ACM) 
+develops expertise on new 
+technologies as well as business 
+models and their eects on 
+competition analysis.
+Actions include:
+•The Netherlands has 
+accepted the Directive on 
+beer enforcement and 
+modernisation of EU 
+consumer law.
+Actions include:
+•Implementation of the new 
+European Copyright Directive 
+amongst others pertaining to 
+text and data mining activities.
+Actions include:
+• Research into the impact of 
+the usage of AI on national 
+security.
+• Research into the use of new 
+technologies – including AI – 
+for cyber resilience.
+Strengthening the foundations
+SecurityPublic values and human 
+rights protected
+Strategic Action Plan for Artificial Intelligence | 41
+Public values and human rights remain 
+protected
+Human rights are enshrined in the 
+Constitution and in various human rights 
+and other treaties and express the public 
+values that we consider essential. In its 
+response to the research report ‘Algoritmes en 
+grondrechten’ (Algorithms and fundamental rights) of 
+Utrecht University, the government indicated that the 
+importance of human rights and their effective implemen-
+tation by the legislator, the government and the courts are 
+paramount, and that this is not fundamentally different in 
+the digital age.50  
+Concrete examples of human rights protection are the 
+GDPR, the Equal Treatment Act (Algemene wet gelijke 
+behandeling, AWGB) and the Equal Treatment (Men and 
+Women) Act (Wet gelijke behandeling van mannen en vrouwen). 
+If the government uses AI itself, restricting fundamental 
+rights may be necessary and justified under certain 
+circumstances. In such cases, however, a legal basis is 
+always required which must be sufficiently clear and 
+verifiable, serve a legitimate and proportionate purpose, 
+provide guarantees against arbitrary use and provide 
+adequate legal protection. 
+The letter from the Minister for Legal Protection to the 
+House of Representatives about the application and use of 
+algorithms and artificial intelligence in the field of justice 
+administration51, and another letter from the Minister for 
+Legal Protection to the House of Representatives about 
+the transparency of algorithms in use by the government, 
+have already been published.52 
+At the same time as this Strategic Action Plan, the 
+government sent a policy letter to the House of 
+Representatives on AI, public values and human rights.  
+In it, the government describes policy to safeguard public 
+values and human rights in AI developments. This is a 
+crucial but complex issue. For this reason, the government 
+has chosen to devote more attention to it in this letter.  
+The same applies to the government’s letter entitled 
+‘Waarborgen tegen risico’s van data-analyses’ (Guarantees 
+against risks from data analyses), which was also sent to 
+the House of Representatives at the same time
+50 Parliamentary Paper 26643, No. 601.
+51 Parliamentary Paper 34775-VI No. AH.
+52 Parliamentary Paper 26643, No. 570.
+AI AND PUBLIC VALUES & HUMAN RIGHTS 
+Prohibition of discrimination 
+The prohibition of discrimination can be violated by 
+bias in the underlying data, bias in the algorithm or by 
+errors in classification. This could lead, for example, 
+to unjustified distinctions being made between men 
+and women. 
+Protection of privacy 
+Privacy may be violated if the processing of personal 
+data does not meet the requirements of fairness and 
+transparency in the GDPR. Privacy issues play a role in 
+areas such as facial recognition technology, big data 
+and techniques in which personal data are derived 
+from other data. 
+Freedom of speech 
+In the application of AI, freedom of speech may come 
+under pressure. This concerns access to information 
+(e.g. personalisation and ordering of search results) 
+on the one hand, and the operation of algorithms that 
+automatically remove content on the other. 
+Human dignity and autonomy 
+This includes the risk of dehumanisation and the 
+influence of AI on making choices. 
+The right to a fair trial 
+This right applies, among other things, to automated 
+decision-making. If it is not transparent whether, and 
+if so which, algorithms have been used to make or 
+prepare a decision, or what assumptions and data 
+form the basis of this decision, there will be pressure 
+on the contestability and substantiation of decisions 
+and statements, and on the balance between the 
+parties to the proceedings (equality of arms).
+. 
+42 | Strategic Action Plan for Artificial Intelligence
+Developments in AI and its application can be fast. It is important, therefore, to look ahead, for example by means of 
+research into medium- and long-term developments.
+USING AI AGAINST DISCRIMINATION
+In the Action Plan on Labour Market Discrimination it has been announced that the Ministry of Social Affairs and 
+Employment will tackle discrimination in recruitment and selection. Increasingly, employers and their intermediaries 
+use automated tools and algorithms in some or all stages of the recruitment and selection process. As part of the 
+Action Plan, the Social Affairs and Employment Inspectorate (Inspectorate SZW) also wants to gain insight into 
+these systems and wants to see how they can be supervised effectively in the future. In addition, in 2019 
+Inspectorate SZW will itself apply an algorithm (developed by the Netherlands Institute for Human Rights) to all 
+vacancy notices from 2018 in order to detect age discrimination in them. It will be examined whether this algorithm 
+could be used more often and whether it can possibly be expanded to also trace other forms of discrimination in 
+vacancy notices.
+  ACTIONS:
+• Commissioned by the government, the Scientific Council for Government Policy (Wetenschappelijke Raad voor het 
+Regeringsbeleid, WRR) will investigate the impact of AI on public values. 
+• Commissioned by the Research and Documentation Centre (Wetenschappelijk Onderzoek- en Documentatiecentrum) 
+(part of the Ministry of Justice and Security), Utrecht University has started a research programme under the name 
+‘Legal aspects of decision-making algorithms’ (Juridische aspecten van algoritmen die besluiten nemen). This exploratory 
+study involves a study of five cases to identify the key opportunities and risks of decision-making algorithms over 
+the next five to ten years and how they relate to the existing legal frameworks (and the values that lie behind 
+them). The cases to be examined are: the self-driving car, P2P energy markets, judges, ‘doenvermogen’ (self-efficacy) 
+and content moderation on platforms.
+• On 7 June 2019, the Minister for Legal Protection sent a letter53 to the House of Representatives about the 
+protection of horizontal privacy (or ‘social privacy’). The letter contains measures that are partly related to the 
+risks that the use of AI may entail for horizontal privacy.
+• On behalf of the Minister for Legal Protection, Tilburg University is conducting research into the risks to our 
+privacy associated with the use of facial recognition technology and into possible measures to limit these risks. 
+This study is expected to be completed by the end of 2019.
+• The Minister for Legal Protection is examining the desirability of establishing a system of certification of AI 
+applications across all disciplines in the administration of justice, with the certification bodies being accredited by 
+a body at EU level. 
+• The Ministry of the Interior and Kingdom Relations is setting up a transparency lab for government organisations, 
+where knowledge is exchanged and support is provided in the areas of transparency, explainability and 
+accountability.
+• Together with the Ministry of Justice and Security, Statistics Netherlands (CBS), the Directorate-General for Public 
+Works and Water Management (Rijkswaterstaat) and the Association of Netherlands Municipalities (VNG), the 
+Ministry of the Interior and Kingdom Relations is mapping out the considerations for government organisations 
+that play a role in whether or not algorithms should be made public.
+53 Parliamentary Paper 34926, No. 8.
+Strategic Action Plan for Artificial Intelligence | 43
+AI is used in such a way that everyone can 
+trust it
+The trust of citizens and businesses in AI is necessary for 
+the successful development and application of AI. And that 
+trust cannot be taken for granted. Research54 shows that 
+citizens and businesses see all kinds of opportunities for 
+AI, such as strengthening security or improving care, but 
+also have many doubts about the admissibility of some AI 
+applications, including for personalised ads. When it 
+comes to safeguards, there are concerns about privacy, 
+about wrong decisions being made based on inaccurate 
+data, about errors that can no longer be corrected and 
+about people who are left out in special circumstances. In 
+order to maintain trust in AI, it is crucial that AI is people-
+oriented and that it is deployed in such a way that it 
+contributes to prosperity and well-being. 
+This requires a broad approach in which everyone, 
+including people for whom this is not self-evident, feels 
+included. First of all, AI must be developed and applied 
+within appropriate ethical and legal frameworks. It must 
+then be possible to verify how parties have applied AI, 
+especially when it comes to high-impact applications. The 
+monitoring of compliance with the legal frameworks must 
+also be well organised. Here, too, the principle of proporti-
+onality is important. And if, despite these safeguards, 
+things go wrong and damage occurs, it is important that it 
+is clear for whose account the damage is. 
+54 Kantar Public, ‘Nederlanders over Artificiële Intelligentie’ (The Dutch on 
+Artificial Intelligence), October 2018.
+AI applications are developed 
+within legal and ethical 
+frameworks
+In order to guarantee the fundamental rights of citizens as 
+described above, these rights have in some cases been 
+translated into laws and regulations such as the Equal 
+Treatment Act and the GDPR. They can also serve as 
+guidelines for formulating ethical frameworks. Alongside a 
+national initiative by Netherlands ICT55, the European 
+Commission has set up an external AI High-Level Expert 
+Group56 that has developed ethical guidelines for AI based 
+on seven essential requirements.57 In the first instance, it is 
+now up to the market to decide how to implement and 
+apply these guidelines. Government, the business 
+community and civil society organisations need this to be 
+translated this into practice. This is one of the reasons why 
+the European Commission launched a pilot phase in June 
+2019 for companies and public organisations to explore 
+whether the ethical guidelines for AI are workable in 
+practice.58 The Commission’s evaluation of the results and 
+possible follow-up steps are expected to be completed by 
+early 2020. Of course, the market must also comply with 
+existing laws and regulations. 
+The Netherlands is committed to the development and 
+application of responsible AI, which means that the AI 
+must benefit people, that fundamental (European) human 
+rights are protected and that we strive to ensure that 
+everyone is included. As such, the Netherlands is following 
+the European approach to responsible people-oriented AI, 
+which can be a unique proposition for Europe to profile 
+itself internationally.59 The ethical approach to AI should 
+strengthen both citizens’ trust in digital development and 
+the competitiveness of European AI companies. It is 
+important to gain knowledge and experience of this way 
+of developing and applying AI. This is one of the reasons 
+why the government is encouraging such research. 
+55 https://www.nederlandict.nl/ethischecodeai/.
+56 High-level group with 52 representatives from science, business and 
+civil society.
+57 Human influence and supervision, technical robustness and security, 
+privacy and data governance, transparency, diversity, non-discrimi-
+nation and fairness, ecological well-being and accountability.
+58 https://ec.europa.eu/digital-single-market/en/news/
+ethics-guidelines-trustworthy-ai.
+59 In the Council of Europe, the OECD, G20 and UN organisations such 
+as UNECE and UNESCO.
+44 | Strategic Action Plan for Artificial Intelligence
+  ACTIONS:
+• With the Dutch AI Coalition, the government is 
+making efforts to ensure that as many Dutch 
+companies and public organisations as possible 
+actively participate in the pilot phase of the 
+High-Level Expert Group’s ethical guidelines for 
+AI.60 The government is also cooperating in cases 
+from the government domain (public tasks) and the 
+public–private domain (mission-driven approach). 
+In the government’s approach to AI, the cases form 
+an important part of the realisation of ethically 
+responsible AI solutions. This will also build up 
+knowledge that will be shared in the public–private 
+network to be formed and will challenge the 
+business community and knowledge institutions. 
+• The Netherlands chairs a working group of the 
+European Commission that will issue an Opinion on 
+AI and Gender in the spring of 2020.
+• The Ministry of Foreign Affairs is investigating 
+current regulations in international trade agree-
+ments on AI applications and the potential 
+adaptations required to protect European values.
+The Netherlands conducts more 
+research into responsible AI 
+development and application
+The Netherlands is following the European approach to 
+responsible AI and wants European values and standards 
+to be embedded in AI applications at an early stage (in the 
+design and development phase). However, knowledge 
+about this is scarce. This calls for more research, for 
+example on design principles, explainability, ethical and 
+legal frameworks, validating and explaining models and 
+outcomes of algorithms, behaviour, cultural aspects, 
+acceptance and trust. 
+60 For Nederland ICT, a sector organisation of 600 IT companies, the EU 
+ethical guidelines have already served as the basis for their ethical 
+code of conduct for the development and use of responsible AI 
+applications. In addition, the first party, a Dutch scale-up, has 
+already applied to participate in the pilot phase.
+  ACTIONS:
+• There will be thematic research calls for public-
+public collaboration, such as a recent call from the 
+Netherlands Organisation for Scientific Research 
+(NWO), initiated by the Ministry of the Interior and 
+Kingdom Relations and worth €2.3 million, on 
+explainable, socially aware and responsible AI 
+(closing date 5 November 2019). 
+• It will be explored how new knowledge from 
+fundamental and applied research projects on 
+responsible AI can be quickly made available to 
+researchers, companies, governments, educational 
+institutions and citizens. Finally, the international 
+dimension is also relevant here; in the future many 
+AI applications will come from outside the European 
+Union and may therefore be based on other values.61
+AI applications with a high 
+impact on people or society 
+should be controllable
+The government considers it important that the use of AI 
+applications by governments and market parties is 
+controllable. In many cases, this means that AI applica-
+tions must be controllable if they have legal consequences, 
+have a major impact on people or society, or if the 
+possibilities for human intervention and control are 
+limited. People need to be able to trust that AI applications 
+are in line with legal frameworks. 
+Companies and governments can implement controllable AI 
+applications in different ways.62 First of all, it is important 
+that people know that a decision has been made with the 
+help of AI. The parties can also provide insight into the 
+procedures surrounding the deployment of AI: who is 
+involved in the development, are the strengths and weak-
+nesses known, who can intervene if necessary, who bears 
+responsibility for errors and how to challenge the results of 
+AI. Another option is ‘technical transparency’, whereby, for 
+example, the training data, the model used and the source 
+61 On 3 June, the Minister for Foreign Trade and Development 
+Cooperation published the Digital Agenda for Foreign Trade and 
+Development Cooperation, which also deals with this international 
+dimension of AI applications. 
+62 The Minister for Legal Protection elaborated on this in his letter on 
+the transparency of algorithms in use by the government: 
+Parliamentary Paper 26643, No. 570, on the occasion of the motion 
+by Verhoeven et al., Parliamentary Paper 32761, No. 117.
+Strategic Action Plan for Artificial Intelligence | 45
+code are made transparent.63 In addition, explainability (in 
+understandable language) can be sought, by explaining the 
+entire AI system64 or by making specific results understanda-
+ble.65 Some AI techniques however, such as black box 
+algorithms, are inherently very difficult to explain. Various 
+methods are being developed to solve this problem.66 
+Companies and governments have a (legal) responsibility 
+to provide sufficient insight into the AI applications that 
+they use, and the associated procedures. For example, it 
+follows from consumer legislation that consumers should 
+be able to make an informed choice when purchasing a 
+product or service. The GDPR contains transparency and 
+disclosure requirements that are primarily intended to 
+inform data subjects about the manner in which their 
+personal data is processed. If the use of profiling is 
+accompanied by automated decision-making, the data 
+subject should be made aware of that and useful informa-
+tion should be provided on the underlying logic, the 
+importance and the expected consequences of such 
+processing for the data subject.67 Supervisory authorities, 
+such as the Netherlands Authority for Consumers & 
+Markets (ACM) or the Dutch Data Protection Authority 
+(Dutch DPA), can check in specific cases whether AI 
+applications are designed in such a way that they comply 
+with statutory regulations. Management bodies are 
+subject to information obligations arising from, among 
+other things, the general principles of good governance 
+and the Dutch Public Access to Government Information 
+Act (Wet openbaarheid van bestuur). 
+The government welcomes the fact that market players are 
+taking their responsibility over and above the existing 
+statutory requirements. One of the various initiatives in this 
+regard is the appointment of trusted third parties that 
+perform audits on algorithms or issue quality marks for 
+63 This can enable experts to check the AI and may contribute to wider 
+deployment and further development. At the same time, this may 
+involve protected trade secrets, the training data may contain legally 
+protected personal data and the risk of undue influence must be 
+taken into account if third parties also have an insight into the exact 
+functioning of AI.
+64 This can be done, for example, by using the results of the validation. 
+The AI is then fed with slightly modified input, in order to check 
+whether this results in logical or illogical changes in outcomes. 
+65 For example by means of counterfactual explanations, indicating 
+which input should have been different in order to arrive at a 
+different outcome.
+66 Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., & 
+Pedreschi, D., ‘A survey of methods for explaining black box models’, 
+ACM computing surveys (CSUR), 51(5), 93 2018.
+67 The Minister for Legal Protection elaborated on this in his letter on 
+the transparency of algorithms in use by the government: 
+Parliamentary Paper 26643, No. 570.
+responsible AI.68 The government aims to avoid a confusing 
+situation with different quality marks by means of uniform 
+requirements and consistent application. Internationally 
+harmonised standards that reflect European values and 
+standards are particularly important in this context. 
+If it turns out that companies do not fulfil their own 
+responsibilities sufficiently, further legislation could be 
+considered to safeguard the interests of society. 
+Supplementary transparency or explainability requirements 
+may be desirable for specific sectors or applications. Such 
+sector-specific regulation, for example, is already in place in 
+the financial sector, where various requirements are imposed 
+on companies using trading algorithms.69 Furthermore, the 
+European regulation on the relationship between platforms 
+and businesses, adopted around in the summer period, 
+includes an obligation for online platforms and search 
+engines to inform businesses about the main parameters 
+that determine the ranking of goods and services. 70
+ 
+  ACTIONS:
+• Through research calls for PPPs, the national 
+government is investing in research into the 
+responsible use of AI and the transparency and 
+explainability of algorithms, in collaboration with 
+the VWData programme (NWA route). 
+• The Ministry of Economic Affairs and Climate Policy 
+is investigating which algorithms are used for 
+different sectors, what risks this entails, how 
+companies manage these risks and what safe-
+guards are in place. 
+• The NEN Standards Committee on AI shares good 
+practices, develops frameworks for reliable and 
+ethically responsible AI applications and contribu-
+tes to the development of global AI standards by 
+the International Organization for Standardization.
+• In the use of algorithms by the government and in 
+PPP arrangements, the Ministry of the Interior and 
+Kingdom Relations experiments with and encoura-
+ges the use of instruments such as the AI Impact 
+Assessment and quality marks/audits. 
+68 Several private parties are developing such a label or have already 
+done so. In addition, an AI Impact Assessment has recently been 
+developed by Electronic Commerce Platform Nederland (ECP), with 
+the cooperation of the Ministry of Economic Affairs and Climate 
+Policy, among others.
+69 This is included in the Markets in Financial Instruments Directive 
+(MiFID II). For example, companies are required to carry out an 
+annual self-assessment and validation of their algorithmic trading 
+activity, and the results of these assessments can be requested by 
+supervisory authorities. It must also be possible for a malfunctioning 
+algorithm to be disabled by a human being.
+70 Regulation (EU) 2019/1150 of the European Parliament and of the 
+Council of 20 June 2019 promoting fairness and transparency for 
+business users of on-line trade services (OJ EU 2019, L 186)
+46 | Strategic Action Plan for Artificial Intelligence
+  ACTIONS:
+• The Inspection Council (Inspectieraad) initiates 
+collaboration between supervisory authorities with 
+the aim of building up expertise, sharing it and 
+discussing the division of tasks with regard to the 
+supervision of algorithms and of AI in general.  
+The government will investigate whether supervi-
+sory authorities are sufficiently equipped to 
+supervise algorithms and whether there are any 
+persistent blind spots in the supervisory landscape.
+In the event of damage, it 
+should be clear who is liable
+Where a decision is made or actual action is taken with the 
+help of AI, questions may arise regarding responsibility 
+and liability for damage. In the case of cross-border 
+aspects, which are frequent with AI, such liability issues 
+can best be considered in a European context.
+EXPERT GROUPS ON NEW TECHNOLOGIES 
+AND LIABILITY
+The European Commission has set up two expert 
+groups dealing with new technologies and liability. 
+One group is concerned with the Product Liability 
+Directive. The European Commission is expected to 
+adopt guidelines in mid-2019 on how this directive 
+should be interpreted in the case of products 
+containing software or equipped with AI, for example. 
+The other expert group focuses on new technologies 
+and liability in general, including contractual liability. 
+This group will report to the European Commission in 
+the course of 2019. The findings of these expert 
+groups will lead to more insight into liability issues in 
+the event of damage caused by AI.
+Supervisory authorities use and 
+monitor AI applications 
+effectively
+A major challenge for supervisory authorities is to get a 
+grip on the deployment of AI in the areas they supervise. 
+The use of AI can make it more difficult to understand 
+what exactly is happening in a market. For example, in the 
+case of personalised online retail platforms, it is extremely 
+hard to prove a structural breach of consumer law. In 
+addition, it may become less clear why certain behaviour 
+occurs in a market and how it relates to, for example, 
+privacy, competition and consumer law. This can make 
+effective intervention in a market more difficult. 
+However, AI also offers opportunities to organise supervi-
+sory authorities’ tasks more efficiently and effectively. For 
+example, we can use AI to quickly and automatically detect 
+violations, automatically share relevant information with 
+the right people, deploy manpower in a more targeted 
+manner using risk models, and automate time-consuming 
+administrative tasks. 
+Supervisory authorities should supervise their respective 
+fields on the basis of their own expertise. For example, the 
+Health Care and Youth Inspectorate supervises software or 
+AI that is used as a medical device and therefore falls 
+under the new European Medical Device Regulation 
+(MDR), which lays down requirements for software.71 In 
+order to take into account the impact of AI in their 
+supervision, it is important that supervisory authorities 
+jointly consider the impact of AI on their work and field of 
+activity and collaborate effectively based on a clear 
+division of tasks. The Netherlands Authority for the 
+Financial Markets, the Nederlandsche Bank NV and ACM, 
+for example, work together in an Innovation Hub that 
+companies can turn to with questions about regulation 
+and supervision of innovative financial products and 
+services. This will help financial institutions clearly identify 
+legal boundaries before bringing their innovations to the 
+market, giving them maximum scope for experimentation 
+without the risk of inadvertent violation of the law. In 
+addition, this will give regulators a better understanding 
+and grip on innovation within the financial market. 
+71 See: https://www.igj.nl/documenten/brochures/2017/12/12/
+handreiking-nieuwe-regelgeving-medische-hulpmiddelen-en-in-vitro-
+diagnostica. 
+Strategic Action Plan for Artificial Intelligence | 47
+Markets are open, competitive and offer 
+good consumer protection 
+If the Netherlands wants to become a leader in the field of 
+AI, it is important that the development of AI applications 
+is financially rewarding. This means first of all that markets 
+must be competitive and that it must be possible for AI 
+applications to be developed by more than a handful of 
+large companies. Competition creates incentives for 
+companies to outperform each other by offering ever 
+better value for money and more choice. This requires 
+both effective competition policy and good consumer 
+protection. After all, companies will only have incentives 
+to constantly improve their offering if consumers are able 
+to make informed choices. In addition, a stable and 
+predictable system of intellectual property rights is 
+needed, so that companies that come up with innovative 
+solutions can also benefit from them. 
+Markets for AI applications are 
+competitive
+Many online platform markets – where AI is applied on a 
+large scale – have, through network effects (reinforced by 
+data), economies of scale and synergy benefits, a ‘winner-
+takes-all’ or ‘winner-takes-most’ tendency.72 In some 
+online markets, this can lead to the concentration of 
+power on or a few platforms. Once a platform has 
+achieved such a powerful position, self-reinforcing 
+processes can make it increasingly difficult for other 
+platforms to challenge that position. Growth in terms of 
+data, computing power and algorithms is easier to achieve 
+for large platforms than for new entrants or SMEs. 
+Combined with the excellent access to capital and highly 
+skilled staff on these platforms, this may lead to a 
+situation where a limited number of companies are better 
+able to further develop their (already high-quality) AI than 
+their competitors. 
+72 See also the discussion paper of the Ministry of Economic Affairs and 
+Climate Policy: https://www.internetconsultatie.nl/mededinging_platforms 
+This may distort competition, for example if an entrant 
+with a better but ‘untrained’ algorithm loses out to an 
+established player because of an entry barrier such as the 
+difference in data positions. Competition issues can also 
+arise when a powerful platform can impose unreasonable 
+conditions on businesses who want to use their training 
+data or algorithms to develop AI applications themselves.73 
+This could result in persistent concentration of market 
+power. On the other hand, the concentration of users 
+around one or a few platforms often leads to efficiency 
+gains and innovation opportunities. It is important, 
+therefore, to monitor the balance between efficiency and 
+innovation on platforms, on the one hand, and sufficient 
+openness about their infrastructure and opportunities for 
+competition and subsequent innovation, on the other. 
+Another risk is that the increasing use of AI, for example to 
+ensure that prices move quickly in line with changing 
+market conditions, encourages new types of cartels to 
+emerge. AI can be used to implement cartel agreements, 
+for instance, and the risk of tacit collusion can increase 
+when many companies use the same type of algorithms. 
+Indeed, entirely autonomous algorithmic cartels may 
+develop in the future. 
+When AI leads to new forms of abuse, competition 
+lawsuits may take longer. New forms of abuse will be more 
+difficult to prove, because in such competition cases there 
+are no precedents from previous similar cases on which 
+regulators and courts can rely. Such cases require more 
+detailed analysis and recourse to the courts is more likely. 
+At the same time, in cases such as these fast and effective 
+enforcement is all the more important because behaviour 
+in online markets, especially when using AI, can be difficult 
+to reverse. 
+73 This may constitute a so-called gatekeeper position. The govern-
+ment argues in favour of new powers for a European supervisor to 
+intervene in this respect, as can be read in parliamentary paper 
+27879, No. 71.
+48 | Strategic Action Plan for Artificial Intelligence
+  ACTIONS:
+• The government advocates that, supplementary to 
+competition law, at the very least a European 
+regulator should be able to impose ex ante obligati-
+ons on large ‘gatekeeper’ platforms on which 
+consumers and businesses are heavily dependent.
+• At EU level, the government calls for guidelines to 
+explain in more detail (in guidelines) how the 
+competition rules in the Treaty on the Functioning 
+of the European Union and in Sections 6 and 24 of 
+the Dutch Competition Act can be applied and 
+enforced in the digital economy, with a special 
+focus on the role of data, market delineation in 
+multi-sided markets and non-monetary prices.
+• The government calls for the European thresholds 
+for notifying a concentration to be adjusted in such 
+a way that all relevant digital concentrations fall 
+within the regulator’s scope. 
+• The ACM’s dedicated digital competition team, 
+consisting of specialist lawyers, economists and 
+data scientists, is developing expertise on new 
+technologies and business models and their impact 
+on competition analysis, including AI-driven 
+platforms for legal services and the use of algo-
+rithms and app stores. 
+Consumer rights must not be 
+affected by the application of AI
+Everyone must be able to make informed choices when 
+purchasing a product or service. The consumer legislation 
+designed to guarantee this also applies when AI is used: 
+the provider of the product or service remains responsible 
+for compliance with this legislation. For example, products 
+and services must comply with the descriptions and 
+information provided about them. If the AI algorithm 
+creates additional expectations on the part of the 
+consumer, the provider is responsible for this.
+AI and algorithms can hinder consumers’ ability to make a 
+conscious, considered and well-informed choice as they 
+increase information asymmetry. Through large-scale data 
+collection, companies have much more information than 
+before about the behaviour of consumers and are 
+increasingly aware of which nudges are effective to change 
+that behaviour. Consumers, for their part, are less and less 
+aware of the influence of AI on the information they 
+receive and on their selection process. This can mean that 
+certain choices are deliberately kept away from consumers 
+and that the process is adapted to consumers’ ingrained 
+(unconscious) behavioural patterns. This is problematic if 
+it causes the consumer to behave in a way that they would 
+not have done if they had made a conscious decision. If 
+incorrect information is presented which leads the 
+consumer to make a choice which they would not 
+otherwise have made, this can already be regarded as an 
+unfair commercial practice, even under current 
+regulations.
+	ACTION: 
+• In the spring of 2019, the Netherlands approved the 
+directive for better enforcement and modernisation 
+of consumer protection rules in the European 
+Union (COM(2018)185). Pursuant to this directive, 
+consumers should be informed when personalised 
+prices have been generated automatically. The 
+directive is expected to be adopted in the autumn.
+Strategic Action Plan for Artificial Intelligence | 49
+The Netherlands protects the 
+intellectual property of companies 
+that develop AI applications
+The Netherlands has a solid intellectual property rights 
+(IPR) system, as proven by the innovations discovered, 
+developed and used in this country. The guarantees 
+offered by the IP system in the joint development and 
+sharing of knowledge are indispensable for the national 
+and international collaboration that makes the 
+Netherlands one of the most innovative and competitive 
+economies in the world. 
+The rapid development of AI raises questions – and 
+possibly generates uncertainties – in relation to the IP 
+system in roughly two areas. On the one hand, this 
+concerns IP protection for AI itself. AI systems are complex 
+and consist – in short – of hardware, software and data. 
+This raises the following questions, for example: do IP 
+rights apply to AI systems? If so, what are these rights? 
+Should IP protection be extended to encourage the 
+development of AI? On the other hand, questions arise 
+about IP protection for creations of AI. AI is able to 
+generate creative works and inventions. If a creative work 
+or an invention has been realised by or with the help of AI, 
+how does that affect the ability to obtain copyrights or 
+patent protection? Other relevant questions: who qualifies 
+as the owner of such creative works or inventions, and 
+should the bar for obtaining copyrights or patents be 
+raised when AI becomes a standard tool for authors or 
+inventors in a particular field?
+Although there is no specific IPR protection for AI, a 
+number of IPR, including patents, copyright and rights 
+under database law, provide protection to AI components 
+to a greater or lesser extent. The protection of trade 
+secrets can also play a role here.
+  ACTIONS:
+• The Netherlands is actively monitoring develop-
+ments in IP law and AI, in line with initiatives taken 
+in a European or international context. For 
+example, the Netherlands welcomes the new 
+guidelines regarding the patentability of inventions 
+based on AI, published by the European Patent 
+Office in October 2018.74
+• With the implementation of the new Copyright in 
+the Digital Single Market Directive (2019/790), the 
+Netherlands will create more legal certainty for 
+research organisations (including PPPs) about the 
+extent to which they can carry out text and data 
+mining activities thanks to a broad exception.
+74 https://www.epo.org/law-practice/legal-texts/html/guidelines2018/e/g_
+ii_3_3_1.htm
+50 | Strategic Action Plan for Artificial Intelligence
+The safety of citizens, businesses and 
+government entities in the Netherlands 
+remains protected 
+AI technology offers opportunities to 
+increase security, but can also have 
+(intentional or unintentional) adverse consequences.  
+The chapter on exploiting societal opportunities describes 
+the opportunities that AI offers for the security domain. 
+This section discusses the security risks of AI develop-
+ments in more detail. 
+The government aims to address the risks of AI in a timely 
+manner, without hindering positive social-civil applica-
+tions. This requires – at both national and international 
+level – a commitment to the timely identification of risks, 
+thorough research and threat analyses, security-by-
+design, the timely development of countermeasures and, 
+where necessary, to increase resilience.75
+The increasing use of AI technologies in society is creating 
+new types of vulnerabilities and security threats. For 
+example, we have to anticipate the major potential impact 
+of AI on cybercrime, system hacking and cyber-warfare. 
+We must rule out any situation in which the control of 
+autonomous systems (e.g. vehicles, logistics systems, vital 
+infrastructures) is taken over by a party intent on carrying 
+out disruptive actions. Hence, security/cybersecurity by 
+design should be the guiding principle for the design and 
+development of AI applications and autonomous systems. 
+As the security risks of AI applications clearly call for an 
+international approach, the subject is also on the agenda 
+of international organisations such as the United Nations 
+(UN).76 
+75 Integrated Foreign and Security Strategy (Geïntegreerde Buitenland- en 
+Veiligheidsstrategie) 2018–2022.
+76 UN Policy Research Centre, ‘The New Geopolitics of Converging Risks 
+- UN and the Prevention in the Era of AI’, 29 April 2019.
+Developments in AI can also have consequences for 
+national security. Further linking of data and the further 
+development of analysis and pattern recognition techni-
+ques result in user profiles becoming sharper and more 
+comprehensive. In addition, AI-driven developments in 
+audio and image manipulation technology are making it 
+increasingly easy to produce text and audiovisual material 
+that is virtually indistinguishable from real life. Such 
+technology can be used, for example, for espionage, 
+interference, influencing or manipulation. AI develop-
+ments can also affect the economic security of the 
+Netherlands. The government considers it important to 
+minimise its dependence on ICT systems from countries 
+that have been identified as conducting an offensive cyber 
+programme against Dutch interests.77 Another point of 
+attention is that AI applications such as personal 
+assistants, robotics, autonomous systems and Internet-of-
+Things products – often controlled by foreign or commer-
+cial parties – collect large amounts of data, such as 
+environmental characteristics, input data, speech, images, 
+behaviour and locations. 
+In addition, more collaboration between policy makers 
+and scientists will be organised in the security domain in 
+the coming period. For example, the General Intelligence 
+and Security Service (AIVD) and Delft University of 
+Technology have launched a joint research programme to 
+increase our understanding of the digital threat to our 
+national security, as well as of the technical, organisational 
+and institutional ways of dealing with it. In this research 
+programme, research questions about cybersecurity in an 
+administrative context are studied.
+77 Parliamentary Paper 30821, No. 72.
+Strategic Action Plan for Artificial Intelligence | 51
+Cybersecurity 
+In the Dutch Cyber Security Agenda, AI is mentioned as a 
+technological and societal development that entails both 
+opportunities and increased vulnerabilities in the digital 
+domain. In the cyber domain, AI technology will lead to 
+new methods of attack and new countermeasures. AI 
+technologies will make attack systems self-learning and 
+less predictable. This development is expressed in 
+malware that searches for system vulnerabilities of its own 
+accord and is able to adapt its own shape to prevent 
+detection. Traditional countermeasures will be increasingly 
+ineffective. As a result, AI technology will also play a major 
+role in the development of digital security systems, for 
+example in automatic source code analysis to recognise 
+errors in software, or in the detection of viruses or 
+anomalies in networks. For the National Cyber Security 
+Centre, new applications of AI are relevant both for 
+existing policy and for further explorations. AI can also be 
+seen as a relevant theme for the development of cyber 
+security knowledge. 
+Defence
+AI can also have significance for warfare and the protec-
+tion of the Dutch territory. The party that has access to the 
+most advanced AI is way ahead of the game, as it is able to 
+make faster, better decisions. On an international level this 
+means a battle between the haves and have-nots. The 
+opportunities lie in the areas of decision support, 
+intelligence gathering, data analysis and accelerated 
+responsiveness in the defence of Dutch territory. In 
+addition, AI systems can be used to make military work 
+safer and to take over certain tasks, such as identifying 
+deviant behaviour with image recognition, so that military 
+operators can concentrate on other tasks. As stated in its 
+letter of 13 May 2019 to the House of Representatives, the 
+government is striving for an international framework of 
+standards for the use of new technologies as part of 
+weapons systems. Like the previous government, the 
+government takes the view that all weapons systems and 
+their deployment must meet the requirements of 
+international law.78 
+78 Parliamentary Paper 34300-X No. 109.
+While the development of new weapon systems is nothing 
+new, it is important to consider whether the new means 
+and methods of warfare are permitted under international 
+law. At present, the use of AI in autonomous weapon 
+systems is a particular focus of international attention.  
+In the UN meeting on autonomous weapons – the 
+Convention on Conventional Weapons – there is a 
+consensus between the countries that future autonomous 
+weapons systems should continue to be subject to 
+‘meaningful human control’. This is also recommended by 
+the Advisory Council on International Affairs, which is 
+updating the AIV/CAVV advisory report ‘Autonomous 
+weapon systems: the need for meaningful human control’ 
+(Autonome wapensystemen: de noodzaak van betekenisvolle 
+menselijke controle). 
+  ACTIONS:
+• The impact of the use of AI on national security is 
+currently being investigated within the framework 
+of the National Security Strategy. 
+• Commissioned by the Cyber Security Council, 
+research is being conducted into the use of new 
+technology – including AI – for cyber defence.
+
+Appendices
+54 | Strategic Action Plan for Artificial Intelligence
+Appendix 1: Overview of actions 
+Track 1: Capitalising on societal and economic opportunities
+AI offers solutions for societal challenges
+• In October/November 2019, the Knowledge and Innovation Agendas 2020–2023 will be published for missions and 
+key enabling technologies, including AI. These missions are in the areas of security, health and care, agriculture and 
+food, energy transition and sustainability. The agendas contain a long-term financial commitment in the form of a 
+Knowledge and Innovation Contract.
+• Together with other parties, TNO is investing in in-depth knowledge, system development and the development of 
+ecosystems and applications for AI, for example for cyber security, care, agriculture and security. The approach is 
+multidisciplinary, combining knowledge about technology, behaviour, acceptance and applications.
+• Research on the effectiveness of the application of AI for police tasks and the ethical aspects of AI.
+• Research into design principles for AI in the legal domain (CWI; Netherlands Organisation for Applied Scientific 
+Research (TNO); University of Amsterdam (UvA) and the Dutch Public Prosecution Service).
+• The Robotic Autonomous Systems unit of the Ministry of Defence translates developments in the field of robotics 
+and autonomous systems into concrete national operations. 
+• The Ministry of Defence is developing a vision for AI in which attention will be paid to the use of AI in military 
+functions (e.g. command and control, intelligence, protection and logistics). The vision will be published in 2020.
+• At the end of 2019, the Ministry of Health, Welfare and Sport will issue a new letter to the House of Representatives 
+on AI and Big Data in the healthcare sector. 
+• The Ministry of Health, Welfare and Sport is developing an AI Handbook. 
+• The Ministry of Agriculture, Nature and Food Quality, together with the Dutch AI Coalition, will intensify the further 
+development of a data infrastructure for arable farming.
+The government makes optimal use of AI in the performance of public tasks 
+• The national government is enhancing knowledge of AI among civil servants in various ways. Examples include the 
+digital course series on AI that is available at the Governmental Academy for Digitalisation and Computerisation of 
+the Government (RADIO) for every civil servant in the Netherlands, and attention to AI in the development of 
+employees› competences. 
+• The government is looking for organisational forms (including PPPs) that will consolidate knowledge within 
+government organisations. 
+• The Ministry of the Interior and Kingdom Relations and the Netherlands Enterprise Agency are developing an 
+implementation toolkit for innovative technologies. This also involves seeking interdisciplinary cooperation with, 
+among others, the Chief Information Officers of other government agencies and with contractors. 
+• Together with the Association of Netherlands Municipalities (VNG) and the Netherlands Enterprise Agency, the 
+Ministry of the Interior and Kingdom Relations organises meetings on experiences in the public domain and AI 
+technologies applied there, such as chatbots.
+• The government organises expert meetings for various technical disciplines that deal with AI applications on a daily 
+basis. These include architects, developers and data scientists from various organisations. 
+• Active participation in European public sector initiatives in the framework of the coordinated Action Plan for AI. 
+These may take the form, for example, of calls to realise AI example projects.
+• In collaboration with other government organisations and the Association of Netherlands Municipalities (VNG), the 
+Ministry of the Interior and Kingdom Relations is conducting two experiments with AI in 2019, focusing on ethics in, 
+by and for design and the transparency of algorithms. The ambition is to build up a portfolio of example projects, 
+which will be shared in the knowledge network. 
+• Many government bodies, including the Ministry of Social Affairs and Employment, the Ministry of the Interior and 
+Kingdom Relations, the Ministry of Justice and Security and several municipalities, pursue poverty reduction policies. 
+Initiatives are combined as much as possible in order to come to high-quality proposals. This involves the early 
+identification of potential poverty, which can prevent suffering and high costs. 
+• Various government organisations are experimenting with text mining, for example to make it easier to search 
+archives (JustID) and council documents (Ministry of the Interior and Kingdom Relations, VNG). The intention is to 
+use AI in follow-up projects.
+Strategic Action Plan for Artificial Intelligence | 55
+Track 1: Capitalising on societal and economic opportunities
+• Several government organisations are exploring the possibilities of new technologies in procurement, with a focus 
+on blockchain and AI. The ‘Sustainable digitalisation of public procurement’ (Duurzame digitalisering van de Rijksinkoop) 
+programme focuses on AI. This concerns the purchase of generic services from the government and the systems that 
+have been set up for this purpose. 
+• Various government agencies, such as the police, the Netherlands Enterprise Agency and ‘P-Direkt’ (the Shared 
+Service Centre for HRM of the Dutch government) are developing a chatbot.
+• The Ministry of Justice and Security and the Ministry of the Interior and Kingdom Relations have accepted 21 
+proposals for feasibility studies in phase 1 of SBIR AI in the public sector; proposals for phase 2 will be accepted in 
+2020. A second SBIR with a regional party is being prepared.
+• Over the next few years, various government ministries, including the Ministry of Justice and Security and the 
+Ministry of the Interior and Kingdom Relations, will take part in Odyssey, the world’s largest hackathon in Groningen, 
+in various different tracks. In Odyssey, the business community is challenged to develop initiatives for AI solutions in 
+response to specific government needs. 
+• In the coming years, ministries will use the various instruments within procurement legislation to promote 
+innovation in the market. In addition to SBIR, this also concerns innovation partnerships, market consultation and 
+the competitive dialogue. 
+AI entrepreneurship is stimulated
+• The Ministry of Economic Affairs and Climate Policy is increasing access to innovation financing for start-ups 
+(AI-related and otherwise) through early-stage financing and the Innovation Credit (Innovatiekrediet), and is facilitating 
+access to risk capital for start-ups with the ‘Seed Capital Scheme’, the ‘Dutch Venture Initiative’, the scale-up fund 
+and via the Regional Development Agencies (RDAs) (Regionale Ontwikkelingsmaatschappijen, ROMs). 
+• In the supplementary agreement concluded between the Ministry of Economic Affairs and Climate Policy, the 
+Ministry of Finance and Invest-NL, AI is included as one of the focus areas for Invest-NL. The Ministry of Economic 
+Affairs and Climate Policy and the Ministry of Finance are exploring a change in the tax rules which will make it more 
+attractive to pay out in stock options – and thus to work for a start-up or scale-up.
+• The Ministry of Justice and Security, the Ministry of Social Affairs and Employment and the Ministry of Economic 
+Affairs and Climate Policy are drafting legislation relating to the right of residence for essential employees of 
+start-ups and scale-ups. The legislation will enter into force in the summer of 2020.
+• The Ministry of Foreign Affairs will appoint six start-up liaison officers to its posts in San Francisco/Los Angeles, New 
+York/Boston, Singapore, Berlin, Paris and London by 2020 at the latest. 
+• TechLeap.nl (formerly StartupDelta) will organise missions to start-up and technology fairs and prominent tech hubs, 
+and start-ups and scale-ups are more closely involved in the trade and innovation missions and ‘Top Sector’ 
+missions.
+• As of 2019, the government will scale up the ‘Accelerating the digitalisation of SMEs’ (Versnelling digitalisering MKB) 
+programme, including five regional SME workshops in which education, the government and the business 
+community collaborate.
+• In 2019, RDAs will jointly explore how they can specifically stimulate entrepreneurship with AI.
+• The Dutch AI Coalition is working out a plan to create more synergy between research, education and organisations. 
+• Five regional smart industry hubs and research centres (data value hubs) provide companies, particularly SMEs, with 
+up-to-date knowledge, tools and training modules for the responsible use of AI and data. The hubs organise 
+workshops for SMEs, issue feasibility vouchers and work with vocational education on the development of digital 
+skills.
+• In the smart industry approach, the sharing of knowledge and commercialisation of research with respect to AI 
+applications will be strengthened.
+• TNO connects the Dutch field labs and hubs with the European AI Digital Innovation Network.
+• As of 2020, the Chamber of Commerce will be providing SMEs with business-oriented information about AI, based in 
+part on best practice examples from the SME Workshops. 
+• The ICT research platform improves the visibility of practice-based ICT research in the Netherlands, together with the 
+employers’ umbrella organisations VNO-NCW (Confederation of Netherlands Industry and Employers) and MKB-
+Nederland (Dutch Federation of Small and Medium-Sized Enterprises), HBO-i, SIA and 50 HBO professors. Target: by 
+2020, 200 SMEs will be working with innovative ICT applications, including AI.
+56 | Strategic Action Plan for Artificial Intelligence
+Track 2: Creating the right conditions
+AI research and innovation in the Netherlands are of high quality and leading in Europe
+• After the summer of 2019, NWO will publish a broad AI research agenda for initiating new research programmes and 
+tools and national and international synergy. 
+• Ministries are exploring the possibility of investing in an AI programme as part of Action Line 2 of the National 
+Science Agenda (Nationale Wetenschapsagenda) in 2020.
+• Within the framework of the mission-driven innovation policy, long-term programmes will be set up for the AI key 
+enabling technology for innovative knowledge and solutions with and for relevant application areas.
+• Based on Dutch strengths such as the AI research labs, a proposal will be developed in 2019 under the auspices of 
+the Dutch AI Coalition for an AI knowledge centre in the Netherlands that is a leader in Europe.
+• The Ministry of Education, Culture and Science is investing €18 million in the purchase of a national supercomputer 
+from SURF. 
+• The TO2s79 organise joint workshops on AI topics such as explainability, valorisation of research, and societal impact. 
+• Within the context of the interdepartmental programme ‘Strengthening the IT workforce in the civil service’ 
+(Versterking HR ICT Rijksdienst) (coordinated by the Ministry of the Interior and Kingdom Relations), a cooperation plan 
+will be set up with ICT educators in higher education, in order to boost innovation and the development of the 
+national government on specific themes (including AI) by setting up field labs. 
+• The Ministry of Defence is having its strategic knowledge partners (TNO, NLR and MARIN) carry out research 
+programmes in which AI is developed and applied.
+• The ‘Data Science, Artificial Intelligence & Quantum Technology for Military Applications’ knowledge centre is 
+developing AI application possibilities for the Ministry of Defence and is collaborating with TNO.
+• The Netherlands provides visible involvement in the major initiatives for broad European cooperation on AI, such as: 
+the Strategic Research Agenda by BVDA/EURobotics80 (with 300 industrial and academic partners), the establishment 
+of a specific AI PPP on behalf of the European Commission, and international academic initiatives, such as CLAIRE 
+and ELLIS (European Lab for Learning & Intelligent Systems). 
+• The Netherlands will continue its current participation in future European programmes, such as Horizon Europe, 
+Digital Europe and EUREKA, including through the Dutch National Contact Point for European programmes and 
+innovation missions.
+• The Netherlands is strengthening its cooperation with other Member States and European initiatives, including 
+through the Holland Innovation Network and economic missions.
+• The Netherlands is actively seeking collaboration on AI with other countries within and outside Europe, such as 
+Germany, France, Singapore, the US and Belgium. For example, an innovation mission to Singapore will be organised 
+at the end of 2019 for collaboration in the field of AI, and in 2020 opportunities will be explored for effective bilateral 
+collaboration between the US and the Netherlands in specific AI areas. 
+• The Netherlands Foreign Investment Agency (NFIA) has included Artificial Intelligence as a primary focus area in its 
+Strategic Action Plan, The Netherlands: Digital Gateway to Europe’ and will focus a substantial part of its acquisition 
+activities on it. 
+The Netherlands has excellent training opportunities for living with AI and more talent for working with AI
+• A scheme that will structurally make more than €200 million available in the form of individual budgets for training 
+and development will be presented to the House of Representatives after the summer of 2019. This ‘STAP’ (Labour 
+Market Position Stimulus) budget replaces the current tax deduction scheme for training and is accessible to 
+everyone up to the state pension age. 
+• In order to encourage employers to invest in individual learning budgets, the Ministry of Social Affairs and 
+Employment is working with the Ministry of Finance, the Tax and Customs Administration (Belastingdienst), sectors 
+and executives to clarify the tax treatment of individual learning and development budgets.
+• The Ministry of Social Affairs and Employment is developing a scheme to implement the Wiersma motion, which will 
+structurally make €48 million a year available from 2020 to promote a learning culture in SMEs, and the Heerma 
+motion, which will make a total of €60 million available over a period of five years to provide additional support to 
+the agricultural, hospitality and recreation sectors in order to attract more ‘BBL’ students (students in the ‘work-
+based’ VET learning pathway).
+79 TO2s are the applied research institutes united in the ‘Federation TO2’. The Federation TO2 consists of Deltares, ECN, Marin, NLR, TNO and 
+Wageningen-Research.
+80 A partnership of the Big Data Value Association and the European Robotics Association.
+Strategic Action Plan for Artificial Intelligence | 57
+Track 2: Creating the right conditions
+• With ‘MKB!dee’, the Ministry of Economic Affairs and Climate Policy is challenging SMEs to come up with ideas that 
+will lead to more investment in training and development of workers. While intended for all SMEs, the scheme 
+focuses in particular on the challenges of technical SMEs and digitalisation. It relates to the broad effects of 
+digitalisation, not to the ICT sector as such. In 2019, €7.5 million is available. 
+• The Ministry of Social Affairs and Employment, the Ministry of Education, Culture and Science and the Ministry of 
+Economic Affairs and Climate Policy are carrying out a long-term, action-oriented programme to improve the 
+preconditions for Lifelong Development (LLD), including pilots with training and employment help desks 
+(leerwerkloketten) in various regions, further flexibilisation of the range of courses on offer and assessment of the 
+feasibility of a digital training overview. 
+• The Ministry of Social Affairs and Employment and the NWO are investing approximately €3 million in research to 
+gain more insight into the impact of digital technologies (such as AI) on work and employment.
+• The Regional MBO Investment Fund (Regionaal Investeringsfonds mbo) scheme provides €25 million a year until 2022 
+for projects that improve the connection of VET to the labour market, for example if the profession for which they 
+offer training changes as a result of AI. 
+• The Foundation for Cooperation on Vocational Education, Training and Labour Market (Samenwerkingsorganisatie 
+Beroepsonderwijs Bedrijfsleven, SBB) also pays attention to AI for senior secondary vocational education (middelbaar 
+beroepsonderwijs, MBO) in the qualification files, where relevant. A recent example of a new qualification that includes 
+AI is ‘software developer’. 
+• Commissioned by the Minister of Education, Culture and Science (OC&W), the universities have drawn up sectoral 
+plans for the STEM, Social Sciences and Humanities sectors. The Ministry of Education, Culture and Science (OC&W) 
+will contribute an extra €70 million to this, and the periodic resources for profiling can also be used for this purpose. 
+• The Ministry of Education, Culture and Science supports the Education Innovation with ICT Acceleration Plan for all 
+higher education institutions (universities of applied sciences and research universities) by making €15 million 
+available over four years.81
+• In 2019, the Learning Outcomes Experiment (Experiment Leeruitkomsten) will be evaluated, in which higher education 
+and the business community experiment with more flexible, tailor-made part-time education for adults, in order to 
+enable employees to learn effectively while working. 
+• In the summer of 2019, a subsidy scheme will be published to encourage MBO institutions to jointly develop 
+innovative and flexible education programmes for workers and jobseekers. 
+• The Ministry of Education, Culture and Science is investigating how study programmes can better respond to rapid 
+technological developments in the strategic exploration for MBO and the Strategic Agenda for Higher Education and 
+Research (publication: autumn 2019). 
+• Through the Human Capital Agenda for ICT, the Ministry of Economic Affairs stimulates PPP with the aim to promote 
+innovation and knowledge transfer for new technologies in education. This will be kicked off with the course,  
+‘AI in a Day’.
+• Starting in September 2019, a second batch of candidates will start working in the National Data Science Trainee 
+Programme, in order to develop themselves as data scientists, from the interdepartmental programme 
+‘Strengthening the IT workforce in the civil service’ (Versterking HR ICT Rijksdienst) (coordinated by the Ministry of the 
+Interior and Kingdom Relations).
+• The Ministry of Education, Culture and Science, together with skills development researchers, is exploring how digital 
+skills can be applied in HBO and MBO.
+• In order to stimulate innovation and development in the national government, a study is being carried out in 
+collaboration with ICT trainers in higher education into setting up field labs on specific themes, including AI, from the 
+interdepartmental programme ‘Strengthening the IT workforce in the civil service’ (Versterking HR ICT Rijksdienst) 
+(coordinated by the Ministry of the Interior and Kingdom Relations).
+• In the autumn of 2019, the government will review the curriculum for primary and secondary education and include 
+digital literacy in it. Legal anchoring is planned for 2021. 
+• The government is investigating the possibilities of setting up an AI Lab for education. 
+• The Digitalisation Agenda for primary and secondary education82 aims to provide more and better support for 
+education in digitalisation issues by the business community in five key areas: innovative capacity, digitally literate 
+teachers and pupils, digital learning resources, infrastructure and ethics. 
+81 Association of Universities in the Netherlands (VSNU), Netherlands Association of Universities of Applied Sciences (Vereniging Hogescholen) & 
+Surf, ‘Versnellingplan Onderwijsinnovatie met ICT’, May 2018.
+82 Parliamentary Paper 32034, No. 31
+58 | Strategic Action Plan for Artificial Intelligence
+Track 2: Creating the right conditions
+The Netherlands has more usable data for AI applications to improve AI developments
+• The Ministry of Economic Affairs and Climate Policy is exploring the possibilities of stimulating the use of the FAIR 
+principles in the sharing of private data for AI applications.
+• The Ministry of the Interior and Kingdom Relations is stimulating the provision of public sector information for re-use, 
+for example via data.overheid.nl and through the further development of the API portal developer.overheid.nl. 
+• The Ministry of Economic Affairs and Climate Policy and the Dutch AI Coalition are organising sector dialogues on 
+specific data sharing bottlenecks and needs for AI. The Ministry of the Interior and Kingdom Relations will be 
+involved in order to better align supply and demand of public data with the needs of AI applications. 
+• The Ministry of Economic Affairs and Climate Policy will carry out an inventory of existing examples of solutions for 
+data sharing for AI (such as the PHT) and ways to further stimulate data sharing for AI (such as data markets, rewards 
+and innovation tools). 
+• The European Commission has announced its intention to invest in a Common European Data Space to increase the 
+availability of data for AI and other purposes. The Netherlands will make actively contribute to the implementation 
+of this initiative on the basis of the Dutch vision. 
+The Netherlands is at the forefront of Europe in high-quality digital and intelligent connectivity and computing 
+power for effective AI applications
+• AI will be included as a point of attention in the elaboration of the actions on innovation in the Digital Connectivity 
+Action Plan. 
+• The Ministry of Economic Affairs and Climate Policy will discuss the possibilities of AI applications in networks with 
+the parties involved. 
+• The Netherlands is committed to cooperation between the EU Member States in the field of research and innovation 
+of High-Performance Computing for AI within the Digital Europe Programme, which will start in 2021. 
+Track 3: Strengthening the foundations
+Public values and human rights remain protected
+• Commissioned by the government, the Scientific Council for Government Policy (Wetenschappelijke Raad voor het 
+Regeringsbeleid, WRR) will investigate the impact of AI on public values. 
+• Commissioned by the Research and Documentation Centre (Wetenschappelijk Onderzoek- en Documentatiecentrum) (part of 
+the Ministry of Justice and Security), Utrecht University has started a research programme under the name ‘Legal aspects 
+of decision-making algorithms’ (Juridische aspecten van algoritmen die besluiten nemen). This exploratory study involves a 
+study of five cases to identify the key opportunities and risks of decision-making algorithms over the next five to ten 
+years and how they relate to the existing legal frameworks (and the values that lie behind them). The cases to be 
+examined are: the self-driving car, P2P energy markets, judges, ‘doenvermogen’ (self-efficacy) and content 
+moderation on platforms.
+• On 7 June 2019, the Minister for Legal Protection sent a letter83 to the House of Representatives about the 
+protection of horizontal privacy (or ‘social privacy’). The letter contains measures that are partly related to the risks 
+that the use of AI may entail for horizontal privacy.
+• On behalf of the Minister for Legal Protection, Tilburg University is conducting research into the risks to our privacy 
+associated with the use of facial recognition technology and into possible measures to limit these risks. This study is 
+expected to be completed by the end of 2019.
+• The Minister for Legal Protection is examining the desirability of establishing a system of certification of AI 
+applications across all disciplines in the administration of justice, with the certification bodies being accredited by a 
+body at the EU level. 
+• The Ministry of the Interior and Kingdom Relations is setting up a transparency lab for government organisations, 
+where knowledge is exchanged and support take place in the areas of transparency, explainability and accountability.
+• Together with the Ministry of Justice and Security, Statistics Netherlands (CBS), the Directorate-General for Public 
+Works and Water Management (Rijkswaterstaat) and the Association of Netherlands Municipalities (VNG), the 
+Ministry of the Interior and Kingdom Relations is mapping out the considerations for government organisations that 
+play a role in whether or not algorithms should be made public.
+83 Parliamentary Paper 34926, No. 8.
+Strategic Action Plan for Artificial Intelligence | 59
+Track 3: Strengthening the foundations
+AI is used in such a way that everyone can trust it
+• With the Dutch AI Coalition, the government is making efforts to ensure that as many Dutch companies and public 
+organisations as possible actively participate in the pilot phase of the High-Level Expert Group’s ethical guidelines for 
+AI. The government is also cooperating in cases from the government domain (public tasks) and the public–private 
+domain (mission-driven approach). In the government’s approach to AI, the cases form an important part of the 
+realisation of ethically responsible AI solutions. This will also build up knowledge that will be shared in the public-
+private network to be formed and will challenge the business community and knowledge institutions. 
+• The Netherlands chairs a working group of the European Commission that will issue an Opinion on AI and Gender in 
+the spring of 2020.
+• The Ministry of Foreign Affairs is investigating current regulations in international trade agreements on AI 
+applications and the potential adaptations required to protect European values.
+• There will be thematic research calls for public–public collaboration, such as a recent call from the Netherlands 
+Organisation for Scientific Research (NWO), initiated by the Ministry of the Interior and Kingdom Relations and worth 
+€2.3 million, on explainable, socially aware and responsible AI (closing date 5 November 2019). 
+• It will be explored how new knowledge from fundamental and applied research projects on responsible AI can be 
+quickly made available to researchers, companies, governments, educational institutions and citizens. Finally, the 
+international dimension is also relevant here; in the future many AI applications will come from outside the EU and 
+may therefore be based on other values.84
+• Through research calls for PPPs, the national government is investing in research into the responsible use of AI and 
+the transparency and explainability of algorithms, in collaboration with the VWData programme (NWA route). 
+• The Ministry of Economic Affairs and Climate Policy is investigating which algorithms are used for different sectors, 
+what risks this entails, how companies manage these risks and what safeguards are in place. 
+• The NEN Standards Committee on AI shares good practices, develops frameworks for reliable and ethically 
+responsible AI applications and contributes to the development of global AI standards by the International 
+Organization for Standardization.
+• In the use of algorithms by the government and in PPP arrangements, the Ministry of the Interior and Kingdom 
+Relations experiments with and encourages the use of instruments such as the AI Impact Assessment and quality 
+marks/audits. 
+• The Inspection Council (Inspectieraad) is initiating cooperation between supervisory authorities with the aim of 
+building up expertise, sharing it and discussing the division of tasks with regard to the supervision of algorithms and 
+of AI in general. 
+• The government will investigate whether supervisory authorities are sufficiently equipped to supervise algorithms 
+and whether there are still blind spots in the supervisory landscape.
+Markets are open, competitive and offer good consumer protection
+• The government advocates that, supplementary to competition law, at the very least a European regulator should be 
+able to impose ex ante obligations on large ‘gatekeeper’ platforms on which consumers and businesses are heavily 
+dependent.
+• At EU level, the government calls for guidelines to explain in more detail how the competition rules in the Treaty on 
+the Functioning of the European Union and in Sections 6 and 24 of the Dutch Competition Act can be applied and 
+enforced in the digital economy, with a special focus on the role of data, market delineation in multi-sided markets 
+and non-monetary prices.
+• The government calls for the European thresholds for notifying a concentration to be adjusted in such a way that all 
+relevant digital concentrations fall within the regulator’s scope. 
+• The ACM’s dedicated digital competition team, consisting of specialist lawyers, economists and data scientists, is 
+developing expertise on new technologies and business models and their impact on competition analysis, including 
+AI-driven platforms for legal services and the use of algorithms and app stores. 
+• In the spring of 2019, the Netherlands approved the directive for better enforcement and modernisation of 
+consumer protection rules in the EU (COM(2018)185). Pursuant to this directive, consumers should be informed 
+when personalised prices have been generated automatically. The directive is expected to be adopted in the autumn.
+84 On 3 June, Minister for Foreign Trade and Development Cooperation published the Digital Agenda for Foreign Trade and Development 
+Cooperation on this international dimension of AI applications, among other things. 
+60 | Strategic Action Plan for Artificial Intelligence
+Track 3: Strengthening the foundations
+• The Netherlands is actively monitoring developments in IP law and AI, in line with initiatives taken in a European or 
+international context. For example, the Netherlands welcomes the new guidelines regarding the patentability of 
+inventions based on AI, published by the European Patent Office in October 2018.85
+• With the implementation of the new Copyright in the Digital Single Market Directive (2019/790), the Netherlands will 
+create more legal certainty for research organisations (including PPPs) about the extent to which they can carry out 
+text and data mining activities thanks to a broad exception.
+The safety of citizens, businesses and government entities in the Netherlands remains protected
+• The impact of the use of AI on national security is currently being investigated within the framework of the National 
+Security Strategy. 
+• Commissioned by the Cyber Security Council, research is being conducted into the use of new technology – including 
+AI – for cyber defence.
+85 https://www.epo.org/law-practice/legal-texts/html/guidelines2018/e/g_ii_3_3_1.htm
+Strategic Action Plan for Artificial Intelligence | 61
+Appendix 2: Financial resources for AI 
+Dutch public contributions
+The Netherlands invests in fundamental and applied research mainly through instruments with a broad scope, such as 
+the PPP allowance scheme, the SME innovation promotion scheme for the Region and Top Sectors (MIT scheme) and the 
+Research and Development Promotion Act (WBSO). Within these instruments, no funds are earmarked in advance for 
+specific subjects such as AI. In retrospect, it becomes clear how much has been invested in, for example, AI. For example, 
+€19 million was recently allocated to fundamental research at six Dutch universities on how AI can strengthen human 
+intelligence, including in the healthcare sector (part of the Gravity programme).
+The MIT scheme offers SMEs opportunities to finance AI projects. In the 2013-2017 period, the number of AI projects 
+increased to approximately 30 with a total contribution from the Ministry of Economic Affairs of €1.9 million. 
+Within the WBSO, there is also a strong increase in AI-related projects over the 2014-2018 period. 
+In addition, there are specific programmes for research and innovation. For example, the long-term research programme 
+for Big Data is operating in a PPP context, with more than 100 companies (Commit2Data) and with a total value of  
+€51 million in public funds from the Ministry of Education, Culture and Science/NWO, the Ministry of Economic Affairs 
+and Climate Policy and the Ministry of Health, Welfare and Sport (plus €18 million in private funds).
+It is estimated that the national government’s (basic) funding for AI research and innovation totals approximately  
+€45 million a year, including €45 million for AI research and innovation: 
+ • €15 million through the ESA international innovation grant scheme for business participation in EU technology 
+programmes;
+ • The Ministry of Economic Affairs and Climate Policy has provided a total of €11 million for TNO, the use of the  
+PPP allowance and the use of Regional Development Agencies; 
+ • €10 million is available for the Ministry of Defence in AI-related security research by TNO;
+ • A total amount of €5 million is available for other departments, including the Ministry of Justice and Security,  
+the Ministry of the Interior and Kingdom Relations and the Ministry of Agriculture, Nature and Food Quality;
+ • €4 million via the Ministry of Education, Culture and Science and NWO for PPP research.
+In addition, the Ministry of Education, Culture and Science is investing €18 million in a new supercomputer for SURF, 
+which is a prerequisite for AI-driven research. 
+At the beginning of this year, the government set missions for mission-driven innovation policy86 and it has now also 
+drawn up its Knowledge and Innovation Agendas (KIAs) for 2020-2023. AI as key enabling technology is part of that.  
+The allocation of funds to the KIAs for 2020 and beyond is not yet known and will be effected through a Knowledge and 
+Innovation Agreement 2020-2023 (November 2019). 
+The government’s 2019 Spring Memorandum earmarked structural additional resources (€10 million per year) for 
+long-term innovation programmes in the area of key enabling technologies. As promised during the general consultation 
+on innovation of 19 June 2019, your House will be informed annually about the public investments in key technologies.
+At the end of 2019, the Minister of Economic Affairs and Climate Policy will present a broad agenda to strengthen 
+sustainable earning capacity in the long term. Key enabling technologies such as AI are included. The Ministers of 
+Economic Affairs and Climate Policy and of Finance are also investigating the possibility of setting up an investment fund 
+to strengthen earning power and are reporting on this to the House of Representatives at the beginning of 2020. 
+86 Parliamentary Papers 33009 No. 63, No. 70.
+62 | Strategic Action Plan for Artificial Intelligence
+European funds
+The following section discusses the resources available for AI within European programmes. 
+Ongoing European research and development programmes for AI
+Horizon 2020: A total budget of €600 million is available within the European Horizon 2020 framework programme for 
+AI-related activities. Within the Leadership in Enabling and Industrial Technologies (LEIT) ICT programme, for example, 
+approximately €300 million in EU support is available for AI excellence centres, AI on demand platforms, AI for manufac-
+turing, big data technologies, blockchain, robotics and the Internet of Things. In the other Horizon 2020 work 
+programmes on Nanotechnologies, Advanced Materials, Biotechnology and Advanced Manufacturing and Processing 
+(NMBP), Space and Societal challenges, approximately €300 million is available for AI research and development (R&D). 
+The Erasmus+ exchange programme is also important in this regard.
+EUREKA87: 
+ • The ITEA cluster programme (software-intensive systems) is already largely focused on AI (perception, advanced user 
+interfaces, command/control, deep learning and digital twin). In the ITEA Call 2018, 10 of the 17 labelled projects are 
+AI-related. An example is the use of AI for clinical medical applications. 
+ • The PENTA programme (micro-electronics) focuses increasingly on AI. Of the fourteen projects labelled in Calls 1-3, five 
+are aimed at AI. The number of AI projects in the current Call 4 is increasing. 
+Future research for AI through Horizon Europe and Digital Europe 
+Europe aims to catch up in the field of research and development for AI and calls on the Member States to do the same.88 
+The Netherlands has previously supported this call through the Declaration of Cooperation on AI.
+ 
+For the EU’s next long-term budget (2021–2027), the EU has proposed to invest a minimum of €7 billion from the new 
+European Horizon Europe programme and the Digital Europe Programme in AI. This year, the European Commission will 
+present a common Strategic Research and Innovation Agenda for AI (to be launched in 2020). Horizon Europe is 
+expected to include the Joint Undertaking Electronics Components and Systems for European Leadership (ECSEL) 2, with 
+an increased focus on AI. European industry has indicated that it aims to double the size of the Joint Undertaking. 
+EUREKA: The EUREKA cluster programmes ITEA (software-intensive systems) and PENTA (micro-electronics) expire in 
+2020 and are expected to be succeeded by new clusters that will focus on AI in a coordinated manner. As part of its 
+chairmanship of EUREKA, the Netherlands is endeavouring to realise a review and renewal of the EUREKA cluster 
+programmes, with a focus on AI. 
+For the co-financing of the participation of Dutch companies and knowledge institutions in strategic, large-scale 
+European R&D cooperation programmes via the Joint Technology Initiative (JTI) ECSEL (Horizon 2020) and the EUREKA 
+cluster programmes ITEA and PENTA, an amount of approximately €40 million per year is available in national funds.  
+The Brussels co-financing amounts to approximately €20 million per year. Through the JTI ECSEL and the EUREKA cluster 
+programmes ITEA and PENTA, AI R&D projects with Dutch participation are supported. This means that a total of  
+€60 million is available to support the R&D of Dutch companies and knowledge institutions. 
+Supplementary to the above-mentioned instruments, other means are being sought to stimulate Dutch R&D activities in 
+AI. Dutch industrial companies are currently drafting joint investment proposals for research and innovation in this area. 
+This concerns, for example, the participation of Dutch companies and knowledge institutions in related EU (ECSEL 2) and 
+EUREKA initiatives. The use of Dutch resources in a tripartite JTI results in European co-financing that is equal to the 
+national resources deployed.
+87 EUREKA is the European Research Coordination Agency.
+88 European Commission, ‘EU Coordinated Plan on AI’, 7 December 2018.
+Strategic Action Plan for Artificial Intelligence | 63
+Dit is een uitgave van:
+Ministerie van Economische Zaken en Klimaat
+october 2019 | 122801

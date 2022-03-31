@@ -1,0 +1,657 @@
+Strategia Nazionale
+per l’Intelligenza Artificiale
+Settembre 2020
+
+I PRINCIPI GUIDA ........................................................................................................5
+I SETTORI PRIORITARI .................................................................................................6
+1. L’IA PER IMPRESE PIÙ COMPETITIVE .....................................................................7
+2. L’IA PER UNA PUBBLICA AMMINISTRAZIONE PIÙ MODERNA ..............................9
+3. L’IA PER CITTADINI CONSAPEVOLI E RAFFORZATI ...............................................12
+4. COMPETENZE ........................................................................................................14
+5. DATI .......................................................................................................................16
+6. RISORSE E GOVERNANCE  .....................................................................................18
+CONCLUSIONI ...........................................................................................................20
+INDICE
+5
+Strategia Nazionale
+per l’Intelligenza Artificiale
+I PRINCIPI GUIDA 
+Obiettivo della Strategia Nazionale è delineare un piano coerente per consentire all’Italia di 
+massimizzare i benefici e minimizzare i costi derivanti dal più importante cambio di paradigma 
+tecnologico dei nostri tempi. 
+Questo piano ha precisi ancoraggi.
+Il primo è quello europeo, secondo le linee del Libro Bianco sull’Intelligenza Artificiale della 
+Commissione europea. La Strategia Nazionale si inserisce nel quadro del Piano Coordinato Europeo 
+per l’Intelligenza Artificiale, e va collocata nell’ambito di un’azione sinergica tra Stati membri 
+dell’Unione europea e istituzioni comunitarie. Nasce quindi dalla consapevolezza che solo con 
+azioni comuni e coordinate l’Europa potrà competere con i Paesi più avanzati, a partire da Stati 
+Uniti e Cina, che negli ultimi anni e ancora oggi investono decisamente di più rispetto al nostro 
+continente. 
+In questo senso, ed è il suo secondo ancoraggio, questo lavoro va ricondotto alla riflessione nei 
+fori internazionali di discussione e negoziazione: a partire dal confronto in sede UE e OCSE e dalla 
+cooperazione nell’ambito del G7 e del G20, nel cui ambito è stata di recente lanciata la Global 
+Partnership on AI, alla quale l’Italia partecipa insieme ad altri 13 Stati e all’Unione Europea. 
+Il terzo sono i principi dell’antropocentrismo, dell’affidabilità e della sostenibilità. L’IA deve essere 
+al servizio delle persone, garantendo una supervisione umana, prevenendo i rischi di inasprimento 
+degli squilibri sociali e territoriali potenzialmente derivanti da un suo utilizzo inconsapevole o 
+inappropriato. L’IA deve essere progettata e realizzata in modo affidabile e trasparente, per una 
+sua accettabilità consapevole e una intrinseca robustezza affinché sia adottabile in ogni ambito 
+produttivo e capace di rispondere alle sfide sociali del nostro Paese. L’IA deve generare opportunità 
+di crescita e di benessere per tutti gli individui, in linea con i principi contenuti nell’articolo 3 della 
+Costituzione italiana e gli Obiettivi di Sviluppo Sostenibile delle Nazioni Unite (ONU). Deve essere 
+essa stessa una tecnologia sostenibile e fornire strumento per la sostenibilità ambientale, economica 
+e sociale.
+Il quarto fattore di ancoraggio è la consapevolezza della necessità di un grande patto tra pubblico e 
+privato per rispondere alle sfide che lo sviluppo di una IA italiana ci pone, trovando le opportune 
+sinergie tra investimenti pubblici e privati, tra enti di ricerca pubblici e imprese, al fine di conseguire 
+una sufficiente massa critica per partecipare con prospettive di successo alla partita che si sta 
+giocando a livello internazionale. 
+Sinergia con l’azione europea, collaborazione internazionale, partenariato pubblico-privato e 
+sostenibilità, rappresentano, quindi, i punti cardinali che guideranno il Governo nell’attuazione 
+della Strategia Nazionale.  
+76
+Strategia Nazionale
+per l’Intelligenza Artificiale
+I SETTORI PRIORITARI 
+Tenendo conto della specializzazione produttiva italiana e della società italiana nel suo complesso, 
+sono sette i settori prioritari per le azioni contenute nella Strategia Nazionale: 
+1. Industria e manifattura: l’IA potrà permettere al settore manifatturiero, secondo in Europa 
+e settimo nel mondo, di introdurre innovazioni di processo e di prodotto, che consentano al 
+Made in Italy di mantenere e in alcuni casi aumentare la propria competitività internazionale, 
+coniugando tradizione ed innovazione (es. robotica intelligente per il controllo di processi 
+industriali, l’embedded AI per il settore automotive e non solo, e più in generale applicazioni di 
+IA per IoT, smart objects e Made in Italy intelligente).
+2. Agroalimentare: l’IA può essere sfruttata per ottimizzare la produzione e la distribuzione di 
+cibo evitando sovrapproduzioni e sprechi, nonché per la sicurezza alimentare e per l’agricoltura 
+di precisione (es. monitoraggio delle coltivazioni e delle condizioni del suolo, previsione dei 
+raccolti in relazione alle condizioni ambientali e meteorologiche, anche utilizzando dati 
+satellitari, ottimizzazione dei processi di lavorazione, conservazione e trasporto degli alimenti).
+3. Cultura e turismo: le tecnologie IA possono giocare un ruolo cruciale per la conservazione e tutela 
+dei beni culturali e paesaggistici nonché per la loro valorizzazione e il turismo  in stretta sinergia 
+tra industrie culturali e creative, produttori, gestori e fruitori di beni culturali (es. monitoraggio 
+continuo e interventi di restauro preventivo dei beni culturali; monitoraggio e sistema di alert dei 
+beni paesaggistici; profilazione dei clienti e personalizzazione dei servizi per soddisfare meglio la 
+domanda, visite virtuali delle mete turistiche per la scelta della destinazione, traduttori simultanei 
+per la descrizione dei luoghi e dei monumenti visitati, servizi geolocalizzati per i turisti).
+4. Salute e benessere: l’emergenza Covid-19 ha reso evidente il contributo che possono fornire le 
+tecnologie digitali nel miglioramento delle misure di sanità. In questo campo, dalla ricerca – in 
+ambiti, ad esempio, quali la genomica e la diagnostica per immagini – allo sviluppo di nuovi 
+farmaci e vaccini al tracciamento e alla cura delle persone, al supporto alla diagnosi e prognosi, 
+le applicazioni dell’IA sono moltissime e permettono sia di dare impulso all’innovazione di 
+prodotto e di processo, grazie allo scambio e all’aggregazione di informazioni oggi disperse in 
+una pluralità di banche dati pubbliche e ampiamente sottoutilizzate, sia di soddisfare i nuovi 
+bisogni derivanti dall’invecchiamento della popolazione e di incrementare l’inclusione sociale 
+di categorie di cittadini svantaggiati.
+5. Ambiente, infrastrutture e reti: l’impiego di soluzioni AI può avere impatti significativi per 
+ottenere risparmi nell’impiego delle risorse (acqua, energia elettrica e gas naturale), una 
+riduzione delle emissioni inquinanti (es. monitoraggio e gestione intelligente delle reti e dei 
+consumi), un potenziamento dell’economia circolare (es. monitoraggio e gestione predittiva 
+del ciclo dei rifiuti) e una migliore prevenzione dei disastri naturali (es. analisi situazionale e 
+predittiva del dissesto idrogeologico).
+6. Città intelligenti: l’IA ha grandi potenzialità per rivoluzionare le metodologie di gestione sostenibile 
+e di innovazione del tessuto urbano:  può imparare sulla base dei dati di geolocalizzazione e di quelli 
+forniti da sensori come le persone utilizzano i diversi servizi cittadini e fornire previsioni ed analisi 
+utili per ottimizzarne l’offerta e/o la domanda, migliorando la sicurezza ed il benessere dei cittadini 
+e riducendo i costi (es. parcheggi intelligenti, gestione del traffico e controllo della segnaletica, 
+sistemi per la gestione dei veicoli a guida autonoma, gestione dell’illuminazione e ottimizzazione 
+dei trasporti pubblici, nonché monitoraggio dello stato di salute di costruzioni, ponti e palazzi).
+7. Pubblica amministrazione: l’IA permette semplificazioni e ottimizzazioni dei processi burocratici, 
+offrendo servizi migliori a cittadini e imprese e diminuendo i costi a parità di prestazioni (es. gestione 
+dei flussi, assistenti virtuali e chatbot, analisi predittiva dei rischi di impresa e supporto all’esame 
+delle domande di incentivo, lotta all’evasione fiscale e ad altre forme di illegalità, valutazione 
+delle politiche passate e analisi d’impatto delle sperimentazioni); inoltre, con le sue banche dati 
+e strumenti innovativi di acquisto, investimento e regolazione,  la PA è chiamata a svolgere un 
+ruolo da protagonista attivo della rivoluzione IA, abilitando il settore privato, secondo un rapporto 
+trasparente e a beneficio della collettività (es. dati aperti, strumenti di geolocalizzazione, acquisto 
+di prodotti e servizi IA, fondi per l’IA, sperimentazioni di soluzioni IA). 
+1. L’IA PER IMPRESE PIÙ COMPETITIVE 
+Un punto di partenza deve essere chiaro. L’impatto dell’IA sulle imprese sarà di enorme rilevanza e 
+dovrà riguardare tutte le imprese, nessuna esclusa. 
+Sì, perché l’IA implica una vera e propria rivoluzione del loro modus operandi: sia nei processi 
+interni, sia nei rapporti con clienti e fornitori. 
+E così sul piano interno, consentirà, ad esempio, una migliore gestione della liquidità, l’ottimizzazione 
+dei rischi e una più pronta capacità di cogliere i cambiamenti; per i macchinari sarà possibile una 
+programmazione della loro manutenzione, senza aspettare malfunzionamenti che bloccherebbero 
+la produzione; per la produzione stessa offrirà nuovi strumenti per coadiuvare i progettisti nella fase 
+di realizzazione e di testing (ad esempio con l’obiettivo di minimizzare i difetti) e per il risparmio di 
+risorse naturali e di energia. E lo stesso tipo di cambiamenti nei rapporti con l’esterno. L’IA consente 
+di conoscere meglio le preferenze dei clienti e di differenziare il prodotto, aumentando flessibilità 
+produttiva e abilità manifatturiera. Una possibilità che ha un valore speciale per l’industria italiana: 
+capace di esaltare caratteristiche del nostro sistema produttivo, arrivando a una personalizzazione 
+dei beni immessi sul mercato, insieme ad una maggiore qualità e connubio creativo-tecnologico del 
+Made-in-Italy e un più elevato contenuto tecnologico.  
+Se queste sono le prospettive che si aprono, per raggiungerle dobbiamo affrontare i nostri ritardi, 
+determinati dalla combinazione di limitati investimenti pubblici e privati, insufficiente dimensione 
+del trasferimento tecnologico, ostacoli ai processi di crescita di startup e PMI innovative. 
+Per questo, oltre al rafforzamento dell’ecosistema della ricerca e produzione di tecnologie IA, 
+obiettivo prioritario della Strategia Nazionale è accelerare la trasformazione digitale del nostro 
+sistema di impresa attraverso l’adozione di soluzioni IA. Un obiettivo che deve vedere superati 
+ostacoli di carattere organizzativo e culturale prima ancora che tecnologico. 
+98
+Strategia Nazionale
+per l’Intelligenza Artificiale
+È questo il terreno di intervento sul quale lo Stato, con il concorso di attori pubblici e privati, 
+concentrerà il massimo sforzo, con un’attenzione particolare alle aziende più piccole e a quelle 
+attive nei contesti geografici più periferici e svantaggiati.
+OBIETTIVI:
+1.A Accelerare la trasformazione digitale delle imprese, supportando l’adozione dell’IA (librerie 
+software di machine learning, sistemi di visione e di elaborazione del linguaggio naturale, 
+sensori e strumenti corredati con edge-AI) e delle tecnologie di base e correlate (es. cloud, 
+IoT, blockchain, ecc.).
+1.B Sostenere il cambiamento organizzativo, in particolare nelle PMI (anche con l’inserimento di 
+figure specifiche competenti nei settori IA).
+1.C Stimolare le attività di formazione e assistenza dei Competence Center e dei Digital Innovation 
+Hub e la loro specializzazione anche nelle tecnologie IA.   
+1.D Sostenere programmi di innovazione aperta sull’IA che coinvolgano imprese tradizionali e PMI. 
+1.E Rafforzare il trasferimento tecnologico dai laboratori universitari e dai centri di ricerca alle imprese.
+1.F Favorire in ambito europeo la nascita di filiere IA con la partecipazione di imprese italiane.    
+1.G Promuovere la nascita e la crescita di startup innovative specializzate in IA.
+INIZIATIVE:
+1.1 CAMPAGNA DI INFORMAZIONE DELLE PMI
+ Sarà promossa una campagna di comunicazione e sensibilizzazione su potenzialità e rischi 
+connessi all’IA, nella quale sarà divulgata la Strategia Nazionale agli imprenditori e ai manager 
+delle piccole e medie aziende, attraverso l’organizzazione di azioni di sensibilizzazione e 
+informazione presso le associazioni di categoria, i Competence Center e i Digital Innovation Hub. 
+1.2 RAFFORZAMENTO COMPETENZE MANAGERIALI DELLE PMI 
+ Riconoscimento di crediti fiscali per i costi legati alla partecipazione del management delle 
+PMI a corsi executive in tecnologie IA e loro impiego erogati da soggetti riconosciuti.
+1.3 FORMAZIONE E CONSULENZA ALLE PMI
+ Estensione del credito d’imposta per la formazione anche all’IA e potenziamento dello strumento 
+dei voucher per l’acquisizione di consulenze di manager specializzati nell’innovazione digitale. 
+Sono previsti in particolare un rifinanziamento e potenziamento di tali misure, incentivi al loro 
+utilizzo, monitoraggio e valutazione dei risultati.
+1.4 INCREMENTO TRASFERIMENTO TECNOLOGICO ALLE PMI
+ Introduzione di un sistema di voucher attribuito alle imprese che vogliono acquisire servizi di 
+consulenza da parte di incubatori con competenze riconosciute nel trasferimento di tecnologie IA 
+e dai centri di trasferimento tecnologico universitari.
+1.5 SOSTEGNO ALLA COLLABORAZIONE TRA IMPRESE
+- Incentivi finanziari ad hoc per reti di imprese che mettano in comune risorse (es. esperti di 
+IA e data analysis, dataset annotati, macchine e altre risorse computazionali).
+- Adattare lo strumento dei contratti di rete alle nuove sfide dell’IA (es. condivisione dei dati). 
+1.6 BANDI PER NUOVE SOLUZIONI IA
+ Promozione di challenge (sfide tecnologiche) periodiche che coinvolgano il mondo della 
+ricerca e dell’industria per lo sviluppo di progetti specifici, su tematiche selezionate sulla base 
+di una griglia di priorità. Le prime due challenge, che costituirebbero progetti pilota per testare 
+la metodologia, saranno legate a componenti e oggetti intelligenti (inclusi sistemi embedded, 
+automazione e robotica) e alle esigenze della Pubblica Amministrazione (ad esempio, il 
+registro delle imprese). Saranno previsti finanziamenti per la preparazione e la verifica dei 
+risultati delle challenge.
+ Sostegno agli investimenti materiali e immateriali per puntare sulle eccellenze nazionali 
+(es. robotica, embedded AI, sistemi raccolta e elaborazione dati) attraverso strumenti quali 
+l’Accordo di Innovazione.
+1.7 RIFINANZIAMENTO CENTRI DI COMPETENZA 
+ Rifinanziare i Competence Center, prevedendo una specializzazione che contempli l’impiego di 
+tecniche IA.
+1.8 PARTECIPAZIONE ITALIANA A PROGETTI EUROPEI IN AMBITO IA 
+ Promozione della partecipazione delle imprese italiane ai progetti importanti di interesse 
+comune europeo (IPCEI) per rafforzare lo sviluppo di tecnologie IA in Italia, in particolare nei 
+settori prioritari individuati dalla Strategia.
+1.9 PROMOZIONE DELLA SPERIMENTAZIONE DI TECNOLOGIE IA 
+- Introduzione di strumenti (regulatory sandboxes) che autorizzino, a fronte di benefici 
+potenziali di interesse generale, specie nei settori prioritari della Strategia Nazionale, 
+sperimentazioni controllate di prodotti IA con conseguenti eccezioni regolamentari di durata 
+e perimetro limitati, prima dell’eventuale immissione sul mercato, all’esito positivo di una 
+valutazione rigorosa, basata su criteri trasparenti. Perseguono lo stesso obiettivo le misure 
+previste dalla disposizione c.d. “Diritto a Innovare”, introdotta con la legge n. 120/2020.
+- Realizzazione di reference testing and experimentation facilities per le nuove tecnologie, 
+selezionando soggetti che possano ospitarle. 
+- Introduzione di strumenti che facilitino l’accesso di PMI, startup, enti di ricerca e università 
+a infrastrutture di sperimentazione di tecnologie IA.
+- Promozione di attività di sperimentazione internazionale, soprattutto orientate alla sinergia 
+tra PMI, startup ed enti di ricerca, attraverso azioni bilaterali con Paesi UE ed extra-UE 
+tecnologicamente avanzati.
+- Definizione di strumenti che facilitino l’adozione e la produzione di soluzioni IA per mitigare le 
+diversità di genere, a favore della crescita della imprenditorialità femminile, del miglioramento 
+delle condizioni di lavoro femminile e della formazione tecnologica paritaria tra i generi.  
+2. L’IA PER UNA PUBBLICA AMMINISTRAZIONE PIÙ MODERNA 
+La transizione verso il nuovo paradigma tecnologico basato sull’IA tocca l’amministrazione sotto più 
+aspetti e sarà elemento centrale della trasformazione amministrativa.  
+1110
+Strategia Nazionale
+per l’Intelligenza Artificiale
+Vi sono, innanzitutto, quelli, appena esaminati, di accompagnamento delle imprese e più in generale 
+di tutte le organizzazioni che intraprendano il percorso di trasformazione richiesto dall’IA. Un’azione 
+che si muove sia sul piano culturale – per aumentare la partecipazione e la fiducia dei cittadini 
+sul tema – sia su quello dei concreti strumenti di supporto e della definizione di regole del gioco 
+coerenti con il quadro europeo che si va componendo. 
+C’è, poi, un secondo aspetto, altrettanto importante. Ed è quello che vede la PA ‘destinataria’ delle 
+attività di IA. È un passaggio per l’Italia più importante che per altri Paesi. Grazie all’IA, infatti, la 
+PA italiana ha l’occasione di affrontare un processo di modernizzazione non più eludibile: significa 
+dotarsi di un’organizzazione più razionale, offrire a cittadini e imprese servizi più efficienti e di 
+migliore qualità. L’utilizzo dell’IA permette, infatti, alle pubbliche amministrazioni di adeguare 
+e personalizzare l’offerta di specifici servizi in base alla capacità di prevederne la domanda. In 
+qualche modo di umanizzare l’azione pubblica: sia definendola in linea con le esigenze concrete 
+del cittadino, sia permettendo una maggiore eguaglianza e trasparenza.  Si pensi ad esempio ai 
+servizi di IA per la gestione semi-automatica delle pratiche, per una migliore analisi delle esigenze 
+dei cittadini, per l’offerta di servizi innovativi, anche attraverso l’elaborazione e la generazione del 
+linguaggio naturale. I servizi pubblici possono essere completamente rivoluzionati dall’applicazione 
+massiva di soluzioni IA, anche attraverso progetti di interesse nazionale, quali un catasto basato sul 
+riconoscimento di immagini satellitari.
+ 
+E così nella sanità, l’IA può rivoluzionare l’intera filiera, dalla ricerca e sviluppo di farmaci più efficaci, 
+alla medicina di precisione, che consente di individuare per ciascun paziente la cura più adeguata. 
+O, ancora, nelle politiche pubbliche sono a portata di mano strumenti di contrasto all’evasione e 
+ad altre forme di illegalità che limitano la discriminazione, anche involontaria, frutto di valutazioni 
+esclusivamente umane. Semplici esempi, sufficienti a capire, però, la profondità della rivoluzione 
+che attende la ‘macchina pubblica’ ed il suo ruolo centrale in questa trasformazione.  
+Tanto più che la pubblica amministrazione può divenire un vero e proprio driver di sviluppo dell’IA, 
+grazie ai dati che produce o di cui dispone, a un acquisto di beni o servizi più innovativo.  Da un 
+lato, è quindi essenziale rendere effettivamente utilizzabile, nel rispetto dei principi di privacy by 
+design, il patrimonio di dati di cui dispongono le amministrazioni pubbliche, chiamandole a forme 
+di aggregazione in data lake. Allo stesso tempo, la disponibilità di dati è una condizione necessaria, 
+ma non sufficiente per concepire una PA di nuova generazione. Per farlo occorre che essa si doti di 
+competenze, procedure e strumenti adeguati.
+OBIETTIVI:
+2.A Massimizzare l’utilizzabilità in ambito IA dei dati pubblici da parte della PA ma anche di privati 
+(nel caso sussista un ritorno significativo per la PA stessa e/o i cittadini).
+2.B Completare la piattaforma unica di dati della PA, gestita con i più elevati standard di sicurezza.
+2.C Incrementare le competenze digitali dell’attuale personale della PA e immettere nuove 
+professionalità in materia di IA e analisi dei dati.
+2.D Agire in ambito europeo per la creazione di uno Spazio Comune dei dati della PA, previsto 
+dalla Strategia europea dei dati, favorendo la creazione di piattaforme italiane per lo scambio 
+federato di informazioni anonimizzate. 
+INIZIATIVE:
+2.1 SPAZIO COMUNE DEI DATI DELLA PA 
+ Accelerare la realizzazione di una piattaforma unica che riduca radicalmente la frammentazione 
+esistente e consenta la disponibilità di dati completi e interoperabili per settore e funzione, 
+migliorando la base informativa della PA (politiche data-driven) e offrendo a soggetti esterni 
+la possibilità di riutilizzarli, laddove possibile. La piattaforma nazionale dovrà essere la base 
+per la partecipazione dell’Italia allo Spazio comune europeo dei dati della PA, previsto dalla 
+Strategia europea dei dati. 
+2.2 OPEN DATA 
+- Definizione di linee guida per Open Data riutilizzabili per modelli IA, con dataset di 
+grandissime dimensioni ed annotati, da utilizzarsi anche in fase di progettazione e 
+realizzazione di nuovi algoritmi e sistemi di IA di produzione italiana, rilasciati dalle diverse 
+amministrazioni, garantendo standard comuni per forma, struttura e granularità nonché 
+protocolli di compliance con la normativa nazionale e UE. 
+- Priorità ad attuazione delle norme già esistenti, stabilendo meccanismi di premialità nei 
+confronti di singoli dirigenti delle PA in base alla conformità delle banche dati sotto la propria 
+responsabilità ai criteri indicati. 
+- Incentivazione di soluzioni di crowdsourcing e di partenariato pubblico-privato per la creazione 
+di dati comuni da utilizzare nella realizzazione di una IA made-in-Italy (ad esempio, attraverso 
+campagne di raccolta di immagini paesaggistiche ed ambientali o relative a beni culturali, strade 
+e luoghi pubblici per aiutare le PA a definire azioni efficaci di prevenzione e manutenzione)
+2.3 RAFFORZAMENTO DELLE COMPETENZE DELLA PA 
+- Assunzioni di figure specializzate in scienze e tecnologie informatiche e analisi dei dati.
+- Promozione di accordi con università ed enti di ricerca per consulenze su analisi data-driven, 
+alla base delle scelte di policy e per il monitoraggio delle stesse.
+- Promozione di corsi di formazione su temi di IA e tecnologie collegate all’interno della PA, 
+coprendo almeno la metà dei dipendenti pubblici entro al massimo 3 anni.
+2.4 APPALTI INNOVATIVI
+- Stanziamento di risorse dedicate ad appalti per soluzioni innovative basate sull’IA che 
+contribuiscano al raggiungimento degli obiettivi nazionali nell’ambito delle politiche di 
+sostenibilità. L’introduzione di servizi e processi innovativi incide positivamente sulle attività 
+quotidiane dei cittadini.
+- Promozione di attività pubbliche per la fornitura di dati e la progettazione di challenge 
+specifiche per il testing di servizi innovativi, con collaborazione tra PA ed enti di ricerca e 
+supporto a startup.
+- Promozione dell’utilizzo di applicazioni di IA nella gestione di procedimenti amministrativi e 
+di servizi, compresi quelli di natura giurisdizionale.
+2.5 PARTENARIATO PUBBLICO-PRIVATO
+ Semplificazione procedure per accordi tra amministrazioni pubbliche e imprese per l’addestramento 
+e la sperimentazione di soluzioni IA basate su dati in possesso delle amministrazioni, prevedendo, 
+in capo alle imprese, obblighi di condivisione delle metodologie e dei risultati e vincoli al riutilizzo 
+dei dati per altri scopi, sempre nel rispetto delle norme sulla privacy.  
+1312
+Strategia Nazionale
+per l’Intelligenza Artificiale
+3. L’IA PER CITTADINI CONSAPEVOLI E RAFFORZATI
+Già oggi l’IA è nelle nostre vite. Gli assistenti vocali, le raccomandazioni di acquisto basate sulle 
+nostre scelte recenti, gli algoritmi di ricerca sul web, i traduttori online, i sistemi di riconoscimento 
+di targhe dei veicoli ne sono solo alcune delle applicazioni più evidenti. Ce ne sono delle altre di cui 
+siamo meno consapevoli ma che portano concreti benefici nelle vite di ognuno di noi: pensiamo 
+ai sistemi utilizzati dalle banche e dalle carte di credito che hanno consentito una prevenzione 
+più efficace delle frodi. All’orizzonte, poi, ci sono le innovazioni più disruptive, come gli oggetti 
+intelligenti indossabili, la guida autonoma o robot che ci aiuteranno nelle nostre attività quotidiane. 
+Perché questi enormi benefici possano distribuirsi nella società senza accrescere le attuali 
+disuguaglianze e con un’attenta valutazione e mitigazione dei rischi associati, l’IA deve affermarsi in 
+un ecosistema basato sulla fiducia e il coinvolgimento dei cittadini.
+Per assicurare questo risultato, è necessario un mix di azioni. 
+In primo luogo, è necessario stabilire un insieme di regole, da sviluppare in ambito europeo, 
+che garantiscano un IA a misura di cittadino - minimizzando rischi di discriminazione o di errore, 
+assicurando un livello adeguato di trasparenza a beneficio dei consumatori, prevedendo una 
+chiara attribuzione delle responsabilità in caso di errori o guasti. Oltre a questo quadro regolatorio 
+comune a livello europeo, è essenziale garantire sul piano nazionale una sua applicazione rigorosa, 
+a tutela di cittadini e imprese. Si segnala, a tale proposito, che il Piano “Italia 2020 – Strategia per 
+l’innovazione tecnologica e la digitalizzazione del Paese”, promosso dal Ministero per l’Innovazione 
+tecnologica e la digitalizzazione, prevede la creazione di  una “Alleanza per l’intelligenza artificiale 
+sostenibile” con l’obiettivo, tra gli altri, di individuare una serie di principi-guida fondamentali e di 
+regole minime per la qualificazione di soluzioni di I.A. destinate sia al settore pubblico sia a quello 
+privato. È necessario, dunque, dotarsi, coerentemente con la regolazione europea, di uno o più 
+soggetti – adeguatamente organizzati – che vigilino sulla conformità alle norme delle applicazioni IA 
+e reprimano eventuali abusi. 
+In parallelo, le aziende dovranno adottare un approccio trasparente, rendendo i cittadini 
+consapevoli dell’utilizzo di prodotti basati sull’IA e sui benefici e possibili rischi derivanti dal loro 
+uso. È necessario, insomma, che ogni soggetto della filiera prenda in carico la mitigazione dei rischi 
+di propria competenza. 
+Infine, lo Stato deve assicurare a tutti la possibilità di informarsi e accrescere le proprie competenze 
+in materia di IA senza costi proibitivi, almeno per una conoscenza di base. I cittadini e le terze 
+parti devono, inoltre, essere attivamente coinvolti nelle decisioni inerenti l’IA di carattere etico. 
+Non si tratta naturalmente di sostituire i decisori o di deresponsabilizzarli, ma di assisterli nelle 
+scelte con canali di confronto di facile accessibilità e la più ampia diffusione delle informazioni. In 
+questo disegno di sensibilizzazione della cittadinanza attorno ai temi dell’IA, particolare attenzione 
+va rivolta alle categorie più svantaggiate, affinché l’IA rappresenti un’effettiva opportunità per 
+alleviare criticità che sperimentano quotidianamente nella vita privata e professionale. 
+OBIETTIVI:
+3.A Contribuire attivamente in ambito UE al processo di regolazione che seguirà la pubblicazione 
+del Libro Bianco della Commissione europea e al dibattito internazionale sull’etica dell’IA.
+3.B Promuovere un approccio da parte dei fornitori di tecnologie IA basato non solo sul principio 
+ethics by design ma anche trustworthiness by governance, in grado di assicurare l’affidabilità 
+nell’intero ciclo del prodotto IA, sia che si tratti di sistemi statici, che una volta addestrati sono 
+deterministici nella loro fase esecutiva, sia ancor di più che si tratti di sistemi ad apprendimento 
+ed evoluzione continua.
+3.C Garantire un uso consapevole e informato dell’IA da parte dei cittadini e favorirne la 
+partecipazione alle principali scelte di policy.
+3.D Mitigare i rischi dell’IA e dei rapporti commerciali ad esso correlati, aumentando le tutele per 
+i consumatori. 
+3.E Promuovere un’agenda di maggiore inclusione sociale grazie alle tecnologie IA. 
+INIZIATIVE:
+3.1 PROMOZIONE DI CAMPAGNE INFORMATIVE PER SENSIBILIZZARE LA POPOLAZIONE SU 
+CARATTERISTICHE, OPPORTUNITÀ E RISCHI DELL’IA
+ In linea con quanto promosso da diversi Stati membri dell’Unione Europea, si svilupperanno 
+campagne di sensibilizzazione e divulgazione, anche attribuendo un ruolo alla RAI, con 
+programmi e contenuti multimediali e multipiattaforma che affrontino le tematiche digitali 
+e diano risposte semplici e pratiche alle domande dei cittadini. Si promuoveranno, inoltre, 
+iniziative e attività per salvaguardare i cittadini dai potenziali usi impropri dell’I.A.
+3.2 PIANO IA PER I CONSUMATORI
+ Predisposizione di un piano d’azione per i consumatori di IA con le necessarie modifiche 
+legislative per adeguare il quadro di protezione dei consumatori alla nuova realtà di mercato, 
+in sinergia con l’evoluzione del quadro normativo comunitario.
+3.3 TUTELA CONTRATTUALE DEI CONSUMATORI 
+ Creazione di standard per i contratti rivolti ai consumatori, nei quali sarà necessaria, in ossequio 
+ai principi generali del diritto dei consumatori, oltre a informazioni esaustive, l’elaborazione 
+di schemi contrattuali che tutelino la parte debole del rapporto contrattuale e commerciale, 
+ossia il fruitore/consumatore/non professionista. 
+3.4 ASSICURAZIONE OBBLIGATORIA
+ Introduzione di un regime di assicurazione obbligatoria, per coprire eventuali responsabilità 
+da danni derivanti dall’impiego di tecnologie IA, sul modello della RC auto, cui affiancare un 
+fondo nazionale che subentri in caso di assenza di copertura assicurativa.
+3.5 COMPOSIZIONE DELLE CONTROVERSIE
+ Incentivazione allo sviluppo da parte di imprese e organizzazioni di consumatori di meccanismi 
+di composizione stragiudiziale delle controversie basati su tecnologia IA che, prendendo le 
+mosse dall’attuale disciplina delle pratiche commerciali scorrette, rendano più dinamica ed 
+efficiente la sinergia tra esecuzione pubblica e privata dei diritti di cittadini e consumatori e 
+garantisca a questi ultimi compensi semiautomatici in caso di lesioni. 
+1514
+Strategia Nazionale
+per l’Intelligenza Artificiale
+3.6 COSTITUZIONE PIATTAFORMA PER LA CONSULTAZIONE DEI CITTADINI 
+ Alcune scelte di policy in materia tecnologica hanno implicazioni etiche notevoli. A tal fine sarà 
+istituita una piattaforma simile alla AI Alliance europea a livello nazionale, da utilizzare come 
+strumento di consultazione permanente su temi etici e  sociali inerenti l’IA e le tecnologie ad 
+essa connesse. 
+3.7 L’IA A SUPPORTO DELLE PERSONE DISABILI E DEI SOGGETTI PIÙ FRAGILI 
+ Nell’ambito di un utilizzo dell’IA per gli obiettivi di sviluppo sostenibile, sarà prevista 
+un’attenzione particolare ai possibili utilizzi dell’IA nel favorire l’accesso delle persone disabili 
+e dei soggetti più fragili ai servizi digitali. In particolare possono essere previste challenge 
+specifiche per lo sviluppo di tecnologie abilitanti e l’utilizzo di sistemi di profilazione e matching 
+delle competenze, per migliorare la capacità di queste categorie di utilizzare le tecnologie 
+digitali, in particolare quelle basate sull’IA.
+4. COMPETENZE 
+Tutte le rivoluzioni tecnologiche implicano enormi trasformazioni nel mercato del lavoro: con 
+impatti sia positivi, sia negativi. Se l’IA non fa eccezione, la missione dei prossimi anni è formare 
+figure professionali con competenze adeguate ai cambiamenti imposti dall’AI. 
+Sono due le direttrici del lavoro del Governo: una verticale e una orizzontale.
+La prima è quella di formare, fin dai corsi di laurea delle università, un numero sufficiente di figure 
+qualificate esperte di IA e delle tecnologie correlate e di favorirne l’inserimento sul mercato del 
+lavoro. Un passaggio essenziale per la competitività del tessuto produttivo italiano. E, allo stesso 
+tempo, un freno alla fuga dei cervelli all’estero, con una maggiore attrattività dell’Italia per talenti 
+provenienti dall’estero. Specifica attenzione, proprio per garantire il raggiungimento di una piena 
+eguaglianza e di uno sviluppo sostenibile, sarà posta al tema della parità di genere e dell’adeguata 
+partecipazione femminile alla principale trasformazione tecnologica in atto. 
+In parallelo, è di cruciale importanza che i curriculum scolastici e universitari siano aggiornati 
+per insegnare ai lavoratori di domani, a prescindere dal proprio ambito di specializzazione, come 
+interagire con le macchine e affinare le competenze più difficilmente rimpiazzabili dagli algoritmi. 
+Più in generale, la scuola soprattutto dovrà porre le basi per sviluppare le conoscenze digitali di 
+base, accompagnate da un adeguato pensiero critico, dei cittadini di domani.
+Inoltre, pensando a chi è già nel mercato del lavoro, va trasformato il sistema di formazione per 
+affrontare l’impatto dell’IA su settori e professioni. Sarà cruciale garantire una formazione continua 
+sia per aumentare le competenze attuali dei lavoratori (upskilling), sia per aggiornarle in caso di 
+riallocazione delle risorse umane (reskilling). Solo con una manutenzione costante del capitale 
+umano lungo l’intero arco professionale, si potrà assicurare un futuro lavorativo di qualità, con una 
+distribuzione equa dei guadagni di produttività resi possibili dall’IA.
+OBIETTIVI:
+4.A Aumentare le competenze specialistiche in IA sia dal lato dell’offerta che della domanda. 
+4.B Aumentare le competenze digitali degli insegnanti e innovare la didattica a livello di educazione 
+primaria e secondaria. 
+4.C Riprogettare i corsi di laurea nazionali per prevedere l’inserimento di un adeguato numero di 
+crediti formativi riconducibili a temi dell’IA.
+4.D Sostenere le PMI e i lavoratori nei processi di reskilling e upskilling.
+4.E Attrarre talenti dall’estero (sia stranieri che italiani di ritorno) e frenare fenomeni di brain drain 
+attualmente molti diffusi tra i giovani specialisti/specializzandi IA. 
+4.F Favorire la partecipazione femminile, sia nei percorsi di studio che professionali nell’IA.
+INIZIATIVE:
+Scuola 
+4.1 AGGIORNAMENTO COMPETENZE PERSONALE DOCENTE E CURRICULA SCOLASTICI 
+ Piano per professionalità che possano svolgere programmi specifici di coding e approfondire 
+le competenze complementari alle macchine, privilegiando la cultura di base, la creatività, 
+l’imprenditorialità, la multidisciplinarietà. 
+4.2 CORSI DI IA NEGLI ITS 
+ Inserimento, nei curricula degli Istituti Tecnici Superiori, di corsi di IA per formare utilizzatori in 
+grado di generare e interpretare le applicazioni e risultati.
+4.3 PROMOZIONE DI UNA CHALLENGE NAZIONALE  
+ Creazione di una AI Challenge nazionale annuale, ispirata alla CyberChallenge portata avanti 
+dal laboratorio di Cyber Security del CINI, anche con il supporto del Laboratorio CINI di 
+Intelligenza artificiale e Sistemi intelligenti e con la partecipazione di startup e di imprese.
+4.4 STIMOLARE LA PARTECIPAZIONE FEMMINILE
+ Programmi di mentoring rivolti alle studentesse degli ultimi anni della scuola secondaria 
+per incoraggiarle a scegliere percorsi universitari e professionali in ambito IA. Il programma 
+dovrebbe essere nazionale, con la produzione di video e testi online e un forum aperto, ma 
+con un’attuazione locale basata sulla promozione di incontri fisici e di opportunità di scambio 
+con scienziate, a partire da quelle attive nelle università o in altri centri del territorio.
+Università
+4.4 RAFFORZARE L’OFFERTA ACCADEMICA DI IA
+ Definizione di un Piano per l’assunzione di professori universitari, in settori scientifico 
+disciplinari collegati alla progettazione dell’IA e delle sue applicazioni.
+4.5 REVISIONE CORSI DI LAUREA 
+- Riprogettazione dei corsi di laurea nazionali prevedendo l’inserimento di crediti formativi 
+riconducibili a temi propri dell’IA da erogarsi in tutto il percorso della laurea magistrale con 
+possibile inserimento di crediti formativi anche nell’ultimo anno della laurea triennale. La 
+presenza di materie riferibili all’IA è necessaria, sia pure in maniera differente, sia per i corsi 
+STEM che per quelli non STEM.
+1716
+Strategia Nazionale
+per l’Intelligenza Artificiale
+- Creazione di interi percorsi formativi (eventualmente interclasse) sull’IA condivisi e progettati 
+a livello nazionale con una forte interazione con il mondo del lavoro (aziende, enti pubblici, 
+terzo settore) per delinearne i requisiti e le competenze richieste. 
+4.6 INVESTIMENTO NEI CORSI DI DOTTORATO 
+ Definizione di una strategia di investimento sui dottorati rivolto alla formazione di figure 
+altamente competenti. In quest’ottica - e in stretta collaborazione con l’industria - si definiranno 
+meccanismi per spingere le imprese ad assumere i dottori di ricerca con un trattamento 
+economico adeguato, con un incentivo crescente all’aumentare della stabilità contrattuale. 
+4.7 CORSI ONLINE PER CITTADINI E LAVORATORI 
+ Sostegno allo sviluppo di corsi online divulgativi e professionalizzanti per la fruizione dell’intera 
+offerta formativa in discipline IA degli atenei ed enti di alta formazione italiani. Complice 
+l’emergenza Coronavirus, l’Italia ha compiuto buoni progressi nello sviluppo di piattaforme di 
+e-learning, specie a livello universitario: la disponibilità di corsi online per cittadini e lavoratori 
+può consentire l’alfabetizzazione di base e avanzata degli italiani nelle discipline IA, consentendo 
+ai lavoratori anche di ottenere crediti formativi da inserire nel proprio curriculum professionale. 
+Prevedere la possibilità, per determinate categorie di cittadini, di fruire gratuitamente delle 
+piattaforme online di e-learning per l’educazione di base all’IA, così da consentire a ciascuno di 
+essere parte integrante della trasformazione determinata dal suo utilizzo.
+Formazione
+4.8 INTRODUZIONE DEL DIRITTO ALLA FORMAZIONE CONTINUA
+ Programma per up- e reskilling dei lavoratori, con defiscalizzazione o voucher destinati a corsi 
+svolti da enti e altri soggetti in possesso di comprovate competenze in IA, tesi all’aggiornamento 
+o anche alla migrazione delle competenze acquisite, finalizzati al reinserimento in nuovi settori 
+emergenti. 
+4.9 OSSERVATORIO SUGLI IMPATTI DELL’INTELLIGENZA ARTIFICIALE SUL MERCATO DEL LAVORO 
+ L’Osservatorio – specializzato sul tema dell’intelligenza artificiale e delle sue implicazioni 
+economiche e sociali – monitorerà i trend del mercato del lavoro, attraverso un rapporto 
+annuale e pubblicazioni periodiche, contenenti raccomandazioni ai decisori.
+5. DATI 
+I dati sono il carburante delle tecnologie IA. E sono i dati ad aver ‘cambiato le carte’ in tavola. È 
+stata, infatti, la disponibilità di informazioni in formato digitale, più ancora che l’aumentata capacità 
+di calcolo, a spiegare lo sviluppo dell’IA nell’ultimo decennio. Dati strutturati e non, attività su 
+Internet, sensori che rilevano dati in qualsiasi ambiente: dalla strada all’industria. Se è qui il fulcro 
+dello sviluppo dell’IA, dobbiamo continuare a focalizzare la nostra attenzione su questo aspetto, 
+gestendolo anziché lasciare che altri lo facciano per noi.
+In questo senso l’impegno italiano è definire una policy dei dati.
+Innanzitutto, incentivando forme di aggregazione, condivisione e scambio di dati, nel rispetto della 
+privacy, a partire dai settori prioritari. Poi, come già detto, impegnando l’amministrazione pubblica a 
+un cambiamento per mettere a disposizione di chi voglia le proprie banche dati. E, infine, favorendo 
+l’interoperabilità tra standard diversi, per assicurare l’effettività dello scambio dei dati.
+La seconda priorità è aumentare la capacità del tessuto di piccole e medie imprese di utilizzare i 
+dati. È essenziale garantire che le PMI italiane siano in grado di valorizzare adeguatamente quelli in 
+proprio possesso e di poter accedere ad altre banche dati a costi non proibitivi e in autonomia sia 
+rispetto a singoli fornitori di tecnologia che alle imprese leader del proprio settore.  
+Terzo aspetto cruciale è la sicurezza dei dati. In questo senso l’attuazione della direttiva NIS è solo 
+un primo passo e la prossima sfida è l’attuazione della legge sul perimetro di sicurezza nazionale 
+cibernetica, approvata alla fine del 2019, considerata una delle più avanzate a livello continentale.
+OBIETTIVI:
+5.A Promuovere strumenti di aggregazione e condivisione dei dati tra privati e tra soggetti di 
+diversa natura.
+5.B Facilitare l’accesso ai dati da parte di PMI e startup. 
+5.C Valorizzare i dati pubblici, aumentandone la capacità di riutilizzo, in modo da sfruttarne il 
+potenziale economico e massimizzare le ricadute positive per la collettività. 
+5.D Favorire la partecipazione proattiva dell’Italia alla Strategia europea dei dati, con la creazione 
+di uno Spazio Comune Europeo dei Dati, declinato settorialmente. 
+INIZIATIVE:
+5.1 CREAZIONE PIATTAFORMA DI MERCATO DEI DATI 
+ Nascita di una piattaforma di mercato dei dati, gestita da un soggetto terzo, nella quale 
+operino società di intermediazioni dati (SID), con il compito di supportare le PMI nella raccolta, 
+annotazione, gestione e valorizzazione dei dati. In particolare le SID, che dovranno soddisfare 
+requisiti professionali e di onorabilità, opereranno e animeranno la piattaforma di scambio dei 
+dati dove avverranno transazioni certificate e trasparenti. 
+5.2 CONDIVISIONE DI DATI
+ Promozione attiva dello strumento dei Data Sharing Agreement tra gli attori delle filiere 
+strategiche dell’economia italiana per promuovere l’economia dei dati e per sensibilizzare le 
+PMI a non svendere i propri dati in modo indipendente a singoli attori privati.
+5.3 DATA TRUST PER LA SOSTENIBILITÀ
+ Promozione di progetti pilota sui temi della sostenibilità sociale e ambientale, in cui le 
+organizzazioni pubbliche e private in possesso di dati ne affidino temporaneamente la gestione 
+a enti terzi certificati per il perseguimento di un interesse pubblico.
+5.4 RIUTILIZZO DEI DATI DEI CONCESSIONARI PUBBLICI 
+ Introduzione di clausole sugli obblighi di fornitura e riutilizzo dei dati pubblici nelle gare di 
+concessione di servizi pubblici e, laddove possibile e con l’accordo dei concessionari, modifica 
+delle concessioni esistenti.  
+1918
+Strategia Nazionale
+per l’Intelligenza Artificiale
+5.5 RIUTILIZZO DEI MODELLI DI IA
+ Creazione di banche dati o repository dedicati alla condivisione di modelli di IA già addestrati 
+(inclusi i dataset, gli archivi di dati utilizzati per l’addestramento) prodotti sia nei lavori di tesi 
+di laurea, di dottorato e master, sia in progetti realizzati dalle imprese e finanziati, in tutto o in 
+parte, dallo Stato italiano.
+5.6 SPAZIO ITALIANO DEI DATI 
+ Promozione e supporto finanziario di progetti pilota di Spazio italiano dei dati, con il coinvolgimento 
+dei principali soggetti pubblici e privati detentori e utilizzatori di dati di interesse dell’ambito 
+prescelto, per meglio preparare il sistema alle sfide poste dalla Strategia europea dei dati. 
+6. RISORSE E GOVERNANCE
+Gli obiettivi della Strategia Nazionale implicano un piano di investimenti pubblici e privati destinati a 
+queste tecnologie. Non è uno sforzo che possiamo fare da soli. Come affermato nel Piano coordinato 
+UE del dicembre 2018, solo uno sforzo collettivo da parte di tutti, istituzioni europee e nazionali, 
+settore pubblico e settore privato, potrà consentire all’Europa di recuperare il divario con i Paesi più 
+avanzati. Ed in questo senso gli investimenti nell’IA sono uno dei principali pilastri dei progetti da 
+sviluppare grazie al Next Generation EU.
+Ma oltre a spendere di più, si deve spendere meglio. In maniera più coordinata con gli altri Paesi 
+e nel contesto italiano. Nella ricerca e produzione di tecnologie IA, si deve passare dalla logica dei 
+finanziamenti a pioggia a quella del supporto a progetti che, a prescindere dalla loro natura (pubblica, 
+privata o pubblico-privata), raggiungano quella massa critica richiesta per potersi affermare a 
+livello internazionale. Parallelamente, saranno supportati tutti i soggetti, in particolare le PMI, che 
+intendano adottare le tecnologie IA, non solo sostenendone l’acquisto ma anche accompagnando i 
+processi di trasformazione aziendale.
+La Strategia ha quindi bisogno di una governance coerente, che ne promuova l’attuazione e valuti 
+gli effetti, anche ai fini di correggerne la rotta qualora necessario. 
+In primo luogo, data la pervasività dell’IA, va creato un soggetto nuovo e ‘orizzontale’, capace di 
+svolgere varie funzioni. In quest’ottica va prevista una cabina di regia interministeriale sulla 
+trasformazione digitale del Paese, con al centro le tecnologie IA per migliorare il coordinamento tra 
+le diverse iniziative adottate sul tema.   
+Inoltre, data la necessità di recuperare il ritardo nel varo della Strategia IA e di impegnare quanto 
+prima le risorse del Recovery Fund, vanno stabiliti tempi di attuazione precisi, con un programma 
+articolato con un orizzonte di medio periodo nel quale raggiungere gli obiettivi enunciati. 
+Nel disegno di attuazione della Strategia, nonché nelle verifiche periodiche dei relativi risultati, 
+dovrà essere attivamente coinvolto il Parlamento e andrà promosso un dialogo permanente con le 
+diverse componenti del mondo della ricerca, della produzione e della società nel suo insieme. 
+OBIETTIVI:
+6.A Aumentare gli investimenti pubblici, in particolare nella ricerca e nell’istruzione universitaria e 
+post-universitaria. 
+6.B Incentivare l’aumento degli investimenti privati, attraverso strumenti di supporto diretto e 
+indiretto alle imprese e a forme di collaborazione con università, enti di ricerca e soggetti pubblici. 
+6.C Coordinare le attività dei Ministeri competenti e dei diversi livelli di governo. 
+6.D Promuovere l’ascolto e il dialogo con mondo della ricerca, settore privato e altri attori non governativi.
+6.E Valutare periodicamente lo stato di attuazione della strategia, in modo tale da accelerarne 
+l’implementazione e, qualora necessario, modificarne alcune misure.   
+6.F Stimolare la partecipazione attiva dell’Italia a progetti di cooperazione internazionale ed 
+europei e all’interno dei consessi nei quali si discutano strategie e norme, a partire dall’Unione 
+europea e dall’OCSE.
+INIZIATIVE:
+6.1 INCREMENTO DEGLI INVESTIMENTI PUBBLICI 
+ L’obiettivo per il quinquennio 2021-2025 è di un investimento pubblico di 2,5 miliardi di euro, 
+con fondi per interventi volti a favorire lo sviluppo delle tecnologie e delle applicazioni di IA.
+6.2 UN’ORGANIZZAZIONE AMMINISTRATIVA PER L’IA
+ Istituzione di una Cabina di Regia interministeriale per la trasformazione digitale presso la 
+Presidenza del Consiglio, incaricata della supervisione e del coordinamento dell’attuazione 
+della Strategia Nazionale e dei rapporti con l’estero, le istituzioni europee e le organizzazioni 
+internazionali. Ogni Ministero con rilevanti applicazioni legate all’IA si doterà di un nucleo 
+destinato a studiare implicazioni dell’IA sulle attività del Ministero e misure in grado di 
+contribuire all’attuazione della Strategia Nazionale.
+6.3 ISTITUTO ITALIANO PER L’INTELLIGENZA ARTIFICIALE
+ L’Istituto, dimensionato per essere competitivo a livello internazionale e diventare uno degli 
+istituti di ricerca leader in Europa, consisterà in un hub con laboratori centrali e 7 centri 
+specializzati nei settori prioritari individuati dalla Strategia che lavoreranno in connessione 
+con le università o altri istituti già attivi.
+ L’Istituto lavorerà secondo un piano strategico pluriennale con obiettivi aggiornati periodicamente 
+e una governance autonoma ma sincronizzata con le linee strategiche della governance nazionale 
+e con le università e altri centri di eccellenza già attivi anche per poter cogliere opportunità di 
+sviluppo in connessione con altri trend tecnologici (es: 5G, Industria 4.0, cybersecurity, ecc.). 
+ Contestualmente alla creazione dell’Istituto, sarà attivato il coordinamento con le strutture 
+italiane di supercalcolo già presenti o in fase di attuazione.   
+6.4 FACILITY DI VENTURE CAPITAL PER L’IA 
+ Potenziamento di forme di sostegno pubblico-privato al venture capital con l’istituzione di una 
+facility ad hoc per l’IA nell’ambito del Fondo Nazionale per l’Innovazione (FNI).  
+6.5 DIGITAL INNOVATION HUB SPECIALIZZATO 
+ Costituzione di almeno un Digital Innovation Hub pubblico-privato specializzato nell’IA e 
+con ramificazioni territoriali, anche attraverso la rete dei Competence Center e dei Digital 
+20
+Strategia Nazionale
+per l’Intelligenza Artificiale
+Innovation Hub già esistenti, garantendo che ogni Regione grande o medio-grande disponga 
+di un polo. Tra i compiti principali, dovrà fornire servizi di consulenza e formazione per le 
+imprese, con particolare riguardo alle PMI.
+6.6 FORUM PERMANENTE DI DIALOGO 
+ La creazione del Forum permanente di dialogo sull’IA (i cui componenti saranno soggetti a 
+mandato biennale) consentirà un’interlocuzione stabile dei decisori con le diverse componenti 
+della società in un luogo di riflessione permanente sugli impatti dell’IA, sulle scelte di policy 
+nel percorso di attuazione della Strategia Nazionale e sui principali dossier internazionali sui 
+quali l’Italia sarà chiamata ad esprimere una posizione. Alle riunioni del Forum potranno 
+partecipare esponenti dei Ministeri e delle Regioni nonché rappresentanti dell’Intergruppo 
+parlamentare sull’intelligenza artificiale. 
+6.7 VALUTAZIONE DELLA STRATEGIA NAZIONALE 
+ Tra le prime misure di attuazione, saranno definiti gli indicatori da utilizzare per il monitoraggio 
+e la valutazione della Strategia Nazionale, da presentare in relazioni periodiche al Parlamento.
+CONCLUSIONI
+Sono queste le principali tappe della strategia nazionale per l’IA. Strategia trasversale perché 
+riguarda imprese, scuola, università, ricerca, lavoro, pubblica amministrazione. 
+Dalla capacità delle imprese italiane di saper intercettare il cambio di paradigma tecnologico, 
+organizzativo e culturale derivante dall’IA dipenderà il sentiero di crescita del nostro Paese nei 
+prossimi anni e decenni.
+Come in tutti i passaggi fondamentali, è però cruciale l’azione delle istituzioni pubbliche 
+nell’accelerare e favorire, da un lato, il percorso di trasformazione e, dall’altro, gestirne gli effetti più 
+critici per la società nel suo complesso. 
+ 
+Non si affronta il futuro rimuovendolo, ma attrezzandosi adeguatamente per affrontarne le 
+sfide. Anche grazie alla cooperazione con i nostri partner europei e con le istituzioni comunitarie, 
+sfruttando al meglio l’opportunità che ci viene data dal Next Generation EU, non a caso centrato 
+sulla transizione digitale ed ecologica. 
+Quello dell’IA è uno dei punti di snodo essenziali dei prossimi anni e decenni. Oggi non può esserci 
+missione più importante di quella di mettere le nostre giovani generazioni nelle condizioni di 
+superarlo con successo e a testa alta rispetto ai coetanei di un mondo che sarà inevitabilmente 
+molto diverso da quello che conosciamo. 
+NOTE/APPUNTI
+Nota finale
+Il presente documento è basato sul lavoro del gruppo di esperti individuato dal Ministero dello Sviluppo Economico e chiamato 
+a formulare delle raccomandazioni per rendere il nostro Paese più competitivo in materia di IA. Il rapporto, “Proposte per una 
+strategia italiana per l‘intelligenza artificiale”, posto in consultazione pubblica tra l’agosto e il settembre del 2019 e pubblicato 
+nella sua versione finale il 2 luglio 2020, ha fornito un essenziale retroterra per la definizione della Strategia del Governo.
+
+MISE.GOV.IT
+https://www.mise.gov.it/index.php/it/198-notizie-stampa/2041246-intelligenza-artificiale-online-la-strategia
+Agenzia Nazionale per l’attrazione degli 
+Investimenti e lo Sviluppo d’Impresa S.p.A.
+Via Calabria, 46
+00187 Roma
+848 886 886
+info@invitalia.it
+www.invitalia.it
