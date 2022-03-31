@@ -7,3 +7,7 @@
   - See list of documents here: https://docs.google.com/spreadsheets/d/1e6nCWAKRSAo3cq4O-3WUKtFp5AR7up_cr8hY2jI12Zg/edit?usp=sharing 
 - Run `./pdf-to-txt.sh`
 - Text files should be populated in `data/nat-ai/text`
+
+## Visualization
+
+- Try https://github.com/bact/policy-topic-model/blob/main/notebooks/topic-vis.ipynb
