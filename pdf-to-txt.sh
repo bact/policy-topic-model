@@ -7,7 +7,7 @@ INPUT_LIST=filenames.csv
 INPUT_DIR=data/nat-ai/orig
 OUTPUT_DIR=data/nat-ai/text
 
-echo "Converting PDF to text"
+echo "Extract text from PDF files"
 echo "Input list (CSV): $INPUT_LIST"
 echo "Input directory:  $INPUT_DIR"
 echo "Output directory: $OUTPUT_DIR"
@@ -23,4 +23,5 @@ do
         java -jar lib/pdfbox-app-3.jar export:text --input=$INPUT_DIR/$Filename --output=$OUTPUT_DIR/$OUTPUT
     fi
 done < $INPUT_LIST
+
 IFS=$OLDIFS
