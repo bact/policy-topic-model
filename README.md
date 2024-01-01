@@ -1,5 +1,7 @@
 # Policy Topic Model
 
+My work during an internship at [UCD Centre for Digital Policy](https://digitalpolicy.ie/) in 2022.
+
 ## Pre-processing
 
 - Download the policy documents from the shared Google Drive, put them in `data/nat-ai/orig`
