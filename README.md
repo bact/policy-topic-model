@@ -1,4 +1,4 @@
-# Policy Topic Model
+# AI Policy Topic Model
 
 My work during an internship at [UCD Centre for Digital Policy](https://digitalpolicy.ie/) in 2022.
 
