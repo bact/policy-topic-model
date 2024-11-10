@@ -22,4 +22,4 @@ My work during an internship at [UCD Centre for Digital Policy](https://digitalp
 - Apache PDFBox 3 is required for text extraction from PDF.
   - Download from https://pdfbox.apache.org/download.html 
   - Rename the jar file to `pdfbox-app-3.jar` and put it inside `lib/` directory
-  - Licensed under the Apache License, Version 2.0
+  - Apache PDFBox 3 is licensed under the Apache License, Version 2.0
